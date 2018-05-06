@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Vergil</author>
+	<title>Aeneis VIII</title>
+	<snippet>Einleitung, Verse 1-101</snippet>
+	<translator>Rainer Lohmann</translator>
+	<textkind>poetry</textkind>
+	<firstnumber>1</firstnumber>
+	<navigation>
+		<previous url="intro.html">Aeneis VIII Einführung</previous>
+		<next url="euander_1.xml">Erste Euander-Szene, Verse 102-369</next>
+	</navigation>
+</description>
+<text>
+
+	<section from="1" to="17">
+		<german>
+			Sobald Turnus das Zeichen zum Krieg auf der Burg von Laurentum aufgepflanzt hatte und als die Trompeten in ihrem dumpfen Klang ertönten, sobald er die feurigen Pferde in Schrecken versetzt und die Waffen hatte erklirren lassen, gerieten sie sofort in Unruhe, zugleich leistete ganz Latium in besorgter Aufregung den Fahneneid und es tobte die wilde Jugend. Als erste zogen die Anführer Messapus, Ufens und Mezentius, ein Verächter der Götter, von allen Seiten Truppen zusammen und beraubten die Felder weithin der Bauern. Und Venulus wurde zur Stadt des großen Diomedes geschickt, um Hilfe zu erbitten und um kundzutun, die Troer siedelten sich in Latium an, Aeneas sei mit der Flotte gelandet, er bringe die besiegten Penaten mit sich und sage, er werde durch das Schicksal als König gefordert, viele Völker schlössen sich dem trojanischen Mann an und sein Name verbreite sich weithin in Latium: Was er mit diesen Unternehmungen bezwecke, welchen Ausgang des Kampfes er wünsche, falls das Glück ihm folge, zeige sich ihm deutlicher als König Turnus oder König Latinus.
+		</german>
+		<latin>
+			Vt belli signum Laurenti Turnus ab arce<br/>
+			extulit et rauco strepuerunt cornua cantu,<br/>
+			utque acris concussit equos utque impulit arma,<br/>
+			extemplo turbati animi, simul omne tumultu<br/>
+			coniurat trepido Latium saeuitque iuuentus<br/>
+			effera. ductores primi Messapus et Vfens<br/>
+			contemptorque deum Mezentius undique cogunt<br/>
+			auxilia et latos uastant cultoribus agros.<br/>
+			mittitur et magni Venulus Diomedis ad urbem<br/>
+			qui petat auxilium, et Latio consistere Teucros,<br/>
+			aduectum Aenean classi uictosque penatis<br/>
+			inferre et fatis regem se dicere posci<br/>
+			edoceat, multasque uiro se adiungere gentis<br/>
+			Dardanio et late Latio increbrescere nomen:<br/>
+			quid struat his coeptis, quem, si fortuna sequatur,<br/>
+			euentum pugnae cupiat, manifestius ipsi<br/>
+			quam Turno regi aut regi apparere Latino.
+		</latin>
+	</section>
+	<section from="18" to="65">
+		<german>
+			Solches geschah in Latium. Als der trojanische Held all dieses sah, wallte er ob der großen Unruhe infolge seiner Sorgen leidenschaftlich auf, ließ seine Gedanken schnell bald hierhin, bald dorthin schweifen, lenkte sie rasch in verschiedene Richtungen und überlegte hin und her, wie wenn das zitternde Licht des Wassers aus ehernen Becken durch die Sonne oder durch das strahlende Licht des Mondes zurückgeworfen alle Räume weithin durcheilt, sogleich nach oben aufsteigt und auf die getäfelten Zimmerdecken trifft. Nacht war es und in allen Ländern hatte die ermüdeten Lebewesen, die Gesamtheit von Vögeln und Vieh, tiefer Schlaf ergriffen, als Vater Aeneas, den Sinn getrübt durch den unheilvollen Krieg, am Ufer und unter kühlem Himmel niedersank und späten Schlaf über seine Glieder kommen ließ. Diesem schien sich der hochbetagte Gott Tiberinus selbst am anmutigen Fluss der Gegend inmitten von Pappellaub zu erheben (ihn verhüllte feines Linnen mit einem blaugrünen Gewand, und Schatten spendendes Schilf bedeckte seine Haare), dann sprach er Aeneas auf diese Weise an und nahm ihm mit folgenden Worten seine Sorgen:
+			"Du Sohn aus dem Geschlecht der Götter, der du uns die trojanische Stadt von den Feinden zurückbringst und Pergama auf ewig erhältst, der du erwartet worden bist auf dem Boden von Laurentum und auf latinischem Land, hier hast du eine sichere Heimat, zuverlässige (lass nicht nach) Penaten. Und von den Drohungen des Krieges lass dich nicht in Schrecken versetzen; all die Erregung und Zornesausbrüche der Götter sind geschwunden. Damit du nicht glaubst, ein Traum spiele dir dieses vor, wirst du bald unter Steineichen am Ufer eine gewaltige Sau liegen sehen, die einen Wurf von dreißig Ferkeln zur Welt gebracht hat, weiß auf dem Boden ruhend, ihre weißen Kinder um ihre Euter herum. [Dies wird der Ort für die Stadt sein, dies das sichere Ende der Strapazen.] Gemäß diesem Vorgehen wird Ascanius, wenn dreißig Jahre ihren Kreislauf vollenden, eine Stadt mit einem berühmten Namen gründen, Alba. Gewissheiten verkünde ich. Nun werde ich mit wenigen Worten (gib acht) kundtun, auf welche Weise du erfolgreich erledigst, was vor dir liegt. Die Arkader, ein von Pallas abstammendes Geschlecht, die als Begleiter ihrem König Euander, die seinen Befehlen gefolgt waren, wählten an diesen Küsten einen Ort aus und gründeten auf den Bergen die Stadt Pallanteum, die nach ihrem Ahnherrn Pallas benannt ist. Diese führen beständig Krieg gegen das latinische Volk; diese ziehe dem Lager als Bundesgenossen heran und schließe Verträge. Ich selbst werde dich in meinem Bett und in gerader Richtung flussaufwärts führen, damit du hinaufrudernd die Gegenströmung überwindest. Wohlan, erhebe dich, du Sohn einer Göttin, und wenn die ersten Sterne untergehen, bringe Juno nach rechtem Brauch ein Gebet dar, und ihren Zorn und ihre Drohungen besänftige durch fromme Gelübde. Siegreich wirst du mir Ehre erweisen. Ich, der, wie du siehst, mit vollem Fluss die Ufer berührt und die fruchtbaren Felder durchläuft, bin der blaue Tiber, der dem Himmel willkommenste Fluss. Hier ist mein großes Haus, aus hochliegenden Städten entspringt meine Quelle."
+		</german>
+		<latin>
+			Talia per Latium. quae Laomedontius heros<br/>
+			cuncta uidens magno curarum fluctuat aestu,<br/>
+			atque animum nunc huc celerem nunc diuidit illuc<br/>
+			in partisque rapit uarias perque omnia uersat,<br/>
+			sicut aquae tremulum labris ubi lumen aenis<br/>
+			sole repercussum aut radiantis imagine lunae<br/>
+			omnia peruolitat late loca, iamque sub auras<br/>
+			erigitur summique ferit laquearia tecti.<br/>
+			nox erat et terras animalia fessa per omnis<br/>
+			alituum pecudumque genus sopor altus habebat,<br/>
+			cum pater in ripa gelidique sub aetheris axe<br/>
+			Aeneas, tristi turbatus pectora bello,<br/>
+			procubuit seramque dedit per membra quietem.<br/>
+			huic deus ipse loci fluuio Tiberinus amoeno<br/>
+			populeas inter senior se attollere frondes<br/>
+			uisus (eum tenuis glauco uelabat amictu<br/>
+			carbasus, et crinis umbrosa tegebat harundo),<br/>
+			tum sic adfari et curas his demere dictis:<br/>
+			'O sate gente deum, Troianam ex hostibus urbem<br/>
+			qui reuehis nobis aeternaque Pergama seruas,<br/>
+			exspectate solo Laurenti aruisque Latinis,<br/>
+			hic tibi certa domus, certi (ne absiste) penates.<br/>
+			neu belli terrere minis; tumor omnis et irae<br/>
+			concessere deum.<br/>
+			iamque tibi, ne uana putes haec fingere somnum,<br/>
+			litoreis ingens inuenta sub ilicibus sus<br/>
+			triginta capitum fetus enixa iacebit,<br/>
+			alba solo recubans, albi circum ubera nati.<br/>
+			[hic locus urbis erit, requies ea certa laborum,]<br/>
+			ex quo ter denis urbem redeuntibus annis<br/>
+			Ascanius clari condet cognominis Albam.<br/>
+			haud incerta cano. nunc qua ratione quod instat<br/>
+			expedias uictor, paucis (aduerte) docebo.<br/>
+			Arcades his oris, genus a Pallante profectum,<br/>
+			qui regem Euandrum comites, qui signa secuti,<br/>
+			delegere locum et posuere in montibus urbem<br/>
+			Pallantis proaui de nomine Pallanteum.<br/>
+			hi bellum adsidue ducunt cum gente Latina;<br/>
+			hos castris adhibe socios et foedera iunge.<br/>
+			ipse ego te ripis et recto flumine ducam,<br/>
+			aduersum remis superes subuectus ut amnem.<br/>
+			surge age, nate dea, primisque cadentibus astris<br/>
+			Iunoni fer rite preces, iramque minasque<br/>
+			supplicibus supera uotis. mihi uictor honorem<br/>
+			persolues. ego sum pleno quem flumine cernis<br/>
+			stringentem ripas et pinguia culta secantem,<br/>
+			caeruleus Thybris, caelo gratissimus amnis.<br/>
+			hic mihi magna domus, celsis caput urbibus exit.'
+		</latin>
+	</section>
+	
+	<section from="66" to="101">
+		<german>
+			So sprach er, dann tauchte der Flussgott hinab und verbarg sich im tiefen See; die Nacht und der Schlaf verließen Aeneas. Er erhob sich, betrachtete das aufgehende Licht der himmlischen Sonne, schöpfte nach rechtem Brauch mit seinen hohlen Händen das Wasser aus dem Fluss und gab folgende Worte in den Äther von sich: „Ihr Nymphen, ihr Nymphen von Laurentum, bei denen der Ursprung der Flüsse liegt, und du, Vater Thybris mit deinem heiligen Fluss, nehmt Aeneas auf und schützt ihn schließlich vor Gefahren. Wo auch immer dein Quellbecken ist und dich aus Erbarmen unser Ungemach beschäftigt, aus welchem Boden auch immer du als Schönster entspringst, stets wird man dich mit einer Ehrung von mir, stets wird man dich mit Gaben als gehörnten Fluss preisen, der über die italischen Wasser gebietet. Mögest du nur mit mir sein und durch deine Gegenwart deinen göttlichen Willen bekräftigen.“ So sprach er, zwei Zweiruderer wählte er aus der Flotte aus und machte sie klar zum Rudern, zugleich stattete er seine Kameraden mit Waffen aus.
+			Aber siehe da, ein plötzliches und für die Augen erstaunliches Wunderzeichen, eine weiße Sau, gleichfarbig mit ihren weißen Jungen, legte sich im Wald nieder und wurde am grünen Gestade erblickt; in der Tat schlachtete der fromme Aeneas diese für dich, für dich, erhabenste Juno, und brachte seine Opfer dar, und mit der Herde stellte er sich an den Altar. Der Flussgott Tiber besänftigte den diese ganze Nacht lang angeschwollenen Strom, und mit stiller Woge zurückfließend hielt er inne, so dass er nach der Art eines stillen Gewässers und eines ruhigen Sumpfes eine Fläche für seine Wasser hinbreitete und so den Rudern Anstrengung erspart blieb. Also beschleunigten sie den begonnenen Weg unter lautem Beifall: Das geteerte Schiff glitt über das Wasser dahin; es wunderten sich die Wogen, und es wunderte sich der Wald, der nicht an die weithin glänzenden Schilde der Männer gewohnt war und daran, dass gestrichene Schiffe auf dem Fluss schwammen. Jene ruderten unablässig Tag und Nacht und überwanden die langen Biegungen, von verschiedenen Bäumen wurden sie überdacht und auf einer ruhigen Wasserfläche durchschnitten sie die grünen Wälder. Die feurige Sonne hatte die Mitte des Himmelkreises erstiegen, als sie von weitem die Mauern, die Burg und verstreute Häuser sahen, die nun die römische Macht bis in den Himmel erhoben hat, damals hatte Euander dürftige Verhältnisse. Gar schnell steuerten sie die Schiffe und näherten sich der Stadt.
+		</german>
+		<latin>
+			Dixit, deinde lacu fluuius se condidit alto<br/>
+			ima petens; nox Aenean somnusque reliquit.<br/>
+			surgit et aetherii spectans orientia solis<br/>
+			lumina rite cauis undam de flumine palmis<br/>
+			sustinet ac talis effundit ad aethera uoces:<br/>
+			'Nymphae, Laurentes Nymphae, genus amnibus unde est,<br/>
+			tuque, o Thybri tuo genitor cum flumine sancto,<br/>
+			accipite Aenean et tandem arcete periclis.<br/>
+			quo te cumque lacus miserantem incommoda nostra<br/>
+			fonte tenent, quocumque solo pulcherrimus exis,<br/>
+			semper honore meo, semper celebrabere donis<br/>
+			corniger Hesperidum fluuius regnator aquarum.<br/>
+			adsis o tantum et propius tua numina firmes.'<br/>
+			sic memorat, geminasque legit de classe biremis<br/>
+			remigioque aptat, socios simul instruit armis.<br/>
+			Ecce autem subitum atque oculis mirabile monstrum,<br/>
+			candida per siluam cum fetu concolor albo<br/>
+			procubuit uiridique in litore conspicitur sus;<br/>
+			quam pius Aeneas tibi enim, tibi, maxima Iuno,<br/>
+			mactat sacra ferens et cum grege sistit ad aram.<br/>
+			Thybris ea fluuium, quam longa est, nocte tumentem<br/>
+			leniit, et tacita refluens ita substitit unda,<br/>
+			mitis ut in morem stagni placidaeque paludis<br/>
+			sterneret aequor aquis, remo ut luctamen abesset.<br/>
+			ergo iter inceptum celerant rumore secundo:<br/>
+			labitur uncta uadis abies; mirantur et undae,<br/>
+			miratur nemus insuetum fulgentia longe<br/>
+			scuta uirum fluuio pictasque innare carinas.<br/>
+			olli remigio noctemque diemque fatigant<br/>
+			et longos superant flexus, uariisque teguntur<br/>
+			arboribus, uiridisque secant placido aequore siluas.<br/>
+			sol medium caeli conscenderat igneus orbem<br/>
+			cum muros arcemque procul ac rara domorum<br/>
+			tecta uident, quae nunc Romana potentia caelo<br/>
+			aequauit, tum res inopes Euandrus habebat.<br/>
+			ocius aduertunt proras urbique propinquant.
+		</latin>
+	</section>
+
+</text>
+</translation>

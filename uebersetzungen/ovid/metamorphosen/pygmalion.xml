@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Ovid</author>
+	<title>Metamorphoses</title>
+	<snippet>Pygmalion</snippet>
+	<translator>Nicole Ortner</translator>
+	<textkind>poetry</textkind>
+	<firstnumber>243</firstnumber>
+	<navigation>
+		<previous url="intro.html">Metamorphoses Einführung</previous>
+		<previous url="orpheus.xml">Orpheus und Eurydice</previous>
+	</navigation>
+</description>
+<text>
+
+	<section from="243" to="297">
+		<german>
+			 Weil Pygmalion gesehen hatte, dass sie ihre Lebenszeit durch Verbrechen verbrachten und weil er erzürnt war über die Fehler (= Laster), die die Natur dem weiblichen Geist reichlich gegeben hat, lebte er ohne Ehefrau ledig und entbehrte lange einer Gefährtin des Ehebetts. Inzwischen meißelte er weißes Elfenbein mit wunderbarer Kunst glücklich und gab ihm eine Form, mit der keine Frau geboren werden kann und verliebte sich in sein Werk.
+			<para no="250"/> Ihr Antlitz ist das von einer wirklichen Jungfrau, du könntest glauben, sie lebe, wolle sich bewegen, wenn die Ehrfurcht nicht im Wege stünde (= es nicht verbieten würde): Die Kunst bleibt so sehr verborgen durch ihre Kunst. Pygmalion bewundert sie und entbrennt mit dem Herzen in Liebe zu dem vorgetäuschten Körper. Oft legt er seine Hände (berührend) auf sein Werk, die versuchen, ob jenes ein Körper sei oder ob es Elfenbein sei, er bildet sich ein, dass es nicht mehr Elfenbein ist. Er gibt ihr Küsse, glaubt, dass sie zurückgegeben werden, spricht mit ihr, hält sie und er glaubt, dass sich seine Finger eindrücken auf die berührten Glieder und er fürchtet, dass ein blauer Fleck vom Drücken in die Glieder kommt, und bald versucht er es mit Schmeicheleien, bald bringt er jener Geschenke, die den Mädchen angenehm sind, <para no="260"/> Perlen, geschliffene Steine und kleine Vögel und tausendfarbige Blumen und Lilien und bunte Bälle und von den Bäumen herabgeglittene Tränen der Heladentöchter. Er schmückt auch mit Gewand die Glieder, gibt ihren Fingern Ringe und lange Ketten um den Hals. Leichte Perlen hängen von den Ohren und Kettchen auf der Brust: Alles steht ihr gut - doch nackt scheint sie nicht weniger schön zu sein. Er legt sie auf die purpurn gefärbten Decken und nennt sie seine Bettgenossin und stützt ihren Hals mit weichen Polstern als ob er es fühlen könnte und legt ihn sanft wieder hin.
+			<para no="270"/> Das Fest der Venus, das das meist besuchte war auf ganz Zypern, war gekommen und die jungen Kühe mit den gekrümmten vergoldeten Hörnern waren niedergestürzt, nachdem sie in den weißen Nacken getroffen worden waren, und Weihrauch rauchte, als Pygmalion nach Verrichtung der Opfers sich vor dem Altar aufstellte und weil er aus Angst nicht zusagen wagte: "Falls ihr, Götter, alles geben könnt, wünsche ich, dass meine Frau das Mädchen aus Elfenbein sei.", sagte er (nur): Meine Frau sei ähnlich der Jungfrau aus Elfenbein. Weil Venus, die Goldene, selbst bei ihrem Fest anwesend war, war sie sich bewusst, was jener Wunsch bedeutete, und - ein Zeichen der wohl gesinnten Gottheit - die Flammen loderte dreimal auf und stieg durch die Luft spitz empor.
+			<para no="280"/> Sobald er zurückkam, eilt jener (sogleich) zur Statue von seinem Mädchen und sich auf das Bett werfend gab er ihr Küsse - sie schien warm zu sein! Wiederum (= ein zweites Mal) bewegt er den Mund hin, auch mit seinen Händen befühlt er die Brüste - Es wird das berührte Elfenbein weich, (und) verliert seine Härte, (und) es gibt seinen Fingern nach und weicht, wie das Wachs vom Hymettusgebirge durch die Sonne weicht, und vom Daumen geknetet sich in viele Formen biegt und brauchbar wird durch den Gebrauch selbst. Während er erstarrt (vor Staunen) und sich unsicher freut und sich fürchtet, dass er sich täuscht, berührt der Liebende immer und immer wieder mit seiner Hand den Gegenstand des Wunsches. Ein Körper war es, die durch den Daumen berührten Adern pochen. <para no="290"/> Dann aber findet Pygmalion die innigsten Worte, mit denen er Venus dankt, und schließlich drückt er (mit) seinem Mund auf den Mund, der nicht falsch ist, und die Jungfrau spürte die ihr gegebenen Küsse und errötete und erhob ängstlich ihre Augen zu den Augen (von Pygmalion) und sie sah zugleich mit dem Himmel den Liebenden. Die Göttin ist bei der Ehe, die sie geschlossen hat, anwesend und nachdem sich schon neun mal die Mondsichel zur vollen Scheibe geschlossen hatte, gebar jene Paphos, nach der die Insel ihren Namen erhielt.
+		</german>
+		<latin>
+			Quas quia Pygmalion aevum per crimen agentis<br/>
+			viderat, offensus vitiis, quae plurima menti<br/>
+			femineae natura dedit, sine coniuge caelebs<br/>
+			vivebat thalamique diu consorte carebat.<br/>
+			interea niveum mira feliciter arte<br/>
+			sculpsit ebur formamque dedit, qua femina nasci<br/>
+			nulla potest, operisque sui concepit amorem.<br/>
+			virginis est verae facies, quam vivere credas,<br/>
+			et, si non obstet reverentia, velle moveri:<br/>
+			ars adeo latet arte sua. miratur et haurit<br/>
+			pectore Pygmalion simulati corporis ignes.<br/>
+			saepe manus operi temptantes admovet, an sit<br/>
+			corpus an illud ebur, nec adhuc ebur esse fatetur.<br/>
+			oscula dat reddique putat loquiturque tenetque<br/>
+			et credit tactis digitos insidere membris<br/>
+			et metuit, pressos veniat ne livor in artus,<br/>
+			et modo blanditias adhibet, modo grata puellis<br/>
+			munera fert illi conchas teretesque lapillos<br/>
+			et parvas volucres et flores mille colorum<br/>
+			liliaque pictasque pilas et ab arbore lapsas<br/>
+			Heliadum lacrimas; ornat quoque vestibus artus,<br/>
+			dat digitis gemmas, dat longa monilia collo,<br/>
+			aure leves bacae, redimicula pectore pendent:<br/>
+			cuncta decent; nec nuda minus formosa videtur.<br/>
+			conlocat hanc stratis concha Sidonide tinctis<br/>
+			adpellatque tori sociam adclinataque colla<br/>
+			mollibus in plumis, tamquam sensura, reponit.<br/>
+			Festa dies Veneris tota celeberrima Cypro<br/>
+			venerat, et pandis inductae cornibus aurum<br/>
+			conciderant ictae nivea cervice iuvencae,<br/>
+			turaque fumabant, cum munere functus ad aras<br/>
+			constitit et timide "si, di, dare cuncta potestis,<br/>
+			sit coniunx, opto," non ausus "eburnea virgo"<br/>
+			dicere, Pygmalion "similis mea" dixit "eburnae."<br/>
+			sensit, ut ipsa suis aderat Venus aurea festis,<br/>
+			vota quid illa velint et, amici numinis omen,<br/>
+			flamma ter accensa est apicemque per aera duxit.<br/>
+			ut rediit, simulacra suae petit ille puellae<br/>
+			incumbensque toro dedit oscula: visa tepere est;<br/>
+			admovet os iterum, manibus quoque pectora temptat:<br/>
+			temptatum mollescit ebur positoque rigore<br/>
+			subsidit digitis ceditque, ut Hymettia sole<br/>
+			cera remollescit tractataque pollice multas<br/>
+			flectitur in facies ipsoque fit utilis usu.<br/>
+			dum stupet et dubie gaudet fallique veretur,<br/>
+			rursus amans rursusque manu sua vota retractat.<br/>
+			corpus erat! saliunt temptatae pollice venae.<br/>
+			tum vero Paphius plenissima concipit heros<br/>
+			verba, quibus Veneri grates agat, oraque tandem<br/>
+			ore suo non falsa premit, dataque oscula virgo<br/>
+			sensit et erubuit timidumque ad lumina lumen<br/>
+			attollens pariter cum caelo vidit amantem.<br/>
+			coniugio, quod fecit, adest dea, iamque coactis<br/>
+			cornibus in plenum noviens lunaribus orbem<br/>
+			illa Paphon genuit, de qua tenet insula nomen.
+		</latin>
+	</section>
+</text>
+</translation>

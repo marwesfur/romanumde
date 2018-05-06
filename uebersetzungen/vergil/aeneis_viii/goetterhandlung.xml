@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Vergil</author>
+	<title>Aeneis VIII</title>
+	<snippet>Götterhandlung, Verse 370-453</snippet>
+	<translator>Rainer Lohmann</translator>
+	<textkind>poetry</textkind>
+	<firstnumber>370</firstnumber>
+	<navigation>
+		<previous url="intro.html">Aeneis VIII Einführung</previous>
+		<previous url="euander_1.xml">Erste Euander-Szene, Verse 102-369</previous>
+		<next url="euander_2.xml">Zweite Euander-Szene, Verse 454-607</next>
+	</navigation>
+</description>
+<text>
+
+	<section from="370" to="406">
+		<german>
+			Aber Mutter Venus, nicht ohne Erfolg aufgeschreckt und durch die Drohungen der Laurentiner und den schlimmen Tumult aufgewühlt, sprach Vulcanus an, in dem goldenen Schlafgemach ihres Gatten begann sie Folgendes zu reden und flößte ihren Worten göttliche Liebe ein: "Solange argivische Könige das dem Untergang geweihte Troja durch Krieg verwüsteten und die Burg, die durch das feindliche Feuer fallen sollte, bat ich nicht um irgendeine Hilfe für die Elenden, nicht um Waffen, die deinem Geschick und Vermögen entsprechen, und nicht wollte ich dich, mein liebster Gatte, und deine Mühen vergeblich in Anspruch nehmen, obwohl ich den Söhnen des Priamos sehr viel schuldete und oft Aeneas' harte Arbeit beweint hatte. Jetzt hat er sich auf Jupiters Befehl in den Küstengegenden der Rutuler niedergelassen: Und so komme ich dennoch flehend und bitte deine göttliche Macht, die mir heilig ist, um Waffen, als Mutter für meinen Sohn. Dich konnte die Tochter des Nereus, dich die Gattin des Tithonus durch Tränen umstimmen. Siehe, welche Völker zusammenstoßen, welche Städte, nachdem sie ihre Tore geschlossen, das Eisen gegen mich schärfen und zur Vernichtung der Meinen." So hatte sie gesprochen und mit ihren schneeweißen Armen umschlang die Göttin von beiden Seiten zärtlich den Zaudernden. Jener nahm plötzlich das gewohnte Feuer auf, die bekannte Glut drang in sein Inneres und verbreitete sich in seinen geschwächten Gebeinen, nicht anders als wenn bisweilen durch Donnerrollen in Stücke zerrissen ein feuriger Lichtstrahl funkelnd vor strahlendem Licht die Wolken durchläuft; seine Gattin fühlte sich glücklich und war sich des Erfolges ihrer List und der Wirkung ihrer Schönheit bewusst. Dann sprach der Vater, besiegt von ewiger Liebe: "Was suchst du in der Ferne nach Gründen? Wohin ist dein Vertrauen zu mir, Göttin, gewichen? Wenn deine Sorge ähnlich gewesen wäre, wäre es uns auch damals erlaubt gewesen, die Trojaner zu bewaffnen; weder der allmächtige Vater noch das Schicksal verboten es, dass für weitere zehn Jahre Troja Bestand hatte und Priamus am Leben blieb. Und jetzt, wenn du vorhast Krieg zu führen und dies dein Wille ist: welche Hilfe auch immer ich dir mit meiner Handwerkskunst versprechen kann, was auch immer mit Eisen oder flüssigem Silbergold gemacht werden kann, wie viel Feuer und Winde vermögen, lass ab davon, durch deine Bitten an deiner Macht über mich zu zweifeln." Nachdem er diese Worte gesprochen hatte, umarmte er seine Gattin wie ersehnt und auf ihren Schoß fallend ließ er friedlichen Schlaf über seine Glieder kommen.
+		</german>
+		<latin>
+			At Venus haud animo nequiquam exterrita mater<br/>
+			Laurentumque minis et duro mota tumultu<br/>
+			Volcanum adloquitur, thalamoque haec coniugis aureo<br/>
+			incipit et dictis diuinum aspirat amorem:<br/>
+			'dum bello Argolici uastabant Pergama reges<br/>
+			debita casurasque inimicis ignibus arces,<br/>
+			non ullum auxilium miseris, non arma rogaui<br/>
+			artis opisque tuae, nec te, carissime coniunx,<br/>
+			incassumue tuos uolui exercere labores,<br/>
+			quamuis et Priami deberem plurima natis,<br/>
+			et durum Aeneae fleuissem saepe laborem.<br/>
+			nunc Iouis imperiis Rutulorum constitit oris:<br/>
+			ergo eadem supplex uenio et sanctum mihi numen<br/>
+			arma rogo, genetrix nato. te filia Nerei,<br/>
+			te potuit lacrimis Tithonia flectere coniunx.<br/>
+			aspice qui coeant populi, quae moenia clausis<br/>
+			ferrum acuant portis in me excidiumque meorum.'<br/>
+			dixerat et niueis hinc atque hinc diua lacertis<br/>
+			cunctantem amplexu molli fouet. ille repente<br/>
+			accepit solitam flammam, notusque medullas<br/>
+			intrauit calor et labefacta per ossa cucurrit,<br/>
+			non secus atque olim tonitru cum rupta corusco<br/>
+			ignea rima micans percurrit lumine nimbos;<br/>
+			sensit laeta dolis et formae conscia coniunx.<br/>
+			tum pater aeterno fatur deuinctus amore:<br/>
+			'quid causas petis ex alto? fiducia cessit<br/>
+			quo tibi, diua, mei? similis si cura fuisset,<br/>
+			tum quoque fas nobis Teucros armare fuisset;<br/>
+			nec pater omnipotens Troiam nec fata uetabant<br/>
+			stare decemque alios Priamum superesse per annos.<br/>
+			et nunc, si bellare paras atque haec tibi mens est,<br/>
+			quidquid in arte mea possum promittere curae,<br/>
+			quod fieri ferro liquidoue potest electro,<br/>
+			quantum ignes animaeque ualent, absiste precando<br/>
+			uiribus indubitare tuis.' ea uerba locutus<br/>
+			optatos dedit amplexus placidumque petiuit<br/>
+			coniugis infusus gremio per membra soporem.
+		</latin>
+	</section>
+	
+	<section from="407" to="453">
+		<german>
+			Als dann die erste Ruhe mitten auf der Kreisbahn der schon scheidenden Nacht den Schlaf vertrieben hatte, sobald eine Frau, deren Aufgabe es ist, das Leben mit dem Spinnrocken und dürftiger Wollarbeit zu fristen, die Asche und das darunter glimmende Feuer anfacht, indem sie auch die Nacht zum Arbeiten benutzt, und die Dienerinnen bei Licht mit einer langen Wollarbeit beschäftigt, um das keusche Lager ihres Gemahls zu bewahren und ihre kleinen Kinder großzuziehen: nicht anders erhob sich der Beherrscher des Feuers zu jenem Zeitpunkt noch eifriger zu seinen Schmiedearbeiten von seinem weichen Lager. An der Seite Siziliens und nahe bei dem äolischen Lipari erhebt sich mit rauchenden, schroffen Felsen eine Insel, unter der eine Höhle und die für die Schmelzöfen ausgehöhlten Nischen des Ätnas und der Zyklopen ertönen, kräftige Schläge auf den Ambossen vernommen werden und dröhnende Geräusche widerhallen lassen, in den Höhlen die glühenden Eisenmassen der Chalyben zischen und in den Essen das Feuer keucht – Haus des Vulcanus und Land des Vulcanus mit Namen. Hierher stieg dann der Beherrscher des Feuers vom hohen Himmel herab. Eisen bearbeiteten in einer großen Höhle die Zyklopen: Brontes, Steropes und Pyragmon mit unbekleideten Gliedern. Sie hatten einen von ihren Händen geformten Blitz, der teils schon geglättet war, einen von vielen, die der Göttervater vom ganzen Himmel herab auf die Erde wirft, teils blieb er unvollendet. Drei Strahlen herabgeschleuderten Regens, drei Strahlen einer Regenwolke, drei Strahlen rötlichen Feuers und drei schnellen Windes hatten sie hinzugegeben. Schrecken erregenden Glanz, Getöse und Furcht mischten sie dem Werk bei und Zorn den züngelnden Flammen. Zu einem anderen Teil betrieben sie eifrig für Mars den Bau eines Wagens und schneller Räder, mit denen jener Männer, mit denen er Städte aufschreckt; die schreckliche Ägis, die Waffen der erzürnten Pallas, polierten sie wetteifernd mit goldenen Schlangenschuppen, verflochtene Schlangen und auf der Brust der Göttin Medusa selbst, wie sie, nachdem ihr der Hals abgeschnitten, die Augen rollt. "Beendet alles", sagte er, "und schafft die Arbeiten, die ihr angefangen habt, fort, Zyklopen des Ätna, und hierauf richtet eure Aufmerksamkeit: Waffen müssen für einen tatkräftigen Mann hergestellt werden. Jetzt braucht man eure Kräfte, jetzt eure schnellen Hände, jetzt die Hilfe eurer ganzen Geschicklichkeit. Beseitigt die Hemmnisse." Mehr hatte er nicht gesagt, aber jene verlegten sich alle schnell auf die Arbeit und verteilten sie gerecht. Das Erz floss in Strömen und das Metall des Goldes und der verwundende Stahl schmolzen in der riesigen Esse. Einen gewaltigen Schild formten sie, einen einzigen gegen alle Waffen der Latiner, und sieben Lagen von Erz fügten sie fest aufeinander. Die einen fingen Luft in Blasebälgen auf und gaben sie wieder ab, andere benetzten das zischende Erz im Löschtrog; unter dem Gewicht der Ambosse ächzte die Höhle; jene erhoben untereinander mit viel Kraft ihre Arme im Takt, und sie wendeten mit haltfähiger Zange die glühende Eisenmasse. 
+		</german>
+		<latin>
+			Inde ubi prima quies medio iam noctis abactae<br/>
+			curriculo expulerat somnum, cum femina primum,<br/>
+			cui tolerare colo uitam tenuique Minerua<br/>
+			impositum, cinerem et sopitos suscitat ignis<br/>
+			noctem addens operi, famulasque ad lumina longo<br/>
+			exercet penso, castum ut seruare cubile<br/>
+			coniugis et possit paruos educere natos:<br/>
+			haud secus ignipotens nec tempore segnior illo<br/>
+			mollibus e stratis opera ad fabrilia surgit.<br/>
+			insula Sicanium iuxta latus Aeoliamque<br/>
+			erigitur Liparen fumantibus ardua saxis,<br/>
+			quam subter specus et Cyclopum exesa caminis<br/>
+			antra Aetnaea tonant, ualidique incudibus ictus<br/>
+			auditi referunt gemitus, striduntque cauernis<br/>
+			stricturae Chalybum et fornacibus ignis anhelat,<br/>
+			Volcani domus et Volcania nomine tellus.<br/>
+			hoc tunc ignipotens caelo descendit ab alto.<br/>
+			ferrum exercebant uasto Cyclopes in antro,<br/>
+			Brontesque Steropesque et nudus membra Pyragmon.<br/>
+			his informatum manibus iam parte polita<br/>
+			fulmen erat, toto genitor quae plurima caelo<br/>
+			deicit in terras, pars imperfecta manebat.<br/>
+			tris imbris torti radios, tris nubis aquosae<br/>
+			addiderant, rutuli tris ignis et alitis Austri.<br/>
+			fulgores nunc terrificos sonitumque metumque<br/>
+			miscebant operi flammisque sequacibus iras.<br/>
+			parte alia Marti currumque rotasque uolucris<br/>
+			instabant, quibus ille uiros, quibus excitat urbes;<br/>
+			aegidaque horriferam, turbatae Palladis arma,<br/>
+			certatim squamis serpentum auroque polibant<br/>
+			conexosque anguis ipsamque in pectore diuae<br/>
+			Gorgona desecto uertentem lumina collo.<br/>
+			'tollite cuncta' inquit 'coeptosque auferte labores,<br/>
+			Aetnaei Cyclopes, et huc aduertite mentem:<br/>
+			arma acri facienda uiro. nunc uiribus usus,<br/>
+			nunc manibus rapidis, omni nunc arte magistra.<br/>
+			praecipitate moras.' nec plura effatus, at illi<br/>
+			ocius incubuere omnes pariterque laborem<br/>
+			sortiti. fluit aes riuis aurique metallum<br/>
+			uulnificusque chalybs uasta fornace liquescit.<br/>
+			ingentem clipeum informant, unum omnia contra<br/>
+			tela Latinorum, septenosque orbibus orbis<br/>
+			impediunt. alii uentosis follibus auras<br/>
+			accipiunt redduntque, alii stridentia tingunt<br/>
+			aera lacu; gemit impositis incudibus antrum;<br/>
+			illi inter sese multa ui bracchia tollunt<br/>
+			in numerum, uersantque tenaci forcipe massam.
+		</latin>
+	</section>
+	
+</text>
+</translation>

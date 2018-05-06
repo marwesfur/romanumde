@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Caesar</author>
+	<title>De Bello Gallico</title>
+	<snippet>Liber VI</snippet>
+	<translator>Nicole Ortner</translator>
+	<textkind>prosa</textkind>
+	<firstnumber>1</firstnumber>
+	
+	<navigation>
+		<previous url="intro.html">De Bello Gallico Einführung</previous>
+		<previous url="liber_2.xml">Liber II</previous>
+	</navigation>
+</description>
+<text>
+	<section from="1" to="12">
+		<german>
+			Nicht übersetzt.
+		</german>
+		<latin>
+			Nicht übersetzt.
+		</latin>
+	</section>
+	<section from="13" to="13">
+		<german>
+			In ganz Gallien gibt es zwei Arten von diesen Menschen, die von irgendeiner Bedeutung und Ehre sind. Denn das Volk wird beinahe wie Sklaven behandelt, das von sich aus nichts wagt und von keinen Versammlungen zusammengezogen wird. Immer wenn die meisten entweder durch Schulden oder durch die Ungerechtigkeit der Mächtigeren bedrückt werden, begeben sie sich in Knechtschaft. Die Adeligen haben ganz dieselben Rechte, die Herren gegenüber die Sklaven. Aber von diesen Arten ist die eine die der Druiden und die andere die der Ritter. Jene sind bei den Kulthandlungen anwesend, kümmern sich um die öffentlichen und privaten Opferhandlungen und deuten die religiösen Vorstellungen. Zu diesen kommt eine große Anzahl von Heranwachsenden wegen des Lernens zusammen und diese sind bei diesen sehr angesehen. Denn sie fällen über fast alle öffentlichen und privaten Streitigkeiten ihr Urteil, und wenn irgendeine Untat begangen worden ist, wenn ein Mord begangen worden ist, wenn es über die Erbschaft, über die Grenzen einen Streit gibt, entscheiden dieselben, Entschädigungen und Strafen setzen sie fest; wenn sich entweder ein Privatmann oder ein Volk nicht an diese Entscheidung hielt, schließen sie sie von den Opferhandlungen aus. Diese Strafe ist bei ihnen die schwerste. Diese, denen es so verboten worden ist, werden zu den Frevlern und Verbrechern gezählt, alle gehen diesen aus dem Weg, der Umgang und das Gespräch mit diesen meiden sie, damit sie aus diesem Kontakt keinen Schaden empfangen, weder wird diesen, wenn sie bitten, das Recht gewährt, noch wird ihnen irgendeine Ehre zugeteilt. 
+Aber einer steht vor diesen allen Druiden, der die größte Autorität unter diesen besitzt. Nachdem dieser gestorben ist, folgt entweder einer nach, wenn irgendeiner von den übrigen sich mit Würde auszeichnet, oder, wenn mehrere gleich sind, wird einer durch Abstimmung von den Druiden gewählt, manchmal kämpfen sie auch mit Waffen um die Vorherrschaft. Zu einer gewissen Zeit im Jahr setzen sich diese an einem heiligen Ort zusammen im Gebiet der Carnuten, in das Gebiet, welches für die Mitte für ganz Gallien gehalten wird. Hierher kommen alle von überall her, die Streit haben, zusammen und sie gehorchen diesen Entscheidungen und Urteilen. Es wird geglaubt, dass die Lehre in Britannien entwickelt und nach Gallien überliefert wurde, und nun, brechen die, welche die Sache sorgfältiger kennenlernen wollen, meistens wegen des Lernens dorthin auf.
+		</german>
+		<latin>
+			In omni Gallia eorum hominum, qui aliquo sunt numero atque honore, genera sunt duo. Nam plebes paene servorum habetur loco, quae nihil audet per se, nullo adhibetur consilio. Plerique, cum aut aere alieno aut magnitudine tributorum aut iniuria potentiorum premuntur, sese in servitutem dicant nobilibus: in hos eadem omnia sunt iura, quae dominis in servos. Sed de his duobus generibus alterum est druidum, alterum equitum. Illi rebus divinis intersunt, sacrificia publica ac privata procurant, religiones interpretantur: ad hos magnus adulescentium numerus disciplinae causa concurrit, magnoque hi sunt apud eos honore. Nam fere de omnibus controversiis publicis privatisque constituunt, et, si quod est admissum facinus, si caedes facta, si de hereditate, de finibus controversia est, idem decernunt, praemia poenasque constituunt; si qui aut privatus aut populus eorum decreto non stetit, sacrificiis interdicunt. Haec poena apud eos est gravissima. Quibus ita est interdictum, hi numero impiorum ac sceleratorum habentur, his omnes decedunt, aditum sermonemque defugiunt, ne quid ex contagione incommodi accipiant, neque his petentibus ius redditur neque honos ullus communicatur. His autem omnibus druidibus praeest unus, qui summam inter eos habet auctoritatem. Hoc mortuo aut si qui ex reliquis excellit dignitate succedit, aut, si sunt plures pares, suffragio druidum, nonnumquam etiam armis de principatu contendunt. Hi certo anni tempore in finibus Carnutum, quae regio totius Galliae media habetur, considunt in loco consecrato. Huc omnes undique, qui controversias habent, conveniunt eorumque decretis iudiciisque parent. Disciplina in Britannia reperta atque inde in Galliam translata esse existimatur, et nunc, qui diligentius eam rem cognoscere volunt, plerumque illo discendi causa proficiscuntur.  
+		</latin>
+	</section>
+	<section from="14" to="14">
+		<german>
+			Die Druiden sind gewohnt vom Krieg entfernt zu sein und zahlen nicht zusammen mit den übrigen Steuern. Sie haben die Befreiung vom Kriegsdienst und die Begünstigung aller Sachen. Durch so große Löhne gelockt und von sich aus, kommen viele zu Lernen zusammen und werden von den Eltern und Verwandten geschickt. Man sagt, dass sie dort eine große Anzahl an Versen auswendig lernen. Daher bleiben manche je zwanzig Jahre in der Lehre. Sie meinten, dass es religiöses Unrecht sei diese Dinge den Schriften anzuvertrauen, obwohl sie in fast allen übrigen Sachen, in öffentlichen und privaten Angelegenheiten, die griechische Schrift gebrauchten. Sie scheinen mir dieses aus zwei Gründen eingeführt zu haben, weil sie weder wollten, dass die Lehre in die Menge verbreitet wird, noch, dass diese, die studieren, im Vertrauen auf die Schriften weniger Eifer zeigen für das Gedächtnis , was fast allen passiert, dass sie im Vertrauen auf das Geschriebene die Lehre eifrig studieren wird, das Erinnerungsvermögen vernachlassen. Vor allem wollen sie davon überzeugen, dass die Seelen nicht untergehen, sondern von der Einen nach dem Tod zu den anderen gehen, und sie glauben, dass sie durch das besonders zu Mut angetrieben werden, nachdem die Angst vor dem Tod abgelegt worden ist. Sie erörtern außerdem vieles über die Gestirne und deren Bewegung, über die Größe der Welt und der Länder, über die Beschaffenheit der Sachen, über die Kraft und die Gewalt der unsterblichen Götter und sie überlieferten diese der Jugend.
+		</german>
+		<latin>
+			 Druides a bello abesse consuerunt neque tributa una cum reliquis pendunt; militiae vacationem omniumque rerum habent immunitatem. Tantis excitati praemiis et sua sponte multi in disciplinam conveniunt et a parentibus propinquisque mittuntur. Magnum ibi numerum versuum ediscere dicuntur. Itaque annos nonnulli vicenos in disciplina permanent. Neque fas esse existimant ea litteris mandare, cum in reliquis fere rebus, publicis privatisque rationibus Graecis litteris utantur. Id mihi duabus de causis instituisse videntur, quod neque in vulgum disciplinam efferri velint neque eos, qui discunt, litteris confisos minus memoriae studere: quod fere plerisque accidit, ut praesidio litterarum diligentiam in perdiscendo ac memoriam remittant. In primis hoc volunt persuadere, non interire animas, sed ab aliis post mortem transire ad alios, atque hoc maxime ad virtutem excitari putant metu mortis neglecto. Multa praeterea de sideribus atque eorum motu, de mundi ac terrarum magnitudine, de rerum natura, de deorum immortalium vi ac potestate disputant et iuventuti tradunt.   
+		</latin>
+	</section>
+	<section from="15" to="15">
+		<german>
+			Der andere Stand ist der der Ritter. Immer wenn es nötig ist und wenn irgendeinen Krieg ausbricht - was vor Cäsars Ankunft fast jährlich passierte, dass sie entweder selbst Unrecht zufügten oder sich gegen das zugefügte Unrecht wehrten --, befinden sich alle diese im Krieg, und, je bedeutender einer von ihnen ist von seiner Abstammung und Truppen her, umso mehr Diener und Schutzbefohlene hat er um sich. Sie kennen diese eine Ehre und Macht.
+		</german>
+		<latin>
+			 Alterum genus est equitum. Hi, cum est usus atque aliquod bellum incidit (quod fere ante Caesaris adventum quotannis accidere solebat, uti aut ipsi iniurias inferrent aut illatas propulsarent), omnes in bello versantur, atque eorum ut quisque est genere copiisque amplissimus, ita plurimos circum se ambactos clientesque habet. Hanc unam gratiam potentiamque noverunt.   
+		</latin>
+	</section>
+	<section from="16" to="16">
+		<german>
+			Die ganze Nation der Gallier ist sehr religiös, und deswegen opfern die, die von schwereren Krankheiten befallen sind und diese, die in den Schlachten und in Gefahr sich befinden, entweder an Stelle der Opfertiere Menschen oder sie geloben, dass sie sie opfern werden, und sie gebrauchen die Druiden als Helfer zu den Opferhandlungen, weil sie glauben, dass der Wille der unsterblichen Götter nicht besänftigt werden kann, wenn nicht für das Leben eines Menschen das eines anderen zurückgegeben wird und sie haben öffentlich eingeführte Opferhandlungen derselben Art. Die anderen haben Götterbildnisse mit ungeheurer Größe, deren aus Weidenruten geflochtenen Glieder sie mit lebendigen Menschen anfüllen; nachdem diese von unten angezündet worden sind, werden Menschen von umzingelten Flammen getötet. Sie meinen, dass Opfer dieser, die wegen Diebstahl oder Raub oder eines anderen Vergehens gefasst worden sind, den unsterblichen Göttern angenehmer sind. Aber wenn einer von der Art fehlt, müssen sie auch auf die Hinrichtungen Unschuldiger zurückgreifen.
+		</german>
+		<latin>
+			 Natio est omnis Gallorum admodum dedita religionibus, atque ob eam causam, qui sunt adfecti gravioribus morbis quique in proeliis periculisque versantur, aut pro victimis homines immolant aut se immolaturos vovent administrisque ad ea sacrificia druidibus utuntur, quod, pro vita hominis nisi hominis vita reddatur, non posse deorum immortalium numen placari arbitrantur, publiceque eiusdem generis habent instituta sacrificia. Alii immani magnitudine simulacra habent, quorum contexta viminibus membra vivis hominibus complent; quibus succensis circumventi flamma exanimantur homines. Supplicia eorum qui in furto aut in latrocinio aut aliqua noxia sint comprehensi gratiora dis immortalibus esse arbitrantur; sed, cum eius generis copia defecit, etiam ad innocentium supplicia descendunt.   
+		</latin>
+	</section>
+	<section from="17" to="17">
+		<german>
+			Sie verehrten Merkur von den Göttern am meisten. Es gibt sehr viele Bildnisse von diesem, sie halten ihn für den Erfinder von allen Künsten, für den Führer auf den Wegen und Reisen, und sie glauben, dass er sehr große Macht über den Erwerb von Geld und über den Handel hat. Nach ihm verehren sie Apoll, Mars, Jupiter und Minerva. Sie haben fast dieselbe Vorstellung von diesen wie die übrigen Stämme nämlich dass Apoll Krankheiten vertreibt, dass Minerva die Anfänge der Handwerke und der Künste überliefert, dass Jupiter die Herrschaft über die Götter hat und dass Mars die Kriege lenkt. Wenn sie beschlossen haben, in einer Schlacht zu kämpfen, weihen sie das meistens diesem, dass was sie im Krieg erbeutet haben, immer wenn sie gesiegt haben, opfern sie die gefangenen Lebewesen und die übrigen Sachen sammeln sie an einem Ort. In vielen Stämmen kann man aus diesen Sachen aufgeschichtete Hügel sehen an einem heiligen Ort; und nicht oft trifft es zu, dass einer es wagt, ohne Rücksicht auf die Religion Beute bei sich zu verstecken oder bereits Abgelegtes zu entfernen, und für diese Sache wurde die schwerste Strafe mit der Folter festgelegt.
+		</german>
+		<latin>
+			Deum maxime Mercurium colunt. Huius sunt plurima simulacra: hunc omnium inventorem artium ferunt, hunc viarum atque itinerum ducem, hunc ad quaestus pecuniae mercaturasque habere vim maximam arbitrantur. Post hunc Apollinem et Martem et Iovem et Minervam. De his eandem fere, quam reliquae gentes, habent opinionem: Apollinem morbos depellere, Minervam operum atque artificiorum initia tradere, Iovem imperium caelestium tenere, Martem bella regere. Huic, cum proelio dimicare constituerunt, ea quae bello ceperint plerumque devovent: cum superaverunt, animalia capta immolant reliquasque res in unum locum conferunt. Multis in civitatibus harum rerum exstructos tumulos locis consecratis conspicari licet; neque saepe accidit, ut neglecta quispiam religione aut capta apud se occultare aut posita tollere auderet, gravissimumque ei rei supplicium cum cruciatu constitutum est.   
+		</latin>
+	</section>
+	<section from="18" to="18">
+		<german>
+			Die Gallier sagen, daß sie alle von Vater Dis abstammen und angeblich wurde es so von den Druiden überliefert. Aus diesem Grundbestimmen rechnen sie alle Zeiträume nicht nach der Zahl der Tage sondern nach der Zahl der Nächte; sie berechnen so die Geburtstage, die Anfänge der Monate und Jahre so, daß der Tag der Nacht folgt. In den übrigen Bräuchen des Lebens unterscheiden sie sich dadurch von den anderen, daß sie nicht dulden, daß ihre Kinder öffentlich zu ihnen kommen, außer wenn sie so weit herangewachsen sind, daß sie Kriegsdienst leisten können, und sie halten es für eine Schande, daß der Sohn im jugendlichen Alter in der Öffentlichkeit und im Anblick des Vaters aufhält.
+		</german>
+		<latin>
+			Galli se omnes ab Dite patre prognatos praedicant idque ab druidibus proditum dicunt. Ob eam causam spatia omnis temporis non numero dierum sed noctium finiunt; dies natales et mensum et annorum initia sic observant ut noctem dies subsequatur. In reliquis vitae institutis hoc fere ab reliquis differunt, quod suos liberos, nisi cum adoleverunt, ut munus militiae sustinere possint, palam ad se adire non patiuntur filiumque puerili aetate in publico in conspectu patris adsistere turpe ducunt.   
+		</latin>
+	</section>
+	<section from="19" to="19">
+		<german>
+			Die Männer, nachdem die Schätzung gemacht worden ist, legen so viel aus ihrem Vermögen zur Mitgift dazu, wie viel Geld sie von den Frauen im Name der Mitgift empfangen haben. Über all dieses Geld wird gemeinsam die Buchhaltung geführt und wird gespart; wer von beiden überleb hat, zu diesem gelangt der Teil der beiden mit den der früheren Zeiten Gewinnen. Die Männer haben die Macht über Leben und Tod von Frauen und Kindern, und wenn der Vater einer adeligen Familie starb, kommen dessen Verwandte und führen eine gerichtliche Untersuchung über die Frauen, wie bei Sklaven, wenn Verdachtsmomente aufgetaucht sind, wenn es herausgefunden worden ist, töten sie die durch das Feuer und allen Martern gequälten Frauen. Die Begräbnisse sind im Verhältnis zum gallischen Kult prächtig und aufwendig; und alles woran sie glauben, daß es den Lebenden am Herzen lag, werfen sie ins Feuer, auch Tiere und ein wenig vor unserer Zeit wurden Sklaven und Schutzbefohlene, von denen es fest stand, daß sie von ihnen geliebt wurden, nach Abschluß der eigentlichen Begräbnisfeierlichkeit gemeinsam verbrannt.
+		</german>
+		<latin>
+			Viri, quantas pecunias ab uxoribus dotis nomine acceperunt, tantas ex suis bonis aestimatione facta cum dotibus communicant. Huius omnis pecuniae coniunctim ratio habetur fructusque servantur: uter eorum vita superarit, ad eum pars utriusque cum fructibus superiorum temporum pervenit. Viri in 
+uxores, sicuti in liberos, vitae necisque habent potestatem; et cum paterfamiliae illustriore loco natus decessit, eius propinqui conveniunt et, de morte si res in suspicionem venit, de uxoribus in servilem modum quaestionem habent et, si compertum est, igni atque omnibus tormentis excruciatas interficiunt. Funera sunt pro cultu Gallorum magnifica et sumptuosa; omniaque quae vivis cordi fuisse arbitrantur in ignem inferunt, etiam animalia, ac paulo supra hanc memoriam servi et clientes, quos ab eis dilectos esse constabat, iustis funeribus confectis una cremabantur.  
+		</latin>
+	</section>
+	<section from="20" to="44">
+		<german>
+			Nicht übersetzt.
+		</german>
+		<latin>
+			Nicht übersetzt.
+		</latin>
+	</section>
+</text>
+</translation>

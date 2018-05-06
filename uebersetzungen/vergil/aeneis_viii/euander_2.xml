@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Vergil</author>
+	<title>Aeneis VIII</title>
+	<snippet>Zweite Euander-Szene, Verse 454-607</snippet>
+	<translator>Rainer Lohmann</translator>
+	<textkind>poetry</textkind>
+	<firstnumber>454</firstnumber>
+	<navigation>
+		<previous url="intro.html">Aeneis VIII Einführung</previous>
+		<previous url="goetterhandlung.xml">Götterhandlung, Verse 370-453</previous>
+		<next url="schluss.xml">Schluss, Verse 608-731</next>
+	</navigation>
+</description>
+<text>
+
+	<section from="454" to="519">
+		<german>
+			Während Vulcanus dieses eifrigst an den äolischen Gestaden betrieb, weckten das belebende Licht und der morgendliche Gesang der Vögel unter dem Dachvorsprung Euander aus seinem ärmlichen Haus. Der Greis erhob sich, bekleidete seine Glieder mit einer Tunika und legte etruskische Sandalenbänder um die Fußsohlen. Dann befestigte er an der Seite und an den Schultern sein arkadisches Schwert, wobei er das Pantherfell zurückschlug, so dass es auf der linken Seite herabhing. Und auch zwei Wachhunde aus dem hohen Haus gingen voran und begleiteten den Schritt des Hausherrn. Die abgelegene Wohnung seines Gastes Aeneas suchte der Held in Erinnerung an die Gespräche und das versprochene Geschenk auf. Auch Aeneas kam nicht weniger früh; diesen begleitete sein Sohn Pallas, jenen Achates. Nachdem sie zusammengekommen waren, gaben sie sich die Hände, ließen sich mitten im Haus nieder und erfreuten sich schließlich an dem erlaubten Gespräch. Der König sprach als Erster Folgendes: "Größter Führer der Trojaner, solange du unversehrt bist, werde ich in der Tat niemals zugeben, dass der Staat und das Königreich Troja besiegt sind, wir haben zur Unterstützung im Krieg im Vergleich zu deinem so großen Namen nur unbedeutende Streitkräfte; hier werden wir durch den Tiber eingeschlossen, dort bedrängt uns der Rutuler und umlärmt die Mauer mit Waffen. Aber ich beabsichtige dich mit mächtigen Völkern und mit Armeen, die reich an Königtümern sind, zu vereinigen, eine Rettung, die der Zufall unerwartet bietet: da das Schicksal es verlangt, erscheinst du hier. Nicht weit von hier wird, auf einem alten Felsen gegründet, der Platz der Stadt Agylla bewohnt, wo sich einst das lydische Volk, das sich durch Krieg auszeichnet, auf den etruskischen Bergen ansiedelte. Diese Stadt, die viele Jahre in Blüte stand, beherrschte dann König Mezentius mit stolzem Befehl und schrecklichen Waffen. Was soll ich an die abscheulichen Gemetzel, was an die rohen Taten des Tyrannen erinnern? Die Götter mögen diese an ihm selbst und an seinem Geschlecht rächen! Ja sogar tote Körper vereinigte er mit lebendigen, wobei er Hände mit Händen und Gesichter mit Gesichtern zusammenlegte, eine Art Folter, und sie, die von blutigem Eiter und von Gift trieften, tötete er so in ihrer elenden Umarmung durch einen langen Tod. Aber schließlich umstellten ihn in seinem unbeschreiblichen Wahnsinn die erschöpften Bürger in Waffen, ihn selbst und sein Haus, seine Gefährten machten sie nieder, Feuer warfen sie gegen die Giebel. Nachdem jener in dem Blutbad entkommen war, floh er in das Gebiet der Rutuler und wurde von den Waffen seines Gastgebers Turnus verteidigt. Also erhob sich ganz Etrurien aus wohl begründeter Wut, den König forderten sie zur Bestrafung in einem sofortigen Krieg zurück. Diesen Tausenden werde ich dich, Aeneas, als ihren Führer beigeben. Denn am ganzen Gestade lärmten dicht gedrängt die Schiffe und sie befahlen aufzubrechen, doch ein hochbetagter Seher hielt sie zurück, das Schicksal vorhersagend: "Ausgewählte Jugend Etruriens, Blüte und Tugend der alten Männer, die ein gerechter Schmerz gegen den Feind aufbringt und die Mezentius zu rechtmäßigem Zorn entflammt, keinem Italiker ist es erlaubt, ein so großes Volk zu unterjochen: Wählt ausländische Führer." Dann ließ sich das etruskische Heer auf diesem Feld nieder, aufgeschreckt durch die Mahnungen der Götter. Tarchon persönlich schickte Sprecher zu mir und ein Diadem mit Zepter und übergab mir die Insignien, ich solle in das Lager gehen und die Herrschaft über die Etrusker einnehmen. Aber das Greisenalter, lähmend durch Erstarrung und durch die Zeit entkräftet, und die für tapfere Taten nicht mehr vorhandenen Kräfte missgönnen mir die Macht. Meinen Sohn würde ich ermuntern, wenn er nicht, da der Mischehe mit einer Sabinerin entsprossen, halb einheimisch wäre. Du, mit dessen Jahren und Abstammung das Schicksal es gut meint, nach dem ein göttlicher Wille verlangt, lass dich auf deine Aufgabe ein, tapferster Führer der Trojaner und Italiker. Außerdem werde ich dir diesen Pallas, unsere Hoffnung und unser Trost, zugesellen; unter deiner Leitung soll er sich daran gewöhnen, den Kriegsdienst und das schwere Kriegshandwerk zu ertragen und deine Taten wahrzunehmen, und von den ersten Jahren an soll er dich bewundern. Diesem werde ich zweihundert arkadische Reiter geben, eine ausgewählte starke Jungmannschaft, und ebenso viele wird dir Pallas im eigenen Namen geben."
+		</german>
+		<latin>
+			Haec pater Aeoliis properat dum Lemnius oris,<br/>
+			Euandrum ex humili tecto lux suscitat alma<br/>
+			et matutini uolucrum sub culmine cantus.<br/>
+			consurgit senior tunicaque inducitur artus<br/>
+			et Tyrrhena pedum circumdat uincula plantis.<br/>
+			tum lateri atque umeris Tegeaeum subligat ensem<br/>
+			demissa ab laeua pantherae terga retorquens.<br/>
+			nec non et gemini custodes limine ab alto<br/>
+			praecedunt gressumque canes comitantur erilem.<br/>
+			hospitis Aeneae sedem et secreta petebat<br/>
+			sermonum memor et promissi muneris heros.<br/>
+			nec minus Aeneas se matutinus agebat;<br/>
+			filius huic Pallas, illi comes ibat Achates.<br/>
+			congressi iungunt dextras mediisque residunt<br/>
+			aedibus et licito tandem sermone fruuntur.<br/>
+			rex prior haec:<br/>
+			'maxime Teucrorum ductor, quo sospite numquam<br/>
+			res equidem Troiae uictas aut regna fatebor,<br/>
+			nobis ad belli auxilium pro nomine tanto<br/>
+			exiguae uires; hinc Tusco claudimur amni,<br/>
+			hinc Rutulus premit et murum circumsonat armis.<br/>
+			sed tibi ego ingentis populos opulentaque regnis<br/>
+			iungere castra paro, quam fors inopina salutem<br/>
+			ostentat: fatis huc te poscentibus adfers.<br/>
+			haud procul hinc saxo incolitur fundata uetusto<br/>
+			urbis Agyllinae sedes, ubi Lydia quondam<br/>
+			gens, bello praeclara, iugis insedit Etruscis.<br/>
+			hanc multos florentem annos rex deinde superbo<br/>
+			imperio et saeuis tenuit Mezentius armis.<br/>
+			quid memorem infandas caedes, quid facta tyranni<br/>
+			effera? di capiti ipsius generique reseruent!<br/>
+			mortua quin etiam iungebat corpora uiuis<br/>
+			componens manibusque manus atque oribus ora,<br/>
+			tormenti genus, et sanie taboque fluentis<br/>
+			complexu in misero longa sic morte necabat.<br/>
+			at fessi tandem ciues infanda furentem<br/>
+			armati circumsistunt ipsumque domumque,<br/>
+			obtruncant socios, ignem ad fastigia iactant.<br/>
+			ille inter caedem Rutulorum elapsus in agros<br/>
+			confugere et Turni defendier hospitis armis.<br/>
+			ergo omnis furiis surrexit Etruria iustis,<br/>
+			regem ad supplicium praesenti Marte reposcunt.<br/>
+			his ego te, Aenea, ductorem milibus addam.<br/>
+			toto namque fremunt condensae litore puppes<br/>
+			signaque ferre iubent, retinet longaeuus haruspex<br/>
+			fata canens: "o Maeoniae delecta iuuentus,<br/>
+			flos ueterum uirtusque uirum, quos iustus in hostem<br/>
+			fert dolor et merita accendit Mezentius ira,<br/>
+			nulli fas Italo tantam subiungere gentem:<br/>
+			externos optate duces." tum Etrusca resedit<br/>
+			hoc acies campo monitis exterrita diuum.<br/>
+			ipse oratores ad me regnique coronam<br/>
+			cum sceptro misit mandatque insignia Tarchon,<br/>
+			succedam castris Tyrrhenaque regna capessam.<br/>
+			sed mihi tarda gelu saeclisque effeta senectus<br/>
+			inuidet imperium seraeque ad fortia uires.<br/>
+			natum exhortarer, ni mixtus matre Sabella<br/>
+			hinc partem patriae traheret. tu, cuius et annis<br/>
+			et generi fatum indulget, quem numina poscunt,<br/>
+			ingredere, o Teucrum atque Italum fortissime ductor.<br/>
+			hunc tibi praeterea, spes et solacia nostri,<br/>
+			Pallanta adiungam; sub te tolerare magistro<br/>
+			militiam et graue Martis opus, tua cernere facta<br/>
+			adsuescat, primis et te miretur ab annis.<br/>
+			Arcadas huic equites bis centum, robora pubis<br/>
+			lecta dabo, totidemque suo tibi nomine Pallas.'
+		</latin>
+	</section>
+	
+	<section from="520" to="584">
+		<german>
+			Gerade hatte er dieses gesagt, Aeneas, der Sohn des Anchises, und der treue Achates hielten ihre Augen zu Boden gerichtet und waren dabei, viel Missliches in ihrem traurigen Herzen zu erwägen, wenn nicht Venus ein Zeichen am heiteren Himmel gegeben hätte. Denn unvorhergesehen zeigte sich unter Lärm ein vom Himmel herabgeschleuderter Blitz und alles schien plötzlich einzustürzen und der Klang der etruskischen Trompete durch den Himmelsraum zu dröhnen. Sie blickten empor, immer wieder regte sich ein gewaltiges Krachen. Dass Waffen, eingehüllt in eine Wolke, im heiteren Himmelsraum in der klaren Luft rötlich schimmerten, sahen sie, und sie hörten diese durch ihren Schlag laut ertönen. Die anderen erstarrten in ihrem Innern, aber der trojanische Held erkannte den Lärm und die Versprechen seiner göttlichen Mutter. Dann sprach er: "Gastfreund, frage unter keinen Umständen, welches Unglück die Unheil verkündenden Zeichen bringen: Der Himmel ruft mich. Meine göttliche Mutter prophezeite, sie werde dieses Zeichen schicken, falls ein Krieg hereinbräche, und Vulkans Waffen zur Unterstützung durch die Lüfte herbeibringen. Ach! Wie viele Gemetzel stehen den armen Laurentinern bevor! Welche Strafen wirst du mir, Turnus, zahlen! Wie viele Schilde von Männern, Helme und tapfere Körper wirst du in den Fluten fortreißen, Vater Tiber! Sollen sie doch die Schlacht fordern und die Verträge brechen." 
+			Sobald er diese Worte von sich gegeben hatte, erhob er sich von seinem hohen Sitz und fachte zuerst die schlummernde Glut des Herkules auf dem Altar an, fröhlich wandte er sich an den Laren von gestern und die kleinen Penaten; wie es Sitte ist, schlachteten zugleich Euander, zugleich die trojanische Jugend ausgewählte Schafe. Nachher ging er von hier zu den Schiffen und sah seine Kameraden wieder, aus deren Zahl er diejenigen aussuchte, die sich durch Tapferkeit auszeichneten, damit sie ihm in den Krieg folgten; der übrige Teil trieb stromabwärts und segelte langsam mit der Strömung dahin, um Ascanius Nachrichten über die Geschehnisse und über seinen Vater zu bringen. Den Trojanern wurden auf ihrem Weg zu den etruskischen Gefilden Pferde gegeben; Aeneas brachten sie ein auserlesenes Pferd, welches ganz das braungelbe Fell eines Löwen, das mit seinen goldenen Krallen hervorleuchtete, bedeckte.
+			Das Gerücht, dass Reiter schnell zum Haus des etruskischen Königs ritten, eilte, nachdem es sich plötzlich verbreitet hatte, durch die kleine Stadt. Aus Angst verdoppelten die Mütter ihre Gebete, wegen der Gefahr kam die Furcht näher und der Schatten des Krieges zeichnete sich schon deutlicher ab. Dann umfasste Vater Euander die rechte Hand des weggehenden Pallas, verharrte maßlos weinend und sprach solche Worte: "Wenn Jupiter mir doch die vergangenen Jahre zurückbrächte, so dass ich derjenige sein könnte, der ich war, als ich die erste Schlachtreihe genau am Fuße von Praeneste niederstreckte, siegreich Berge von Schilden anzündete und König Erulus mit dieser Rechten in den Tartarus schickte, dem bei seiner Geburt seine Mutter Feronia (es ist schrecklich zu sagen) drei Leben gegeben hatte, zu drei Waffen musste man greifen – dreimal musste er dem Tod überlassen werden; dann nahm ihm dennoch diese Rechte alle Leben und beraubte ihn ebenso vieler Waffen: auf keinen Fall würde ich jetzt aus deiner liebevollen Umarmung losgerissen, Sohn, und niemals hätte Mezentius gegen mich als seinen Nachbarn seinen Übermut ausgelassen und mit dem Schwert so viele schreckliche Blutbäder verursacht, die Stadt so vieler Bürger beraubt. Aber ihr, obere Götter, und du, Jupiter, größter Lenker der Götter, erbarmt euch bitte des arkadischen Königs und vernehmt seine väterlichen Bitten. Wenn eure Macht, wenn das Schicksal mir Pallas unversehrt am Leben erhält, wenn ich lebe, um ihn anzuschauen und ihm allein zu begegnen, dann bitte ich euch um Leben, dann ertrage ich die Fortdauer jeglicher Strapaze. Wenn du mir aber, Fortuna, irgendein schreckliches Schicksal androhst, soll es mir jetzt, jetzt möglich sein, das grausame Leben vorzeitig zu beenden, während meine besorgten Gedanken sich nach zwei Seiten neigen, während meine Hoffnung auf Zukunft ungewiss ist, während ich dich, lieber Sohn, meine einzige und späte Freude, in den Armen halte, und nicht soll eine schlimmere Nachricht meine Ohren verwunden." Diese Worte gab der Vater beim letzten Abschied von sich; Diener brachten ihn, nachdem er in sich zusammengesunken war, ins Haus.
+		</german>
+		<latin>
+			Vix ea fatus erat, defixique ora tenebant<br/>
+			Aeneas Anchisiades et fidus Achates,<br/>
+			multaque dura suo tristi cum corde putabant,<br/>
+			ni signum caelo Cytherea dedisset aperto.<br/>
+			namque improuiso uibratus ab aethere fulgor<br/>
+			cum sonitu uenit et ruere omnia uisa repente,<br/>
+			Tyrrhenusque tubae mugire per aethera clangor.<br/>
+			suspiciunt, iterum atque iterum fragor increpat ingens.<br/>
+			arma inter nubem caeli in regione serena<br/>
+			per sudum rutilare uident et pulsa tonare.<br/>
+			obstipuere animis alii, sed Troius heros<br/>
+			agnouit sonitum et diuae promissa parentis.<br/>
+			tum memorat: 'ne uero, hospes, ne quaere profecto<br/>
+			quem casum portenta ferant: ego poscor Olympo.<br/>
+			hoc signum cecinit missuram diua creatrix,<br/>
+			si bellum ingrueret, Volcaniaque arma per auras<br/>
+			laturam auxilio.<br/>
+			heu quantae miseris caedes Laurentibus instant!<br/>
+			quas poenas mihi, Turne, dabis! quam multa sub undas<br/>
+			scuta uirum galeasque et fortia corpora uolues,<br/>
+			Thybri pater! poscant acies et foedera rumpant.'<br/>
+			
+			
+			Haec ubi dicta dedit, solio se tollit ab alto<br/>
+			et primum Herculeis sopitas ignibus aras<br/>
+			excitat, hesternumque larem paruosque penatis<br/>
+			laetus adit; mactat lectas de more bidentis<br/>
+			Euandrus pariter, pariter Troiana iuuentus.<br/>
+			post hinc ad nauis graditur sociosque reuisit,<br/>
+			quorum de numero qui sese in bella sequantur<br/>
+			praestantis uirtute legit; pars cetera prona<br/>
+			fertur aqua segnisque secundo defluit amni,<br/>
+			nuntia uentura Ascanio rerumque patrisque.<br/>
+			dantur equi Teucris Tyrrhena petentibus arua;<br/>
+			ducunt exsortem Aeneae, quem fulua leonis<br/>
+			pellis obit totum praefulgens unguibus aureis.<br/>
+			
+			
+			Fama uolat paruam subito uulgata per urbem<br/>
+			ocius ire equites Tyrrheni ad limina regis.<br/>
+			uota metu duplicant matres, propiusque periclo<br/>
+			it timor et maior Martis iam apparet imago.<br/>
+			tum pater Euandrus dextram complexus euntis<br/>
+			haeret inexpletus lacrimans ac talia fatur:<br/>
+			'o mihi praeteritos referat si Iuppiter annos,<br/>
+			qualis eram cum primam aciem Praeneste sub ipsa<br/>
+			straui scutorumque incendi uictor aceruos<br/>
+			et regem hac Erulum dextra sub Tartara misi,<br/>
+			nascenti cui tris animas Feronia mater<br/>
+			(horrendum dictu) dederat, terna arma mouenda<br/>
+			ter leto sternendus erat; cui tunc tamen omnis<br/>
+			abstulit haec animas dextra et totidem exuit armis:<br/>
+			non ego nunc dulci amplexu diuellerer usquam,<br/>
+			nate, tuo, neque finitimo Mezentius umquam<br/>
+			huic capiti insultans tot ferro saeua dedisset<br/>
+			funera, tam multis uiduasset ciuibus urbem.<br/>
+			at uos, o superi, et diuum tu maxime rector<br/>
+			Iuppiter, Arcadii, quaeso, miserescite regis<br/>
+			et patrias audite preces. si numina uestra<br/>
+			incolumem Pallanta mihi, si fata reseruant,<br/>
+			si uisurus eum uiuo et uenturus in unum,<br/>
+			uitam oro, patior quemuis durare laborem.<br/>
+			sin aliquem infandum casum, Fortuna, minaris,<br/>
+			nunc, nunc o liceat crudelem abrumpere uitam,<br/>
+			dum curae ambiguae, dum spes incerta futuri,<br/>
+			dum te, care puer, mea sola et sera uoluptas,<br/>
+			complexu teneo, grauior neu nuntius auris<br/>
+			uulneret.' haec genitor digressu dicta supremo<br/>
+			fundebat; famuli conlapsum in tecta ferebant.
+		</latin>
+	</section>
+	
+	<section from="585" to="607">
+		<german>
+			Genau in diesem Augenblick war die Reiterei aus den geöffneten Toren ausgerückt, Aeneas und der treue Achates unter den Ersten, sodann die anderen Vornehmen Trojas; Pallas selbst marschierte in der Mitte des Zuges und erregte Aufsehen in seinem Mantel und in seinen bemalten Waffen, wie wenn Lucifer, den Venus vor den anderen Sternen liebt, nachdem er im Wasser des Ozeans gebadet hat, sein heiliges Antlitz zum Himmel emporhebt und die Dunkelheit vertreibt. Es standen ängstlich auf den Mauern die Mütter und folgten mit ihren Augen der Wolke aus Staub und den von Erz glänzenden Scharen. Jene marschierten bewaffnet durch das Gestrüpp, wo das Ziel ihrer Wege am nächsten war; Lärm erhob sich und in geschlossenem Zug zerstampfte der Huf in schallendem Trapp das trockene Feld. Ein überaus großer Hain lag nahe dem kühlen Fluss von Caere, durch die Religion der Väter weithin heilig; Hügel, die sich auf allen Seiten erhoben, schlossen den Hain ein und umgaben ihn mit dunklen Tannen. Es geht das Gerücht, dass die alten Pelasger dem Silvanus, dem Gott des Goldes und des Viehs, den Hain und den Tag geweiht hätten, sie, die als Erste einst latinisches Gebiet bewohnten. Nicht weit von hier hatten Tarchon und seine Etrusker ein durch das Gelände gesichertes Lager, und von einem hohen Hügel aus konnte schon die ganze Truppe gesehen werden, und sie kampierte auf den weiten Fluren. Hierher folgten Vater Aeneas und die für den Krieg ausgewählte Jugend, und erschöpft kümmerten sie sich um Pferde und Körper.
+		</german>
+		<latin>
+			Iamque adeo exierat portis equitatus apertis<br/>
+			Aeneas inter primos et fidus Achates,<br/>
+			inde alii Troiae proceres; ipse agmine Pallas<br/>
+			it medio chlamyde et pictis conspectus in armis,<br/>
+			qualis ubi Oceani perfusus Lucifer unda,<br/>
+			quem Venus ante alios astrorum diligit ignis,<br/>
+			extulit os sacrum caelo tenebrasque resoluit.<br/>
+			stant pauidae in muris matres oculisque sequuntur<br/>
+			pulueream nubem et fulgentis aere cateruas.<br/>
+			olli per dumos, qua proxima meta uiarum,<br/>
+			armati tendunt; it clamor, et agmine facto<br/>
+			quadripedante putrem sonitu quatit ungula campum.<br/>
+			est ingens gelidum lucus prope Caeritis amnem,<br/>
+			religione patrum late sacer; undique colles<br/>
+			inclusere caui et nigra nemus abiete cingunt.<br/>
+			Siluano fama est ueteres sacrasse Pelasgos,<br/>
+			aruorum pecorisque deo, lucumque diemque,<br/>
+			qui primi finis aliquando habuere Latinos.<br/>
+			haud procul hinc Tarcho et Tyrrheni tuta tenebant<br/>
+			castra locis, celsoque omnis de colle uideri<br/>
+			iam poterat legio et latis tendebat in aruis.<br/>
+			huc pater Aeneas et bello lecta iuuentus<br/>
+			succedunt, fessique et equos et corpora curant.
+		</latin>
+	</section>
+	
+	
+</text>
+</translation>

@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Cicero</author>
+	<title>De Imperio Cn. Pompei</title>
+	<snippet>Disposition</snippet>
+	<translator>Markus Westphal und Patrick Jungk</translator>
+	<textkind>prosa</textkind>
+	<firstnumber>1</firstnumber>
+	<navigation>
+		<previous url="intro.html">De Imperio Pompei Einführung</previous>
+		<next url="art.xml">Die Art des Krieges</next>
+		
+	</navigation>
+</description>
+
+<structure>
+	<list>
+		<item>Disposition</item>
+		<list>
+			<item number="1">Begründung für das späte politische Auftreten Ciceros</item>
+			<item number="3">Die politische Lage</item>
+			<item number="6">Disposition der Rede</item>
+		</list>
+	
+		<item url="art.xml">Art des Krieges</item>
+		<item url="groesse.xml">Die Größe des Krieges</item>
+		<item url="wahl.xml">Die Wahl des Feldherrn</item>
+		<item url="widerlegung.xml">Widerlegung der Gegner des Gesetzes</item>
+		<item url="schluss.xml">Schluß</item>
+	</list>
+</structure>
+
+<text>
+	<section from="1" to="1">
+		<german>
+			Obwohl mir euer zahlreiches Erscheinen immer sehr erfreulich, dieser Ort aber zum Verhandeln sehr würdevoll,
+zum Reden sehr ehrenvoll erschien, ihre Ouiriten, hielten mich dennoch von diesem Zugang zum Lob, der immer gerade den Besten am 
+weitesten offen stand, bisher nicht mein Willen ab, sondern meine Lebenspläne, die ich seit Beginn der Volljährigkeit gefaßt hatte.
+Denn weil ich es nicht wagte diesen angesehenen Ort vorher wegen meines Alters zu berühren und beschlossen hatte, dass hierher nichts als 
+geistig vollkommenes mit Fleiß erarbeitetes gebracht werden sollte, glaubte ich meine ganze Zeit den Problemen der Freunde widmen zu 
+müssen.
+		</german>
+		<latin>
+			Quamquam mihi semper frequens conspectus vester multo
+iucundissimus, hic autem locus ad agendum amplissimus, ad dicendum
+ornatissimus est visus, Quirites, tamen hoc aditu laudis, qui semper
+optimo cuique maxime patuit, non mea me voluntas adhuc, sed vitae
+meae rationes ab ineunte aetate susceptae prohibuerunt.  Nam cum antea per
+aetatem nondum huius auctoritatem loci attingere auderem,
+statueremque nihil huc nisi perfectum ingenio, elaboratum industria adferri
+oportere, omne meum tempus amicorum temporibus transmittendum putavi.
+		</latin>
+	</section>
+	<section from="2" to="2">
+		<german>
+			Und niemals war dieser Ort leer von solchen, die des Volkes Interessen vereidigten, und deshalb hat sich meine enthaltsame und 
+ehrliche Arbeit besonders mit den Problemen der Privatleute beschäftigt und hat durch euer Urteil reiche Frucht getragen. Denn als
+ich wegen der Verschiebung der Versammlung dreimal als erster Praetor aller Centurien ausgerufen wurde, bemerkte ich leicht, ihr 
+Quiriten, was ihr sowohl von mir haltet, als auch was ihr den anderen vorschreibt. Nun da ich sowohl so großes Ansehen besitze, wie 
+ihr es durch Übertragen der Ehrenämter gewollt habt, als auch soviel Fähigkeit zum Verhandeln besitze, wie einem aufgeweckten 
+Menschen die beinahe tägliche Übung im Reden bei Gerichtstätigkeit bringen konnte, sollte ich sie sicherlich bei denen anwenden, 
+die sie mir gegeben haben, wenn irgend etwas an Ansehen in mir ist und wenn ich durch mein Reden irgend etwas erreichen kann, dann 
+will ich es denen am ehesten zeigen, die durch ihr Urteil meinten, dass auch diese Sache Anerkennung verdiene.
+		</german>
+		<latin>
+			Ita neque hic locus vacuus umquam fuit ab eis qui vestram causam
+defenderent, et meus labor, in privatorum periculis caste integreque versatus, ex vestro iudicio fructum est amplissimum consecutus.  Nam cum propter dilationem comitiorum ter praetor primus centuriis cunctis 
+renuntiatus sum, facile intellexi, Quirites, et quid de me iudicaretis, 
+ et quid aliis praescriberetis.  Nunc cum et auctoritatis in me
+tantum sit, quantum vos honoribus mandandis esse voluistis, et ad agendum 
+ facultatis tantum, quantum homini vigilanti ex forensi usu prope 
+ cotidiana dicendi exercitatio potuit adferre, certe et si quid 
+ auctoritatis in me est, apud eos utar qui eam mihi dederunt, et si
+quid in dicendo consequi possum, eis ostendam potissimum, qui ei quoque
+rei fructum suo iudicio tribuendum esse duxerunt.
+		</latin>
+	</section>
+	<section from="3" to="3">
+		<german>
+			Und ich sehe, dass ich mich zu Recht als erster darüber freuen darf, dass es mir übertragen wurde in dieser 
+ungewohnten Art von diesem Ort über einen so beschaffenen Gegenstand zu reden, zu welchem niemand der Stoff zum Reden fehlen kann. 
+Ich habe nämlich über die einzigartige Tapferkeit des Gnaeus Pompeius zu reden; zu dieser Rede aber ist es schwieriger ein Ende als 
+einen Anfang zu finden. Deshalb muß ich mich beim Sprechen mehr auf die Art und Weise als auf den Inhalt konzentrieren.
+		</german>
+		<latin>
+			Atque illud in primis mihi laetandum iure esse video, quod in hac insolita mihi ex hoc
+loco ratione dicendi causa talis oblata est, in qua oratio deesse nemini  possit.  Dicendum est enim de Cn. Pompei 
+singulari eximiaque virtute:  huius autem orationis difficilius est exitum quam principium invenire.  Ita mihi non 
+tam copia quam modus in dicendo quaerendus est.
+		</latin>
+	</section>
+	<section from="4" to="4">
+		<german>
+			Und damit meine Rede dort beginnt, wo die ganze Sache anfängt, ein gefährlicher und schwerer Krieg wird euren Steuerpflichtigen und 
+Bundesgenossen von zwei sehr mächtigen Königen, Mithridates und Tigranes, aufgezwungen, von denen der eine übriggeblieben ist 
+und der andere angereizt ist und glaubt, die Gelegenheit zur Besetzung Asiens sei ihm geboten. Von den römischen Rittern, sehr 
+ehrenvolle Männer, werden täglich Briefe aus Asien geschickt, in denen es um ihr Kapital geht, das in der Ausübung eures Steuerwesens 
+investiert ist. Diese haben die Angelegenheiten des Staates und die Gefahr für ihr Vermögen an mich herangebracht, wegen der engen 
+Beziehungen, die ich mit diesem Stand habe;
+		</german>
+		<latin>
+			Atque, -- ut inde oratio mea proficiscatur, unde haec omnis 
+ causa ducitur, -- bellum grave et periculosum vestris vectigalibus ac 
+ sociis a duobus potentissimis regibus infertur, Mithridate et Tigrane, 
+ quorum alter relictus, alter lacessitus, occasionem sibi ad occupandam 
+ Asiam oblatam esse arbitrantur.  Equitibus Romanis, honestissimis viris, 
+ adferuntur ex Asia cotidie litterae, quorum magnae res aguntur in 
+ vestris vectigalibus exercendis occupatae: qui ad me, pro necessitudine 
+ quae mihi est cum illo ordine, causam rei publicae periculaque rerum 
+ suarum detulerunt:
+		</latin>
+	</section>
+	<section from="5" to="5">
+		<german>
+			in Bithynia, welches nun eure Provinz ist, seien mehrere Dörfer ausgebrannt und das 
+Königreich des Ariobarzanes, das an eure Steuergebiete grenzt, sei ganz in Feindeshand. Lucius Lucullus trenne sich nach großen 
+Taten von diesem Krieg. Der Nachfolger sei nicht vorbereitet genug zur Führung eines so großen Krieges. Nur einer von allen 
+Bundesgenossen und Bürgerschaften werde von ihnen als Feldherr in diesem Krieg dringend gefordert, dieser allein werde von den 
+Feinden gefürchtet, sonst keiner. 
+		</german>
+		<latin>
+			Bithyniae, quae nunc vestra provincia est, vicos 
+ exustos esse compluris; regnum Ariobarzanis, quod finitimum est
+vestris vectigalibus, totum esse in hostium potestate; L. Lucullum, magnis
+rebus gestis, ab eo bello discedere; huic qui successerit non satis esse 
+ paratum ad tantum bellum administrandum; unum ab omnibus sociis et 
+ civibus ad id bellum imperatorem deposci atque expeti, eundem hunc
+unum ab hostibus metui, praeterea neminem.
+		</latin>
+	</section>
+	<section from="6" to="6">
+		<german>
+			Ihr seht was der Grund ist; nun überlegt, was zu tun ist. Mir scheint, als erstes müsse ich über die Art des Krieges, dann über die Größe und zuletzt über die Auswahl des Feldherrn sprechen.
+		</german>
+		<latin>
+			Causa quae sit videtis: nunc quid agendum sit considerate. Primum mihi videtur de genere belli, deinde de magnitudine, tum de imperatore deligendo esse dicendum.
+		</latin>
+	</section>
+</text>
+</translation>

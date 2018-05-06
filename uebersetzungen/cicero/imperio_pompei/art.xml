@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Cicero</author>
+	<title>De Imperio Cn. Pompei</title>
+	<snippet>Die Art des Krieges</snippet>
+	<translator>Markus Westphal und Patrick Jungk</translator>
+	<textkind>prosa</textkind>
+	<firstnumber>6</firstnumber>
+	<navigation>
+		<previous url="intro.html">De Imperio Pompei Einführung</previous>
+		<previous url="disposition.xml">Disposition der Rede</previous>
+		<next url="groesse.xml">Die Größe des Krieges</next>
+	</navigation>
+</description>
+
+<structure>
+	<list>
+		<item url="disposition.xml">Disposition</item>
+	
+		<item>Art des Krieges</item>
+		<list>
+			<item number="6b">Der Kriegsruhm steht auf dem Spiel</item>
+			<item number="12b">Die Bünder müssen geschützt werden</item>
+			<item number="14">Die Steuereinkünfte sind gefährdet</item>
+			<item number="17">Das Vermögen römischer Bürger ist in Gefahr</item>
+		</list>
+
+		<item url="groesse.xml">Die Größe des Krieges</item>
+		<item url="wahl.xml">Die Wahl des Feldherrn</item>
+		<item url="widerlegung.xml">Widerlegung der Gegner des Gesetzes</item>
+		<item url="schluss.xml">Schluß</item>
+	</list>
+</structure>
+
+
+<text>
+
+	<section from="6b" to="6b">
+		<german>
+			Die Art des Krieges ist nämlich so beschaffen, dass sie euch in höchstem Maße erregen und entflammen muß ihn zu beenden; in diesem geht es um den Ruhm des römischen Volkes, welcher euch von euren Vorfahren, einerseits groß in allen Sachen, andererseits besonders groß in militärischen Sachen, überliefert wurde; es geht um das Wohl der Bundesgenossen und Freunde, für welches eure Vorfahren viele große und schwere Kriege geführt haben; es geht um die sichersten und größten Steuern des römischen Volkes, nach deren Verlust ihr sowohl den Schmuck des Friedens als auch die Unterstützung zum Krieg vermissen werdet; es geht um das Vermögen vieler Bürger, für das ihr sowohl ihrer selbst als auch des Staates wegen sorgen müßt.
+		</german>
+		<latin>
+			Genus est belli eius modi, quod maxime vestros animos excitare atque inflammare ad persequendi studium debeat: in quo agitur populi Romani gloria, quae vobis a maioribus cum magna in omnibus rebus tum summa in re militari tradita est; agitur salus sociorum atque amicorum, pro qua multa maiores vestri magna et gravia bella gesserunt; aguntur certissma populi Romani vectigalia et maxima, quibus amissis et pacis ornamenta et subsidia belli requiretis; aguntur bona multorum civium, quibus est a vobis et ipsorum et rei publicae causa consulendum.
+		</latin>
+	</section>
+	<section from="7" to="7">
+		<german>
+			Und weil ihr immer mehr als andere Völker ruhmbegierig und begierig des Lobes wart, müßt ihr jenen Schandfleck beseitigen, den ihr im ersten mithridatischen Krieg erhalten habt ,der tief im Namen des römischen Volkes sitzt und allzu alt geworden ist, dass nämlich der, der an einem Tag in ganz Asien in so vielen Gemeinden durch eine Botschaft und ein Zeichen dafür sorgte, dass alle römischen Bürger getötet und hingemordet wurden, nicht nur keine seiner Untat angemessene Strafe erhielt, sondern seit jener Zeit schon 22 Jahre regiert und zwar so, dass er sich nicht in den Schlupfwinkeln des Pontus und Cappadociens versteckt, sondern aus seinem väterlichen Königreich herauskommen und sich in euren Steuergebieten, das heißt im Licht Asiens, aufhalten will.
+		</german>
+		<latin>
+			Et quoniam semper appetentes gloriae praeter ceteras gentis atque avidi laudis fuistis, delenda est vobis illa macula Mithridatico bello superiore concepta, quae penitus iam insedit ac nimis inveteravit in populi Romani nomine, -- quod is, qui uno die, tota in Asia, tot in civitatibus, uno nuntio atque una significatione civis Romanos necandos trucidandosque denotavit, non modo adhuc poenam nullam suo dignam scelere suscepit, sed ab illo tempore annum iam tertium et vicesimum regnat, et ita regnat, ut se non Ponti neque Cappadociae latebris occultare velit, sed emergere ex patrio regno atque in vestris vectigalibus, hoc est, in Asiae luce versari.
+		</latin>
+	</section>
+	<section from="8" to="8">
+		<german>
+			Bis jetzt nämlich kämpften unsere Feldherrn so mit jenem König, dass sie von diesem zwar die Zeichen des Sieges, nicht aber den Sieg zurückbrachten. Es triumphierte Lucius Sulla und es triumphierte Lucius Morena über Mithridates, zwei sehr tapfere Männer und herausragende Feldherren, aber sie triumphierten so, dass jener geschlagen und überwunden dennoch weiterregierte. Dennoch muß diesen Feldherren wahrhaft Lob zuteil werden für das, was sie getan haben, und es muß ihnen für das, was sie übrigließen, Nachsicht gewährt werden, da ja von diesem Krieg Sulla die Lage des Staates nach Italien zurückrief, Sulla seinerseits Morena.
+		</german>
+		<latin>
+			Etenim adhuc ita nostri cum illo rege contenderunt imperatores, ut ab illo insignia victoriae, non victoriam reportarent. Triumphavit L. Sulla, triumphavit L. Murena de Mithridate, duo fortissimi viri et summi imperatores; sed ita triumpharunt, ut ille pulsus superatusque regnaret. Verum tamen illis imperatoribus laus est tribuenda quod egerunt, venia dandaquod reliquerunt, propterea quod ab eo bello Sullam in Italiam res publica, Murenam Sulla revocavit.
+		</latin>
+	</section>
+	<section from="9" to="9">
+		<german>
+			Mithridates aber hat die ganze übrige Zeit nicht zum Vergessen des alten Krieges benutzt, sondern zur Vorbereitung eines neuen. Dieser schickte später, als er sehr große Flotten hatte bauen und ausrüsten lassen und riesige Heere auf gestellt hatte, die er aus allen möglichen Völkern herbeiholte, unter dem Vorwand die Bosphoraner, seine Nachbarn, anzugreifen, Boten und Briefe bis nach Spanien, zu den Führern, mit denen wir Krieg geführt hatten. Er tat dies in der Absicht, damit ihr dann um die Herrschaft kämpfen müßt durch die Belastung von zwei Seiten zersplittert, wenn an zwei sehr verschiedenen und extrem weit entfernten Orten auf einen Plan hin von zwei feindlichen Heeren zu Land und zu Wasser Krieg geführt wird.
+		</german>
+		<latin>
+			Mithridates autem omne reliquum tempus non ad oblivionem veteris belli, sed ad comparationem novi contulit: qui
+[postea] cum maximas aedificasset ornassetque classis exercitusque permagnos quibuscumque ex gentibus potuisset comparasset, et se Bosporanis finitimis suis bellum inferre similaret, usque in Hispaniam legatos ac litteras misit ad eos duces quibuscum tum bellum gerebamus, ut, cum duobus in locis disiunctissimis maximeque diversis uno consilio a binis hostium copiis bellum terra marique gereretur, vos ancipiti contentione districti de imperio dimicaretis.
+		</latin>
+	</section>
+	<section from="10" to="10">
+		<german>
+			Aber dennoch wurde die Gefahr auf der einen Seite, ausgehend von Sertorianus und Spanien, die viel mehr äußere Festigkeit und innere Geschlossenheit hatte, durch den göttlichen Plan und die herausragende Tapferkeit des Gnaeus Pompeius niedergeschlagen. Auf der anderen Seite wurde die Sache von Lucius Lucullus, einem herausragendem Mann, so geführt, dass die großen und hochberühmten Anfänge seiner Taten nicht seinem Glück, sondern seiner Tugend zuzuschreiben sind. Dieses letzte aber, was sich neulich ereignet hat, darf man nicht seiner Schuld zuweisen, sondern dem Schicksal. Aber von Lucullus werde ich an einem anderen Ort sprechen, und ich werde so sprechen, ihr Quiriten, dass es nicht scheint, dass durch meine Rede diesem verdientes Lob entzogen, noch falsches zugefügt wird.
+		</german>
+		<latin>
+			Sed tamen alterius partis periculum, Sertorianae atque Hispaniensis, quae multo plus firmamenti ac roboris habebat, Cn. Pompei divino consilio ac singulari virtute depulsum est; in altera parte ita res a L. Lucullo summo viro est administrata, ut initia illa rerum gestarum magna atque praeclara non felicitati eius, sed virtuti, haec autem extrema, quae nuper acciderunt, non culpae, sed fortunae tribuenda esse videantur. Sed de Lucullo dicam alio loco, et ita dicam, Quirites, ut neque vera laus ei detracta oratione mea neque falsa adficta esse videatur:
+		</latin>
+	</section>
+	<section from="11" to="11">
+		<german>
+			Was die Würde und den Ruhm eures Reiches betrifft, weil ja das der Beginn meiner Rede war, seht, welche Stellung ihr glaubt annehmen zu müssen. Unsere Vorfahren haben oft Kriege geführt, nur weil Kaufleute oder Reeder zu ungerecht behandelt wurden. Und wie müßt ihr, nachdem so viele tausend römische Bürger durch eine Botschaft und zu einer Zeit umgebracht wurden, Stellung beziehen ? Weil Legaten ein wenig zu hochmütig angesprochen wurden, wollten eure Väter Corinth, den Stolz ganz Griechenlands, zerstört haben. Werdet ihr es dulden, dass dieser König ungestraft bleibt, der einen konsularischen Legaten des römischen Volkes tötete, nachdem er ihn mit Fesseln und Schlägen und jeder Art von Folter gequält hat ? Jene haben es nicht geduldet, dass die Freiheit römischer Bürger vermindert wurde. Werdet ihr das Auslöschen von Leben vernachlässigen ? Jene haben es verfolgt, dass das Gesandtschaftsrecht nur durch Worte verletzt wurde. Werdet ihr es tolerieren, dass ein Legat durch jede Art von Folter getötet wurde?
+		</german>
+		<latin>
+			de vestri imperi dignitate atque gloria -- quoniam is est exorsus orationis meae -- videte quem vobis animum suscipiendum putetis. Maiores nostri saepe mercatoribus aut naviculariis nostris iniuriosius tractatis bella gesserunt: vos, tot milibus civium Romanorum uno nuntio atque uno tempore necatis, quo tandem animo esse debetis? Legati quod erant appellati superbius, Corinthum patres vestri totius Graeciae lumen exstinctum esse voluerunt: vos eum regem inultum esse patiemini, qui legatum populi Romani consularem vinculis ac verberibus atque omni supplicio excruciatum necavit? Illi libertatem imminutam civium Romanorum non tulerunt: vos ereptam vitam neglegetis? ius legationis verbo violatum illi persecuti sunt: vos legatum omni supplicio interfectum relinquetis?
+		</latin>
+	</section>
+	<section from="12" to="12">
+		<german>
+			Seht zu, dass es euch nicht zur Schande wird, das was ihr erhalten habt nicht behaupten und erhalten zu können, wie es für jene sehr ehrenvoll war, euch den Ruhm des Reiches zu überliefern.
+		</german>
+		<latin>
+			Videte ne, ut illis pulcherrimum fuit tantam vobis imperi gloriam tradere, sic vobis turpissimum sit, id quod accepistis tueri et conservare non posse.
+		</latin>
+	</section>
+	<section from="12b" to="12b">
+		<german>
+			Was soll man dazu sagen, dass das Wohl unserer Bundesgenossen in höchster Gefahr geraten ist, wie müßt ihr euch dazu verhalten? Der König Ariobarzanes, ein Bundesgenosse und Freund der römischen Volkes, wurde aus seinem Reich vertrieben. Zwei Könige bedrohen ganz Asien, die nicht nur eure ärgsten Feinde sind, sondern auch die eurer Bundesgenossen und Freunde. Aber alle Bürgerschaften ganz Asiens und Griechenlands sind gezwungen, wegen der Größe der Gefahr auf eure Hilfe zu hoffen. Sie wagen aber weder einen bestimmten Feldherren von euch zu fordern, zumal weil ihr einen anderen geschickt habt, noch meinen sie, dies ohne die höchste Gefahr tun zu können.
+		</german>
+		<latin>
+			Quid? quod salus sociorum summum in periculum ac discrimen vocatur, quo tandem animo ferre debetis? Regno est expulsus Ariobarzanes rex, socius populi Romani atque amicus; imminent duo reges toti Asiae non solum vobis inimicissimi, sed etiam vestris sociis atque amicis; civitates autem omnes cuncta Asia atque Graecia vestrum auxilium exspectare propter periculi magnitudinem coguntur; imperatorem a vobis certum deposcere, cum praesertim vos alium miseritis, neque audent, neque se id facere sine summo periculo posse arbitrantur.
+		</latin>
+	</section>
+	<section from="13" to="13">
+		<german>
+			Sie sehen und fühlen dasselbe wie wir, dass es einen Mann gibt, in welchem alles in höchstem Maß ist, und dass er ihnen nahe ist, weshalb sie ihn besonders schmerzlich vermissen. Durch dessen Ankunft und durch seinen Namen allein, obwohl jener zum Seeräuberkrieg gekommen ist, bemerken sie dennoch, dass der Ansturm an Feinden zurückgedrängt und verlangsamt wurde. Diese bitten euch schweigend, weil es ihnen nicht erlaubt ist frei zu sprechen, dass ihr sie für würdig erachtet, dass ihr einem solchen Mann ihr Wohlergehen anvertraut. Darum bitten sie um so mehr, weil wir in die anderen Provinzen so geartete Menschen mit Befehlsgewalt schickten, dass, auch wenn sie sie gegen den Feind verteidigen sollten, sich deren Ankunft in den Städten der Bundesgenossen nicht sehr viel von einer feindlichen Besetzung unterscheidet. Während sie dies bisher hörten, sehen sie es durch seine Anwesenheit nun, dass er so maßvoll, so mild und so menschlich ist, dass es scheint, dass diejenigen am glücklichsten sind, bei denen jener recht sehr lange blieb.
+		</german>
+		<latin>
+			Vident et sentiunt hoc idem quod vos, -- unum virum esse, in quo summa sint omnia, et eum propter esse, quo etiam carent aegrius; cuius adventus ipso atque nomine, tametsi ille ad maritimum bellum venerit, tamen impetus hostium repressos esse intellegunt ac retardatos. His vos, quoniam libere loqui non licet, tacite rogant, ut se quoque, sicut ceterarum provinciarum socios, dignos existimetis, quorum salutem tali viro commendetis; atque hoc etiam magis, quod ceteros in provinciam eius modi homines cum imperio mittimus, ut etiam si ab hoste defendant, tamen ipsorum adventus in urbis sociorum non multum ab hostili expugnatione differant. Hunc audiebant antea, nunc praesentem vident, tanta temperantia, tanta mansuetudine, tanta humanitate, ut ei beatissimi esse videantur, apud quod ille diutissime commoratur.
+		</latin>
+	</section>
+	<section from="14" to="14">
+		<german>
+			Wenn unsere Vorfahren wegen der Bundesgenossen, selbst durch kein Unrecht gereizt, mit Antiochus und Philippus und den Aetolern Krieg geführt haben, mit wieviel Eifer müßt ihr, durch Ungerechtigkeiten herausgefordert, das Wohl der Bundesgenossen zusammen mit der Würde eures Reiches schützen, zumal weil es um eure größten Steuereinnahmen geht ? Denn die Steuern der übrigen Provinzen sind so groß, ihr Quiriten, dass wir kaum damit zufrieden sein können, diese Provinzen selbst zu schützen, Asien aber ist so reich und fruchtbar, dass es leicht alle Gebiet sowohl durch die reiche Ernte der Felder als auch durch die Größe der Weideflächen als auch durch die Menge der Dinge, die exportiert werden, übertrifft. Deshalb, ihr Quiriten, müßt ihr diese Provinz nicht nur vor Schaden, sondern auch vor der Furcht vor Schaden verteidigen, wenn ihr sowohl den Nutzen für den Krieg als auch die Würde des Friedens behalten wollt.
+		</german>
+		<latin>
+			Qua re si propter socios, nulla ipsi iniuria lacessiti, maiores nostri cum Antiocho, cum Philippo, cum Aetolis, cum Poenis bella gesserunt, quanto vos studio convenit iniuriis provocatos sociorum salutem una cum imperi vestri dignitate defendere, praesertim cum de maximis vestris vectigalibus agatur? Nam ceterarum provinciarum vectigalia, Quirites, tanta sunt, ut eis ad ipsas provincias tutandas vix contenti esse possimus: Asia vero tam opima est ac fertilis, ut et ubertate agrorum et varietate fructuum et magnitudine pastionis et multitudine earum rerum quae exportantur, facile omnibus terris antecellat. Itaque haec vobis provincia, Quirites, si et belli utilitatem et pacis dignitatem retinere voltis, non modo a calamitate, sed etiam a metu calamitatis est defenda.
+		</latin>
+	</section>
+	<section from="15" to="15">
+		<german>
+			Denn wenn in den übrigen Sachen ein Unheil kommt, nimmt man Schaden; jedoch bei den Steuern bringt nicht nur die Ankunft des Schlechten den Schaden, sondern auch die Furcht selbst. Denn weil die Truppen des Feindes nicht weit entfernt sind, auch wenn noch kein Angriff gemacht wurde, wird dennoch das Weideland verlassen, die Äcker liegen brach und die Kaufleute lassen die Schiffahrt ruhen. So kann man weder Hafenzoll noch die Ertragssteuer der Ernte noch Weidegeld einnehmen; deshalb verliert man oft den Ertrag eines ganzen Jahres durch ein einziges Gerücht der Gefahr und durch die Angst vor Krieg.
+		</german>
+		<latin>
+			Nam in ceteris rebus cum venit calamitas, tum detrimentum accipitur; at in vectigalibus non solum adventus mali, sed etiam metus ipse adfert calamitatem. Nam cum hostium copiae non longe absunt, etiam si inruptio nulla facta est, tamen pecuaria relinquitur, agri cultura deseritur, mercatorum navigatio conquiescit. Ita neque ex portu neque ex decumis neque ex scriptura vectigal conservari potest: qua re saepe totius anni fructus uno rumore periculi atque uno belli terrore amittitur.
+		</latin>
+	</section>
+	<section from="16" to="16">
+		<german>
+			Welches Bewußtsein glaubt ihr haben die, die uns die Steuern bezahlen oder die, die sie eintreiben und verwalten, wenn zwei Könige mit sehr großen Truppen in der Nähe sind, wenn ein Überfall der Reiterei in sehr kurzer Zeit die Steuern eines ganzen Jahres wegnehmen könnte, wenn die Steuerpächter meinen, dass ihre sehr große Angestelltenschar, die sie in den Wäldern, gleichsam in Feldern, Häfen und Wachstationen haben, in großer Gefahr sind? Glaubt ihr jene Dinge genießen zu können, ohne die Leute, die euch von Nutzen sind, nicht nur vor Schaden, wie ich es vorher gesagt habe, sondern auch vor Furcht vor Schaden zu bewahren?
+		</german>
+		<latin>
+			Quo tandem igitur animo esse existimatis aut eos qui vectigalia nobis pensitant, aut eos qui exercent atque exigunt, cum duo reges cum maximis copiis propter adsint? cum una excursio equitatus perbrevi tempore totius anni vectigal auferre possit? cum publicani familias maximas, quas in saltibus habent, quas in agris, quas in portubus atque custodiis, magno periculo se habere arbitrentur? Putatisne vos illis rebus frui posse, nisi eos qui vobis fructui sunt conservaritis non solum (ut ante dixi) calamitate, sed etiam calamitatis formidine liberatos?
+		</latin>
+	</section>
+	<section from="17" to="17">
+		<german>
+			Und ihr dürft auch nicht vernachlässigen, was sich auf die Güter vieler römischer Bürger bezieht, welches ich mir als letztes vorgenommen hatte, als ich begonnen hatte über die Art des Krieges zu sprechen. Auf diese müßt ihr sorgfältig Rücksicht nehmen, wenn ihr weise seid. Denn auch die Steuerpächter, sehr ehrenvolle und hochangesehene Leute, deren Kapitalanlagen euch am Herzen liegen müssen um eures eigenen Vorteils willen, haben ihr Vermögen in jener Provinz angelegt. Denn wenn wir immer glaubten, dass die Steuereinkünfte die Lebensadern des Staates seien, sagen wir mit Recht, dass sicher der Stand, der jene eintreibt, die Stütze der übrigen Stände ist.
+		</german>
+		<latin>
+			Ac ne illud quidem vobis neglegendum est, quod mihi ego extremum proposueram, cum essem de belli genere dicturus, quod ad multorum bona civium Romanorum pertinet, quorum vobis pro vesta sapientia, Quirites, habenda est ratio diligenter. Nam et publicani, homines honestissimi atque ornatissimi, suas rationes et copias in illam provinciam contulerunt, quorum ipsorum per se res et fortunae vobis curae esse debent. Etenim si vectigalia nervos esse rei publicae semper duximus, eum certe ordinem, qui exercet illa, firmamentum ceterorum ordinum recte esse dicemus.
+		</latin>
+	</section>
+	<section from="18" to="18">
+		<german>
+			Zweitens machen auch tüchtige und fleißige Menschen aus den übrigen Ständen zum Teil selbst in Asien Geschäfte, für die ihr in ihrer Abwesenheit sorgen müßt; ein Teil derer hat in dieser Provinz große Geldmengen angelegt. Es ist nämlich ein Zeichen von Menschlichkeit, dass ihr eine große Zahl von Bürgern vor Schaden bewahrt, und es ist ein Zeichen eurer Weisheit, zu sehen, dass der Schaden vieler Bürger nicht vom Staat getrennt werden kann. Und es ist auch nicht wichtig, dass wir später die Steuern durch einen Sieg wiedererlangen können, wenn wir die Steuerpächter verloren haben. Denn weder werden dieselben wegen des Schadens die Möglichkeit haben, diese zurückzukaufen, noch werden andere wegen der Angst dies wollen.
+		</german>
+		<latin>
+			Deinde ex ceteris ordinibus homines gnavi atque industrii partim ipsi in Asia negotiantur, quibus vos absentibus consulere debetis, partim eorum in ea provincia pecunias magnas conlocatas habent. Est igitur humanitatis vestrae magnum numerum eorum civium calamitate prohibere, sapientiae videre multorum civium calamitatem a re publica seiunctam esse non posse. Etenim primum illud parvi refert, nos publica his amissis vectigalia postea victoria recuperare. Neque enim isdem redimendi facultas erit propter calamitatem, neque aliis voluntas propter timorem.
+		</latin>
+	</section>
+	<section from="19" to="19">
+		<german>
+			Dann müssen wir das, was uns Asien und desgleichen der gewisse Mithridates dort am Anfang des Krieges gelehrt haben, in Erinnerung behalten. Denn dann wissen wir, dass in Rom das Kreditwesen aufgrund des Unterbleibens von Rückzahlungen darniederliegt, wenn in Asien sehr viele sehr große Geldmengen verlieren. Viele können nämlich in einer einzigen Bürgerschaft nicht ihr Hab und Gut verlieren, ohne dass die viele mit sich in die Tiefe ziehen. Vor dieser Gefahr schützt den Staat und glaubt mir, was ihr selbst seht: Dieses Kreditwesen und diese Geldgeschäfte, welche in Rom, welche auf dem Forum getätigt werden, sind eng verflochten mit jenen Geldern in Asien. Jene Geldgeschäfte können nicht zusammenbrechen, ohne dass diese (Geldgeschäfte hier) durch dieselbe Bewegung zusammenbrechen. Deshalb seht, dass ihr nicht daran zweifeln dürft euch mit allem Eifer in diesem Krieg zu engagieren, in dem der Ruhm eures Namens, das Wohl der Bundesgenossen, große Steuereinkünfte, und das Schicksal vieler Bürger, die mit dem Staat verbunden sind, verteidigt wird.
+		</german>
+		<latin>
+			Deinde quod nos eadem Asia atque idem iste Mithridates initio belli Asiatici docuit, id quidem certe calamitate docti memoria retinere debemus. Nam tum, cum in Asia res magnas permulti, amiserant, scimus Romae, solutione impedita, fidem concidisse. Non enim possunt una in civitate multi rem ac fortunas amittere, ut non plures secum in eandem trahant calamitatem. A quo periculo prohibete rem publicam, et mihi credite id quod ipsi videtis: haec fides atque haec ratio pecuniarum, quae Romae, quae in foro versatur, implicata est cum illis pecuniis Asiaticis et cohaeret. Ruere illa non possunt, ut haec non eodem labefacta motu concidant. Qua re videte num dubitandum vobis sit omni studio ad id bellum incumbere, in quo gloria nominis vestri, salus sociorum, vectigalia maxima, fortunae plurimorum civium coniunctae cum re publica defendantur.
+		</latin>
+	</section>
+</text>
+</translation>

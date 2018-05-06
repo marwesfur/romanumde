@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Cicero</author>
+	<title>De Imperio Cn. Pompei</title>
+	<snippet>Die Größe des Krieges</snippet>
+	<translator>Markus Westphal und Patrick Jungk</translator>
+	<textkind>prosa</textkind>
+	<firstnumber>20</firstnumber>
+	<navigation>
+		<previous url="intro.html">De Imperio Pompei Einführung</previous>
+		<previous url="art.xml">Die Art des Krieges</previous>
+		<next url="wahl.xml">Die Wahl des Feldherren</next>
+	</navigation>
+</description>
+
+<structure>
+	<list>
+		<item url="disposition.xml">Disposition</item>
+		<item url="art.xml">Art des Krieges</item>
+
+		<item>Die Größe des Krieges</item>
+		<list>
+			<item number="20">Die anfänglichen Erfolge des Lucullus</item>
+			<item number="22">Die Flucht des Mythridates und Trigranes</item>
+			<item number="24">Die Meuterei des römische Heeres</item>
+		</list>
+
+		<item url="wahl.xml">Die Wahl des Feldherrn</item>
+		<item url="widerlegung.xml">Widerlegung der Gegner des Gesetzes</item>
+		<item url="schluss.xml">Schluß</item>
+	</list>
+</structure>
+
+<text>
+
+	<section from="20" to="20">
+		<german>
+			Nachdem ich über die Art des Krieges gesprochen habe, werde ich nun ein wenig über die Größe sprechen. Es kann nämlich die Art des Krieges, die ich beschrieben habe, so notwendig sein, dass er geführt werden muß, er ist aber nicht so groß, dass man sich sehr fürchten muß. Dafür müßt ihr euch auf das Äußerste anstrengen, das euch nicht das verachtenswert erscheint, wofür man sorgfältig sorgen muß. Und damit alle sehen, dass ich Lucius Lucullus soviel Lob zuteile, wie man einem tapferen Mann und weisem Mensch und großem Feldherren schuldet, sage ich, dass bei dessen Ankunft sehr große Truppen des Mithridates mit allen Dingen ausgerüstet und aufgestellt waren, und dass Cyzicenus, eine sehr berühmte, mit uns befreundete Stadt in Asien, von diesem König selbst mit einer großen Menge an Soldaten belagert und heftigst bestürmt wurde. Diese Stadt befreite Lucius Lucullus durch seine Tapferkeit, durch seine Ausdauer und durch einen klugen Plan aus der höchsten Gefahr der Belagerung;
+		</german>
+		<latin>
+			Quoniam de genere belli dixi, nunc de magnitudine pauca dicam. Potest hoc enim dici, belli genus esse ita necessarium ut sit gerendum, non esse ita magnum ut sit pertimescendum. In quo maxime elaborandum est, ne forte ea vobis quae diligentissime providenda sunt, contemnenda esse videantur. Atque ut omnes intellegant me L. Lucullo tantum impertire laudis, quantum forti viro et sapienti homini et magno imperatori debeatur, dico eius adventu maximas Mithridati copias omnibus rebus ornatus atque instructas fuisse, urbemque Asiae clarissimam nobisque amicissimam, Cyzicenorum, obsessam esse ab ipso rege maxima multitudine et oppugnatam vehementissime, quam L. Lucullus virtute, adsiduitate, consilio, summis obsidionis periculis liberavit:
+		</latin>
+	</section>
+	<section from="21" to="21">
+		<german>
+			von demselben Feldherren wurde eine große und gut ausgerüstete Flotte, die unter sertorianischer Führung durch Haß angetrieben Italien angriff, besiegt und versenkt. Außerdem wurden große feindliche Truppen in vielen Kämpfen niedergemacht, und unseren Legionen das Schwarze Meer geöffnet, welches davor dem römischen Volk vor jedem Zugang abgeschlossen war. Sinope und Amisus, wo die Paläste des Königs waren, die mit allen Dingen geschmückt und vollgestopft waren, und sehr viele andere Städte Cabadociens und des Pontus wurden durch einen Besuch und die Ankunft (des Lucullus) eingenommen. Der König begab sich hilfesuchend zu anderen Königen und Völkern, nachdem er seines Königreichs, überliefert durch seinen Vater und Großvater, beraubt worden war. Dies alles ist geschehen, ohne dass den Bundesgenossen auch nur ein Haar gekrümmt worden wäre und die Steuern auch nur angerührt wurden. Damit, meine ich, ist genug Lob gespendet, ihr Quiriten, und zwar so, dass ihr folgendes sehen könnt: keiner der Gegner dieses Antrags und Unternehmens hat Lucius Lucullus von hier aus in gleicher Weise gerühmt.
+		</german>
+		<latin>
+			ab eodem imperatore classem magnam et ornatam, quae ducibus Sertorianis ad Italiam studio atque odio inflammata raperetur, superatam esse atque depressami magnas hostium praeterea copias multis proeliis esse deletas, patefactumque nostris legionibs esse Pontum, qui antea populo Romano ex omni aditu clausus fuisset; Sinopen atque Amisum, quibus in oppidis erant domicilia regis, omnibus rebus ornatus ac refertas, ceterasque urbis Ponti et Cappadociae permultas, uno aditu adventuque esse captas; regem, spoliatum regno patrio atque avito, ad alios se reges atque ad alias gentis supplicem contulisse; atque haec omnia salvis populi Romani sociis atque integris vectigalibus esse gesta. Satis opinor haec esse laudis, atque ita, Quirites, ut hoc vos intellegatis, a nullo istorum, qui huic obtrectant legi atque causae, L. Lucullum similiter ex hoc loco esse laudatum.
+		</latin>
+	</section>
+	<section from="22" to="22">
+		<german>
+			Nun wird man vielleicht fragen, da das so ist, wie überhaupt ein großer Krieg übrigbleiben kann. So wisset denn, ihr Quiriten; es scheint, dass dies nämlich nicht ohne Grund gefragt wird. Zuerst floh Mithridates so aus seinem Königreich, wie einst jene bekannte Medea aus demselben Pontus geflohen sein soll. Man erzählt, dass diese auf der Flucht die Körperteile ihres Bruders an denen Stellen verstreute, wo der Vater sie verfolgte, damit das Aufsammeln des Zerstreuten und die väterliche Trauer die Schnelligkeit der Verfolgung verzögerten. So ließ Mithridates auf der Flucht sehr große Mengen Gold und Silber und alle möglichen sehr schönen Dinge in Pontus zurück, die er sowohl von seinen Vorfahren geerbt als auch aus ganz Asien in einem früheren Krieg geraubt und in sein eigenes Reich gebracht hatte. Während unsere Leute diese Dinge allzu sorgfältig aufsammelten, entfloh ihnen der König selbst aus den Händen. So hat jenen die Trauer im Eifer der Verfolgung verlangsamt, diese die Freude.
+		</german>
+		<latin>
+			Requiretur fortasse nunc quem ad modum, cum haec ita sint, reliquum possit magnum esse bellum. Cognoscite, Quirites. Non enim hoc sine causa quaeri videtur. Primum ex suo regno sic Mithridates profugit, ut ex eodem Ponto Medea illa quondam profugisse dicitur, quam praedicant in fuga fratris sui membra in eis locis, qua se parens persequeretur, dissipavisse, ut eorum conlectio dispersa, maerorque patrius, celeritatem persequendi retardaret. Sic Mithridates fugiens maximam vim auri atque argenti pulcherrimarumque rerum omnium, quas et a maioribus acceperat et ipse bello superiore ex tota Asia direptas in suum regnum congesserat, in Ponto omnem reliquit. Haec dum nostri conligunt omnia diligentius, rex ipse e manibus effugit. Ita illum in persequendi studio maeror, hos laetitia tardavit.
+		</latin>
+	</section>
+	<section from="23" to="23">
+		<german>
+			Diesen nahm auf dieser schreckensreichen Flucht Tigranes, der armenische König, auf und stärkte den an seiner Lage verzweifelten und richtete den Niedergeschlagenen wieder auf und stellte den Vernichteten wieder her. Später kam Lucius Lucullus mit seinem Heer in dessen Königreich; mehrere Völker waren gegen unseren Feldherren aufgehetzt. Diesen Völkern, welche das römische Volk weder zu einem Krieg reizen noch beunruhigen wollte, war nämlich Furcht eingeflößt worden. Zudem ging noch ein bedenklicher den Fanatismus aufpeitschender Verdacht um, der diese barbarischen Völker erfaßt hatte, nämlich: unser Heer sei in diesen Raum geführt worden, um einen ungeheuer reichen und hochverehrten Tempel zu plündern. So wurden zahlreiche große Stämme durch eine geradezu unerhörte Schreckenskunde und Befürchtung aufgehetzt. Unser Heer aber wurde trotz der Einnahme einer Residenzstadt im Reich des Tigranes und trotz siegreicher Gefechte durch die allzu große Entfernung dieser Gegenden und durch das Heimweh nach Angehörigen beunruhigt.
+		</german>
+		<latin>
+			Hunc in illo timore et fuga Tigranes rex Armenius excepit, diffidentemque rebus suis confirmavit, et adflictum erexit, perditumque recreavit. Cuius in regnum postea quam L. Lucullus cum exercitu venit, plures etiam gentes contra imperatorem nostrum concitatae sunt. Erat enim metus iniectus eis nationibus, quas numquam populus Romanus neque lacessendas bello neque temptandas putavit: erat etiam alia gravis atque vehemens opinio, quae animos gentium barbarum pervaserat, fani locupletissimi et religiosissimi diripiendi causa in eas oras nostrum esse exercitum adductum. Ita nationes multae atque magnae novo quodam terrore ac metu concitabantur. Noster autem exercitus, tametsi urbem ex Tigrani regno ceperat, et proeliis usus erat secundis, tamen nimia longinquitate locorum ac desiderio suorum commovebatur.
+		</latin>
+	</section>
+	<section from="24" to="24">
+		<german>
+			Hier will ich nicht mehr mehr dazu sagen; es war nämlich jenes das äußerste, dass von diesen Orten von unseren Soldaten mehr eine baldige Rückkehr als ein weiteres Vorrücken gesucht wurde. Mithridates aber hatte sowohl seine Truppen (Schar) gestärkt als auch wurde er unterstützt von denen, die sich selbst aus seinem Reich zusammengefunden hatten und durch die ankommenden Hilfstruppen vieler Könige und Völker. Denn wir haben erfahren, dass dieses so zu geschehen pflegt, dass das Mißgeschick von Königen leicht viele zur Hilfe und zum Mitleid anregt; und zwar solche, die entweder selbst Könige sind oder in einem Königreich leben, so dass diesen nämlich der königliche Name groß und heilig erscheint.
+		</german>
+		<latin>
+			Hic iam plura non dicam. Fuit enim illud extremum ut ex eis locis a militibus nostris reditus magis maturus quam processio longior quaereretur. Mithridates autem et suam manum iam confirmarat, [et eorum] qui se ex ipsius regno conlegerant, et magnis adventiciis auxiliis multorum regum et nationum iuvabatur. iam hoc fere sic fieri solere accepimus, ut regem adflictae fortunae facile multorum opes adliciant ad misericordiam, maximeque eorum qui aut reges sunt aut vivunt in regno, ut eis nomen regale magnum et sanctum esse videatur.
+		</latin>
+	</section>
+	<section from="25" to="25">
+		<german>
+			So konnte Mithridates als Besiegter so viel ausrichten, wie er als Unbesiegter nicht zu wünschen wagte. Nach der Rückkehr in sein Reich begnügte er sich nämlich nicht damit, dass er dieses Land, nachdem er geschlagen worden war, nun nochmals betreten konnte, sondern griff unser siegreiches und berühmtes Heer an. Laßt mich hier zu diesem Zeitpunkt, ihr Quiriten, wie es die Dichter, die von der römischen Geschichte erzählen, zu tunpflegen, unsere Niederlage übergehen; die Niederlage, die so groß war, dass sie dem Feldherrn nicht etwa durch die Nachricht eines Boten von der Schlacht zu Ohren kam, sondern nur durch Gerüchte aus Gesprächen.
+		</german>
+		<latin>
+			Itaque tantum victus efficere potuit, quantum incolumis numquam est ausus optare. Nam cum se in regnum suum recepisset, non fuit eo contentus, quod ei praeter spem acciderat, -- ut illam, postea quam pulsus erat, terram umquam attingeret, -- sed in exercitum nostrum clarum atque victorem impetum fecit. Sinite hoc loco, Quirites, sicut poetae solent, qui res Romanas scribunt, praeterire me nostram calamitatem, quae tanta fuit, ut eam ad auris [Luculli] imperatoris non ex proelio nuntius, sed ex sermone rumor adferret.
+		</latin>
+	</section>
+	<section from="26" to="26">
+		<german>
+			In jenem sehr schweren Unglück und in der schwersten Schmach des Krieges entließ Lucius Lucullus, der das Unglück vielleicht wenigstens teilweise hätte ausmerzen können, durch euren Druck gezwungen - ihr glaubtet nach alten Sitten die Länge eines Oberbefehls beschränken zu müssen - einen Teil der Soldaten, deren Dienstzeit schon abgelaufen war und übergab den anderen Teil an Marcus Glabrio. Vieles übergehe ich absichtlich, aber macht euch dieses durch Überlegungen klar, wie schwer, dass ihr glaubt, dieser Krieg geworden ist, den die mächtigsten Könige gemeinsam führten, den die aufgehetzten Nationen erneuerten, den neue Völker auf sich nahmen, und den der neue Feldherr von uns übernehmen muß, nachdem unser altes Heer geschlagen wurde.
+		</german>
+		<latin>
+			Hic in illo ipso malo gravissimaque belli offensione, L. Lucullus, qui tamen aliqua ex parte eis incommodis mederi fortasse potuisset, vestro iussu coactus, -- qui imperi diuturnitati modum statuendum vetere exemplo putavistis, -- partem militum, qui iam stipendiis confecti erant, dimisit, partem M'. Glabrioni tradidit. Multa praetereo consulto, sed ea vos coniectura perspicite, quantum illud bellum factum putetis, quod coniungant reges potentissimi, renovent agitatae nationes, suscipiant integrae gentes, novus mperator noster accipiat, vetere exercitu pulso.
+		</latin>
+	</section>
+</text>
+</translation>

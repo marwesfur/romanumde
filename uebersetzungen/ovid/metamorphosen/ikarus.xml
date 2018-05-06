@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Ovid</author>
+	<title>Metamorphoses</title>
+	<snippet>Daedalus und Ikarus</snippet>
+	<translator>Julia Grybas</translator>
+	<textkind>poetry</textkind>
+	<firstnumber>183</firstnumber>
+	<navigation>
+		<previous url="intro.html">Metamorphoses Einführung</previous>
+		<previous url="lyk_bauern.xml">Die Lykischen Bauern</previous>
+		<next url="orpheus.xml">Orpheus und Eurydice</next>
+	</navigation>
+</description>
+<text>
+
+	<section from="183" to="235">
+		<german>
+			Dädalus, der Kretas und der langen Verbannung überdrüssig war und der berührt war von der Liebe zur Heimat, <para no="185"/> war inzwischen vom Meer umschlossen. Mag Minos das Land und das Meer versperren, jedoch steht der Himmel sicher offen. Auf diesem Weg werden wir gehen. Er mag alles besitzen, die Luft besitzt Minos aber nicht. Er sprach's und richtete seine Sinne auf unbekannte Künste und schafft die Natur neu.
+			Dann richtet er die Federn in einer Reihe aus (mit der kleinsten beginnend, <para no="190"/> wobei die kürzere der längeren folgt), so dass Du glaubst sie seien am Hang gewachsen, so steigt zuweilen die Bauernflöte allmählich an mit ungleichen Halmen. Dann befestigt er sie in der Mitte mit einer Schnur und die untersten mit Wachs, und biegt die so geordneten in einer leichten Krümmung, so dass er echte Vögel nachahmt.
+			Der Knabe Ikarus stand dabei und nicht wissend, dass er mit seiner eigenen Gefahr spiele, haschte er bald mit strahlendem Gesicht die Federn, die ein leichtes Lüftchen bewegt hatte, bald knetete er mit seinem Daumen das weiche Wachs und bewunderte das bewundernswerte Werk des Vaters und behinderte ihn mit seinem Spiel. <para no="200"/> Schließlich, nachdem dem begonnenen Werk letzte Hand angelegt worden war, brachte er selbst seinen Körper zwischen die beiden Flügel ins Gleichgewicht und hing in der bewegten Luft. Er unterwies auch den Sohn und sagte: ich ermahne Dich, dass Du auf der mittleren Bahn fliegst, damit nicht die Welle Deine Federn beschwert, wenn Du zu tief fliegen wirst und nicht das Feuer sie versenkt, wenn Du zu hoch fliegen wirst. Fliege zwischen beiden! Ich befehle Dir nicht den Ochsentreiber oder das Schneckengewinde zu betrachten und das gezogene Schwert des Orion. Bewältige den Weg mit mir als Führer.
+			Während er die Flugvorschriften überlieferte passt er gleichzeitig die unbekannten Vogelflügeln den Schultern an. <para no="210"/> Zwischen der Arbeit und den Ermahnungen waren die Wangen des alten Mannes feucht geworden und die Hände des Vaters zitterten. Er gab seinem Sohn Küsse, die er nicht wiederholen sollte und er fliegt voraus von den Flügeln erhoben und er fürchtet um den Begleiter, wie ein Adler, der von seinem hohen Nest in der Luft welch zarte Nachkommenschaft hervorbrachte und ermahnte zu folgen und lehrte die Kunst des Schädlichen und er selbst bewegt seine Flügel und kümmert sich um den Sohn. Diese sah wohl mancher während er Fische mit der zitternden Angelrute fing oder ein Hirte gestützt auf seinen Stab oder ein Bauer gestützt auf seinen Pflugsterz und erschrak und glaubte es seien Götter, <para no="220"/> die durch den Himmel fliegen könnten.
+			(Und schon lag zur linken das der Iuno geweihte Samos und es waren Delos und Paros zurückgelegt worden) Lebinthus und das an Honig reiche Calymne war rechts gelegen, als der Knabe anfängt sich zu freuen und er lässt den Vater im Stich und nahm eine höhere Bahn von der Begierde nach dem Himmel gezogen. Die Nähe der sengenden Sonne macht das duftende Wachs weich, das Bindemittel der Federn. Das Wachs schmolz. Jener schüttelt seine nackten Arme und ohne Ruderwerk fängt er keine Luft mehr auf und sein Mund, der oftmals den Namen des Vaters aufschreit, <para no="230"/> wird vom blauen Wasser aufgenommen: dieses bekam den Namen von jenem. Doch der unglückliche Vater, der schon nicht mehr Vater war, sagte: "Ikarus,Ikarus, wo bist Du? In welchem Gebiet soll ich Dich suchen?" Er sagte: "Ikarus", er betrachtete die Flügeln im Meer und verfluchte seine Künste, und er begrub den Körper im Grabmal. Und das Land bekam den Namen vom Begrabenen.
+		</german>
+		<latin>
+			Daedalus interea Creten longumque perosus<br/>
+			exilium tactusque loci natalis amore<br/>
+			clausus erat pelago. 'terras licet' inquit 'et undas<br/>
+			obstruat: et caelum certe patet; ibimus illac:<br/>
+			omnia possideat, non possidet aera Minos.'<br/>
+			dixit et ignotas animum dimittit in artes<br/>
+			naturamque novat. nam ponit in ordine pennas<br/>
+			a minima coeptas, longam breviore sequenti,<br/>
+			ut clivo crevisse putes: sic rustica quondam<br/>
+			fistula disparibus paulatim surgit avenis;<br/>
+			tum lino medias et ceris alligat imas<br/>
+			atque ita conpositas parvo curvamine flectit, <br/>
+			ut veras imitetur aves. puer Icarus una<br/>
+			stabat et, ignarus sua se tractare pericla,<br/>
+			ore renidenti modo, quas vaga moverat aura,<br/>
+			captabat plumas, flavam modo pollice ceram<br/>
+			mollibat lusuque suo mirabile patris<br/>
+			impediebat opus. postquam manus ultima coepto<br/>
+			inposita est, geminas opifex libravit in alas<br/>
+			ipse suum corpus motaque pependit in aura;<br/>
+			instruit et natum 'medio' que 'ut limite curras,<br/>
+			Icare,' ait 'moneo, ne, si demissior ibis,<br/>
+			unda gravet pennas, si celsior, ignis adurat:<br/>
+			inter utrumque vola. nec te spectare Booten<br/>
+			aut Helicen iubeo strictumque Orionis ensem:<br/>
+			me duce carpe viam!' pariter praecepta volandi<br/>
+			tradit et ignotas umeris accommodat alas.<br/>
+			inter opus monitusque genae maduere seniles,<br/>
+			et patriae tremuere manus; dedit oscula nato<br/>
+			non iterum repetenda suo pennisque levatus<br/>
+			ante volat comitique timet, velut ales, ab alto<br/>
+			quae teneram prolem produxit in aera nido,<br/>
+			hortaturque sequi damnosasque erudit artes<br/>
+			et movet ipse suas et nati respicit alas.<br/>
+			hos aliquis tremula dum captat harundine pisces,<br/>
+			aut pastor baculo stivave innixus arator<br/>
+			vidit et obstipuit, quique aethera carpere possent,<br/>
+			credidit esse deos. et iam Iunonia laeva<br/>
+			parte Samos (fuerant Delosque Parosque relictae)<br/>
+			dextra Lebinthos erat fecundaque melle Calymne,<br/>
+			cum puer audaci coepit gaudere volatu <br/>
+			deseruitque ducem caelique cupidine tractus<br/>
+			altius egit iter. rapidi vicinia solis<br/>
+			mollit odoratas, pennarum vincula, ceras;<br/>
+			tabuerant cerae: nudos quatit ille lacertos,<br/>
+			remigioque carens non ullas percipit auras,<br/>
+			oraque caerulea patrium clamantia nomen<br/>
+			excipiuntur aqua, quae nomen traxit ab illo.<br/>
+			at pater infelix, nec iam pater, 'Icare,' dixit,<br/>
+			'Icare,' dixit 'ubi es? qua te regione requiram?'<br/>
+			'Icare' dicebat: pennas aspexit in undis<br/>
+			devovitque suas artes corpusque sepulcro<br/>
+			condidit, et tellus a nomine dicta sepulti.
+		</latin>
+	</section>
+</text>
+</translation>

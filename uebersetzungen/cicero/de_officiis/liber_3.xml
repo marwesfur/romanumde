@@ -1,0 +1,1354 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Cicero</author>
+	<title>De Officiis</title>
+	<snippet>Liber tertius</snippet>
+	<translator>Rainer Lohmann</translator>
+	<textkind>prosa</textkind>
+	<firstnumber>1</firstnumber>
+	<navigation>
+		<previous url="intro.html">De Officiis Einführung</previous>
+		
+	</navigation>
+</description>
+
+<structure>
+
+	<list>
+		<item number="1">Einleitung. Ausnützung der Muße</item>
+		<item number="7">Der Konflikt zwischen den Pflichten der Tugend und des Nutzens</item>
+		<list>
+			<item number="7">Panaitios führte dieses Thema nicht aus</item>
+			<item number="11">Berechtigung der Frage nach dem Konflikt zwischen Tugend und Nutzen</item>
+			<item number="19b">Man darf nie für eigenen Nutzen andere schädigen</item>
+			<item number="33">Beim Konflikt Tugend/Nutzen geht es nur um scheinbaren Nutzen</item>
+			<item number="35">Unmoralisches Handeln und Nutzen gibt es nicht zusammen</item>
+			<item number="37b">Das Böse ist grundsätzlich zu meiden</item>
+		</list>
+		<item number="40">Scheinbar Nützliches ohne Verletzung der Sittlichkeit</item>
+		<list>
+			<item number="40">Gemeinwohl im Streit mit Pflichten gegen Einzelmenschen</item>
+			<item number="43">Pflicht im Konflikt mit Freundschaft</item>
+			<item number="46b">Politischer Vorteil im Konflikt mit Pflichten gegenüber der Menschheit</item>
+		</list>				
+		<item number="49">Konflikte zwischen Nutzen und Tugend in Handel und Wandel</item>
+		<list>
+			<item number="49b">Ein Streitfall</item>
+			<item number="53b">Keine Lüge oder Täuschung bei Verkäufen!</item>
+			<item number="61">Keine "kluge Lüge"! Bei Immobilien verbietet sie das Gesetz</item>
+			<item number="68b">Nicht durch die "Maschen des Gesetzes" schlüpfen</item>
+			<item number="73">Weitere Konfliktsfälle</item>
+			<item number="79">Auch großer Gewinn entschuldigt Schlechtigkeit nicht</item>
+			<item number="82b">Tyrannis als Konfliktsfall zwischen Nutzen und Moral</item>
+			<item number="86">Beispiele aus Roms Geschichte</item>
+			<item number="89">Weitere Konflikte</item>
+			<item number="92">Wann muss man ein Versprechen nicht halten?</item>
+		</list>
+		<item number="96">Konflikte des Nutzens mit der Tapferkeit</item>
+		<list>
+			<item number="97">Odysseus und Regulus</item>
+			<item number="101b">Diskussion der Tat des Regulus</item>
+			<item number="111">Weitere Beispiele von Eidestreue</item>
+		</list>
+		<item number="116">Konflikte des scheinbaren Nutzens mit den Pflichten der Selbstbeherrschung</item>
+		<item number="121">Epilog</item>
+	</list>
+
+</structure>
+
+<text>
+
+	<section from="1" to="1">
+		<german>
+			P. Scipio, mein Sohn Marcus, derjenige, der als erster Africanus genannt wurde, pflegte zu sagen, wie Cato schrieb, der fast sein Zeitgenosse war, niemals sei er weniger frei von Staatsgeschäften, als wenn er ihrer ledig sei, und nicht weniger allein, als wenn er allein sei. Ein in der Tat großartiger Ausspruch und eines bedeutenden und weisen Mannes würdig; dieser bedeutet, dass jener in der Muße über die Staatsgeschäfte nachzudenken und in der Einsamkeit mit sich zu sprechen pflegte, so dass er niemals untätig war und bisweilen die Unterhaltung mit einem anderen nicht vermisste. So spornten jenen zwei Dinge an, die den Übrigen Resignation bringen: Muße und Einsamkeit. Ich wünschte, uns wäre dieses ebenso mit voller Wahrheit zu sagen möglich, aber wenn wir weniger durch Nachahmung eine so große Vortrefflichkeit des Geistes erreichen können, so kommen wir gewiss über den Willen sehr nahe an diese heran. Denn da wir von der politischen Tätigkeit und den Tätigkeiten auf dem Forum durch ruchlose Waffen gewaltsam ausgeschlossen sind, suchen wir die Muße und sind deswegen oft allein, wenn wir die Stadt verlassen haben und von einem Landhaus zum anderen wechseln.
+		</german>
+		<latin>
+			P. Scipionem, Marce fili, eum, qui primus Africanus appellatus est, dicere solitum scripsit Cato, qui fuit eius fere aequalis, numquam se minus otiosum esse, quam cum otiosus, nec minus solum, quam cum solus esset. Magnifica vero vox et magno viro ac sapiente digna; quae declarat illum et in otio de negotiis cogitare et in solitudine secum loqui solitum, ut neque cessaret umquam et interdum conloquio alterius non egeret. Ita duae res, quae languorem adferunt ceteris, illum acuebant, otium et solitudo. Vellem nobis hoc idem vere dicere liceret, sed si minus imitatione tantam ingenii praestantiam consequi possumus, voluntate certe proxime accedimus. Nam et a re publica forensibusque negotiis armis impiis vique prohibiti otium persequimur et ob eam causam urbe relicta rura peragrantes saepe soli sumus.
+		</latin>
+	</section>
+	<section from="2" to="2">
+		<german>
+			Aber weder ist diese Muße mit der Muße des Africanus noch diese Einsamkeit mit jener zu vergleichen. Jener nämlich wählte für sich dann und wann die Muße, wenn er sich von der schönsten politischen Wirksamkeit erholte, und zog sich von der Zusammenkunft und der Masse der Menschen mitunter wie in einen Hafen in die Einsamkeit zurück, unsere Muße aber beruht auf dem Mangel an Betätigung, nicht auf dem Bestreben auszuruhen. Denn was gibt es noch nach der Entmachtung des Senates und der Unterdrückung der Gerichte, das wir, unser würdig, entweder in der Kurie oder auf dem Forum tun könnten?
+		</german>
+		<latin>
+			Sed nec hoc otium cum Africani otio nec haec solitudo cum illa comparanda est. Ille enim requiescens a rei publicae pulcherrimis muneribus otium sibi sumebat aliquando et coetu hominum frequentiaque interdum tamquam in portum se in solitudinem recipiebat, nostrum autem otium negotii inopia, non requiescendi studio constitutum est. Extincto enim senatu deletisque iudiciis quid est, quod dignum nobis aut in curia aut in foro agere possimus?
+		</latin>
+	</section>
+	<section from="3" to="3">
+		<german>
+			So meiden wir jetzt, während wir einst vor aller Welt und vor den Augen der Bürger gelebt haben, den Anblick verruchter Menschen, von denen alles überströmt, wir verbergen uns, soweit es möglich ist, und sind oft allein. Aber weil wir von gebildeten Menschen vernommen haben, dass man nicht nur aus den Übeln die geringsten auswählen, sondern auch aus ihnen selbst aussuchen soll, falls etwas Gutes darin enthalten sei, deswegen genieße ich einerseits die Muße, freilich nicht jene, die derjenige genießen müsste, der einst den Frieden für die Bürgerschaft ermöglicht hatte, und lasse andererseits nicht zu, dass die Einsamkeit langweilig ist, die meine Notsituation, nicht mein Wille mir einbringt.
+		</german>
+		<latin>
+			 Ita qui in maxima celebritate atque in oculis civium quondam vixerimus, nunc fugientes conspectum sceleratorum, quibus omnia redundant, abdimus nos quantum licet et saepe soli sumus. Sed quia sic ab hominibus doctis accepimus, non solum ex malis eligere minima oportere, sed etiam excerpere ex his ipsis, si quid inesset boni, propterea et otio fruor, non illo quidem, quo debeat is, qui quondam peperisset otium civitati, nec eam solitudinem languere patior, quam mihi adfert necessitas, non voluntas.
+		</latin>
+	</section>
+	<section from="4" to="4">
+		<german>
+			Indessen erlangte Africanus nach meiner Meinung größeren Ruhm. Denn keine schriftlich niedergelegten Erinnerungszeichen seines Geistes, kein Werk seiner Muße, keine Frucht seiner Einsamkeit sind erhalten; hieraus muss erkannt werden, dass jener infolge der Regsamkeit seines Geistes und der Erforschung der Gegenstände, über die er nachdachte, weder müßig noch jemals allein gewesen ist; wir aber, die wir nicht so viel Kraft haben, dass wir durch geistige Arbeit im Stillen von der Einsamkeit loskommen, richten unseren ganzen Eifer und unsere Bemühung auf diese schriftstellerische Tätigkeit. Daher haben wir in kurzer Zeit nach der Zerstörung des Staates mehr geschrieben als in den vielen Jahren, da er Bestand hatte.
+		</german>
+		<latin>
+			Quamquam Africanus maiorem laudem meo iudicio assequebatur. Nulla enim eius ingenii monumenta mandata litteris, nullum opus otii, nullum solitudinis munus extat; ex quo intellegi debet illum mentis agitatione investigationeque earum rerum, quas cogitando consequebatur, nec otiosum nec solum umquam fuisse; nos autem, qui non tantum roboris habemus, ut cogitatione tacita a solitudine abstrahamur, ad hanc scribendi operam omne studium curamque convertimus. Itaque plura brevi tempore eversa quam multis annis stante re publica scripsimus.
+		</latin>
+	</section>
+	<section from="5" to="5">
+		<german>
+			Aber weil die ganze Philosophie, mein Cicero, fruchtbar und ersprießlich ist und kein Teil von ihr öde und unfruchtbar, gibt es sodann in ihr kein ertragreicheres und ergiebigeres Thema als das über die Pflichten, von denen die Vorschriften für ein charakterfestes und ehrenhaftes Leben abgeleitet werden. Obwohl ich daher darauf vertraue, dass du dieses von unserem Cratippus, dem führenden Philosophen unserer Zeit, unablässig hörst und in dich aufnimmst, glaube ich dennoch, dass es nützlich ist, wenn deine Ohren überall von solchen Stimmen umtönt werden und sie nichts anderes hören, falls es möglich ist.
+		</german>
+		<latin>
+			Sed cum tota philosophia, mi Cicero, frugifera et fructuosa nec ulla pars eius inculta ac deserta sit, tum nullus feracior in ea locus est nec uberior, quam de officiis, a quibus constanter honesteque vivendi praecepta ducuntur. Quare quamquam a Cratippo nostro, principe huius memoriae philosophorum, haec te assidue audire atque accipere confido, tamen conducere arbitror talibus aures tuas vocibus undique circumsonare, nec eas, si fieri possit, quicquam aliud audire.
+		</latin>
+	</section>
+	<section from="6" to="6">
+		<german>
+			Dieses müssen alle tun, die beabsichtigen, sich auf ein ehrenhaftes Leben einzulassen, und vielleicht niemand mehr als du. Du trägst nämlich die nicht geringe Erwartung, dass du unseren Fleiß, die große, dass du unsere Ehren, die nicht unbedeutende, dass du vielleicht unseren Ruhm nachahmen wirst. Außerdem hast du die Verantwortung übernommen, die dir Athen und Cratippus auferlegen; weil du dich zu diesen begeben hast, um die Wis senschaften gleichsam einzukaufen, ist es äußerst schändlich, wenn du mit leeren Händen zurückkehrst und so das Ansehen der Stadt und des Lehrers entehrst. Wie viel an geistiger Anstrengung dir daher möglich ist, wie viel du unter Mühen erstreben kannst, wenn wirklich das Lernen mehr eine Arbeit als ein Vergnügen ist, so viel tue, um etwas zu leisten, und lasse es nicht so weit kommen, dass du selbst, obwohl dir alles von uns bereitgestellt worden ist, den Eindruck erweckst, du habest es an dir fehlen lassen. Aber genug davon; vieles nämlich haben wir dir oft schon geschrieben, um dich zu ermahnen; nun wollen wir zu dem noch ausstehenden Teil der angeführten Einteilung zurückkehren.
+		</german>
+		<latin>
+			Quod cum omnibus est faciendum, qui vitam honestam ingredi cogitant, tum haud scio an nemini potius quam tibi. Sustines enim non parvam expectationem imitandae industriae nostrae, magnam honorum, non nullam fortasse nominis. Suscepisti onus praeterea grave et Athenarum et Cratippi; ad quos cum tamquam ad mercaturam bonarum artium sis profectus, inanem redire turpissimum est dedecorantem et urbis auctoritatem et magistri. Quare quantum coniti animo potes, quantum labore contendere, si discendi labor est potius quam voluptas, tantum fac ut efficias neve committas, ut, cum omnia suppeditata sint a nobis, tute tibi defuisse videare. Sed haec hactenus; multa enim saepe ad te cohortandi gratia scripsimus; nunc ad reliquam partem propositae divisionis revertamur.
+		</latin>
+	</section>
+	<section from="7" to="7">
+		<german>
+			Panaitios also, der ohne Zweifel die Pflichten sehr genau untersucht hat und dem wir, nachdem wir eine gewisse Richtigstellung vorgenommen haben, hauptsächlich gefolgt sind, stellte drei Bereiche auf, in denen Menschen über die Pflicht nachzudenken und zu beratschlagen gewohnt seien: erstens wenn sie zweifelnd fragten, ob das sittlich gut sei, um was es gehe, oder schändlich, zweitens, ob es nützlich sei oder unnütz, drittens, ob das, was vermeintlich das Sittlichgute sei, dem widerspreche, was nützlich erscheine, und auf welche Weise dieses unterschieden werden müsse. Die beiden ersten Bereiche setzte er in drei Büchern auseinander und schrieb, über den dritten Bereich aber werde er im Folgenden sprechen, ohne jedoch zu erfüllen, was er versprochen hatte.
+		</german>
+		<latin>
+			Panaetius igitur, qui sine controversia de officiis accuratissime disputavit quemque nos correctione quadam adhibita potissimum secuti sumus, tribus generibus propositis, in quibus deliberare homines et consultare de officio solerent, uno cum dubitarent, honestumne id esset, de quo ageretur, an turpe, altero utilene esset an inutile, tertio, si id, quod speciem haberet honesti, pugnaret cum eo, quod utile videretur, quomodo ea discerni oporteret, de duobus generibus primis tribus libris explicavit, de tertio autem genere deinceps se scripsit dicturum nec exsolvit id, quod promiserat.
+		</latin>
+	</section>
+	<section from="8" to="8">
+		<german>
+			Hierüber wundere ich mich um so mehr, weil von seinem Schüler Poseidonios geschrieben worden ist, Panaitios habe dreißig Jahre, nachdem er jene Bücher herausgegeben habe, noch gelebt. Ich wundere mich, dass Panaitios dieses Thema nur kurz in einigen Aufzeichnungen berührt hat, zumal er schreibt, in der gesamten Philosophie sei kein Thema so notwendig.
+		</german>
+		<latin>
+			Quod eo magis miror, quia scriptum a discipulo eius Posidonio est, triginta annis vixisse Panaetium posteaquam illos libros edidisset. Quem locum miror a Posidonio breviter esse tactum in quibusdam commentariis, praesertim cum scribat nullum esse locum in tota philosophia tam necessarium.
+		</latin>
+	</section>
+	<section from="9" to="9">
+		<german>
+			Keineswegs aber stimme ich denjenigen zu, die leugnen, dass Panaitios dieses Thema ohne Absicht übergangen hat, aber behaupten, er habe es absichtlich aufgegeben und man brauche überhaupt nicht darüber zu schreiben, weil der Nutzen niemals mit dem Sittlichguten im Streit liegen könne. Diesbezüglich kann das eine zweifelhaft sein, ob diese Frage, die in der Einteilung des Panaitios die dritte ist, berücksichtigt werden muss oder gänzlich unerwähnt bleiben darf; das andere kann nicht bezweifelt werden, dass sie von Panaitios geplant, aber nicht ausgeführt worden ist. Denn demjenigen, der aus einer dreigeteilten Gliederung zwei Teile zu Ende geführt hat, muss ein dritter übrig bleiben; außerdem verspricht er am Ende des dritten Buches über diesen Teil im Folgenden sprechen zu wollen.
+		</german>
+		<latin>
+			Minime vero assentior iis, qui negant eum locum a Panaetio praetermissum, sed consulto relictum, nec omnino scribendum fuisse, quia numquam posset utilitas cum honestate pugnare. De quo alterum potest habere dubitationem, adhibendumne fuerit hoc genus, quod in divisione Panaetii tertium est an plane omittendum, alterum dubitari non potest, quin a Panaetio susceptum sit, sed relictum. Nam qui e divisione tripertita duas partes absolverit, huic necesse est restare tertiam; praeterea in extremo libro tertio de hac parte pollicetur se deinceps esse dicturum.
+		</latin>
+	</section>
+	<section from="10" to="10">
+		<german>
+			Zu diesen Gründen kommt als zuverlässiger Zeuge Poseidonios, der in einem Brief sogar schreibt, P. Rutilius Rufus, der Panaitios gehört hatte, pflege zu sagen, wie kein Maler gefunden worden sei, der bei der Venus von Kos den Teil, den Apelles im Anfangsstadium aufgegeben habe, fertigstelle - denn die Schönheit ihres Antlitzes nahm die Hoffnung, den restlichen Körper in gleicher Weise darzustellen -, so habe niemand das, was Panaitios übergangen habe, wegen der Vortrefflichkeit dessen, was er vollendet habe, zu Ende geführt.
+		</german>
+		<latin>
+			Accedit eodem testis locuples Posidonius, qui etiam scribit in quadam epistola, P. Rutilium Rufum dicere solere, qui Panaetium audierat, ut nemo pictor esset inventus, qui in Coa Venere eam partem, quam Apelles inchoatam reliquisset, absolveret (oris enim pulchritudo reliqui corporis imitandi spem auferebat), sic ea, quae Panaetius praetermisisset [et non perfecisset] propter eorum, quae perfecisset, praestantiam neminem persecutum.
+		</latin>
+	</section>
+	<section from="11" to="11">
+		<german>
+			Daher darf an der Meinung des Panaitios nicht gezweifelt werden; ob er aber diesen dritten Teil seiner Untersuchung über die Pflicht zu Recht angeschlossen hat oder zu Unrecht, darüber kann vielleicht disputiert werden. Denn sei es, dass das Sittlichgute allein ein Gut ist, wie die Stoiker meinen, sei es, dass das, was sittlich gut ist, in der Weise das höchste Gut ist, wie eure Peripathetiker glauben, dass nämlich alles, was auf die andere Seite gelegt worden sei, kaum den geringsten Ausschlag gebe, es darf nicht daran gezweifelt werden, dass der Nutzen niemals mit dem Sittlichguten in Konflikt kommen kann. Und so haben wir erfahren, dass Socrates diejenigen zu verwünschen gewohnt war, die zuerst diesen von Natur aus bestehenden Zusammenhang in der Vorstellung aufgelöst hatten. Ihm stimmten die Stoiker in der Wiese zu, dass sie meinten, alles, was sittlich gut sei, sei nützlich und nichts sei nützlich, was nicht sittlich gut sei.
+		</german>
+		<latin>
+			Quam ob rem de iudicio Panaetii dubitari non potest; rectene autem hanc tertiam partem ad exquirendum officium adiunxerit an secus, de eo fortasse disputari potest. Nam, sive honestum solum bonum est, ut Stoicis placet, sive, quod honestum est, id ita summum bonum est, quemadmodum Peripateticis vestris videtur, ut omnia ex altera parte collocata vix minimi momenti instar habeant, dubitandum non est quin numquam possit utilitas cum honestate contendere. Itaque accepimus Socratem exsecrari solitum eos, qui primum haec natura cohaerentia opinione distraxissent. Cui quidem ita sunt Stoici assensi, ut et, quicquid honestum esset, id utile esse censerent, nec utile quicquam, quod non honestum.
+		</latin>
+	</section>
+	<section from="12" to="12">
+		<german>
+			Wenn nun Panaitios so wäre, dass er sagte, die Tugend müsse deswegen gewahrt werden, weil sie den Nutzen bewirke, wie diejenigen es tun, die erstrebenswerte Dinge entweder an der Lust oder an dem Freisein von Schmerz messen, wäre es ihm möglich zu sagen, der Nutzen widerspreche manchmal dem Sittlichguten. Aber weil er so ist, dass er meint, das allein sei gut, was sittlich gut ist, das Leben aber werde weder durch das Hinzukommen dessen, was mit einem scheinbaren Nutzen dem Sittlichguten widerstreite, besser noch durch die Verminderung desselben schlechter, scheint es, er habe eine solche Überlegung nicht vorbringen dürfen, bei der das, was nützlich erscheint, mit dem, was sittlich gut ist, verglichen wird.
+		</german>
+		<latin>
+			Quodsi is esset Panaetius, qui virtutem propterea colendam diceret, quod ea efficiens utilitatis esset, ut ii, qui res expetendas vel voluptate vel indolentia metiuntur, liceret ei dicere utilitatem aliquando cum honestate pugnare. Sed cum sit is, qui id solum bonum iudicet, quod honestum sit, quae autem huic repugnent specie quadam utilitatis, eorum neque accessione meliorem vitam fieri nec decessione peiorem, non videtur debuisse eiusmodi deliberationem introducere, in qua quod utile videretur cum eo, quod honestum est, compararetur.
+		</latin>
+	</section>
+	<section from="13" to="13">
+		<german>
+			Denn was das höchste Gut von den Stoikern genannt wird, im Einklang mit der Natur zu leben, das bedeutet, wie ich meine, immer mit der Natur übereinzustimmen, das Übrige aber, was der Natur gemäß ist, dann auszuwählen, wenn es der Tugend nicht widerspricht. Obwohl dieses so ist, glauben manche, dieser Vergleich sei nicht zu Recht angeführt worden und in diesem Bereich hätte überhaupt nichts vorgeschrieben werden dürfen. Und jenes Sittlichgute, das im eigentlichen Sinn so genannt wird, gibt es allein bei den Weisen und kann niemals von der Tugend getrennt werden. Bei denjenigen aber, die keine vollendete Weisheit haben, kann es jenes vollendete Sittlichgute in keiner Weise geben, wohl aber Annäherungen an das Sittlichgute.
+		</german>
+		<latin>
+			Etenim quod summum bonum a Stoicis dicitur, convenienter naturae vivere, id habet hanc, ut opinor, sententiam, cum virtute congruere semper, cetera autem, quae secundum naturam essent, ita legere, si ea virtuti non repugnarent. Quod cum ita sit, putant quidam hanc comparationem non recte introductam nec omnino de eo genere quicquam praecipiendum fuisse. Atque illud quidem honestum, quod proprie vereque dicitur id in sapientibus est solis neque a virtute divelli umquam potest. In iis autem, in quibus sapientia perfecta non est, ipsum illud quidem perfectum honestum nullo modo, similitudines honesti esse possunt.
+		</latin>
+	</section>
+	<section from="14" to="14">
+		<german>
+			Diese pflichtmäßigen Handlungen nämlich, über die wir in diesen Büchern disputieren, nennen die Stoiker die mittleren; diejenigen gehen alle an und erstrecken sich weithin, die viele auf Grund ihrer glücklichen Anlage und ihrer fortschreitenden Besserung erreichen können. Jene pflichtmäßige Handlung aber, welche sie das Richtige nennen, ist vollendet und, wie dieselben sagen, ohne Einschränkung vollkommen und kann nur auf einen Weisen zutreffen.
+		</german>
+		<latin>
+			Haec enim officia, de quibus his libris disputamus, media Stoici appellant; ea communia sunt et late patent, quae et ingenii bonitate multi assequuntur et progressione discendi. Illud autem officium, quod rectum idem appellant, perfectum atque absolutum est et, ut idem dicunt, omnes numeros habet nec praeter sapientem cadere in quemquam potest.
+		</latin>
+	</section>
+	<section from="15" to="15">
+		<german>
+			Wenn aber etwas getan worden ist, bei dem die mittleren pflichtmäßigen Handlungen zum Vorschein kommen, scheint dieses deswegen gänzlich vollkommen zu sein, weil das Volk das, was zur Vollkommenheit fehlt, nur ausnahmsweise erkennt; sofern es dieses aber erkennt, glaubt es, nichts sei unterlassen worden. Das Gleiche kommt bei Gedichten, bei Gemälden und mehreren anderen Werken vor, dass nämlich die Unkundigen sich daran erfreuen und das loben, was nicht lobenswert ist, aus dem Grunde, wie ich glaube, weil in diesen Kunstwerken etwas Richtiges enthalten ist, das die Unwissenden für sich einnimmt, die zugleich nicht beurteilen können, was an jedem einzelnen Gegenstand fehlerhaft ist. Wenn sie daher von wirklichen Sachkennern unterwiesen worden sind, lassen sie leicht von ihrer Meinung ab. Diese pflichtmäßigen Handlungen also, die wir in diesen Büchern erörtern, sind, wie sie sagen, sozusagen Tugenden zweiten Grades, die nicht nur den Weisen zu Eigen sind, sondern für das ganze Menschengeschlecht gelten.
+		</german>
+		<latin>
+			Cum autem aliquid actum est, in quo media officia compareant, id cumulate videtur esse perfectum propterea, quod vulgus, quid absit a perfecto, non fere intellegit; quatenus autem intellegit, nihil putat praetermissum, quod idem in poematis, in picturis usu venit in aliisque compluribus, ut delectentur imperiti laudentque ea, quae laudanda non sint, ob eam, credo, causam, quod insit in his aliquid probi, quod capiat ignaros, qui idem, quid in unaquaque re vitii sit, nequeant iudicare. Itaque cum sunt docti a peritis, desistunt facile sententia. Haec igitur officia, de quibus his libris disserimus, quasi secunda quaedam honesta esse dicunt, non sapientium modo propria, sed cum omni hominum genere communia.
+		</latin>
+	</section>
+	<section from="16" to="16">
+		<german>
+			Daher lassen sich von diesen pflichtmäßigen Handlungen alle bewegen, die über eine angeborene Tüchtigkeit verfügen. Nicht aber nimmt man sich, wenn die beiden Decier oder die beiden Scipionen als tapfere Männer angeführt oder wenn Fabricius oder Aristides gerecht genannt werden, an jenen ein Beispiel für Tapferkeit oder an diesen ein Beispiel für Gerechtigkeit wie an einem Weisen; denn niemand von ihnen war so weise, wie wir einen Weisen verstanden wissen wollen, und auch diejenigen, die für weise gehalten und so genannt wurden, M. Cato und C. Laelius, waren nicht weise, nicht einmal jene sieben, sondern sie hatten, da sie das mittlere rechte Handeln häufig ausübten, eine gewisse Ähnlichkeit mit Weisen und den Anschein derselben.
+		</german>
+		<latin>
+			Itaque iis omnes, in quibus est virtutis indoles, commoventur. Nec vero, cum duo Decii aut duo Scipiones fortes viri commemorantur, aut cum Fabricius, aut Aristides iustus nominatur, aut ab illis fortitudinis aut ab his iustitiae tamquam a sapiente petitur exemplum; nemo enim horum sic sapiens, ut sapientem volumus intellegi, nec ii, qui sapientes habiti et nominati, M. Cato et C. Laelius, sapientes fuerunt, ne illi quidem septem, sed ex mediorum officiorum frequentia similitudinem quandam gerebant speciemque sapientium.
+		</latin>
+	</section>
+	<section from="17" to="17">
+		<german>
+			Daher ist es weder schicklich, wenn das, was wirklich sittlich gut ist, mit dem angeblich widerstreitenden Nutzen verglichen wird, noch darf das, was wir gemeinhin das Sittlichgute nennen, was von denjenigen gepflegt wird, die für gute Männer gehalten werden wollen, jemals mit dem Nutzen verglichen werden, vielmehr müssen wir dieses Sittlichgute, das Gegenstand unseres Erkennens ist, so bewahren und erhalten wie die Weisen jenes, was im eigentlichen Sinne und wirklich das Sittlichgute genannt wird; denn sonst kann der Fortschritt nicht beibehalten werden, falls er auf die Tugend hin erfolgt ist. Aber dieses habe ich über diejenigen gesagt, die, da sie die Pflichten bewahren, als die Guten angesehen werden.
+		</german>
+		<latin>
+			Quocirca nec id, quod vere honestum est, fas est cum utilis repugnantia comparari, nec id quod communiter appellamus honestum, quod colitur ab iis, qui bonos se viros haberi volunt, cum emolumentis umquam est comparandum tamque id honestum, quod in nostram intellegentiam cadit, tuendum conservandumque nobis est quam illud, quod proprie dicitur vereque est honestum, sapientibus; aliter enim teneri non potest, si quae ad virtutem est facta progressio. Sed haec quidem de his, qui conservatione officiorum existimantur boni.
+		</latin>
+	</section>
+	<section from="18" to="18">
+		<german>
+			Diejenigen aber, die alles nach Vorteil und Nutzen beurteilen und nicht wollen, dass das Sittlichgute diese überwiegt, vergleichen gewöhnlich in ihren Überlegungen das Sittlichgute mit dem, was sie für nützlich halten, gute Männer pflegen dieses nicht zu tun. Und so glaube ich, dass Panaitios, als er sagte, dass Menschen bei diesem Vergleich zu zögern pflegen, eben das gemeint hat, was er gesagt hat, dass sie es nur zu tun pflegen, nicht aber auch müssen. Denn es ist nicht nur sehr schmählich, das, was nützlich erscheint, höher zu schätzen als das, was sittlich gut ist, sondern auch diese beiden untereinander zu vergleichen und hierbei Zweifel zu hegen. Was also ist das, was manchmal Zweifel zu verursachen pflegt und bedenkenswert erscheint? Ich glaube, wenn einmal ein Zweifel darüber entsteht, von welcher Art das ist, was erwogen wird.
+		</german>
+		<latin>
+			 Qui autem omnia metiuntur emolumentis et commodis neque ea volunt praeponderari honestate, ii solent in deliberando honestum cum eo, quod utile putant, comparare, boni viri non solent. Itaque existimo Panaetium, cum dixerit homines solere in hac comparatione dubitare, hoc ipsum sensisse, quod dixerit solere modo, non etiam oportere. Etenim non modo pluris putare, quod utile videatur quam quod honestum sit, sed etiam haec inter se comparare et in his addubitare turpissimum est. Quid ergo est quod non numquam dubitationem adferre soleat considerandumque videatur? Credo, si quando dubitatio accidit, quale sit id, de quo consideretur.
+		</latin>
+	</section>
+	<section from="19" to="19">
+		<german>
+			Oft nämlich geschieht es durch die Umstände, dass das, was meistens für schändlich gehalten
+			zu werden pflegt, für nicht schändlich befunden wird. Um eines Beispiels willen soll etwas
+			angeführt werden, was weite Geltung hat. Welches Verbrechen ist größer als nicht nur einen
+			Menschen, sondern sogar einen befreundeten Menschen zu töten? Hat sich also jemand eines
+			Verbrechens schuldig gemacht, wenn er einen Tyrannen getötet hat, mochte dieser auch noch so
+			befreundet mit ihm sein? Dem römischen Volk jedenfalls scheint es nicht so zu sein, das von allen
+			glänzenden Taten jene für die schönste hält. Es hat also der Nutzen über das Sittlichgute
+			gesiegt? Im Gegenteil, dem Sittlichguten ist der Nutzen gefolgt.
+		</german>
+		<latin>
+			Saepe enim tempore fit, ut quod turpe plerumque haberi soleat, inveniatur non esse turpe.
+			Exempli causa ponatur aliquid, quod pateat latius. Quod potest maius scelus quam non modo
+			hominem, sed etiam familiarem hominem occidere? Num igitur se adstrinxit scelere, si qui
+			tyrannum occidit quamvis familiarem? Populo quidem Romano non videtur, qui ex omnibus
+			praeclaris factis illud pulcherrimum existimat. Vicit ergo utilitas honestatem?
+			Immo vero honestas utilitatem secuta est.
+		</latin>
+	</section>
+	<section from="19b" to="19b">
+		<german>
+			Damit wir daher ohne jeden Irrtum eine Entscheidung treffen können, wenn einmal das, was wir das Nützliche nennen, offenbar mit dem im Streit zu liegen scheint, was wir unter dem Sittlichguten verstehen, muss eine gewisse Norm aufgestellt werden; wenn wir dieser bei dem Vergleich folgen, werden wir niemals von der pflichtmäßigen Handlung abweichen.
+		</german>
+		<latin>
+			 Itaque, ut sine ullo errore diiudicare possimus, si quando cum illo, quod honestum intellegimus, pugnare id videbitur, quod appellamus utile, formula quaedam constituenda est; quam si sequemur in comparatione rerum, ab officio numquam recedemus.
+		</latin>
+	</section>
+	<section from="20" to="20">
+		<german>
+			Es wird aber diese Norm in besonderer Weise mit der Lehre und dem System der Stoiker übereinstimmen; ihr folgen wir in diesen Büchern deswegen, weil diese Fragen, obwohl von den alten Akademikern und euren Peripatetikern, die einst dieselben waren wie die Akademiker, das, was sittlich gut ist, dem vorgezogen wird, was nützlich erscheint, dennoch von denjenigen, denen alles, was sittlich gut ist, zugleich nützlich erscheint und nichts nützlich, was nicht sittlich gut ist, würdevoller erörtert werden als von denjenigen, denen etwas Sittlichgutes nicht nützlich oder etwas Nützliches nicht sittlich gut ist. Uns aber gewährt unsere Akademie eine große Freiheit, so dass es uns möglich ist, nach unserem Recht zu verteidigen, was auch immer uns besonders gut vorkommt. Aber ich kehre zur Norm zurück.
+		</german>
+		<latin>
+			Erit autem haec formula Stoicorum rationi disciplinaeque maxime consentanea; quam quidem his libris propterea sequimur, quod, quamquam et a veteribus Academicis et a Peripateticis vestris, qui quondam idem erant, qui Academici, quae honesta sunt, anteponuntur iis, quae videntur utilia, tamen splendidius haec ab eis disserentur, quibus, quicquid honestum est idem utile videtur nec utile quicquam, quod non honestum, quam ab iis, quibus et honestum aliquid non utile aut utile non honestum. Nobis autem nostra Academia magnam licentiam dat, ut, quodcumque maxime probabile occurrat, id nostro iure liceat defendere. Sed redeo ad formulam.
+		</latin>
+	</section>
+	<section from="21" to="21">
+		<german>
+			Dass ein Mensch also einem anderen etwas wegnimmt und zum Nachteil des Nächsten seinen eigenen Vorteil vermehrt, ist mehr gegen die Natur als der Tod, als die Armut, als der Schmerz, als das Übrige, das entweder dem Körper oder den Gütern, welche die Außenwelt gewährt widerfahren kann. Denn erstens zerstört ein solches Verhalten das menschliche Zusammenleben und die Gemeinschaft. Wenn wir nämlich so gesinnt sein werden, dass jeder wegen seines Vorteils den Nächsten beraubt oder verletzt, muss die Verbindung des Menschengeschlechts zerreißen, die am meisten gemäß der Natur ist.
+		</german>
+		<latin>
+			Detrahere igitur alteri aliquid et hominem hominis incommodo suum commodum augere magis est contra naturam quam mors, quam paupertas, quam dolor, quam cetera, quae possunt aut corpori accidere aut rebus externis. Nam principio tollit convictum humanum et societatem. Si enim sic erimus adfecti, ut propter suum quisque emolumentum spoliet aut violet alterum, disrumpi necesse est eam, quae maxime est secundum naturam, humani generis societatem.
+		</latin>
+	</section>
+	<section from="22" to="22">
+		<german>
+			Wie der gesamte Körper geschwächt werden und zugrunde gehen müsste, wenn jedes einzelne Glied folgende Meinung hätte, dass es glaubte, es könne wohlauf sein, wenn es die Lebenskraft des ihm nächsten Gliedes für sich gewonnen hätte, so wird notwendigerweise die Verbindung der Menschen und ihre Gemeinschaft zerstört, wenn jeder einzelne von uns die Vorteile der anderen an sich reißt und wegnimmt, was er jedem um seines persönlichen Nutzens willen wegnehmen kann. Denn dass jeder lieber für sich erwerben will, was zum Bedarf des Lebens gehört, als für einen anderen, ist zugestanden worden, ohne dass die Natur widerspricht; jenes aber duldet die Natur nicht, dass wir durch Ausplünderung anderer unsere Mittel, unser Vermögen und unseren Reichtum vermehren.
+		</german>
+		<latin>
+			Ut, si unum quodque membrum sensum hunc haberet, ut posse putaret se valere, si proximi membri valitudinem ad se traduxisset, debilitari et interire totum corpus necesse esset, sic, si unus quisque nostrum ad se rapiat commoda aliorum detrahatque quod cuique possit, emolumenti sui gratia, societas hominum et communitas evertatur necesse est. Nam sibi ut quisque malit, quod ad usum vitae pertineat, quam alteri adquirere, concessum est non repugnante natura, illud natura non patitur, ut aliorum spoliis nostras facultates, copias, opes augeamus.
+		</latin>
+	</section>
+	<section from="23" to="23">
+		<german>
+			Aber nicht nur durch die Natur, d.h. durch das Völkerrecht, sondern auch durch die Gesetze der Völker, auf denen in einzelnen Staaten die Staatsverfassung beruht, ist dieses auf dieselbe Weise bestimmt worden, dass es nicht erlaubt ist, um des eigenen Vorteils willen einem anderen zu schaden. Denn danach streben die Gesetze, dieses wollen sie, dass die Vereinigung der Bürger wohlbehalten ist; diejenigen, die diese Vereinigung aufheben, strafen sie mit Tod, Verbannung, Gefängnis und Geldbuße. Und diese Einschränkung bewirkt viel stärker die natürliche Weltordnung selbst, welche das göttliche und menschliche Gesetz ist; wer dieser gehorchen will - alle aber werden gehorchen, die gemäß der Natur leben wollen -, wird es niemals dazu kommen lassen, dass er fremdes Eigentum begehrt und das für sich beansprucht, was er einem anderen weggenommen hat.
+		</german>
+		<latin>
+			Neque vero hoc solum natura, id est iure gentium, sed etiam legibus populorum, quibus in singulis civitatibus res publica continetur, eodem modo constitutum est, ut non liceat sui commodi causa nocere alteri. Hoc enim spectant leges, hoc volunt, incolumem esse civium coniunctionem; quam qui dirimunt, eos morte, exsilio, vinclis, damno coercent. Atque hoc multo magis efficit ipsa naturae ratio, quae est lex divina et humana; cui parere qui velit (omnes autem parebunt, qui secundum naturam volent vivere), numquam committet, ut alienum appetat, et id, quod alteri detraxerit, sibi adsumat.
+		</latin>
+	</section>
+	<section from="24" to="24">
+		<german>
+			Denn Erhabenheit und Größe der Gesinnung und ebenso Freundlichkeit, Gerechtigkeit und Freigebigkeit entsprechen viel mehr der Natur als Lust, Leben und Reichtum; diese Werte zu verachten und gering zu schätzen, wenn man sie mit dem allgemeinen Nutzen vergleicht, zeugt von einer großen und erhabenen Gesinnung. (Einem anderen aber etwas wegzunehmen um eines persönlichen Vorteils willen ist mehr gegen die Natur als Tod, Schmerz und das Übrige derselben Art.)
+		</german>
+		<latin>
+			Etenim multo magis est secundum naturam excelsitas animi et magnitudo itemque comitas, iustitia, liberalitas quam voluptas, quam vita, quam divitiae; quae quidem contemnere et pro nihilo ducere comparantem cum utilitate communi magni animi et excelsi est. [Detrahere autem de altero sui commodi causa magis est contra naturam quam mors, quam dolor, quam cetera generis eiusdem.]
+		</latin>
+	</section>
+	<section from="25" to="25">
+		<german>
+			Und ebenso entspricht es mehr der Natur für die Bewahrung und Unterstützung aller Völker, falls es geschehen kann, die größten Strapazen und Beschwerlichkeiten auf sich zu nehmen, indem man jenen Hercules nachahmt, den die Nachrede der Menschen in Erinnerung an seine Wohltaten der Versammlung der Götter zugezählt hat, als in der Einsamkeit zu leben nicht nur ohne alle Beschwerlichkeiten, sondern auch in den größten Freuden, da man Überfluss an allen Mitteln hat, so dass man sich auch durch Schönheit und Stärke auszeichnet. Daher zieht jeder, der über den besten und edelsten Charakter verfügt, jenes Leben bei weitem diesem vor. Daraus ergibt sich, dass ein Mensch, welcher der Natur gehorcht, seinem Mitmenschen nicht schaden kann.
+		</german>
+		<latin>
+			Itemque magis est secundum naturam, pro omnibus gentibus, si fieri possit, conservandis aut iuvandis, maximos labores molestiasque suscipere imitantem Herculem illum, quem hominum fama beneficiorum memor in concilio caelestium conlocavit quam vivere in solitudine non modo sine ullis molestiis sed etiam in maximis voluptatibus, abundantem omnibus copiis, ut excellas etiam pulchritudine et viribus. Quocirca optimo quisque et splendidissimo ingenio longe illam vitam huic anteponit. Ex quo efficitur, hominem naturae oboedientem homini nocere non posse.
+		</latin>
+	</section>
+	<section from="26" to="26">
+		<german>
+			Ferner, wer einen anderen verletzt, um selbst irgendeinen Vorteil zu erlangen, glaubt entweder, er handle nicht gegen die Natur, oder er meint, Tod, Armut, Schmerz und auch der Verlust von Kindern, Verwandten und Freunden müssten mehr gemieden werden als irgendjemandem Unrecht zuzufügen. Wenn er glaubt, dass durch Verletzung von Menschen nichts gegen die Natur geschieht, was erörterst du dann wohl mit ihm, da er doch dem Menschen das nimmt, was ihn überhaupt zum Menschen macht? Wenn er aber meint, dieses müsse zwar gemieden werden, jenes aber sei bei weitem schlechter, nämlich Tod, Armut und Schmerz, so irrt er in diesem Punkte, dass er glaubt, irgendein körperliches Gebrechen oder eine Beeinträchtigung des Besitzes seien schlimmer als moralische Übel. Also müssen alle dies vor allem zum Grundsatz haben, dass der Nutzen jedes Einzelnen und der Gesamtheit derselbe ist; wenn jeder den Nutzen an sich reißt, wird sich die ganze menschliche Gemeinschaft auflösen.
+		</german>
+		<latin>
+			Deinde qui alterum violat, ut ipse aliquid commodi consequatur, aut nihil existimat se facere contra naturam aut magis fugienda censet mortem, paupertatem, dolorem, amissionem etiam liberorum, propinquorum, amicorum, quam facere cuiquam iniuriam. Si nihil existimat contra naturam fieri hominibus violandis, quid cum eo disseras, qui omnino hominem ex homine tollat? Sin fugiendum id quidem censet, sed multo illa peiora, mortem, paupertatem, dolorem, errat in eo, quod ullum aut corporis aut fortunae vitium vitiis animi gravius existimat. Ergo unum debet esse omnibus propositum, ut eadem sit utilitas uniuscuiusque et universorum; quam si ad se quisque rapiet, dissolvetur omnis humana consortio.
+		</latin>
+	</section>
+	<section from="27" to="27">
+		<german>
+			Und wenn sogar die Natur dieses vorschreibt, dass der Mensch für den Mitmenschen, wer auch immer es sein mag, gesorgt wissen will, aus eben dem Grunde, weil dieser ein Mensch ist, muss gemäß derselben Natur der Nutzen aller ein gemeinsamer sein. Wenn dieses so ist, stehen wir alle unter ein und demselben Gesetz der Natur, und wenn eben dieses so ist, werden wir gewiss durch das Naturgesetz daran gehindert, einen anderen zu verletzen. Der Vordersatz aber ist wahr, folglich ist es auch der Schlusssatz.
+		</german>
+		<latin>
+			Atque etiam si hoc natura praescribit, ut homo homini, quicumque sit, ob eam ipsam causam, quod is homo sit, consultum velit, necesse est secundum eandem naturam omnium utilitatem esse communem. Quod si ita est, una continemur omnes et eadem lege naturae, idque ipsum si ita est, certe violare alterum naturae lege prohibemur. Verum autem primum, verum igitur extremum.
+		</latin>
+	</section>
+	<section from="28" to="28">
+		<german>
+			Denn jenes ist absurd, dass einige sagen, sie würden ihrem Vater oder ihrem Bruder um ihres
+			Vorteils willen nichts wegnehmen, das Verhältnis zu den übrigen Bürgern sei dagegen ein anderes.
+			Diese stellen den Satz auf, sie hätten keine Rechtssatzung, kein Bündnis wegen eines gemeinsamen
+			Nutzens zusammen mit den Bürgern, eine Ansicht, die das gesamte Bündnis der Bürgerschaft auflöst.
+			Diejenigen aber, die behaupten, auf Bürger müsse man Rücksicht nehmen, nicht hingegen auf Fremde,
+			heben das gemeinsame Bündnis des Menschengeschlechtes auf; wenn dieses beseitigt ist, werden Güte,
+			Freigebigkeit, Rechtschaffenheit und Gerechtigkeit von Grund auf beseitigt; diejenigen, die diese
+			Verhaltensweisen beseitigen, müssen für ruchlos auch gegenüber den unsterblichen Göttern gehalten
+			werden. Denn die von diesen unter den Menschen begründete Gemeinschaft zerstören sie, deren 
+			engstes Band auf der Meinung beruht, es sei mehr gegen die Natur, wenn ein Mensch einem Menschen
+			um des eigenen Vorteils willen etwas wegnehme als alle Nachteile äußerlicher oder körperlicher
+			Art auf sich nehme, oder sogar des Geistes zu erwerben (vgl. Atzert 1971 z.St.), sofern es dabei
+			an Gerechtigkeit fehlt. Denn die Gerechtigkeit ist als einzige Tugend die Herrin und Königin aller
+			Tugenden.
+		</german>
+		<latin>
+			Nam illud quidem absurdum est, quod quidam dicunt, parenti se aut fratri nihil detracturos sui commodi causa, aliam rationem esse civium reliquorum. Hi sibi nihil iuris, nullam societatem communis utilitatis causa statuunt esse cum civibus quae sententia omnem societatem distrahit civitatis. Qui autem civium rationem dicunt habendam, externorum negant, ii dirimunt communem humani generis societatem; qua sublata beneficentia, liberalitas, bonitas, iustitia funditus tollitur; quae qui tollunt, etiam adversus deos immortales impii iudicandi sunt. Ab iis enim constitutam inter homines societatem evertunt, cuius societatis artissimum vinculum est magis arbitrari esse contra naturam hominem homini detrahere sui commodi causa quam omnia incommoda subire vel externa vel corporis vel etiam ipsius animi. ~Iustitia enim una virtus omnium est domina et regina virtutum.
+		</latin>
+	</section>
+	<section from="29" to="29">
+		<german>
+			Vielleicht könnte jemand einwenden: Würde also nicht ein Weiser, wenn er selbst durch Hunger erschöpft wird, einem anderen Menschen, der für nichts nützlich ist, die Nahrung wegnehmen? [Keineswegs aber: Denn mein Leben ist für mich nicht nützlicher als eine solche Verhaltensdisposition, dass ich niemanden um eines Vorteils willen verletze.] Ferner, wenn den Phalaris, einen grausamen und unmenschlichen Tyrannen, ein guter Mann, um selbst nicht vor Kälte umzukommen, seiner Kleidung berauben könnte, würde er es nicht tun?
+		</german>
+		<latin>
+			 Forsitan quispiam dixerit: Nonne igitur sapiens, si fame ipse conficiatur, abstulerit cibum alteri homini ad nullam rem utili? Minime vero: non enim mihi est vita mea utilior quam animi talis affectio, neminem ut violem commodi mei gratia. Quid? si Phalarim, crudelem tyrannum et immanem, vir bonus, ne ipse frigore conficiatur, vestitu spoliare possit, nonne faciat?
+		</latin>
+	</section>
+	<section from="30" to="30">
+		<german>
+			Dieses ist sehr leicht zu beurteilen. Denn wenn du einem Menschen, der in keiner Beziehung nützlich ist, nur zu deinem eigenen Nutzen etwas wegnimmst, würdest du unmenschlich handeln und damit gegen das Naturgesetz; wenn du aber so beschaffen bist, dass du dem Staat und der menschlichen Gemeinschaft, falls du am Leben bleibst, großen Nutzen bringen kannst, würdest du, wenn du einem anderen aus diesem Grund etwas wegnimmst, keinen Tadel verdienen. Wenn aber die Lage nicht derartig ist, muss jeder seinen Nachteil ertragen statt einem anderen seine Vorteile zu nehmen. Also sind Krankheit, Armut oder etwas anderes dieser Art genauso gegen die Natur wie die Wegnahme fremden Besitzes und das Streben nach ihm, aber die Vernachlässigung des gemeinsamen Nutzens ist gegen die Natur; sie ist nämlich ungerecht.
+		</german>
+		<latin>
+			Haec ad iudicandum sunt facillima. Nam si quid ab homine ad nullam partem utili utilitatis tuae causa detraxeris, inhumane feceris contraque naturae legem, sin autem is tu sis, qui multam utilitatem rei publicae atque hominum societati, si in vita remaneas, adferre possis si quid ob eam causam alteri detraxeris, non sit reprehendendum. Sin autem id non sit eiusmodi, suum cuique incommodum ferendum est potius quam de alterius commodis detrahendum. Non igitur magis est contra naturam morbus aut egestas aut quid eiusmodi quam detractio atque appetitio alieni, sed communis utilitatis derelictio contra naturam est; est enim iniusta.
+		</latin>
+	</section>
+	<section from="31" to="31">
+		<german>
+			Daher wird das Naturgesetz selbst, das den Nutzen der Menschen bewahrt und festhält, sicherlich verfügen, dass die lebensnotwendigen Dinge von einem trägen und unnützen Menschen auf einen weisen, guten und tüchtigen Mann übergehen, dessen Tod dem Gemeinwohl viel entziehen würde, vorausgesetzt er handelt so, dass er nicht selbst aus Überheblichkeit und Eigenliebe dieses als Vorwand nimmt, um Unrecht zu tun. Auf diese Weise wird er immer seine Pflicht erfüllen, da er für das Wohl der Menschen und diejenige menschliche Gemeinschaft sorgt, die ich oft anführe.
+		</german>
+		<latin>
+			Itaque lex ipsa naturae, quae utilitatem hominum conservat et continet, decernet profecto, ut ab homine inerti atque inutili ad sapientem, bonum, fortem virum transferantur res ad vivendum necessariae, qui si occiderit, multum de communi utilitate detraxerit, modo hoc ita faciat, ut ne ipse de se bene existimans seseque diligens hanc causam habeat ad iniuriam. Ita semper officio fungetur utilitati consulens hominum et ei, quam saepe commemoro, humanae societati.
+		</latin>
+	</section>
+	<section from="32" to="32">
+		<german>
+			Denn was Phalaris betrifft, so ist das Urteil sehr leicht. Wir haben nämlich keine Gemeinschaft mit Tyrannen, sondern vielmehr das größte Zerwürfnis, und es ist nicht wider die Natur, denjenigen nach Möglichkeit zu berauben, den zu töten ehrenhaft ist, und dieser ganze unheilvolle und ruchlose Menschenschlag muss aus der menschlichen Gemeinschaft verbannt werden. Denn wie einige Glieder amputiert werden, wenn sie selbst anfangen ohne Blut und gleichsam ohne Lebensatem zu sein und den übrigen Teilen des Körpers schaden, so muss dieses wilde und brutale Tier in Menschengestalt sozusagen aus der sittlichen Gemeinschaft der Menschen abgesondert werden. Untersuchungen dieser Art sind all diejenigen, bei denen das pflichtgemäße Handeln nach Lage der Umstände ermittelt wird.
+		</german>
+		<latin>
+			Nam quod ad Phalarim attinet, perfacile iudicium est. Nulla est enim societas nobis cum tyrannis et potius summa distractio est, neque est contra naturam spoliare eum, si possis, quem est honestum necare, atque hoc omne genus pestiferum atque impium ex hominum communitate exterminandum est. Etenim, ut membra quaedam amputantur, si et ipsa sanguine et tamquam spiritu carere coeperunt et nocent reliquis partibus corporis, sic ista in figura hominis feritas et immanitas beluae a communi tamquam humanitate corporis segreganda est. Huius generis quaestiones sunt omnes eae, in quibus ex tempore officium exquiritur.
+		</latin>
+	</section>
+	<section from="33" to="33">
+		<german>
+			Ich glaube also, dass Panaitios derartige Themen behandelt hätte, wenn nicht irgendein Zufall oder eine Beschäftigung seinen Plan vereitelt hätten. In Bezug auf eben diese Fragen gibt es in seinen früheren Büchern hinreichend viele Lehren, aus denen erkannt werden kann, was wegen Unsittlichkeit zu meiden ist, was das ist, das deswegen nicht zu meiden ist, weil es überhaupt nicht unsittlich ist. Aber wie Mathematiker gewöhnlich nicht alles beweisen, sondern voraussetzen, dass ihnen einiges eingeräumt wird, damit sie um so leichter erklären können, was sie wollen, so fordere ich von dir, mein Cicero, da wir einem begonnenen, aber dennoch fast abgeschlossenen Bauwerk gleichsam die Krönung aufsetzen, du mögest mir einräumen, falls du dazu imstande bist, dass das Sittlichgute um seiner selbst willen erstrebenswert ist. Wenn es aber wegen Cratippus nicht möglich ist, so wirst du mir doch wenigstens zugestehen, dass das Sittlichgute am meisten um seiner selbst willen erstrebenswert ist. Mir genügen beide Ansichten und bald erscheint mir diese, bald jene wahrscheinlicher, außer diesen beiden aber keine.
+		</german>
+		<latin>
+			Eiusmodi igitur credo res Panaetium persecuturum fuisse, nisi aliqui casus aut occupatio eius consilium peremisset. Ad quas ipsas consultationes ex superioribus libris satis multa praecepta sunt, quibus perspici possit, quid sit propter turpitudinem fugiendum, quid sit, quod idcirco fugiendum non sit, quod omnino turpe non sit. Sed quoniam operi inchoato, prope tamen absoluto, tamquam fastigium imponimus, ut geometrae solent non omnia docere, sed postulare, ut quaedam sibi concedantur, quo facilius quae volunt, explicent, sic ego a te postulo, mi Cicero, ut mihi concedas si potes, nihil praeter id, quod honestum sit, propter se esse expetendum. Sin hoc non licet per Cratippum, at illud certe dabis, quod honestum sit, id esse maxime propter se expetendum. Mihi utrumvis satis est et tum hoc tum illud probabilius videtur nec praeterea quicquam probabile.
+		</latin>
+	</section>
+	<section from="34" to="34">
+		<german>
+			Und zuerst muss Panaitios in dieser Beziehung verteidigt werden, dass er nicht gesagt hat, das Nützliche könne zuweilen mit dem Sittlichguten im Streit liegen (denn das hätte er nicht gedurft), sondern das, was nützlich erscheine. Dass aber nichts nützlich sei, was nicht zugleich sittlich gut, nichts sittlich gut, was nicht zugleich nützlich, bekundet er oft und sagt, kein größeres Unheil sei in das Leben der Menschen eingedrungen als die Meinung derer, die diese Begriffe trennten. Daher führte er, nicht damit wir manchmal das Nützliche dem Sittlichguten vorziehen, sondern solche Konfliktsfälle, wenn sie einmal auftreten sollten, ohne Schwanken entscheiden, diesen vermeintlichen, aber nicht wirklichen Widerstreit ein. Also werden wir diesen nicht behandelten Teil ohne Hilfsmittel vervollständigen, aber sozusagen auf eigene Faust. Denn nichts von dem, was in meine Hände gelangt ist, ist seit Panaitios über diesen Teil so auseinandergesetzt worden, dass es mir zusagen würde.
+		</german>
+		<latin>
+			Ac primum in hoc Panaetius defendendus est, quod non utilia cum honestis pugnare aliquando posse dixerit (neque enim ei fas erat) sed ea, quae viderentur utilia. Nihil vero utile, quod non idem honestum, nihil honestum, quod non idem utile sit, saepe testatur negatque ullam pestem maiorem in vitam hominum invasisse quam eorum opinionem, qui ista distraxerint. Itaque non ut aliquando anteponeremus utilia honestis, sed ut ea sine errore diiudicaremus, si quando incidissent, induxit eam, quae videretur esse, non quae esset, repugnantiam. Hanc igitur partem relictam explebimus nullis adminiculis, sed, ut dicitur, Marte nostro. Neque enim quicquam est de hac parte post Panaetium explicatum, quod quidem mihi probaretur, de iis, quae in manus meas venerint.
+		</latin>
+	</section>
+	<section from="35" to="35">
+		<german>
+			Wenn sich uns also irgendein scheinbarer Nutzen zeigt, müssen wir beeindruckt werden. Aber wenn du nach gründlichem Nachdenken erkennst, dass Unsittlichkeit mit dem verbunden ist, was den scheinbaren Nutzen verursacht, dann muss nicht auf den Nutzen verzichtet werden, sondern es gilt zu erkennen, dass dort, wo die Unsittlichkeit ist, der Nutzen nicht sein kann. Wenn nun nichts so wider die Natur ist wie die Unsittlichkeit - denn das Aufrechte, Harmonische und Beständige verlangt die Natur und sie verschmäht das Entgegengesetzte - und nichts so gemäß der Natur ist wie der Nutzen, so können Nutzen und Unsittlichkeit gewiss nicht in derselben Sache enthalten sein. Ganz ebenso gilt: Wenn wir für das Sittlichgute bestimmt sind und dieses entweder allein erstrebenswert ist, wie Zenon meint, oder ohne Zweifel für unendlich gewichtiger als alles Übrige gehalten werden muss, was die Ansicht des Aristoteles ist, dann muss das Sittlichgute entweder das einzige oder das höchste Gut sein, das aber, was das Gute ist, sicherlich nützlich, folglich alles Sittlichgute auch nützlich.
+		</german>
+		<latin>
+			Cum igitur aliqua species utilitatis obiecta est, commoveri necesse est. Sed si, cum animum attenderis, turpitudinem videas adiunctam ei rei, quae speciem utilitatis attulerit, tum non utilitas relinquenda est, sed intellegendum, ubi turpitudo sit, ibi utilitatem esse non posse. Quod si nihil est tam contra naturam quam turpitudo (recta enim et convenientia et constantia natura desiderat aspernaturque contraria) nihilque tam secundum naturam quam utilitas, certe in eadem re utilitas et turpitudo esse non potest. Itemque, si ad honestatem nati sumus eaque aut sola expetenda est, ut Zenoni visum est, aut certe omni pondere gravior habenda quam reliqua omnia, quod Aristoteli placet, necesse est, quod honestum sit, id esse aut solum aut summum bonum, quod autem bonum, id certe utile, ita, quicquid honestum, id utile.
+		</latin>
+	</section>
+	<section from="36" to="36">
+		<german>
+			Daher trennen nicht rechtschaffene Menschen in ihrem Irrtum, sobald sie etwas, was ihnen nützlich erscheint, ergriffen haben, dieses unverzüglich vom Sittlichguten. Dieses ist der Ursprung von Meuchelmorden, Vergiftungen, falschen Testamenten, hierdurch entstehen Diebstähle, Unterschlagungen, Ausplünderungen und Beraubungen von Bundesgenossen und Bürgern, die Gier nach übermäßigem Vermögen, nach unerträglicher Macht und schließlich auch nach Alleinherrschaft in freien Bürgerschaften, was das Schändlichste und Abscheulichste ist, das man sich ausdenken kann. Denn die Vorteile der Dinge erkennen sie in ihrem getrübten Urteil, die Strafe hingegen nicht, ich meine nicht die der Gesetze, die sie oft mit Füßen treten, sondern die der Unsittlichkeit selbst, die am härtesten ist.
+		</german>
+		<latin>
+			Quare error hominum non proborum, cum aliquid, quod utile visum est, arripuit, id continuo secernit ab honesto. Hinc sicae, hinc venena, hinc falsa testamenta nascuntur, hinc furta, peculatus, expilationes, direptionesque sociorum et civium, hinc opum nimiarum, potentiae non ferendae, postremo etiam in liberis civitatibus regnandi existunt cupiditates, quibus nihil nec taetrius nec foedius excogitari potest. Emolumenta enim rerum fallacibus iudiciis vident, poenam, non dico legum, quam saepe perrumpunt, sed ipsius turpitudinis, quae acerbissima est, non vident.
+		</latin>
+	</section>
+	<section from="37" to="37">
+		<german>
+			Deswegen sollen Zweifler dieser Art fortgejagt werden - sie sind nämlich alle verbrecherisch und
+			ruchlos -, diejenigen, die überlegen, ob sie dem folgen sollen, was nach ihrer Erkenntnis 
+			sittlich gut ist, oder sich wissentlich mit einer Untat beflecken sollen; denn schon im bloßen
+			Zweifel liegt eine Untat, auch wenn sie nicht zu ihrer Ausführung gekommen sind. Also darf das
+			gar nicht überlegt werden, bei dem die Überlegung an sich schon schändlich ist.
+		</german>
+		<latin>
+			Quam ob rem hoc quidem deliberantium genus pellatur e medio ( est enim totum sceleratum et
+			impium), qui deliberant, utrum id sequantur, quod honestum esse videant, an se scientes scelere
+			contaminent; in ipsa enim dubitatione facinus inest, etiamsi ad id non pervenerint. Ergo ea 
+			deliberanda omnino non sunt, in quibus est turpis ipsa deliberatio.
+		</latin>
+	</section>
+	<section from="37b" to="37b">
+		<german>
+			 Und auch die eitle Hoffnung zu verheimlichen und zu verbergen ist von jeder Überlegung 
+			 fernzuhalten; denn wir müssen, wenn wir nur irgendeinen Fortschritt in der Philosophie gemacht
+			 haben, völlig überzeugt sein, dass wir, auch wenn wir es vor allen Göttern und Menschen 
+			 verheimlichen könnten, dennoch nichts habgierig, nichts ungerecht, nichts ausschweifend, nichts
+			 unmäßig verrichten dürfen.
+		</german>
+		<latin>
+			Atque etiam ex omni deliberatione celandi et occultandi spes opinioque removenda est; satis enim 
+			nobis, si modo in philosophia aliquid profecimus, persuasum esse debet, si omnes deos hominesque 
+			celare possimus, nihil tamen avare, nihil iniuste, nihil libidinose, nihil incontinenter esse 
+			faciendum.
+		</latin>
+	</section>
+	<section from="38" to="38">
+		<german>
+			Aus diesem Grunde wird jener bekannte Gyges von Platon eingeführt, der, als die Erde sich infolge
+			einiger Wolkenbrüche gespalten hatte, in jenen Spalt hinabstieg und ein ehernes Pferd, wie Sagen
+			berichten, bemerkte, in dessen Flanken sich Türen befanden; als er diese geöffnet hatte, 
+			erblickte er den Körper eines toten Menschen von noch nie gesehener Größe und einen goldenen Ring
+			an seinem Finger; sobald er ihn abgezogen hatte, steckte er ihn sich selbst an (er war aber ein 
+			königlicher Hirte), dann begab er sich in die Versammlung der Hirten. Sooft er dort den Stein 
+			dieses Ringes zu seiner Handfläche hin umgedreht hatte, wurde er von niemandem gesehen, er selbst 
+			aber sah alles; umgekehrt wurde er wieder gesehen, wenn er den Ring an den richtigen Platz 
+			gedreht hatte. Daher machte er sich den Vorteil zu Nutze, den der Ring bot, schändete die Königin
+			und beseitigte mit ihrer Hilfe seinen königlichen Herrn, er räumte diejenigen aus dem Wege, die 
+			ihm seiner Meinung nach hinderlich waren, ohne dass ihn jemand bei diesem verbrecherischen 
+			Treiben hätte sehen können. So trat er plötzlich durch den Vorteil eines Ringes als König über 
+			Lydien auf. Wenn also ein Weiser genau diesen Ring hätte, dürfte er genauso wenig glauben, dass 
+			ihm ein Vergehen erlaubt sei, wie wenn er ihn nicht hätte; sittlich Gutes nämlich erstreben gute 
+			Männer, nicht Verborgenes.
+		</german>
+		<latin>
+			Hinc ille Gyges inducitur a Platone, qui cum terra discessisset magnis quibusdam 
+			imbribus, descendit in illum hiatum aeneumque equum, ut ferunt fabulae, animadvertit, cuius in 
+			lateribus fores essent; quibus apertis corpus hominis mortui vidit magnitudine invisitata 
+			anulumque aureum in digito; quem ut detraxit, ipse induit (erat autem regius pastor), tum in 
+			concilium se pastorum recepit. Ibi cum palam eius anuli ad palmam converterat, a nullo videbatur,
+			ipse autem omnia videbat; idem rursus videbatur, cum in locum anulum inverterat. Itaque hac 
+			oportunitate anuli usus reginae stuprum intulit eaque adiutrice regem dominum interemit, sustulit
+			quos obstare arbitrabatur, nec in his eum facinoribus quisquam potuit videre. Sic repente anuli 
+			beneficio rex exortus est Lydiae. Hunc igitur ipsum anulum si habeat sapiens, nihil plus sibi 
+			licere putet peccare, quam si non haberet; honesta enim bonis viris, non occulta quaeruntur.
+		</latin>
+	</section>
+	<section from="39" to="39">
+		<german>
+			Und an dieser Stelle sagen einige Philosophen, jene keinesfalls schlechten, aber nicht hinreichend scharfsinnigen, die von Platon vorgebrachte Geschichte sei nur erfunden und erlogen, als ob jener tatsächlich behaupten würde, dieses sei entweder geschehen oder hätte geschehen können. Folgendes ist die Bedeutung dieses Rings und dieses Beispiels: Falls niemand wissen, niemand nicht einmal ahnen wird, sobald du etwas um des Reichtums, der Macht, der Alleinherrschaft und der Begierde willen tust, falls dieses Göttern und Menschen immer unbekannt sein wird, ob du es dann tun wirst. Sie sagen, dieses könne nicht geschehen. Keineswegs kann dieses geschehen, aber ich frage, was sie tun würden, wenn das, von dem sie sagen, es könne nicht geschehen, sich zutragen könnte. Sie bleiben hartnäckig dabei. Sie behaupten nämlich, es könne nicht geschehen, und beharren auf diesem Standpunkt; was dieses Wort "können" bedeutet, begreifen sie nicht. Denn wenn wir fragen, was sie tun würden, wenn sie es verheimlichen könnten, fragen wir nicht, ob sie es verheimlichen könnten, sondern wir wenden gleichsam einige Zwangsmittel an, damit sie, falls sie antworten, sie würden unter Gewährung von Straffreiheit tun, was nützt, eingestehen, dass sie Verbrecher sind, und einräumen, falls sie nein sagen, dass alles Schändliche um seiner selbst willen gemieden werden muss. Aber wir wollen nun zum Thema zurückkehren.
+		</german>
+		<latin>
+			Atque hoc loco philosophi quidam minime mali illi quidem, sed non satis acuti, fictam et commenticiam fabulam prolatam dicunt a Platone, quasi vero ille aut factum id esse aut fieri potuisse defendat. Haec est vis huius anuli et huius exempli: si nemo sciturus, nemo ne suspicaturus quidem sit, cum aliquid divitiarum, potentiae, dominationis, libidinis causa feceris, si id diis hominibusque futurum sit semper ignotum, sisne facturus? Negant id fieri posse. Quamquam potest id quidem, sed quaero, quod negant posse, id si posset, quidnam facerent. Urgent rustice sane. Negant enim posse et in eo perstant, hoc verbum quid valeat non vident. Cum enim quaerimus, si celare possint, quid facturi sint, non quaerimus, possintne celare, sed tamquam tormenta quaedam adhibemus, ut si responderint se impunitate proposita facturos, quod expediat, facinorosos se esse fateantur, si negent, omnia turpia per se ipsa fugienda esse concedant. Sed iam ad propositum revertamur.
+		</latin>
+	</section>
+	<section from="40" to="40">
+		<german>
+			Oft ereignen sich viele Fälle, welche die Menschen durch einen scheinbaren Nutzen verwirren, nicht weil die Frage bedacht wird, ob das Sittlichgute wegen der Größe des Nutzens geopfert werden muss - denn dieses wäre auf jeden Fall schlecht -, sondern jene, ob das, was nützlich erscheint, ohne Schändlichkeit getan werden kann. Als Brutus seinem Kollegen Collatinus die Amtsgewalt entzog, konnte es scheinen, als tue er dieses zu Unrecht; denn bei der Vertreibung der Könige beteiligte er sich an den Plänen des Brutus und unterstützte sie. Als aber der Senat den Plan gefasst hatte, die Blutsverwandten des Superbus, den Namen der Tarquinier und die Erinnerung an die Monarchie beseitigen zu müssen, war das, was nützlich war, nämlich für das Vaterland zu sorgen, so ehrenhaft, dass es sogar die Zustimmung selbst des Collatinus finden musste. Und so hatte der Nutzen wegen des Sittlichguten Gewicht, ohne das es auch den Nutzen nicht hätte geben können.
+		</german>
+		<latin>
+			Incidunt multae saepe causae, quae conturbent animos utilitatis specie, non, cum hoc deliberetur, relinquendane sit honestas propter utilitatis magnitudinem (nam id quidem improbum est), sed illud, possitne id, quod utile videatur, fieri non turpiter. Cum Collatino collegae Brutus imperium abrogabat, poterat videri facere id iniuste; fuerat enim in regibus expellendis socius Bruti consiliorum et adiutor. Cum autem consilium hoc principes cepissent, cognationem Superbi nomenque Tarquiniorum et memoriam regni esse tollendam, quod erat utile, patriae consulere, id erat ita honestum, ut etiam ipsi Collatino placere deberet. Itaque utilitas valuit propter honestatem, sine qua ne utilitas quidem esse potuisset.
+		</latin>
+	</section>
+	<section from="41" to="41">
+		<german>
+			Aber bei dem König, der die Stadt gegründet hat, verhielt es sich nicht so. Denn scheinbarer Nutzen beeinflusste seine Gedanken; weil es ihm nützlicher erschien, allein als mit einem anderen zu herrschen, tötete er seinen Bruder. Er ließ Bruderliebe und Menschlichkeit außer Acht, um das, was nützlich erschien, aber nicht war, erlangen zu können, und dennoch schützte er die Mauer als Grund vor, um den Schein von Ehrenhaftigkeit zu erwecken, was weder gut noch sonderlich geschickt war. Er hat sich also vergangen, mit seiner Zustimmung möchte ich dieses sagen, ob er nun Quirinus oder Romulus ist.
+		</german>
+		<latin>
+			At in eo rege, qui urbem condidit, non item. Species enim utilitatis animum pepulit eius; cui cum visum esset utilius solum quam cum altero regnare, fratrem interemit. Omisit hic et pietatem et humanitatem, ut id, quod utile videbatur, neque erat, assequi posset, et tamen muri causa opposuit, speciem honestatis nec probabilem nec sane idoneam. Peccavit igitur, pace vel Quirini vel Romuli dixerim.
+		</latin>
+	</section>
+	<section from="42" to="42">
+		<german>
+			Dennoch dürfen wir unsere Vorteile nicht aufgeben und anderen überlassen, da wir sie selbst nötig haben, sondern man muss jedem persönlichen Nutzen dienen, soweit dieses ohne Unrecht an einem Mitmenschen geschehen kann. Geistreich sagte Chrysippus wie vieles sonst: 'Wer in der Rennbahn um die Wette läuft, muss sich anstrengen und bemühen, so sehr er kann, um zu siegen, aber demjenigen ein Bein stellen, mit dem er streitet, oder ihn mit der Hand aus der Bahn werfen darf er in keiner Weise; daher ist es nicht ungerecht, wenn jeder im Leben für sich erstrebt, was dem Nutzen dient, einem anderen aber etwas zu entreißen ist ein Unrecht.'
+		</german>
+		<latin>
+			Nec tamen nostrae nobis utilitates omittendae sunt aliisque tradendae, cum his ipsi egeamus, sed suae cuique utilitati, quod sine alterius iniuria fiat, serviendum est. Scite Chrysippus, ut multa, "qui stadium, inquit, currit, eniti et contendere debet quam maxime possit, ut vincat, supplantare eum, quicum certet, aut manu depellere nullo modo debet; sic in vita sibi quemque petere, quod pertineat ad usum, non iniquum est, alteri deripere ius non est".
+		</latin>
+	</section>
+	<section from="43" to="43">
+		<german>
+			Am meisten aber werden die Begriffe von Pflicht bei Freunden in Unordnung gebracht, denen nicht zuzugestehen, wozu man in rechter Weise imstande ist, und zuzugestehen, was nicht rechtens ist, gegen die Pflicht verstößt. Aber die Vorschrift über diesen ganzen Bereich ist kurz und nicht schwierig. Was nämlich nützlich erscheint, Ehren, Reichtum, Freuden und anderes derselben Art, das darf niemals der Freundschaft vorgezogen werden. Aber weder gegen den Staat noch gegen einen Treueid wird ein rechtschaffener Mann um eines Freundes willen handeln, auch dann nicht, wenn er Richter über seinen eigenen Freund sein wird; er legt nämlich die Rolle des Freundes ab, wenn er die Rolle des Richters anlegt. Nur so weit wird er der Freundschaft Rechnung tragen, dass er es lieber sieht, wenn es die Sache des Freundes ist, die mit der Wahrheit übereinstimmt, dass er, solange es durch das Gesetz möglich ist, dem Freund die Zeit für den Vortrag seines Falles günstig einrichtet.
+		</german>
+		<latin>
+			Maxime autem perturbantur officia in amicitiis, quibus et non tribuere, quod recte possis et tribuere quod non sit aequum, contra officium est. Sed huius generis totius breve et non difficile praeceptum est. Quae enim videntur utilia, honores, divitiae, voluptates, cetera generis eiusdem, haec amicitiae numquam anteponenda sunt. At neque contra rem publicam neque contra ius iurandum ac fidem amici causa vir bonus faciet, ne si iudex quidem erit de ipso amico; ponit enim personam amici, cum induit iudicis. Tantum dabit amicitiae, ut veram amici causam esse malit, ut orandae litis tempus, quoad per leges liceat, accomodet.
+		</latin>
+	</section>
+	<section from="44" to="44">
+		<german>
+			Wenn aber unter Eid das Urteil verkündet werden muss, soll er daran denken, dass er Gott als Zeugen hinzuzieht, d.h., wie ich glaube, seinen Geist, das Göttlichste, das Gott selbst dem Menschen gegeben hat. Daher haben wir von unseren Vorfahren die vortreffliche Gewohnheit übernommen, wenn wir uns nur an sie halten würden, den Richter um das zu bitten, was er guten Gewissens tun könne. Diese Forderung bezieht sich auf das, was, wie ich kurz zuvor gesagt habe, einem Freund vom Richter auf ehrenhafte Weise eingeräumt werden kann. Denn wenn alles getan werden müsste, was Freunde wollen, dürften Freundschaften nicht für solche gehalten werden, sondern für Verschwörungen.
+		</german>
+		<latin>
+			Cum vero iurato sententia dicendast, meminerit deum se adhibere testem, id est, ut ego arbitror, mentem suam, qua nihil homini dedit deus ipse divinius. Itaque praeclarum a maioribus accepimus morem rogandi iudicis, si eum teneremus, qvae salva fide facere possit. Haec rogatio ad ea pertinet, quae paulo ante dixi honeste amico a iudice posse concedi. Nam si omnia facienda sint, quae amici velint, non amicitiae tales, sed coniurationes putandae sint.
+		</latin>
+	</section>
+	<section from="45" to="45">
+		<german>
+			Ich spreche aber über gewöhnliche Freundschaften; denn bei weisen und vollkommenen Männern kann es solches nicht geben. Man erzählt, die Pythagoräer Damon und Phintias seien untereinander so gesinnt gewesen, dass, als der Tyrann Dionysius dem einen von ihnen den Tag der Hinrichtung bestimmt und der, welcher dem Tod geweiht war, einige Tage für sich gefordert hatte, um das Seine dem Schutz von Freunden zu empfehlen, der andere zum Bürgen dafür gemacht worden sei, dass er ihn vor Gericht erscheinen lasse, unter der Bedingung, selbst sterben zu müssen, falls jener nicht zurückkehre. Als er sich zum festgesetzten Zeitpunkt eingefunden hatte, bewunderte der Tyrann ihre Treue und bat sie, ihn als Dritten in ihr Freundschaftsverhältnis aufzunehmen.
+		</german>
+		<latin>
+			Loquor autem de communibus amicitiis; nam in sapientibus viris perfectisque nihil potest esse tale. Damonem et Phintiam Pythagoreos ferunt hoc animo inter se fuisse, ut, cum eorum alteri Dionysius tyrannus diem necis destinavisset et is, qui morti addictus esset, paucos sibi dies commendandorum suorum causa postulavisset, vas factus est alter eius sistendi, ut si ille non revertisset, moriendum esset ipsi. Qui cum ad diem se recepisset, admiratus eorum fidem tyrannus petivit, ut se ad amicitiam tertium adscriberent.
+		</latin>
+	</section>
+	<section from="46" to="46">
+		<german>
+			Wenn also das, was in der Freundschaft nützlich erscheint, mit dem, was sittlich gut ist, 
+			verglichen wird, soll der scheinbare Nutzen unbeachtet bleiben, das Sittlichgute aber Bedeutung 
+			haben. Wenn aber in der Freundschaft das, was nicht sittlich gut ist, gefordert wird, sollen 
+			Gewissenhaftigkeit und Redlichkeit der Freundschaft vorgezogen werden; so wird man diejenige 
+			Wahl des rechten Handelns treffen, nach der wir fragen.
+		</german>
+		<latin>
+			Cum igitur id, quod utile videtur in amicitia, cum eo, quod honestum est, comparatur, iaceat 
+			utilitatis species, valeat honestas. Cum autem in amicitia, quae honesta non sunt, postulabuntur,
+			religio et fides anteponatur amicitiae; sic habebitur is, quem exquirimus dilectus officii.
+		</latin>
+	</section>
+	<section from="46b" to="46b">
+		<german>
+			Aber wegen eines scheinbaren Nutzens werden in der Politik sehr häufig Fehler begangen, wie die
+			Unsrigen bei der Zerstörung Korinths es getan haben; härter noch vergingen sich sogar die Athener,
+			die befahlen, dass den Aegineten, die durch ihre Flotte stark waren, die Daumen abgeschnitten 
+			wurden. Dieses erschien ihnen nützlich; denn zu sehr drohte Aegina wegen seiner Nähe Piraeus. 
+			Aber nichts, was grausam ist, ist nützlich; denn die größte Feindin der menschlichen Natur, der 
+			wir folgen müssen, ist die Grausamkeit.
+		</german>
+		<latin>
+			Sed 
+			utilitatis specie in republica saepissime peccatur, ut in Corinthi disturbatione nostri; durius 
+			etiam Athenienses, qui sciverunt, ut Aeginetis, qui classe valebant, pollices praeciderentur. Hoc 
+			visum est utile; nimis enim imminebat propter propinquitatem Aegina Piraeo. Sed nihil, quod 
+			crudele, utile; est enim hominum naturae, quam sequi debemus, maxima inimica crudelitas.
+		</latin>
+	</section>
+	<section from="47" to="47">
+		<german>
+			Übel handeln auch diejenigen, die Ausländer daran hindern, sich in den Städten aufzuhalten und sie vertreiben, wie Pennus bei unseren Vorfahren und Papius neulich. Denn in der Position eines Bürgers zu sein, obwohl man keiner ist, ist zu Recht nicht erlaubt; dieses Gesetz brachten die sehr weisen Konsuln Crassus und Scaevola ein. Aber Fremde vom Nutzen einer Stadt fernzuhalten ist ganz und gar unmenschlich. Berühmt sind jene Fälle, bei denen ein scheinbarer Nutzen des Staates gegenüber der Sittlichkeit geringgeschätzt wird. Reich an Beispielen ist unser Staat, oft und ganz besonders auch im Zweiten Punischen Krieg, als er, nachdem er die Niederlage von Cannae erlitten hatte, mehr Mut aufbrachte als jemals unter glücklichen Umständen; es gab kein Anzeichen von Furcht, keine Erwähnung des Friedens. So groß ist die Macht des Sittlichguten, dass sie den scheinbaren Nutzen in den Schatten stellt.
+		</german>
+		<latin>
+			Male etiam, qui peregrinos urbibus uti prohibent eosque exterminant, ut Pennus apud patres nostros, Papius nuper. Nam esse pro cive, qui civis non sit, rectum est non licere, quam legem tulerunt sapientissimi consules Crassus et Scaevola. Usu vero urbis prohibere peregrinos, sane inhumanum est. Illa praeclara, in quibus publicae utilitatis species prae honestate contemnitur. Plena exemplorum est nostra res publica cum saepe, tum maxime bello Punico secundo, quae Cannensi calamitate accepta maiores animos habuit quam unquam rebus secundis; nulla timoris significatio, nulla mentio pacis. Tanta vis est honesti, ut speciem utilitatis obscuret.
+		</latin>
+	</section>
+	<section from="48" to="48">
+		<german>
+			Als die Athener dem Angriff der Perser auf keine Weise standzuhalten vermochten und beschlossen, die Schiffe zu besteigen, nachdem sie die Stadt aufgegeben und Frauen und Kinder in Troezen in Sicherheit gebracht hätten, und die Freiheit Griechenlands mit der Flotte zu verteidigen, überschütteten sie einen gewissen Cyrsilus mit Steinen, da er ihnen riet, in der Stadt zu bleiben und Xerxes aufzunehmen. Und doch schien jener dem Nutzen zu folgen, aber es war keiner, da die Sittlichkeit dem widerstrebte.
+		</german>
+		<latin>
+			Athenienses cum Persarum impetum nullo modo possent sustinere statuerentque, ut urbe relicta, coniugibus et liberis Troezene depositis, naves conscenderent libertatemque Graeciae classe defenderent, Cyrsilum quendam suadentem, ut in urbe manerent Xerxemque reciperent, lapidibus obruerunt. Atque ille utilitatem sequi videbatur, sed ea nulla erat repugnante honestate.
+		</latin>
+	</section>
+	<section from="49" to="49">
+		<german>
+			Themistocles sagte nach seinem Sieg in dem Krieg, der gegen die Perser geführt wurde, in der 
+			Volksversammlung, er habe einen für den Staat vorteilhaften Plan, aber es sei nicht zweckmäßig, 
+			dass dieser allgemein bekannt werde; er forderte, das Volk solle jemanden nennen, mit dem er sich
+			besprechen könne; Aristides wurde genannt. Diesem sagte jener, die Flotte der Spartaner, die bei 
+			Gytheus an Land gezogen worden sei, könne heimlich angezündet werden, wodurch die Macht der 
+			Lacedaemonier notwendigerweise gebrochen werde. Als Aristides dieses gehört hatte, kam er unter 
+			großer Erwartung in die Volksversammlung und sagte, der Plan, den Themistocles vorlege, sei zwar
+			sehr nützlich, aber keineswegs sittlich gut. Daher glaubten die Athener, weil er nicht sittlich 
+			gut sei, sei er auch nicht nützlich, und sie wiesen auf Aristides' Veranlassung das ganze 
+			Unterfangen zurück, das sie nicht einmal gehört hatten. Diese fassten einen besseren Entschluss 
+			als wir, die wir abgabenfreie Piraten, aber steuerpflichtige Bundesgenossen haben.
+		</german>
+		<latin>
+			Themistocles post victoriam eius belli, quod cum Persis fuit, dixit in contione se habere 
+			consilium rei publicae salutare, sed id sciri non opus esse; postulavit, ut aliquem populus 
+			daret, quicum communicaret; datus est Aristides. Huic ille, classem Lacedaemoniorum, quae 
+			subducta esset ad Gytheum, clam incendi posse quo facto frangi Lacedaemoniorum opes necesse 
+			esset. Quod Aristides cum audisset, in contionem magna exspectatione venit dixitque perutile 
+			esse consilium, quod Themistocles adferret, sed minime honestum. Itaque Athenienses, quod 
+			honestum non esset, id ne utile quidem putaverunt totamque eam rem, quam ne audierant quidem,
+			auctore Aristide repudiaverunt. Melius hi quam nos, qui piratas immunes, socios vectigales 
+			habemus. 
+		</latin>
+	</section>
+	<section from="49b" to="49b">
+		<german>
+			Es bleibe also dabei, dass das, was schändlich ist, niemals nützlich ist, nicht einmal dann, wenn 
+			man das, was man für nützlich hält, erlangt; denn schon der Gedanke, nützlich sei, was schändlich,
+			ist unheilvoll.
+		</german>
+		<latin>
+			Maneat ergo, quod turpe sit, id numquam esse utile, ne tum quidem, cum id, quod utile 
+			esse putes, adipiscare; hoc enim ipsum, utile putare quod turpe sit, calamitosum est.
+		</latin>
+	</section>
+	<section from="50" to="50">
+		<german>
+			Aber es treten, wie ich oben gesagt habe, häufig Fälle von der Art auf, dass der Nutzen im Widerspruch mit der Sittlichkeit zu stehen scheint, so dass man genau zu beachten hat, ob er völlig im Widerspruch steht oder sich mit der Sittlichkeit vereinbaren lassen kann. Fragen dieser Art sind folgende: Wenn z.B. ein anständiger Mensch aus Alexandria nach Rhodos eine große Menge Getreide fahren würde während einer Hungersnot bei den Rhodiern und zu einer Zeit, da höchste Teuerung des Getreides herrscht, wenn er zugleich wüsste, dass mehrere Händler aus Alexandrien abgesegelt sind, und sähe, wie die mit Getreide beladenen Schiffe Kurs auf Rhodos nehmen, würde er dieses den Rhodiern sagen oder schweigend sein Getreide so teuer wie möglich verkaufen? Einen weisen und anständigen Menschen stellen wir uns vor; nach der Überlegung und Erwägung desjenigen fragen wir, der es nicht vor den Rhodiern verheimlichen würde, falls er dieses Verhalten für schändlich hielte, aber daran zweifelt, ob es schändlich ist.
+		</german>
+		<latin>
+			Sed incidunt, ut supra dixi, saepe causae, cum repugnare utilitas honestati videatur, ut animadvertendum sit, repugnetque plane an possit cum honestate coniungi. Eius generis hae sunt quaestiones: Si exempli gratia vir bonus Alexandrea Rhodum magnum frumenti numerum advexerit in Rhodiorum inopia et fame summaque annonae caritate, si idem sciat complures mercatores Alexandrea solvisse navesque in cursu frumento onustas petentes Rhodum viderit, dicturusne sit id Rhodiis an silentio suum quam plurimo venditurus? Sapientem et bonum virum fingimus; de eius deliberatione et consultatione quaerimus, qui celaturus Rhodios non sit, si id turpe iudicet, sed dubitet, an turpe non sit.
+		</latin>
+	</section>
+	<section from="51" to="51">
+		<german>
+			In derartigen Angelegenheiten wird das eine von dem Babylonier Diogenes, einem großen und angesehenen Stoiker, gewöhnlich für gut befunden, das andere von Antipater, seinem Schüler, einem sehr scharfsinnigen Menschen; Antipater ist der Meinung, alles müsse offen gesagt werden, damit auch der Käufer das, was der Verkäufer weiß, ganz und gar kennt; Diogenes vertritt die Ansicht, der Verkäufer müsse, insoweit es durch das bürgerliche Recht festgesetzt sei, die Mängel nennen, den Rest ohne Hinterhalt tun und, da er ja verkaufe, auch möglichst gut verkaufen wollen. "Ich habe meine Ladung herangebracht und zum Verkauf angeboten, ich verkaufe sie nicht teurer als die Übrigen, vielleicht sogar billiger, wenn mein Vorrat größer ist; wem geschieht da ein Unrecht?"
+		</german>
+		<latin>
+			 In huiusmodi causis aliud Diogeni Babylonio videri solet, magno et gravi Stoico, aliud Antipatro, discipulo eius, homini acutissimo; Antipatro omnia patefacienda, ut ne quid omnino, quod venditor norit, emptor ignoret, Diogeni venditorem, quatenus iure civili constitutum sit, dicere vitia oportere, cetera sine insidiis agere et, quoniam vendat, velle quam optime vendere. "Advexi, eui, vendo meum non pluris, quam ceteri, fortasse etiam minoris, cum maior est copia; cui fit iniuria?"
+		</latin>
+	</section>
+	<section from="52" to="52">
+		<german>
+			Auf der anderen Seite erhebt sich die Argumentation Antipaters: "Was sagst du da? Während du für die Menschen Sorge tragen und der menschlichen Gemeinschaft dienen musst sowie unter einem solchen Gesetz geboren bist und über derartige Prinzipien der Natur verfügst, denen du gehorchen musst, dass dein Nutzen zugleich der Nutzen der Gemeinschaft ist und umgekehrt der Nutzen der Gemeinschaft auch deiner, willst du den Menschen verheimlichen, welcher Vorteil und welche Menge ihnen zur Verfügung steht?" Diogenes wird vielleicht so antworten: "Etwas anderes bedeutet es zu verheimlichen, etwas anderes zu schweigen, und nicht verheimliche ich dir jetzt etwas, wenn ich dir nicht sage, was das Wesen der Götter, was das höchste Gut ist, ein Wissen, das dir mehr nutzen würde, wenn es dir bekannt wäre, als der geringe Preis des Getreides. Aber nicht alles, was für dich zu hören nützlich ist, brauche ich dir zu sagen."
+		</german>
+		<latin>
+			Exoritur Antipatri ratio ex altera parte: "Quid ais? tu, cum hominibus consulere debeas et servire humanae societati eaque lege natus sis et ea habeas principia naturae, quibus parere et quae sequi debeas, ut utilitas tua communis sit utilitas vicissimque communis utilitas tua sit, celabis homines, quid iis adsit commoditatis et copiae? Respondebit Diogenes fortasse sic: "Aliud est celare, aliud tacere, neque ego nunc te celo, si tibi non dico, quae natura deorum sit, qui sit finis bonorum, quae tibi plus prodessent cognita quam tritici vilitas. Sed non, quicquid tibi audire utile est, idem mihi dicere necesse est."
+		</latin>
+	</section>
+	<section from="53" to="53">
+		<german>
+			"Aber ja", wird jener sagen, "ich muss es, wenn du dich daran erinnerst, dass unter den Menschen 
+			durch die Natur eine Verbindung geknüpft ist." "Ich erinnere mich", wird jener sagen, "aber ist
+			diese Verbindung etwa so, dass nichts Privateigentum ist? Wenn dieses so ist, darf auch nichts 
+			verkauft, sondern muss alles verschenkt werden."
+		</german>
+		<latin>
+			"Immo vero," inquiet ille "necesse est, si quidem meministi esse inter homines natura coniunctam 
+			societatem." "Memini," inquiet ille, "sed num ista societas talis est, ut nihil suum cuiusque sit?
+			Quod si ita est, ne vendendum quidem quicquam est, sed donandum."
+		</latin>
+	</section>
+	<section from="53b" to="53b">
+		<german>
+			Du siehst, dass bei diesem ganzen Meinungsaustausch nicht gesagt wird "Auch wenn dieses 
+			schändlich ist, will ich es dennoch tun, da es nützt", sondern es sei nützlich, ohne allerdings 
+			schändlich zu sein, dass auf der anderen Seite aber gesagt wird, es dürfe deswegen nicht getan 
+			werden, weil es schändlich sei.
+		</german>
+		<latin>
+Vides in hac tota disceptatione non illud dici "quamvis hoc turpe sit, tamen, quoniam expedit, faciam", sed
+ita expedire, ut turpe non sit, ex altera autem parte, ea re, quia turpe sit, non esse faciendum.
+		</latin>
+	</section>
+	<section from="54" to="54">
+		<german>
+			Stelle dir vor, es verkauft ein rechtschaffener Mann sein Haus wegen irgendwelcher Mängel, die er selbst kennt, die anderen aber nicht; das Haus ist verseucht, gilt aber als gesundheitsfördernd; man weiß nicht, dass in allen Zimmern Schlangen zu sehen sind; es ist aus schlechtem Bauholz hergestellt und baufällig, aber außer dem Besitzer weiß dieses niemand; ich frage, wenn dieses der Verkäufer den Käufern nicht sagen, sondern er das Haus viel teurer verkaufen sollte als er meint, es verkaufen zu können, ob es widerrechtlich oder doch wenigstens unredlich ist, wenn er dieses getan hat. "Jener würde in der Tat so handeln", sagt Antipater. "Denn was anderes bedeutet es, einem, der sich verirrt, den Weg nicht zu zeigen, was in Athen unter öffentlichen Verfluchungen verboten worden ist, wenn nicht dasselbe wie zuzulassen, dass der Käufer ins Verderben stürzt und aus Irrtum einem sehr großen Schaden erliegt. Es bedeutet sogar mehr als den Weg nicht zu zeigen, denn es meint wissentlich einen anderen in die Irre zu führen."
+		</german>
+		<latin>
+			Vendat aedes vir bonus, propter aliqua vitia, quae ipse norit, ceteri ignorent, pestilentes sint et habeantur salubres, ignoretur in omnibus cubiculis apparere serpentes, sint, male materiatae et ruinosae, sed hoc praeter dominum nemo sciat; quaero, si haec emptoribus venditor non dixerit aedesque vendiderit pluris multo. quam se venditurum putarit, num id iniuste aut improbe fecerit? "Ille vero" inquit Antipater. "Quid est enim aliud erranti viam non monstrare, quod Athenis execrationibus publicis sanctum est, si hoc non est, emptorem pati ruere et per errorem in maximam fraudem incurrere. Plus etiam est quam viam non monstrare; nam est scientem in errorem alterum inducere."
+		</latin>
+	</section>
+	<section from="55" to="55">
+		<german>
+			Diogenes entgegnet: "Hat dich etwa zu kaufen gezwungen, wer dich nicht einmal dazu ermuntert hat? Jener hat öffentlich angeboten, was ihm nicht gefiel, du hast gekauft, was dir gefiel. Wenn man nun nicht glaubt, dass diejenigen, die ein gutes und richtig gebautes Haus öffentlich anbieten, einen Betrug begangen haben, auch wenn jenes Haus weder gut noch ordentlich erbaut ist, wie viel weniger nimmt man es von denjenigen an, die das Haus nicht gelobt haben. Wie nämlich kann dort, wo es die eigene Urteilsbildung des Käufers gibt, ein Betrug des Verkäufers vorhanden sein? Wenn also nicht alles, was gesagt ist, erfüllt werden muss, ist dann deiner Meinung nach das zu erfüllen, was nicht gesagt worden ist? Was aber ist törichter als dass ein Verkäufer die Fehler des Gegenstandes erwähnt, den er verkauft? Was aber ist so absurd, wie wenn auf Befehl des Besitzers ein Ausrufer folgendermaßen anbietet: 'Ein verseuchtes Haus verkaufe ich'?"
+		</german>
+		<latin>
+			Diogenes contra "Num te emere coegit, qui ne hortatus quidem est? Ille, quod non placebat, proscripsit, tu quod placebat, emisti. Quod si qui proscribunt villam bonam beneque aedificatam non existimantur fefellisse, etiam si illa nec bona est nec aedificata ratione, multo minus, qui domum non laudarunt. Ubi enim iudicium emptoris est, ibi fraus venditoris quae potest esse? Sin autem dictum non omne praestandum est, quod dictum non est, id praestandum putas? Quid vero est stultius quam venditorem eius rei, quam vendat, vitia narrare? Quid autem tam absurdum quam si domini iussu ita praeco praedicet: "6domum pestilentem vendo?"
+		</latin>
+	</section>
+	<section from="56" to="56">
+		<german>
+			So nämlich wird in etlichen ungewissen Fällen einerseits das Sittlichgute verteidigt, andererseits so über den Nutzen gesprochen, dass das, was nützlich erscheint, nicht nur zu tun zulässig ist, sondern es sogar unzulässig ist, wenn man es nicht tut. Dieses ist jener Widerstreit des Nützlichen mit dem Sittlichguten, der oft zu entstehen scheint. Diese Fälle müssen entschieden werden; denn nicht um nur Streitfragen aufzuwerfen, haben wir dieses dargestellt, sondern um deren Lösung zu entfalten.
+		</german>
+		<latin>
+			Sic ergo in quibusdam causis dubiis ex altera parte defenditur honestas, ex altera ita de utilitate dicitur, ut id, quod utile videatur, non modo facere honestum sit, sed etiam non facere turpe. Haec est illa, quae videtur utilium fieri cum honestis saepe dissensio. Quae diiudicanda sunt; non enim, ut quaereremus, euimus, sed ut explicaremus.
+		</latin>
+	</section>
+	<section from="57" to="57">
+		<german>
+			Es scheint also, dass weder jener Getreidehändler die Rhodier noch dieser Hausverkäufer die Käufer hätte in Unkenntnis lassen dürfen. Denn verheimlichen bedeutet nicht etwas zu verschweigen, von welcher Art auch immer es ist, wohl aber, wenn du willst, dass das, was du weißt, um deines Vorteils willen diejenigen nicht wissen, für die es wichtig wäre, dass sie es wissen. Wer aber erkennt nicht die Beschaffenheit dieser Art von Verheimlichung und zu welchen Menschen sie gehört? Sicherlich nicht zu einem offenen, nicht zu einem ehrlichen, nicht zu einem aufrichtigen, nicht zu einem gerechten, nicht zu einem guten Mann, eher zu einem verschlagenen, verschlossenen, listigen, hinterhältigen, boshaften, heimtückischen, durchtriebenen und verschmitzten. Ist es nicht von Nachteil, sich diese so zahlreichen Schandnamen und noch andere mehr zuzuziehen?
+		</german>
+		<latin>
+			Non igitur videtur nec frumentarius ille Rhodios nec hic aedium venditor celare emptores debuisse. Neque enim id est celare, quicquid reticeas, sed cum, quod tu scias, id ignorare emolumenti tui causa velis eos, quorum intersit id scire. Hoc autem celandi genus quale sit et cuius hominis, quis non videt? Certe non aperti, non simplicis, non ingenui, non iusti, non viri boni, versuti potius obscuri, astuti, fallacis, malitiosi, callidi, veteratoris, vafri. Haec tot et alia plura nonne inutile est vitiorum subire nomina?
+		</latin>
+	</section>
+	<section from="58" to="58">
+		<german>
+			also diejenigen zu tadeln sind, die geschwiegen haben, wie muss man dann erst über die urteilen, die sich nichtigen Geredes bedient haben? Als C. Canius, ein römischer Ritter, nicht ohne Witz und hinreichend gebildet, sich nach Syracus zur Erholung, wie er selbst zu sagen pflegte, und nicht um der Handelsgeschäfte willen begeben hatte, sagte er oft, er wolle irgendein kleines Landgut kaufen, wohin er seine Freunde einladen und wo er sich ohne störende Besucher erheitern könne. Als dieses bekannt geworden war, sagte ihm ein gewisser Pythius, der in Syracus ein Bankhaus hatte, er habe zwar keinen Park zu verkaufen, aber es sei Canius erlaubt, wenn er wolle, diesen wie seinen eigenen zu benutzen, und zugleich lud er ihn für den nächsten Tag zu einem Essen in seinen Park ein. Nachdem jener zugesagt hatte, rief Pythius, der als Bankier bei allen Ständen beliebt war, Fischer zu sich und bat sie, vor seinem Park am folgenden Tag zu fischen. Und er sagte, was sie tun sollten. Pünktlich kam Canius zum Essen; prächtig wurde von Pythius das Gastmahl vorbereitet, vor seinen Augen lag eine Vielzahl von Kähnen, nach seinen Kräften brachte jeder herbei, was er gefangen hatte; vor die Füße des Pythius wurden die Fische geworfen.
+		</german>
+		<latin>
+			Quod si vituperandi qui reticuerunt, quid de iis existimandum est, qui orationis vanitatem adhibuerunt? C. Canius, eques Romanus, nec infacetus et satis litteratus, cum se Syracusas otiandi, ut ipse dicere solebat, non negotiandi causa contulisset, dictitabat se hortulos aliquos emere velle, quo invitare amicos et ubi se oblectare sine interpellatoribus posset. Quod cum percrebuisset, Pythius ei quidam, qui argentariam faceret Syracusis, venales quidem se hortos non habere, sed licere uti Canio, si vellet, ut suis, et simul ad cenam hominem in hortos invitavit in posterum diem. Cum ille promisisset, tum Pythius, qui esset ut argentarius apud omnes ordines gratiosus, piscatores ad se convocavit et ab iis petivit, ut ante suos hortulos postridie piscarentur, dixitque quid eos facere vellet. Ad cenam tempori venit Canius; opipare a Pythio adparatum convivium, cumbarum ante oculos multitudo, pro se quisque, quod ceperat, adferebat; ante pedes Pythii pisces abiciebantur.
+		</latin>
+	</section>
+	<section from="59" to="59">
+		<german>
+			Da sagte Canius: "Um Himmels willen! Was bedeutet das, Pythius? So viele Fische? So viele Kähne?" Und jener sprach: "Was Wunder? An diesem Ort fängt man alle Fische, die es in Syracus gibt, ohne dieses Landgut können diese da nicht sein." Zuerst machte jener Schwierigkeiten. Wozu viele Worte? Canius setzte sein Ansinnen durch. Der versessene und wohlhabende Mann kaufte den Park für so viel Geld, wie Pythius es wollte, und zwar mit allem Zubehör. Er ließ die Schuldposten eintragen, er schloss das Geschäft ab. Canius lud tags darauf seine Freunde ein, er selbst kam rechtzeitig, nicht einen einzigen Ruderpflock erblickte er. Er fragte seinen nächsten Nachbarn, ob die Fischer einige Ferientage hätten, weil er gar keinen sehe. "Es gibt keine Ferientage", sagte jener, "aber hier fischt gewöhnlich keiner. Daher konnte ich gestern nicht begreifen, was geschehen war."
+		</german>
+		<latin>
+			Tum Canius "quaeso", inquit, "quid est hoc, Pythi? tantumne piscium? tantumne cumbarum?" Et ille: "Quid mirum?" inquit, "hoc loco est Syracusis quidquid est piscium, hic aquatio, hac villa isti carere non possunt." Incensus Canius cupiditate contendit a Pythio, ut venderet. Gravate ille primo. Quid multa? impetrat. Emit homo cupidus et locuples tanti, quanti Pythius voluit, et emit instructos. Nomina facit, negotium conficit. Invitat Canius postridie familiares suos, venit ipse mature, scalmum nullum videt. Quaerit ex proximo vicino, num feriae quaedam piscatorum essent, quod eos nullos videret. "Nullae, quod sciam," ille, "sed hic piscari nulli solent. Itaque heri mirabar quid accidisset."
+		</latin>
+	</section>
+	<section from="60" to="60">
+		<german>
+			Canius ärgerte sich, aber was hätte er tun sollen? Denn C. Aquilius, mein Kollege und Freund, hatte noch nicht die Rechtsformeln bezüglich böswilliger Täuschung veröffentlicht; als er gefragt wurde, was in eben diesen Rechtsformeln böswillige Täuschung sei, antwortete er, wenn das eine vorgespielt, das andere aber getan worden sei. Das lässt sich hören, wie es von einem des Definierens kundigen Menschen erwartet werden kann. Also sind Pythius und alle, die das eine vorgeben, aber anderes tun, unredlich, boshaft und heimtückisch. Keine ihrer Taten kann also nützlich sein, da sie durch so viele Laster befleckt ist.
+		</german>
+		<latin>
+			Stomachari Canius, sed quid faceret? Nondum enim C. Aquilius, collega et familiaris meus, protulerat de dolo malo formulas; in quibus ipsis, cum ex eo quaereretur, quid esset dolus malus, respondebat, cum esset aliud simulatum, aliud actum. Hoc quidem sane luculente, ut ab homine perito definiendi. Ergo et Pythius et omnes aliud agentes, aliud simulantes perfidi, improbi, malitiosi. Nullum igitur eorum factum potest utile esse, cum sit tot vitiis inquinatum.
+		</latin>
+	</section>
+	<section from="61" to="61">
+		<german>
+			Wenn also die Definition des Aquilius richtig ist, müssen aus dem gesamten Leben Vortäuschung und Verstellung entfernt werden. So wird ein rechtschaffener Mann weder um besser zu kaufen noch um besser zu verkaufen irgendetwas vortäuschen oder verheimlichen. Und in der Tat war diese böswillige Täuschung auch durch Gesetze geahndet worden, wie die Vormundschaft durch die Zwölftafelgesetze, die Übervorteilung Jugendlicher durch die 'lex Plaetoria' und ohne Gesetzesgrundlage in Prozessen, bei denen hinzugefügt wird 'nach bestem Wissen und Gewissen'. In den übrigen Prozessen aber treten folgende Rechtsformeln ganz besonders hervor: bei einem Urteil über das Vermögen einer Frau 'besser und billiger', bei einem Vertrag auf Treu und Glauben 'wie unter Rechtschaffenen gut gehandelt wird'. Was also? Kann in diesem Grundsatz 'was besser und billiger' irgendeine Spur von Betrug enthalten sein? Oder wenn 'unter Rechtschaffenen gut handeln' gesagt wird, kann da etwas arglistig oder heimtückisch getan werden? Böswillige Täuschung aber beruht, wie Aquilius sagt, auf Vorspiegelung falscher Tatsachen. Beim Abschluss von Verträgen also ist jede Täuschung zu eliminieren. Nicht wird ein Verkäufer einen Scheinkäufer anstellen, nicht ein Käufer jemanden, der gegen ihn bietet. Wenn beide kommen, um zu bieten, werden sie nicht mehr als einmal bieten.
+		</german>
+		<latin>
+			Quod si Aquiliana definitio vera est, ex omni vita simulatio dissimulatioque tollenda est. Ita nec ut emat melius nec ut vendat quicquam simulabit aut dissimulabit vir bonus. Atque iste dolus malus et legibus erat vindicatus, ut tutela duodecim tabulis, circumscriptio adulescentium lege Plaetoria et sine lege iudiciis, in quibus additur ex fide bona. Reliquorum autem iudiciorum haec verba maxime excellunt: in arbitrio rei uxoriae melivs aeqvivs, in fiducia vt inter bonos bene agier. Quid ergo? aut in eo, qvod melivs aeqvivs, potest ulla pars inesse fraudis? aut cum dicitur inter bonos bene agier, quicquam agi dolose aut malitiose potest? Dolus autem malus in simulatione, ut ait Aquilius, continetur. Tollendum est igitur ex rebus contrahendis omne mendacium. Non inlicitatorem venditor, non qui contra se liceatur emptor apponet. Uterque si ad eloquendum venerit, non plus quam semel eloquetur.
+		</latin>
+	</section>
+	<section from="62" to="62">
+		<german>
+			Nachdem Quintus Scaevola, ein Sohn des Publius, gefordert hatte, der Preis für das Anwesen, dessen Käufer er war, solle ihm nur einmal genannt werden, und der Verkäufer dieses getan hatte, sagte er, er schätze das Anwesen höher ein; er fügte 100.000 Sesterze hinzu. Es gibt niemanden, der bestreitet, dass diese Tat die eines rechtschaffenen Mannes gewesen ist; dass sie die eines weisen Mannes gewesen ist, bestreiten sie, als wenn er das Anwesen billiger als möglich verkauft hätte. Darauf also beruht jene verderbliche Lehre, dass sie die einen für rechtschaffen, die anderen für weise halten. Aus diesem Grund schreibt Ennius, 'vergeblich weise sei der Weise, der sich selbst nicht nützen könne'. Der Wahrheit gemäß hat Ennius dieses gesagt, falls ich mit Ennius darin übereinstimmte, was die Bedeutung von 'nützen' ist.
+		</german>
+		<latin>
+			Quintus quidem Scaevola, Publi filius, cum postulasset, ut sibi fundus, cuius emptor erat, semel indicaretur idque venditor ita fecisset, dixit se pluris aestumare; addidit centum milia. Nemo est, qui hoc viri boni fuisse neget; sapientis negant, ut si minoris quam potuisset vendidisset. Haec igitur est illa pernicies, quod alios bonos alios sapientes existimant. Ex quo Ennius "nequiquam sapere sapientem, qui ipse sibi prodesse non quiret". Vere id quidem, si, quid esset prodesse mihi cum Ennio conveniret.
+		</latin>
+	</section>
+	<section from="63" to="63">
+		<german>
+			Ich sehe, dass der Rhodier Hecaton, ein Schüler des Panaitios, in den Büchern, die er dem Q. Tubero über die Pflicht geschrieben hat, sagt, es sei die Pflicht eines Weisen, sich um sein Vermögen zu kümmern, ohne dass er gegen Sitten, Gesetze und Bräuche verstoße. Denn wir wollen nicht nur für uns reich sein, sondern auch für Kinder, Verwandte, Freunde und besonders den Staat. Die Mittel und das Vermögen von Einzelpersonen sind nämlich der Reichtum der Bürgerschaft. Diesem kann Scaevolas Tat, über die ich kurz zuvor gesprochen habe, in keiner Weise gefallen. Denn er sagt deutlich, um eines persönlichen Vorteils willen werde er nur das nicht tun, was nicht rechtmäßig sei. Ihm sind weder großes Lob noch Dank zu erweisen.
+		</german>
+		<latin>
+			Hecatonem quidem Rhodium, discipulum Panaetii, video in iis libris, quos de officio scripsit Q. Tuberoni, dicere, sapientis esse nihil contra mores, leges, instituta facientem habere rationem rei familiaris. Neque enim solum nobis divites esse volumus, sed liberis, propinquis, amicis maximeque rei publicae. Singulorum enim facultates et copiae divitiae sunt civitatis. Huic Scaevolae factum, de quo paulo ante dixi, placere nullo modo potest. Etenim omnino tantum se negat facturum compendii sui causa, quod non liceat.
+		</latin>
+	</section>
+	<section from="64" to="64">
+		<german>
+			Aber sei es, dass Vortäuschung und Verstellung böswillige Täuschung bedeuten: es gibt nur sehr wenige Dinge, in denen diese böswillige Täuschung nicht wirkt; sei es, dass ein rechtschaffener Mann derjenige ist, der nützt, wem er nützen kann, und niemandem schadet: gewiss finden wir diesen rechtschaffenen Mann nicht leicht. Niemals also ist verkehrtes Handeln nützlich, weil es immer schändlich ist, und weil es immer sittlich gut ist, ein rechtschaffener Mann zu sein, ist es immer auch nützlich.
+		</german>
+		<latin>
+			Huic nec laus magna tribuenda nec gratia est. Sed sive et simulatio et dissimulatio dolus malus est, perpaucae res sunt, in quibus non dolus malus iste versetur, sive vir bonus est is, qui prodest quibus potest, nocet nemini, certe istum virum bonum non facile reperimus. Numquam igitur est utile peccare, quia semper est turpe, et, quia semper est honestum virum bonum esse, semper est utile.
+		</latin>
+	</section>
+	<section from="65" to="65">
+		<german>
+			Und bezüglich des Grundstücksrechts ist bei uns durch das bürgerliche Recht festgelegt worden, dass bei ihrem Verkauf die Mängel genannt werden sollen, die dem Verkäufer bekannt sind. Denn während es nach den Zwölftafelgesetzen ausreichte, dass man nur für das einstand, was man ausdrücklich angegeben hatte, und derjenige, der diese Mängel nicht eingestanden hatte, das Doppelte der Strafe zahlte, wurde von den Rechtskundigen auch eine Strafe für das Verschweigen bestimmt. Sie beschlossen nämlich, man müsse für all das einstehen, was an einem Grundstück fehlerhaft sei, falls der Verkäufer es wisse und es nicht namentlich genannt worden sei.
+		</german>
+		<latin>
+			Ac de iure quidem praediorum sanctum apud nos est iure civili, ut in iis vendendis vitia dicerentur, quae nota essent venditori. Nam cum ex duodecim tabulis satis esset ea praestari, quae essent lingua nuncupata, quae qui infitiatus esset, dupli poena subiret, a iuris consultis etiam reticentiae poena est constituta; quicdquid enim esset in praedio vitii, id statuerunt, si venditor sciret, nisi nominatim dictum esset, praestari oportere.
+		</latin>
+	</section>
+	<section from="66" to="66">
+		<german>
+			Beispiel: Als auf dem Capitol die Vogelschauer ein Augurium vornehmen wollten und dem T. Claudius
+			Centumalus befohlen hatten, der auf dem Caelius ein Haus hatte, den Teil einzureißen, dessen Höhe
+			die Auspizien beeinträchtige, schrieb Claudius das Mietshaus zum Verkauf aus und P. Calpurnius
+			kaufte es. Diesem wurde von den Auguren genau dasselbe gemeldet. Nachdem daher Calpurnius das
+			Haus eingerissen und in Erfahrung gebracht hatte, dass Claudius dieses erst zum Verkauf angeboten
+			habe, als ihm der Abriss von den Auguren befohlen worden sei, lud er jenen vor den Schiedsrichter:
+			'Er müsse ihm alles geben und leisten nach Treu und Glauben'. M. Cato fällte den Urteilsspruch,
+			der Vater dieses unseres Cato. Wie nämlich die übrigen nach ihren Vätern, so muss dieser, der
+			jenes leuchtende Vorbild hervorbrachte, nach seinem Sohn benannt werden. Also entschied dieser
+			als Richter folgendermaßen: Da er beim Verkauf von diesem Mangel gewusst und ihn nicht angegeben
+			habe, müsse dem Käufer Ersatz geleistet werden.
+		</german>
+		<latin>
+			Ut, cum in arce augurium augures acturi essent iussissentque Ti. Claudium Centumalum, qui aedes
+			in Caelio monte habebat, demoliri ea, quorum altitudo officeret auspiciis, Claudius proscripsit
+			insulam [vendidit], emit P. Calpurnius Lanarius. Huic ab auguribus illud idem denuntiatum est.
+			Itaque Calpurnius cum demolitus esset cognossetque Claudium aedes postea proscripsisse, quam
+			esset ab auguribus demoliri iussus, arbitrum illum adegit QUICQUID SIBI DARE FACERE OPORTERET
+			EX FIDE BONA. M. Cato sententiam dixit, huius nostri Catonis pater (ut enim ceteri ex patribus,
+			sic hic, qui illud lumen progenuit, ex filio est nominandus)--is igitur iudex ita pronuntiavit,
+			cum in vendundo rem eam scisset et non pronuntiasset, emptori damnum praestari oportere.
+		</latin>
+	</section>
+	<section from="67" to="67">
+		<german>
+			Also beschloss er, dass es zum Wesen von Treu und Glauben gehöre, wenn der Fehler, den der
+			Verkäufer kenne, dem Käufer bekannt sei. Wenn er daher recht entschieden hat, so war es nicht
+			recht, dass jener Getreidehändler und der Verkäufer des verseuchten Hauses schwiegen. Aber
+			derartige Fälle von Verschweigen können durch das bürgerliche Recht nicht erfasst werden;
+			was aber erfasst werden kann, wird sorgfältig geahndet. M. Marius Gratidianus, unser Verwandter,
+			hatte C. Sergius Orata das Haus verkauft, das er selbst von demselben wenige Jahre zuvor gekauft
+			hatte. Dieses Haus war belastet, aber davon hatte Marius im Kaufvertrag nichts gesagt; die
+			Angelegenheit wurde vor Gericht gebracht. Crassus verteidigte Orata, Antonius Gratidianus.
+			Crassus betonte den juristischen Standpunkt: "Der Verkäufer müsse für den Fehler, den er nicht
+			genannt habe, obwohl er ihn kenne, einstehen"; Antonius beharrte auf dem Billigkeitsprinzip: "Da
+			dieser Fehler dem Sergius nicht unbekannt gewesen sei, da er jenes Haus gekauft habe, hätte
+			nichts gesagt werden müssen und derjenige sei nicht getäuscht worden, der die Rechtslage des
+			gekauften Gegenstandes genau kannte."
+		</german>
+		<latin>
+			Ergo ad fidem bonam statuit pertinere notum esse emptori vitium, quod nosset venditor. Quod
+			si recte iudicavit, non recte frumentarius ille, non recte aedium pestilentium venditor tacuit.
+			Sed huiusmodi reticentiae iure civili comprehendi non possunt; quae autem possunt diligenter
+			tenentur. M. Marius Gratidianus, propinquus noster, C. Sergio Oratae vendiderat aedes eas,
+			quas ab eodem ipse paucis ante annis emerat. Eae serviebant, sed hoc in mancipio Marius non
+			dixerat; adducta res in iudicium est. Oratam Crassus, Gratidianum defendebat Antonius. Ius
+			Crassus urgebat, "quod vitii venditor non dixisset sciens, id oportere praestari", aequitatem
+			Antonius, "quoniam id vitium ignotum Sergio non fuisset, qui illas aedes vendidisset, nihil
+			fuisse necesse dici nec eum esse deceptum, qui id, quod emerat, quo iure esset, teneret".
+		</latin>
+	</section>
+	<section from="68" to="68">
+		<german>
+			Wohin zielt diese Darstellung? Dass du erkennst, dass verschlagene Charaktere unseren Vorfahren
+			nicht gefallen haben.
+		</german>
+		<latin>
+			Quorsus haec? Ut illud intellegas, non placuisse maioribus nostris astutos.
+		</latin>
+	</section>
+	<section from="68b" to="68b">
+		<german>
+			Aber anders gehen die Gesetze, anders die Philosophen gegen Intrigen an: Die Gesetze, insofern sie diese mit Gewalt ahnden, die Philosophen, insofern sie dieses mit Vernunft und Einsicht tun. Also fordert die Vernunft, dass nichts hinterhältig, nichts zum Schein, nichts betrügerisch geschieht. Bedeutet es also nicht einen Hinterhalt, Netze auszuspannen, auch wenn du Tiere nicht aufscheuchen und jagen willst? Denn die Tiere geraten oft von selbst hinein, ohne dass jemand sie verfolgt. Würdest du auf diese Weise ein Haus zum Verkauf anbieten, ein Verkaufsplakat wie ein Netz aufstellen, soll jemand, ohne es zu wissen, in dieses hineinlaufen?
+		</german>
+		<latin>
+			Sed aliter leges, aliter philosophi tollunt astutias; leges, quatenus manu tenere possunt, philosophi, quatenus ratione et intellegentia. Ratio ergo hoc postulat, ne quid insidiose, ne quid simulate, ne quid fallaciter. Suntne igitur insidiae tendere plagas, etiam si excitaturus non sis, nec agitaturus? Ipsae enim ferae nullo insequente saepe incidunt. Sic tu aedes proscribas, tabulam tamquam plagam ponas, [domum propter vitia vendas,] in eam aliquis incurrat inprudens?
+		</latin>
+	</section>
+	<section from="69" to="69">
+		<german>
+			Obwohl ich sehe, dass ein solcher Betrug wegen der entarteten öffentlichen Meinung weder nach der heutigen Sitte für schändlich gehalten noch durch das Gesetz oder das bürgerliche Recht bestraft wird, ist er dennoch durch das Gesetz verboten. Auch wenn dieses schon oft gesagt worden ist, muss es gleichwohl noch häufiger gesagt werden: Die Gemeinschaft nämlich, die sich am weitesten ausbreitet, ist die aller unter allen, eine engere Gemeinschaft bilden diejenigen, die zu demselben Volk gehören, eine vertrautere diejenigen, welche dieselbe Bürgerschaft bilden. Daher wollten unsere Vorfahren, dass das eine das Völkerrecht, das andere das bürgerliche Recht sei; was das bürgerliche Recht ist, muss nicht ohne Weiteres das Völkerrecht sein, was aber das Völkerrecht ist, muss zugleich das bürgerliche Recht sein, aber wir haben nicht die wirkliche und lebensechte Gestalt des wahren Rechts und der echten Gerechtigkeit, nur einen Schatten und Bilder gebrauchen wir. Wenn wir doch nur diesen folgen würden! Sie sind nämlich den besten Beispielen der Natur und der Wahrheit entnommen.
+		</german>
+		<latin>
+			Hoc quamquam video propter depravationem consuetudinis neque more turpe haberi neque aut lege sanciri aut iure civili, tamen naturae lege sanctum est. Societas est enim (quod etsi saepe dictum est, dicendum est tamen saepius), latissime quidem quae pateat, omnium inter omnes, interior eorum, qui eiusdem gentis sint, propior eorum, qui eiusdem civitatis. Itaque maiores aliud ius gentium, aliud ius civile esse voluerunt, quod civile, non idem continuo gentium, quod autem gentium, idem civile esse debet. Sed nos veri iuris germanaeque iustitiae solidam et expressam effigiem nullam tenemus, umbra et imaginibus utimur. Eas ipsas utinam sequeremur! feruntur enim ex optimis naturae et veritatis exemplis.
+		</latin>
+	</section>
+	<section from="70" to="70">
+		<german>
+			Denn wie hoch müssen jene Worte geschätzt werden: 'Dass ich nicht durch deine Schuld oder das Vertrauen zu dir getäuscht oder übervorteilt bin!' Wie herrlich sind jene Worte: 'Wie unter Rechtschaffenen gut gehandelt werden muss und ohne Betrug'. Aber wer die Rechtschaffenen sind und was es heißt, gut zu handeln, ist eine wichtige Frage. Q. Scaevola, der höchste Priester, sagte, größere Bedeutung komme all jenen Schiedssprüchen zu, bei denen hinzugefügt werde 'auf Treu und Glauben', und er meinte, der Begriff 'Treu und Glauben' greife am weitesten um sich und spiele eine Rolle bei Vormundschaften, Verbindungen, anvertrauten Gütern, Aufträgen, Käufen und Verkäufen, Pachtung und Verpachtung, worauf das gemeinschaftliche Leben beruhe; in diesen Fällen sei es die Aufgabe eines fähigen Richters, Entscheidungen zu fällen, zumal bei den meisten Vorgängen Gegenklagen möglich seien, was jeder jedem leisten müsse.
+		</german>
+		<latin>
+			Nam quanti verba illa: UTI NE PROPTER TE FIDEMVE TUAM CAPTUS FRAUDATUSVE SIM! quam illa aurea: UT INTER BONOS BENE AGIER OPORTET ET SINE FRAUDATIONE!Sed, qui sint "boni" et quid sit "bene agi," magna quaestio est. Q. quidem Scaevola, pontifex maximus, summam vim esse dicebat in omnibus iis arbitriis, in quibus adderetur EX FIDE BONA, fideique bonae nomen existimabat manare latissime, idque versari in tutelis, societatibus, fiduciis, mandatis, rebus emptis, venditis, conductis, locatis, quibus vitae societas contineretur; in iis magni esse iudicis statuere, praesertim cum in plerisque essent iudicia contraria, quid quemque cuique praestare oporteret.
+		</latin>
+	</section>
+	<section from="71" to="71">
+		<german>
+			Daher muss man gegen Intrigen angehen und gegen diejenige Arglist, die zwar als Klugheit erscheinen möchte, aber von ihr entfernt ist und sich am meisten von ihr unterscheidet; denn die Klugheit zeigt sich bei der Wahl zwischen dem Guten und Schlechten, die Arglist zieht, wenn alles, was schändlich, auch schlecht ist, das Schlechte dem Guten vor. Aber nicht nur bei Grundstücken bestraft das von der Natur abgeleitete bürgerliche Recht Hinterlist und Betrug, sondern auch beim Verkauf von Sklaven wird der Betrug des Verkäufers gänzlich unmöglich gemacht. Denn wer von ihrer Gesundheit, ihrem Hang zur Flucht und ihrem Diebstahl wissen muss, hat nach dem Edikt der Ädilen dafür einzustehen. Anders verhält es sich bei Erben.
+		</german>
+		<latin>
+			Quocirca astutiae tollendae sunt eaque malitia, quae vult illa quidem videri se esse prudentiam, sed abest ab ea distatque plurimum; prudentia est enim locata in dilectu bonorum et malorum, malitia, si omnia quae turpia sunt, mala sunt, mala bonis ponit ante. Nec vero in praediis solum ius civile ductum a natura malitiam fraudemque vindicat, sed etiam in mancipiorum venditione venditoris fraus omnis excluditur. Qui enim scire debuit de sanitate, de fuga, de furtis, praestat edicto aedilium. Heredum alia causa est.
+		</latin>
+	</section>
+	<section from="72" to="72">
+		<german>
+			Hieraus ersieht man, da die Natur die Quelle des Rechts ist, dass es gemäß der Natur ist, wenn niemand danach strebt, aus dem Nichtwissen eines anderen Gewinn zu ziehen. Und es kann kein größeres Unglück für das Leben gefunden werden als die Vortäuschung von höherer Einsicht bei Arglist, woraus diese unzähligen Fälle entstehen, in denen das Nützliche mit dem Sittlichguten im Streit zu liegen scheint. Denn wie wenige wird man finden, die sich des Unrechts enthalten können, wenn ihnen Straffreiheit und Unkenntnis aller in Aussicht gestellt sind!
+		</german>
+		<latin>
+			Ex quo intellegitur, quoniam iuris natura fons sit, hoc secundum naturam esse, neminem id agere, ut ex alterius praedetur inscitia. Nec ulla pernicies vitae maior inveniri potest quam in malitia simulatio intellegentiae, ex quo ista innumerabilia nascuntur, ut utilia cum honestis pugnare videantur. Quotus enim quisque reperietur, qui impunitate et ignoratione omnium proposita abstinere possit iniuria.
+		</latin>
+	</section>
+	<section from="73" to="73">
+		<german>
+			Wir wollen die Probe machen, wenn es gefällt, und zwar für diejenigen Fälle, in denen verkehrt gehandelt wird, obwohl es eine große Mehrheit der Menschen vielleicht nicht glaubt. Denn an dieser Stelle muss nicht über Meuchelmörder, Giftmischer, Testamentsfälscher, Diebe und Veruntreuer öffentlicher Gelder gesprochen werden, denen man nicht mit Worten und einer philosophischen Abhandlung, sondern mit Gefängnis und Kerker zusetzen muss; wir wollen vielmehr erwägen, was diejenigen tun, die für rechtschaffen gehalten werden. Das gefälschte Testament des reichen L. Minucius Basilus brachten einige aus Griechenland mit nach Rom. Damit sie dieses umso leichter durchsetzen konnten, schrieben sie als Miterben M. Crassus und Q. Hortensius hinein, die mächtigsten Menschen derselben Zeit. Obwohl sie vermuteten, dass jenes Testament gefälscht sei, verschmähten sie nicht, da sie sich andererseits keiner Schuld bewusst waren, das kleine Geschenk aus einem fremden Verbrechen. Wie also? Reicht dieses aus, dass sie glauben, sich nicht vergangen zu haben? Ich jedenfalls glaube es nicht, obwohl ich den einen, als er noch lebte, geliebt habe, den anderen nach seinem Tod nicht hasse.
+		</german>
+		<latin>
+			Periclitemur, si placet, et in iis quidem exemplis, in quibus peccari volgus hominum fortasse non putet. Neque enim de sicariis, veneficis, testamentariis, furibus, peculatoribus, hoc loco disserendum est, qui non verbis sunt et disputatione philosophorum, sed vinclis et carcere fatigandi, sed haec consideremus, quae faciunt ii, qui habentur boni. L. Minuci Basili locupletis hominis falsum testamentum quidam e Graecia Romam attulerunt. Quod quo facilius obtinerent, scripserunt heredes secum M. Crassum et Q. Hortensium, homines eiusdem aetatis potentissimos. Qui cum illud falsum esse suspicarentur, sibi autem nullius essent conscii culpae, alieni facinoris munusculum non repudiaverunt. Quid ergo? Satin est hoc, ut non deliquisse videantur? Mihi quidem non videtur, quamquam alterum vivum amavi, alterum non odi mortuum.
+		</latin>
+	</section>
+	<section from="74" to="74">
+		<german>
+			Aber als Basilus den M. Satrius, den Sohn seiner Schwester, adoptiert und ihn zu seinem Erben gemacht hatte, ich meine den jetzt lebenden Patron des pikenischen und sabinischen Gebietes (welche Schande für unsere Zeit!), war es nicht gerecht, dass die vornehmsten Bürger Geld besaßen, Satrius aber nichts außer seinem Namen zuteil wurde. Denn wenn derjenige, der das Unrecht nicht abwehrt und nicht von den Seinen abwendet, obwohl er es kann, ungerecht handelt, wie ich im ersten Buch erörtert habe, wie ist dann erst derjenige zu betrachten, der das Unrecht nicht nur nicht abwehrt, sondern es sogar fördert? Mir jedenfalls scheinen auch rechtmäßige Erbschaften nicht ehrenhaft zu sein, wenn sie durch heimtückische Schmeicheleien, nicht aber durch aufrichtige, sondern durch vorgetäuschte Dienste erworben worden sind. Gleichwohl scheint in solchen Situationen das eine bisweilen nützlich, das andere sittlich gut zu sein. Zu Unrecht! Denn der Maßstab für den Nutzen ist derselbe wie für das Sittlichgute.
+		</german>
+		<latin>
+			Sed cum Basilus M. Satrium sororis filium nomen suum ferre voluisset eumque fecisset heredem (hunc dico patronum agri Piceni et Sabini; o turpe notam temporum [nomen illorum]!), non erat aequum principes civis rem habere, ad Satrium nihil praeter nomen pervenire. Etenim si is, qui non defendit iniuriam neque propulsat a suis, cum potest, iniuste facit, ut in primo libro disserui, qualis habendus est is, qui non modo non repellit, sed etiam adiuvat iniuriam? Mihi quidem etiam verae hereditates non honestae videntur, si sunt malitiosis blanditiis, officiorum non veritate, sed simulatione quaesitae. Atqui in talibus rebus aliud utile interdum, aliud honestum videri solet. Falso; nam eadem utilitatis quae honestatis est regula.
+		</latin>
+	</section>
+	<section from="75" to="75">
+		<german>
+			Wer dieses nicht erkennt, wird zu jeder Art von Betrug fähig sein, zu jeder Untat. Denn wer denkt 'jenes ist zwar sittlich gut, aber dieses ist nützlich', wird es wagen, von Natur aus verbundene Dinge durch eine Fehleinschätzung zu trennen, welche die Quelle aller Täuschungen, Übeltaten und Verbrechen ist. Wenn daher ein rechtschaffener Mann diese Macht hätte, dass sich sein Name, falls er mit den Fingern schnalzte, in die Testamente wohlhabender Leute einschleichen könnte, so würde er diese Macht nicht gebrauchen, nicht einmal wenn er sicher wüsste, dass überhaupt niemand dieses jemals vermuten werde. Aber gäbe man diese Macht M. Crassus, dass er durch das Schnalzen der Finger zum Erben eingesetzt werden könnte, obwohl er tatsächlich kein Erbe wäre, er würde, glaube mir, auf dem Forum tanzen. Ein rechtschaffener Mann aber und ein solcher, den wir als einen rechtschaffenen Mann ansehen, wird niemandem etwas entziehen, um es sich zu übertragen. Wer sich hierüber wundert, gibt wohl zu nicht zu wissen, was ein rechtschaffener Mann ist.
+		</german>
+		<latin>
+			Qui hoc non perviderit, ab hoc nulla fraus aberit, nullum facinus. Sic enim cogitans "est istuc quidem honestum, verum hoc expedit", res a natura copulatas audebit errore divellere, qui fons est fraudium, maleficiorum, scelerum omnium. Itaque si vir bonus habeat hanc vim, ut, si digitis concrepuerit, possit in locupletium testamenta nomen eius inrepere, hac vi non utatur, ne si exploratum quidem habeat id omnino neminem umquam suspicaturum. At dares hanc vim M. Crasso, ut digitorum percussione heres posset scriptus esse, qui re vera non esset heres, in foro, mihi crede, saltaret. Homo autem iustus isque, quem sentimus virum bonum, nihil cuiquam, quod in se transferat, detrahet. Hoc qui admiratur, is se, quid sit vir bonus, nescire fateatur.
+		</latin>
+	</section>
+	<section from="76" to="76">
+		<german>
+			Aber wenn er die Vorstellung davon, die in seiner Seele zusammengefalten ist, klären möchte, würde er alsbald sich selbst lehren, dass derjenige ein rechtschaffener Mann ist, der nützt, wem er kann, und niemandem schadet, wenn er nicht durch ein Unrecht herausgefordert worden ist. Was also? Würde sich derjenige nicht schuldig machen, der gleichsam durch ein Zaubermittel erreicht, dass er die wirklichen Erben verdrängt und selbst an deren Stelle tritt? "Also würde er nicht tun", könnte jemand sagen, "was nützlich, was zuträglich ist?" Im Gegenteil, er würde erkennen, dass nichts zuträglich oder nützlich ist, was ungerecht. Wer dieses nicht gelernt hat, wird kein rechtschaffener Mann sein können.
+		</german>
+		<latin>
+			At vero, si qui voluerit animi sui complicatam notionem evolvere, iam se ipse doceat eum virum bonum esse, qui prosit, quibus possit, noceat nemini nisi lacessitus iniuria. Quid ergo? Hic non noceat, qui quodam quasi veneno perficiat, ut veros heredes moveat, in eorum locum ipse succedat? "Non igitur faciat" dixerit quis, "quod utile sit, quod expediat?" Immo intellegat nihil nec expedire nec utile esse, quod sit iniustum. Hoc qui non didicerit, bonus vir esse non poterit.
+		</latin>
+	</section>
+	<section from="77" to="77">
+		<german>
+			Ich hörte als Junge von unserem Vater, dass der Konsular C. Fimbria zum Richter für M. Lutatius Pinthia bestellt worden sei, einen überaus ehrenhaften römischen Ritter, nachdem dieser eine Prozesswette eingegangen war, 'wenn er kein rechtschaffener Mann wäre'. Daher habe Fimbria ihm gesagt, er werde niemals jenes Richteramt ausüben, weder um einen trefflichen Menschen seines guten Rufes zu berauben, falls er ihn verurteile, noch um den Eindruck zu erwecken, er habe entschieden, jemand sei ein rechtschaffener Mann, wenn dieses Urteil auf unzähligen Verrichtungen und ruhmvollen Taten beruhe. Einem solchen rechtschaffenen Mann also, den schon Fimbria, nicht nur Socrates kannte, kann in keiner Weise etwas nützlich erscheinen, was nicht sittlich gut ist. Daher wird ein solcher Mann es nicht wagen, nicht nur etwas zu tun, sondern nicht einmal an etwas zu denken, was er nicht auch öffentlich auszusprechen wagt. Ist es nicht eine Schande, wenn Philosophen im Zweifel hierüber sind, wo doch nicht einmal Bauern diesbezüglich Bedenken tragen? Von ihnen stammt das Sprichwort, das infolge seines Alters schon abgedroschen ist. Denn wenn sie jemandes Treue und Gutmütigkeit loben, sagen sie, er sei es wert, dass man mit ihm im Finstern würfelt. Welche Bedeutung hat dieses Sprichwort wenn nicht jene, dass nichts nützlich ist, was sich nicht ziemt, auch wenn man dieses erreichen kann, ohne dass einen jemand überführt?
+		</german>
+		<latin>
+			Fimbriam consularem audiebam de patre nostro puer iudicem M. Lutatio Pinthiae fuisse, equiti Romano sane honesto, cum is sponsionem fecisset ni vir bonvs esset. Itaque ei dixisse Fimbriam se illam rem numquam iudicaturum, ne aut spoliaret fama probatum hominem, si contra iudicavisset, aut statuisse videretur virum bonum esse aliquem, cum ea res innumerabilibus officiis et laudibus contineretur. Huic igitur viro bono, quem Fimbria etiam, non modo Socrates noverat, nullo modo videri potest quicquam esse utile, quod non honestum sit. Itaque talis vir non modo facere, sed ne cogitare quidem quicquam audebit, quod non audeat praedicare. Haec non turpe est dubitare philosophos, quae ne rustici quidem dubitent? a quibus natum est id, quod iam contritum est vetustate proverbium. Cum enim fidem alicuius bonitatemque laudant, dignum esse dicunt, quicum in tenebris mices. Hoc quam habet vim nisi illam, nihil expedire quod non deceat, etiam si id possis nullo refellente optinere?
+		</latin>
+	</section>
+	<section from="78" to="78">
+		<german>
+			Siehst du, dass nach diesem Sprichwort weder jenem Gyges verziehen werden kann noch diesem, der, wie ich kurz zuvor mir ausdachte, durch das Schnalzen der Finger die Erbschaften aller zusammenscharren kann? Wie nämlich das, was schändlich ist, auch wenn es verheimlicht wird, dennoch in keiner Weise sittlich gut genannt werden kann, so kann nicht bewirkt werden, dass das, was nicht sittlich gut, nützlich ist, da die Natur dem widerstreitet und widerstrebt.
+		</german>
+		<latin>
+			Videsne hoc proverbio neque Gygi illi posse veniam dari neque huic, quem paulo ante fingebam digitorum percussione hereditates omnium posse converrere? Ut enim, quod turpe est, id, quamvis occultetur, tamen honestum fieri nullo modo potest, sic, quod honestum non est, id utile ut sit effici non potest adversante et repugnante natura.
+		</latin>
+	</section>
+	<section from="79" to="79">
+		<german>
+			Aber wenn es sehr große Belohnungen gibt, ist auch ein Grund vorhanden, sich zu vergehen. Als C. Marius von der Aussicht auf das Konsulat weit entfernt war und schon das siebte Jahr nach seiner Prätur ohne Einfluss war, ohne dass es schien, als werde er sich jemals um das Konsulat bewerben, beschuldigte er Q. Metellus, dessen Unterfeldherr er war, einen sehr vorzüglichen Mann und Bürger, vor dem römischen Volk nachdem er von ihm, seinem Feldherrn, nach Rom geschickt worden war: Jener ziehe den Krieg in die Länge; falls sie ihn zum Konsul machten, werde er in kurzer Zeit Iugurtha entweder tot oder lebendig in die Gewalt des römischen Volkes bringen. Und so wurde jener zwar Konsul, aber er gab die Treue und die Gerechtigkeit auf, da er den besten und angesehensten Bürger, dessen Unterfeldherr er war und der ihn geschickt hatte, durch eine falsche Beschuldigung verhasst machte.
+		</german>
+		<latin>
+			At enim cum permagna praemia sunt, est causa peccandi. C. Marius, cum a spe consulatus longe abesset et iam septimum annum post praeturam iaceret neque petiturus umquam consulatum videretur, Q. Metellum, cuius legatus erat, summum virum et civem cum ab eo, imperatore suo, Romam missus esset, apud populum Romanum criminatus est, bellum illum ducere, si se consulem fecissent, brevi tempore aut vivum aut mortuum Iugurtham se in potestatem populi Romani redacturum. Itaque factus est ille quidem consul, sed a fide iustitiaque discessit, qui optimum et gravissimum civem, cuius legatus et a quo missus esset, in invidiam falso crimine adduxerit.
+		</latin>
+	</section>
+	<section from="80" to="80">
+		<german>
+			Nicht einmal unser Gratidianus erfüllte damals die Pflicht eines rechtschaffenen Mannes, als er Prätor war und die Volkstribunen das Prätorenkollegium hinzugezogen hatten, damit das Münzwesen nach einer gemeinsamen Entscheidung geordnet werde; denn in jener Zeit schwankte der Geldkurs so, dass niemand wissen konnte, was er besaß. Sie verfassten gemeinsam ein Edikt mit Festsetzung der Strafe und des Gerichts und beschlossen, dass alle zugleich nach der Mittagszeit auf die Rednertribüne steigen sollten. Die anderen gingen auseinander, der eine hierhin, der andere dorthin: Marius begab sich ohne Umschweife zur Rednertribüne und machte allein bekannt, was gemeinsam verfasst worden war. Und diese Tat brachte ihm, wenn du fragst, große Ehre ein; in allen Stadtvierteln wurden ihm Statuen errichtet, bei ihnen Weihrauch und Wachskerzen verbrannt. Wozu mache ich viele Worte? Niemand war bei der Menge jemals beliebter.
+		</german>
+		<latin>
+			Ne noster quidem Gratidianus officio viri boni functus est tum, cum praetor esset, collegiumque praetorium tribuni plebi adhibuissent, ut res nummaria de communi sententia constitueretur; iactabatur enim temporibus illis nummus sic, ut nemo posset scire, quid haberet. Conscripserunt communiter edictum cum poena atque iudicio constitueruntque, ut omnes simul in rostra post meridiem escenderent. Et ceteri quidem alius alio: Marius ab subselliis in rostra recta idque, quod communiter compositum fuerat, solus edixit. Et ea res, si quaeris, ei magno honori fuit; omnibus vicis statuae, ad eas tus, cerei. Quid multa? Nemo umquam multitudini fuit carior.
+		</latin>
+	</section>
+	<section from="81" to="81">
+		<german>
+			Solche Fälle sind es, die bisweilen beim Abwägen Verwirrung stiften, wenn die Sache, bei der die Gerechtigkeit verletzt wird, nicht so bedeutend, jenes aber, was hieraus erwächst, sehr bedeutend erscheint, so wie Marius es nicht für so schändlich hielt, den Kollegen und dem Volkstribunen die Gunst des Volkes zu entreißen, hingegen Konsul zu werden, deswegen weil er es sich damals vorgenommen hatte, für sehr nützlich. Aber in allen Fällen gibt es einen Maßstab, der dir, wie ich es mir wünsche, sehr bekannt ist: entweder soll jenes, was nützlich erscheint, nicht schändlich oder, wenn es schändlich ist, nicht nützlich erscheinen. Was also? Können wir jenen Marius für einen rechtschaffenen Mann halten oder diesen Gratidianus? Entfalte und prüfe dein Erkenntnisvermögen, damit du begreifst, welche Vorstellung und welcher Begriff von einem rechtschaffenen Mann in ihm enthalten sind. Passt es also zu einem rechtschaffenen Mann, um eines eigenen Vorteils willen zu lügen, zu verleumden, vorwegzunehmen und zu täuschen? In der Tat nichts weniger.
+		</german>
+		<latin>
+			Haec sunt, quae conturbent in deliberatione non numquam, cum id, in quo violatur aequitas, non ita magnum, illud autem, quod ex eo paritur, permagnum videtur, ut Mario praeripere collegis et tribunis plebi popularem gratiam non ita turpe, consulem ob eam rem fieri, quod sibi tum proposuerat, valde utile videbatur. Sed omnium una regula est, quam tibi cupio esse notissimam: aut illud, quod utile videtur, turpe ne sit, aut si turpe est, ne videatur esse utile. Quid igitur? possumusne aut illum Marium virum bonum iudicare aut hunc? Explica atque excute intellegentiam tuam, ut videas, quae sit in ea [species] forma et notio viri boni. Cadit ergo in virum bonum mentiri, emolumenti sui causa criminari, praeripere, fallere? Nihil profecto minus.
+		</latin>
+	</section>
+	<section from="82" to="82">
+		<german>
+			 Ist also irgendetwas so viel wert oder ist ein Vorteil so erstrebenswert, dass du dafür den ruhmvollen Namen eines rechtschaffenen Mannes verlierst? Was bedeutet es, dass dieser so genannte Nutzen genauso viel herbeischaffen wie wegnehmen kann, wenn er den Namen eines rechtschaffenen Mannes entrissen und das Vertrauen zu dessen Gerechtigkeit entzogen hat? Was nämlich macht es für einen Unterschied, ob sich jemand aus einem Menschen in ein Tier verwandelt oder mit der äußeren Gestalt eines Menschen die Entsetzlichkeit eines Ungeheuers an den Tag legt?
+		</german>
+		<latin>
+			Est ergo ulla res tanti aut commodum ullum tam expetendum, ut viri boni et splendorem et nomen amittas? Quid est, quod afferre tantum utilitas ista, quae dicitur, possit, quantum auferre, si boni viri nomen eripuerit, fidem iustitiamque detraxerit? Quid enim interest, utrum ex homine se convertat quis in beluam an hominis figura immanitatem gerat beluae? 
+		</latin>
+	</section>
+	<section from="82b" to="82b">
+		<german>
+			Was? Diejenigen, die alles Rechte und Sittlichgute vernachlässigen, wenn sie nur Macht erlangen, tun sie nicht dasselbe wie derjenige, der sogar den zum Schwiegervater haben wollte, durch dessen Kühnheit er selbst mächtig zu sein beabsichtigte? Nützlich erschien es ihm, aufgrund der Verhasstheit eines anderen sehr viel Einfluss zu haben. Wie ungerecht dieses gegenüber dem Vaterland war und wie schändlich, begriff er nicht. Der Schwiegervater selbst aber hatte immer griechische Verse aus den Phoinikerinnen im Mund, die ich, so gut ich kann, übersetzen werde, ungewandt vielleicht, aber dennoch so, dass der Inhalt verstanden werden kann: "Denn wenn das Recht um des Herrschens willen verletzt werden muss, ist es zu verletzen; in den anderen Fällen magst du das Pflichtgefühl wahren." Todeswürdig ist Eteocles oder vielmehr Euripides, da er dieses eine, was am verruchtesten von allem ist, als Ausnahme betrachtet hat.
+		</german>
+		<latin>
+			Quid? qui omnia recta et honesta neglegunt, dummodo potentiam consequantur, nonne idem faciunt, quod is, qui etiam socerum habere voluit eum, cuius ipse audacia potens esset. Utile ei videbatur plurimum posse alterius invidia. Id quam iniustum in patriam et quam turpe esset, non videbat. Ipse autem socer in ore semper Graecos versus de Phoenissis habebat, quos dicam ut potero; incondite fortasse sed tamen, ut res possit intellegi:
+
+'Nam si violandum est ius, regnandi gratia,
+Violandum est; aliis rebus pietatem colas.'
+
+Capitalis Eteocles vel potius Euripides, qui id unum quod omnium sceleratissimum fuerit, exceperit.
+		</latin>
+	</section>
+	<section from="83" to="83">
+		<german>
+			Wozu also suchen wir unbedeutende Beispiele zusammen, betrügerische Erbschaften, Handelsgeschäfte und Verkäufe? Da hast du den Mann, der wünschte, König des römischen Volkes und Herr aller Völker zu sein, und dieses auch erreichte. Wenn jemand behauptet, diese Leidenschaft sei ehrenhaft, so ist er von Sinnen; er billigt nämlich den Untergang von Gesetzen und Freiheit und hält deren schändliche und verabscheuungswürdige Unterdrückung für rühmlich. Derjenige aber, der bekennt, es sei zwar nicht sittlich gut, in der Bürgerschaft, die frei gewesen sei und dieses auch bleiben müsse, zu herrschen, aber es sei für denjenigen nützlich, der dieses machen könne: mit welchem Tadel oder vielmehr mit welcher Zurechtweisung soll ich versuchen, ihn von einem so gewaltigen Irrtum wegzubringen? Kann denn etwa, unsterbliche Götter, für irgendjemanden der äußerst scheußliche und schändliche Hochverrat am Vaterland nützlich sein, auch wenn derjenige, der sich hierin verstrickt hat, von den unterdrückten Bürgern Vater genannt wird? Nach dem Sittlichguten also muss der Nutzen beurteilt werden, und zwar so, dass diese beiden dem Wort nach nicht zu harmonieren, der Sache nach aber dasselbe zu bedeuten scheinen.
+		</german>
+		<latin>
+			Quid igitur minuta colligimus, hereditates, mercaturas, venditiones fraudulentas? Ecce tibi, qui rex populi Romani dominusque omnium gentium esse concupiverit idque perfecerit. Hanc cupiditatem si honestam quis esse dicit, amens est; probat enim legum et libertatis interitum earumque oppressionem taetram et detestabilem gloriosam putat. Qui autem fatetur honestum non esse in ea civitate, quae libera fuerit quaeque esse debeat, regnare, sed ei, qui id facere possit, esse utile, qua hunc obiurgatione aut quo potius convitio a tanto errore coner avellere? Potest enim, di immortales, cuiquam esse utile foedissimum et taeterrimum parricidium patriae, quamvis is, qui se eo obstrinxerit, ab oppressis civibus parens nominetur? Honestate igitur dirigenda utilitas est, et quidem sic, ut haec duo verbo inter se discrepare, re unum sonare videantur.
+		</latin>
+	</section>
+	<section from="84" to="84">
+		<german>
+			Ich weiß nicht, welcher Nutzen nach der Meinung der Menge größer sein kann als der zu herrschen; im Gegenteil, nichts, finde ich, ist unnützer für denjenigen, der dieses auf ungerechte Weise erreicht hat, sobald ich beginne, den Gedanken auf die Wirklichkeit zu richten. Können denn für irgendjemanden Anwandlungen von Angst nützlich sein, Besorgnisse, Furcht bei Tage und bei Nacht, ein Leben reich an Hinterhalt und Gefahren? "Viele sind ungerecht und untreu gegen die Königsherrschaft, wenige nur wohlwollend" sagt Accius. Aber gegen welche Königsherrschaft? Diese von Tantalus und Pelops vererbte wurde zu Recht innegehabt. Denn wieviel mehr waren deiner Meinung nach demjenigen König feindlich gesinnt, der mit dem Heer des römischen Volkes das römische Volk selbst unterdrückt und eine nicht nur freie, sondern auch über Völker herrschende Bürgerschaft gezwungen hatte, ihm zu dienen.
+		</german>
+		<latin>
+			Non habeo ad volgi opinionem quae maior utilitas quam regnandi esse possit, nihil contra inutilius ei, qui id iniuste consecutus sit, invenio, cum ad veritatem coepi revocare rationem. Possunt enim cuiquam esse utiles angores, sollicitudines, diurni et nocturni metus, vita insidiarum periculorumque plenissima? 'Multi iniqui atque infideles regno, pauci benivoli' inquit Accius. At cui regno? quod a Tantalo et Pelope proditum iure optinebatur. Nam quanto plures ei regi putas, qui exercitu populi Romani populum ipsum Romanum oppressisset civitatemque non modo liberam, sed etiam gentibus imperantem servire sibi coegisset?
+		</latin>
+	</section>
+	<section from="85" to="85">
+		<german>
+			Welchen Verfall des Gewissens, welche Wunden hatte er deiner Ansicht nach in seinem Innern? Wessen Leben aber kann für ihn selbst nützlich sein, wenn der Zustand dieses Lebens so ist, dass derjenige, der jenes entrissen hat, in der größten Gunst und dem größten Ruhm stehen wird? Wenn also diese Dinge nicht nützlich sind, muss man, weil das am meisten nützlich erscheint, was reich an Schmach und Schande ist, hinreichend überzeugt sein, dass nichts nützlich ist, was nicht sittlich gut ist.
+		</german>
+		<latin>
+			Hunc tu quas conscientiae labes in animo censes habuisse, quae vulnera? Cuius autem vita ipsi potest utilis esse, cum eius vitae ea condicio sit, ut qui illam eripuerit, in maxima et gratia futurus sit et gloria? Quod si haec utilia non sunt, quae maxime videntur, quia plena sunt dedecoris ac turpitudinis, satis persuasum esse debet, nihil esse utile, quod non honestum sit.
+		</latin>
+	</section>
+	<section from="86" to="86">
+		<german>
+			Allerdings ist so oft zu anderer Zeit, besonders aber im Krieg mit Pyrrhus von C. Fabricius in seinem zweiten Konsulat und von unserem Senat entschieden worden. Als nämlich König Pyrrhus mit dem römischen Volk ohne Grund Krieg angefangen hatte und es mit dem vornehmen und mächtigen König einen Kampf um den Bestand des Reiches gab, kam ein Überläufer von ihm in das Lager des Fabricius und versprach ihm, falls er ihm eine Belohnung in Aussicht stelle, werde er, wie er heimlich gekommen sei, so auch wieder heimlich in das Lager des Pyrrhus zurückkehren und ihn mit Gift töten. Diesen ließ Fabricius zu Pyrrhus zurückführen, und diese seine Tat wurde vom Senat gelobt. Wenn wir nun aber nach dem scheinbaren und vermeintlichen Nutzen fragen, so hätte ein einziger Überläufer jenen großen Krieg beendet und einen schweren Gegner des Reiches vernichtet, aber es wäre eine schlimme Schmach und Schandtat gewesen, wenn derjenige, mit dem es einen Kampf um den Ruhm gegeben hatte, nicht durch Tapferkeit, sondern durch ein Verbrechen besiegt worden wäre.
+		</german>
+		<latin>
+			Quamquam id quidem cum saepe alias, tum Pyrrhi bello a C. Fabricio consule iterum et a senatu nostro iudicatum est. Cum enim rex Pyrrhus populo Romano bellum ultro intulisset cumque de imperio certamen esset cum rege generoso ac potente, perfuga ab eo venit in castra Fabricii eique est pollicitus, si praemium sibi proposuisset, se, ut clam venisset, sic clam in Pyrrhi castra rediturum et eum veneno necaturum. Hunc Fabricius reducendum curavit ad Pyrrhum idque eius factum laudatum a senatu est. Atqui si speciem utilitatis opinionemque quaerimus, magnum illud bellum perfuga unus et gravem adversarium imperii sustulisset, sed magnum dedecus et flagitium, quicum laudis certamen fuisset, eum non virtute, sed scelere superatum.
+		</latin>
+	</section>
+	<section from="87" to="87">
+		<german>
+			War es also für Fabricius nützlicher, der in dieser Stadt ein solcher gewesen ist wie Aristides in Athen, oder für unseren Senat, der niemals den Nutzen von der Würde getrennt hat, mit Waffen gegen den Feind zu kämpfen oder mit Gift? Wenn die Herrschaft um des Ruhmes willen erstrebenswert ist, so soll das Verbrechen fern sein, auf dem sich Ruhm nicht gründen kann; wenn aber die Macht um ihrer selbst willen unter allen Umständen erstrebt wird, so wird sie nicht nützlich sein können, wenn Schande daran klebt. Also ist jener Gesetzesvorschlag des L. Philippus, des Sohnes von Quintus, nicht nützlich, dass diejenigen Bürgerschaften, die L. Sulla gegen Erhalt einer Geldsumme entsprechend einem Senatsbeschluss von Tributen befreit hatte, von neuem steuerpflichtig sein und wir ihnen das Geld, das sie für ihre Freiheit gezahlt hatten, nicht zurückgeben sollten. Ihm stimmte der Senat zu. Eine Schande für das Reich! Denn die Zuverlässigkeit von Piraten ist besser als die des Senates. 'Aber vermehrt worden ist das Steueraufkommen, also ist es nützlich.' Wie lange noch werden sie es wagen, etwas nützlich zu nennen, was nicht sittlich gut ist?
+		</german>
+		<latin>
+			Utrum igitur utilius vel Fabricio, qui talis in hac urbe qualis Aristides Athenis fuit, vel senatui nostro qui numquam utilitatem a dignitate seiunxit, armis cum hoste certare an venenis? Si gloriae causa imperium expetundum est, scelus absit, in quo non potest esse gloria; sin ipsae opes expetuntur quoquo modo, non poterunt utiles esse cum infamia. Non igitur utilis illa L. Philippi Q. f. sententia, quas civitates L. Sulla pecunia accepta ex senatus consulto liberavisset, ut eae rursus vectigales essent, neque iis pecuniam, quam pro libertate dederant, redderemus. Ei senatus est assensus. Turpe imperio! Piratarum enim melior fides quam senatus. 'At aucta vectigalia, utile igitur.' Quousque audebunt dicere quicquam utile, quod non honestum?
+		</latin>
+	</section>
+	<section from="88" to="88">
+		<german>
+			Können aber für irgendein Reich, das auf Ruhm und Wohlwollen der Bundesgenossen gestützt sein muss, Hass und Schmach nützlich sein? Sogar mit meinem Cato stimmte ich oft nicht überein. Allzu schroff schien er mir die Staatskasse und die Steuern zu verteidigen, alles den Steuerpächtern abzuschlagen, vieles den Bundesgenossen, obwohl wir diesen gegenüber hätten gefällig sein und mit jenen hätten so verfahren müssen, wie wir es mit unseren Privatpächtern zu tun pflegten, und zwar um so mehr, weil jene Verbindung unter den Ständen das Wohlergehen des Staates betraf. Schlecht handelte auch Curio, als er sagte, die Sache der Transpadaner sei gerecht, aber immer hinzufügte 'Es siege der Nutzen'. Lieber hätte er darlegen sollen, sie sei nicht gerecht, weil nicht nützlich für den Staat, als eingestehen, sie sei gerecht, wobei er aber sagte, sie sei nicht nützlich.
+		</german>
+		<latin>
+			Potest autem ulli imperio, quod gloria debet fultum esse et benevolentia sociorum, utile esse odium et infamia? Ego etiam cum Catone meo saepe dissensi. Nimis mihi praefracte videbatur aerarium vectigaliaque defendere, omnia publicanis negare, multa sociis, cum in hos benefici esse deberemus, cum illis sic agere, ut cum colonis nostris soleremus, eoque magis, quod illa ordinum coniunctio ad salutem rei publicae pertinebat. Male etiam Curio, cum causam Transpadanorum aequam esse dicebat, semper autem addebat "vincat utilitas". Potius doceret non esse aequam, quia non esset utilis rei publicae, quam cum utilem diceret non esse, aequam fateretur.
+		</latin>
+	</section>
+	<section from="89" to="89">
+		<german>
+			Das sechste Buch Hecatons "Über die Pflichten" ist reich an derartigen Untersuchungen, ob es zu einem rechtschaffenen Mann gehört, bei einer sehr starken Teuerung des Getreides die Dienerschaft nicht zu ernähren. Er erörtert das Für und Wider, aber dennoch beurteilt er schließlich die Pflicht mehr nach dem Nutzen, wie er ihn sich denkt, als nach der Menschlichkeit. Er wirft die Frage auf, ob er für den Fall, dass auf dem Meer etwas über Bord geworfen werden muss, lieber ein wertvolles Pferd oder einen billigen Sklaven verlieren soll. In diesem Fall zieht ihn der Besitz hierhin, die Menschlichkeit dorthin. "Wenn ein Tor ein Brett aus einem Schiffbruch an sich gerissen hat, wird ein Weiser ihm dieses entreißen, wenn er es kann?" Er sagt nein, weil es ungerecht sei. Was? Wird der Eigentümer des Schiffes ihm den Balken wegnehmen, weil es sein Eigentum ist? Keineswegs, ebensowenig wie er jemanden, der auf dem Meer segelt, vom Schiff werfen will, weil es ihm gehört. Denn bis man an das Ziel gelangt, für das ein Schiff angemietet worden ist, gehört das Schiff nicht seinem Eigentümer, sondern dem Segelnden.
+		</german>
+		<latin>
+			Plenus est sextus liber de officiis Hecatonis talium quaestionum, sitne boni viri in maxima caritate annonae familiam non alere. In utramque partem disputat, sed tamen ad extremum utilitate, ut putat, officium dirigit magis quam humanitate. Quaerit, si in mari iactura facienda sit, equine pretiosi potius iacturam faciat an servuli vilis. Hic alio res familiaris, alio ducit humanitas. "Si tabulam de naufragio stultus arripuerit, extorquebitne eam sapiens, si potuerit?" Negat, quia sit iniurium. Quid? dominus navis eripietne suum? Minime, non plus quam navigantem in alto eicere de navi velit, quia sua sit. Quoad enim perventum est eo, quo sumpta navis est, non domini est navis, sed navigantium.
+		</latin>
+	</section>
+	<section from="90" to="90">
+		<german>
+			Was? Wenn es ein einziges Brett gibt, aber zwei Schiffbrüchige, und zwar weise, sollen dann beide
+			dieses an sich reißen oder soll der eine dem anderen nachgeben? Er soll natürlich nachgeben, aber
+			demjenigen, dessen Leben wertvoller ist entweder um seiner selbst oder um des Staates willen?
+			Was? Wenn diese Bedingungen auf beide in gleicher Weise zutreffen? Es wird keinen Streit geben,
+			sondern gleich als ob er durch das Los oder im Moraspiel besiegt worden wäre, wird der eine dem
+			anderen nachgeben. Was? Wenn ein Vater Heiligtümer plündern und unterirdische Gänge zur
+			Staatskasse vorantreiben würde, soll sein Sohn dieses den Beamten anzeigen? Dieses wäre ein
+			Unrecht, ja sogar soll er den Vater verteidigen, wenn dieser angeklagt wird. Ist also nicht das
+			Vaterland allen Pflichten übergeordnet? Gewiss, aber es ist für das Vaterland selbst zuträglich,
+			Bürger zu haben, die gegenüber ihren Eltern pflichtmäßig handeln. Was? Wenn der Vater versuchen
+			wird, die Gewaltherrschaft zu okkupieren und das Vaterland zu verraten, wird der Sohn dann
+			schweigen? Im Gegenteil, er wird seinen Vater anflehen, dieses nicht zu tun. Wenn er nichts
+			bewirkt, wird er ihn anklagen, ihm sogar drohen; schließlich wird er, wenn dem Vaterland
+			Verderben droht, das Wohlergehen des Vaterlandes dem Wohlergehen des Vaters vorziehen.
+		</german>
+		<latin>
+			Quid? si una tabula sit, duo naufragi, eique sapientes, sibine uterque rapiat an alter cedat alteri? Cedat vero, sed ei, cuius magis intersit vel sua vel rei publicae causa vivere. Quid? si haec paria in utroque? Nullum erit certamen, sed quasi sorte aut micando victus alteri cedet alter Quid? si pater fana expilet, cuniculos agat ad aerarium, indicetne id magistratibus filius? Nefas id quidem est, quin etiam defendat patrem si arguatur. Non igitur patria praestat omnibus officiis? Immo vero, sed ipsi patriae conducit pios habere cives in parentes. Quid? si tyrannidem occupare, si patriam prodere conabitur pater, silebitne filius? Immo vero obsecrabit patrem, ne id faciat. Si nihil proficiet, accusabit, minabitur etiam; ad extremum, si ad perniciem patriae res spectabit, patriae salutem anteponet saluti patris.
+		</latin>
+	</section>
+	<section from="91" to="91">
+		<german>
+			Auch fragt er, ob ein Weiser, wenn er aus Versehen gefälschte Münzen statt echter angenommen hat, diese, obwohl er etwas davon gemerkt hat, in Zahlung geben wird anstelle der echten, falls er jemandem etwas schuldet. Diogenes bejaht es, Antipater verneint es, dem ich lieber zustimme. Ob derjenige, der abstehenden Wein wissentlich verkauft, dieses sagen muss, wird gefragt. Diogenes glaubt, es sei nicht notwendig, Antipater meint, es gehöre zu einem rechtschaffenen Mann, dieses zu sagen. Dieses sind gleichsam die strittigen Rechtsfragen mit den Stoikern. Gefragt wird, ob beim Verkauf eines Sklaven seine Fehler genannt werden müssen, nicht diejenigen, durch die, wenn man sie nicht nennt, der Sklave nach dem bürgerlichen Recht zurückgegeben wird, sondern folgende, ein Lügner zu sein, ein Würfelspieler, ein Dieb, ein Trunkenbold. Der eine glaubt, sie müssten genannt werden, der andere nicht.
+		</german>
+		<latin>
+			Quaerit etiam, si sapiens adulterinos nummos acceperit imprudens pro bonis, cum id nescierit, soluturusne sit eos, si cui debeat, pro bonis. Diogenes ait, Antipater negat, cui potius assentior. Qui vinum fugiens vendat sciens, debeatne dicere. Non necesse putat Diogenes, Antipater viri boni existimat. Haec sunt quasi controversiae iura Stoicorum. In mancipio vendundo dicendane vitia, non ea, quae nisi dixeris, redhibeatur mancipium iure civili, sed haec, mendacem esse, aleatorem, furacem, ebriosum. Alteri dicenda videntur, alteri non videntur.
+		</latin>
+	</section>
+	<section from="92" to="92">
+		<german>
+			Wenn jemand Gold verkauft und meint, er verkaufe Messing, soll ein rechtschaffener Mann diesem
+			anzeigen, dass jenes Gold ist, oder soll er für einen Denar kaufen, was tausend Denare wert ist?
+			Es ist nunmehr klar, was ich denke und was die Streitfrage unter den Philosophen ist, die ich
+			genannt habe.
+		</german>
+		<latin>
+			Si quis aurum vendens orichalcum se putet vendere, indicetne ei vir bonus aurum illud esse, an
+			emat denario, quod sit mille denarium? Perspicuum est iam et quid mihi videatur et quae sit inter
+			eos philosophos, quos nominavi, controversia.
+		</latin>
+	</section>
+	<section from="92b" to="92b">
+		<german>
+			Gefragt wird, ob Verträge und Versprechen immer eingehalten werden müssen, die weder durch 
+			Gewalt noch durch böswillige Täuschung, wie die Prätoren es zu sagen pflegen, entstanden sind. 
+			Wenn jemand irgendeinem ein Medikament gegen Wassersucht gegeben und festgesetzt hat, dass er, falls er durch dieses Medikament gesund gemacht worden sei, jenes Medikament später niemals benutzen solle, wenn er durch dieses Medikament gesund geworden und einige Jahre später derselben Krankheit verfallen ist, aber von demjenigen, mit dem er diese Vereinbarung getroffen hatte, nicht erreicht, dass er dieses ein zweites Mal benutzen darf, was da zu tun sei, wird gefragt. Da derjenige unmenschlich ist, der dieses nicht zugesteht, und jenem dennoch kein Unrecht zugefügt wird, muss für sein Leben und seine Gesundheit gesorgt werden.
+		</german>
+		<latin>
+			Pacta et promissa semperne servanda sint, qvae nec vi nec dolo malo, ut praetores solent,
+			facta sint. Si quis medicamentum cuipiam dederit ad aquam intercutem pepigeritque, si eo 
+			medicamento sanus factus esset, ne illo medicamento umquam postea uteretur, si eo medicamento 
+			sanus factus sit et annis aliquot post inciderit in eundem morbum nec ab eo, quicum pepigerat,
+			impetret, ut iterum eo liceat uti, quid faciendum sit. Cum sit is inhumanus, qui non concedat,
+			nec ei quicquam fiat iniuriae, vitae et saluti consulendum.
+		</latin>
+	</section>
+	<section from="93" to="93">
+		<german>
+			Was? Wenn irgendein Weiser von demjenigen gebeten worden ist, der ihn zum Erben macht, indem ihm im Testament 100 Millionen Sesterze hinterlassen werden, er möge, bevor er die Erbschaft antrete, am hellen Tage öffentlich auf dem Forum tanzen, und wenn er dieses zu tun versprochen hat, weil jener ihn sonst nicht zum Erben einsetzen will, soll er das, was er versprochen habe, tun oder nicht? Ich wollte, er hätte es nicht versprochen, und ich glaube, es wäre ein Zeichen von Würde gewesen; da er es versprochen hat, wird es für ihn, wenn er das Tanzen auf dem Forum für schändlich halten wird, ehrenvoller sein zu lügen, falls er nichts von der Erbschaft genommen hat, als zu lügen, wenn er sie genommen hat, es sei denn, er hat dieses Geld für eine schwere Lage des Staates hergegeben, so dass sogar das Tanzen, da er für das Vaterland Sorge tragen wird, nicht schändlich ist.
+		</german>
+		<latin>
+			Quid? si qui sapiens rogatus sit ab eo, qui eum heredem faciat, cum ei testamento sestertium milies relinquatur, ut antequam hereditatem adeat luce palam in foro saltet, idque se facturum promiserit, quod aliter heredem eum scripturus ille non esset, faciat quod promiserit necne? Promisisse nollem et id arbitror fuisse gravitatis; quoniam promisit, si saltare in foro turpe ducet, honestius mentietur, si ex hereditate nihil ceperit, quam si ceperit, nisi forte eam pecuniam in rei publicae magnum aliquod tempus contulerit, ut vel saltare, cum patriae consulturus sit, turpe non sit.
+		</latin>
+	</section>
+	<section from="94" to="94">
+		<german>
+			Auch sind jene Versprechen nicht einzuhalten, die genau für diejenigen nicht nützlich sind, denen 
+			du jenes versprochen hast. Der Sonnengott sagte zu seinem Sohn Phaeton, um zu den Mythen 
+			zurückzukehren, er werde alles tun, was er wünsche. Er wünschte auf den Wagen seines Vaters zu 
+			steigen; er stieg hinauf; und noch ehe er auf dem Wagen stand, ging er infolge eines Blitzschlags
+			in Flammen auf; wie viel besser wäre es gewesen, wenn in diesem Fall das Versprechen des Vaters 
+			nicht eingehalten worden wäre. Was? Welches Versprechen forderte Theseus von Neptun? Als Neptun
+			ihm drei Wünsche eingeräumt hatte, wünschte er sich den Tod seines Vaters Hippolytus, weil dieser
+			seinem Vater wegen seiner Stiefmutter verdächtig war; nachdem Theseus diesen Wunsch durchgesetzt
+			hatte, befand er sich in tiefster Trauer.
+		</german>
+		<latin>
+			Ac ne illa quidem promissa servanda sunt, quae non sunt iis ipsis utilia, quibus illa promiseris.
+			Sol Phaetonti filio, ut redeamus ad fabulas, facturum se esse dixit, quidquid optasset. Optavit,
+			ut in currum patris tolleretur; sublatus est; atque is ante quam constitit ictu fulminis
+			deflagravit; quanto melius fuerat in hoc promissum patris non esse servatum. Quid? quod Theseus
+			exegit promissum a Neptuno? Cui cum tres optationes Neptunus dedisset, optavit interitum 
+			Hippolyti filii, cum is patri suspectus esset de noverca; quo optato impetrato, Theseus in 
+			maximis fuit luctibus.
+		</latin>
+	</section>
+	<section from="95" to="95">
+		<german>
+			Und Agamemnon? Weil er Diana das Schönste gelobt hatte, was in seinem Königreich in jenem Jahr geboren war, opferte er Iphigenie; Schöneres als sie war in diesem Jahr nicht geboren worden. Besser wäre es gewesen, das Versprechen nicht zu erfüllen als ein so schreckliches Verbrechen zu begehen. Also dürfen Versprechen zuweilen nicht erfüllt und anvertraute Güter nicht immer zurückgegeben werden. Wenn jemand bei dir bei gesundem Verstand sein Schwert abgelegt hat und es als Wahnsinniger zurückverlangt, ist es wohl ein Vergehen, dieses zurückzugeben, und eine Pflicht, es nicht zurückzugeben. Was? Wenn derjenige, der bei dir Geld in Verwahrung gegeben hat, das Vaterland angreift, würdest du das anvertraute Gut zurückgeben? Ich glaube es nicht, du wirst nämlich gegen das Vaterland handeln, welches das Liebste sein muss. So hört vieles, was von Natur aus sittlich gut zu sein scheint, unter bestimmten Umständen auf, sittlich gut zu sein. Das Erfüllen von Versprechen, das Festhalten an Abmachungen und die Rückgabe anvertrauten Gutes hören auf sittlich gut zu sein, wenn der Nutzen ins Gegenteil umschlägt. Und über das, was im Widerspruch mit der Gerechtigkeit unter dem Schein von Klugheit nützlich zu sein scheint, ist meiner Meinung nach hinreichend gesprochen worden.
+		</german>
+		<latin>
+			Quid? quod Agamemnon cum devovisset Dianae, quod in suo regno pulcherrimum natum esset illo anno, immolavit Iphigeniam, qua nihil erat eo quidem anno natum pulchrius. Promissum potius non faciendum, quam tam taetrum facinus admittendum fuit. Ergo et promissa non facienda nonnumquam neque semper deposita reddenda. Si gladium quis apud te sana mente deposuerit, repetat insaniens, reddere peccatum sit, officium non reddere. Quid? si is, qui apud te pecuniam deposuerit, bellum inferat patriae, reddasne depositum? Non credo, facies enim contra rem publicam, quae debet esse carissima. Sic multa, quae honesta natura videntur esse, temporibus fiunt non honesta. Facere promissa, stare conventis, reddere deposita commutata utilitate fiunt non honesta. Ac de iis quidem, quae videntur esse utilitates contra iustitiam simulatione prudentiae, satis arbitror dictum.
+		</latin>
+	</section>
+	<section from="96" to="96">
+		<german>
+			Aber da wir aus den vier Quellen des Sittlichguten im ersten Buch die pflichtgemäßen Handlungen abgeleitet haben, wollen wir bei denselben bleiben, wenn wir darlegen werden, wie feindselig gegenüber der Tugend die Dinge sind, die nützlich zu sein scheinen, es aber nicht sind. Über die Klugheit, welche eine böswillige Gesinnung nachahmen will, und ebenso über die Gerechtigkeit, die immer nützlich ist, ist disputiert worden. Übrig sind zwei Bereiche des Sittlichguten, von denen sich der eine in der Größe und Vortrefflichkeit einer herausragenden Gesinnung zeigt, der andere in der edlen Selbstbeherrschung durch maßvolle Haltung.
+		</german>
+		<latin>
+			Sed quoniam a quattuor fontibus honestatis primo libro officia duximus, in eisdem versemur, cum docebimus, ea, quae videantur esse utilia neque sint, quam sint virtutis inimica. Ac de prudentia quidem, quam vult imitari malitia, itemque de iustitia, quae semper est utilis, disputatum est. Reliquae sunt duae partes honestatis quarum altera in animi excellentis magnitudine et praestantia cernitur, altera in conformatione et moderatione continentiae et temperantiae.
+		</latin>
+	</section>
+	<section from="97" to="97">
+		<german>
+			Nützlich erschien dem Odysseus, wie es Tragödiendichter überliefert haben, denn bei Homer, dem besten Gewährsmann, gibt es keinen derartigen Verdacht bezüglich Odysseus, sondern Tragödiendichter bezichtigen ihn, er habe sich unter dem Vorwand von Wahnsinn dem Kriegsdienst entziehen wollen. Ein nicht ehrenhafter, aber nützlicher Plan, König zu sein, auf Ithaka in Frieden zu leben gemeinsam mit den Eltern, mit der Gattin und dem Sohn. Glaubst du, dass irgendeine Ruhmestat bei täglichen Strapazen und Gefahren mit dieser Ruhe zu vergleichen ist? Ich aber glaube, dass diese Ruhe verachtet und aufgegeben werden muss, da sie meiner Meinung nach, weil nicht ehrenhaft, auch nicht nützlich ist.
+		</german>
+		<latin>
+			Utile videbatur Ulixi, ut quidem poetae tragici prodiderunt, nam apud Homerum, optimum auctorem, talis de Ulixe nulla suspicio est, sed insimulant eum tragoediae simulatione insaniae militiam subterfugere voluisse. Non honestum consilium, at utile, ut aliquis fortasse dixerit, regnare et Ithacae vivere otiose cum parentibus, cum uxore, cum filio. Ullum tu decus in cotidianis laboribus cum hac tranquillitate conferendum putas? Ego vero istam contemnendam et abiciendam, quoniam quae honesta non sit ne utilem quidem esse arbitror.
+		</latin>
+	</section>
+	<section from="98" to="98">
+		<german>
+			Was nämlich hätte Odysseus, glaubst du, zu hören bekommen, wenn er mit jenem Vorwand fortgefahren wäre? Obwohl er sehr bedeutende Taten im Krieg vollbracht hat, soll er dennoch folgende Worte von Aiax zu hören bekommen:
+			"Er, der selbst als erster dieses eidliche Versprechen gegeben hat, wollte als einziger den Eid nicht erfüllen, was ihr alle wisst. Zu wüten und sich zu verstellen begann er, um nicht einzurücken. Wenn nicht die scharfsichtige Klugheit des Palamedes seine boshafte Unverschämtheit bemerkt hätte, würde er fortwährend den geheiligten Treueid nicht erfüllen."
+		</german>
+		<latin>
+			Quid enim auditurum putas fuisse Ulixem, si in illa simulatione perseverasset? Qui cum maximas res gesserit in bello, tamen haec audiat ab Aiace<br/>
+"Cuius ipse princeps iuris iurandi fuit,<br/>
+Quod omnes scitis, solus neglexit fidem.<br/> 
+Furere adsimulare, ne coiret, institit. <br/>
+Quod ni Palamedi perspicax prudentia <br/>
+Istius percepset malitiosam audaciam <br/>
+Fide sacratae ius perpetuo falleret."
+		</latin>
+	</section>
+	<section from="99" to="99">
+		<german>
+			 Für jenen aber war es besser nicht nur gegen die Feinde, sondern auch gegen die Fluten zu kämpfen, wie er es auch wirklich tat, als Griechenland im Stich zu lassen, das sich darin einig war, mit den Barbaren einen Krieg anzufangen. Aber wir wollen die Mythologie und fremde Vorgänge beiseite lassen. Als M. Atilius Regulus in seinem zweiten Konsulat in Afrika infolge eines Hinterhalts unter dem Kommando des Lakedaimoniers Xanthippus gefangen genommen worden war, während Hamilkar, der Vater Hannibals, Feldherr war, wurde er, nachdem er einen Eid abgelegt hatte, zum Senat geschickt unter der Bedingung, dass er von sich aus nach Karthago zurückkehre, falls den Puniern nicht einige adlige Kriegsgefangene zurückgegeben würden. Als dieser nach Rom gekommen war, erkannte er den scheinbaren Nutzen, aber er hielt diesen für falsch, wie der Vorgang verdeutlicht; dieser scheinbare Nutzen sah so aus: Im Vaterland zu bleiben, im eigenen Haus gemeinsam mit der Gattin und den Kindern zu leben, die Niederlage, die er im Krieg erlitten hatte, für ein Missgeschick zu halten, das jeden im Krieg treffen kann, und die Würde seines konsularischen Ranges beizubehalten. Wer sagt, dieses sei nicht nützlich? Wer bestreitet dieses deiner Meinung nach? Großmut und Tapferkeit bestreiten es.
+		</german>
+		<latin>
+			Illi vero non modo cum hostibus, verum etiam cum fluctibus, id quod fecit, dimicare melius fuit quam deserere consentientem Graeciam ad bellum barbaris inferendum. Sed omittamus et fabulas et externa; ad rem factam nostramque veniamus. M. Atilius Regulus, cum consul iterum in Africa ex insidiis captus esset duce Xanthippo Lacedaemonio, imperatore autem patre Hannibalis Hamilcare, iuratus missus est ad senatum, ut nisi redditi essent Poenis captivi nobiles quidam, rediret ipse Carthaginem. Is cum Romam venisset, utilitatis speciem videbat, sed eam, ut res declarat, falsam iudicavit; quae erat talis: manere in patria, esse domui suae cum uxore, cum liberis, quam calamitatem accepisset in bello communem fortunae bellicae iudicantem tenere consularis dignitatis gradum. Quis haec negat esse utilia? quem censes? Magnitudo animi et fortitudo negat.
+		</latin>
+	</section>
+	<section from="100" to="100">
+		<german>
+			Suchst du etwa gewichtigere Gewährsleute? Es ist nämlich für diese Tugenden kennzeichnend, sich vor nichts zu fürchten, alles Menschliche gering zu schätzen, nichts, was einem Menschen widerfahren kann, für unerträglich zu halten. Was hat er daher getan? Er kam in den Senat, er legte seine Aufträge dar und weigerte sich, mit darüber abzustimmen; solange er durch einen Eid gegenüber den Feinden gebunden werde, sei er kein Senator. Und auch jenes muss erwähnt werden (Welch törichter Mensch, könnte jemand sagen, der sich seinem eigenen Vorteil widersetzt): Dass man die Kriegsgefangenen zurückgebe, sei nicht nützlich, sagte er; jene seien nämlich junge Männer und gute Befehlshaber, er hingegen schon durch das Greisenalter geschwächt. Als sich sein Rat durchgesetzt hatte, wurden die Kriegsgefangenen zurückbehalten, er selbst kehrte nach Karthago zurück. Damals wusste er aber genau, dass er zu dem grausamsten Feind und zu ausgesuchten Strafen aufbrach, aber er glaubte, den Eid einhalten zu müssen. Und so befand er sich dann, meine ich, als er durch Schlafentzug getötet wurde, in einer besseren Situation, als wenn er als kriegsgefangener Greis und meineidiger Konsular zu Hause geblieben wäre.
+		</german>
+		<latin>
+			Num locupletiores quaeris auctores? Harum enim est virtutum proprium nihil extimescere, omnia humana despicere, nihil, quod homini accidere possit intolerandum putare. Itaque quid fecit? In senatum venit, mandata euit, sententiam ne diceret, recusavit; quamdiu iure iurando hostium teneretur, non esse se senatorem. Atque illud etiam, ("O stultum hominem," dixerit quispiam, "et repugnantem utilitati suae!"), reddi captivos negavit esse utile; illos enim adulescentes esse et bonos duces, se iam confectum senectute. Cuius cum valuisset auctoritas, captivi retenti sunt, ipse Carthaginem rediit, neque eum caritas patriae retinuit nec suorum. Neque vero tum ignorabat se ad crudelissimum hostem et ad exquisita supplicia proficisci, sed ius iurandum conservandum putabat. Itaque tum, cum vigilando necabatur, erat in meliore causa, quam si domi senex captivus, periurus consularis remansisset.
+		</latin>
+	</section>
+	<section from="101" to="101">
+		<german>
+			 Aber töricht handelte derjenige, der nicht nur dagegen votierte, dass die Kriegsgefangenen 
+			 zurückgeschickt werden müssten, sondern sogar davon abriet. Auf welche Weise töricht? Auch,
+			 falls es dem Staat nützte? Kann aber das, was für den Staat unnütz ist, für irgendeinen Bürger
+			 nützlich sein?
+		</german>
+		<latin>
+			At stulte, qui non modo non censuerit captivos remittendos, verum etiam dissuaserit.
+			Quo modo stulte? etiamne, si rei publicae conducebat? Potest autem, quod inutile rei publicae sit,
+			id cuiquam civi utile esse?
+		</latin>
+	</section>
+	<section from="101b" to="101b">
+		<german>
+			Die Menschen vernichten das, was die Fundamente der Natur sind, wenn sie den Nutzen von dem Sittlichguten trennen. Wir alle nämlich erstreben den Nutzen und lassen uns zu ihm hinreißen, und anders können wir in keiner Weise handeln. Denn wer ist derjenige, der vor dem Nützlichen flieht? Oder wer ist vielmehr derjenige, der diesem nicht sehr eifrig nachjagt? Aber weil wir das Nützliche nirgends finden können außer in einer Ruhmestat, in der Ehre und dem Sittlichguten, deswegen halten wir diese Eigenschaften für die ersten und höchsten, das Wort Nutzen erachten wir nicht so sehr als erhaben denn als notwendig.
+		</german>
+		<latin>
+			Pervertunt homines ea, quae sunt fundamenta naturae, cum utilitatem ab honestate seiungunt. Omnes enim expetimus utilitatem ad eamque rapimur nec facere aliter ullo modo possumus. Nam quis est, qui utilia fugiat? aut quis potius, qui ea non studiosissime persequatur? Sed quia nusquam possumus nisi in laude, decore, honestate utilia reperire, propterea illa prima et summa habemus, utilitatis nomen non tam splendidum quam necessarium ducimus.
+		</latin>
+	</section>
+	<section from="102" to="102">
+		<german>
+			Was also, könnte jemand sagen, liegt im Eid so Wichtiges? Fürchten wir etwa einen zornigen Jupiter? Aber dieses ist allgemeine Lehre aller Philosophen, nicht nur derjenigen, die sagen, die Gottheit selbst habe keine Mühe und mache keinem Mühe, sondern auch derjenigen, die wollen, dass die Gottheit immer etwas tut und ins Werk setzt: Niemals zürnt die Gottheit noch schadet sie. Ferner: Welchen größeren Schaden hätte Jupiter in seinem Zorn zufügen können als denjenigen, den Regulus sich selbst zugefügt hat? Es gab also keinen religiösen Zwang, der einen so großen Nutzen umkehren konnte? Oder fürchtete er, schimpflich zu handeln? Erstens gilt es, aus den Übeln die geringsten auszuwählen. Also hatte diese Schändlichkeit nicht so viel Übles an sich wie jene Qual. Zweitens gilt auch jene Ansicht bei Accius: "Hast du die Treue gebrochen? Weder habe ich sie erwiesen noch erweise ich sie irgendeinem Treulosen." Obwohl dieses von einem ruchlosen König gesagt wird, wird es dennoch treffend gesagt.
+		</german>
+		<latin>
+			Quid est igitur, dixerit quis, in iure iurando? num iratum timemus Iovem? At hoc quidem commune est omnium philosophorum, non eorum modo, qui deum nihil habere ipsum negotii dicunt, nihil exhibere alteri, sed eorum etiam, qui deum semper agere aliquid et moliri volunt, numquam nec irasci deum nec nocere. Quid autem iratus Juppiter plus nocere potuisset, quam nocuit sibi ipse Regulus? Nulla igitur vis fuit religionis, quae tantam utilitatem perverteret. An ne turpiter faceret? Primum minima de malis? Non igitur tantum mali turpitudo ista habebat, quantum ille cruciatus. Deinde illud etiam apud Accium:
+
+                    "Fregistin fidem?
+Neque dedi neque do infideli cuiquam."
+
+quamquam ab impio rege dicitur, luculente tamen dicitur.
+		</latin>
+	</section>
+	<section from="103" to="103">
+		<german>
+			 Sie fügen auch hinzu: Wie wir behaupten, einiges erscheine nützlich, was nicht nützlich sei, so erklärten sie, einiges erscheine sittlich gut, was nicht sittlich gut sei; z.B. erscheine gerade sein Verhalten, zur qualvollen Hinrichtung zurückgekehrt zu sein, um den Eid zu halten, als sittlich gut, aber es werde nicht sittlich gut, weil das, was durch Gewalt seitens der Feinde erzwungen sei, nicht verbindlich habe sein dürfen. Sie fügen sogar hinzu, alles, was sehr nützlich sei, werde sittlich gut, auch wenn es vorher nicht so zu sein scheine. Ungefähr diese Worte führen sie gegen Regulus an. Aber lasst uns den ersten Einwand betrachten.
+		</german>
+		<latin>
+			Addunt etiam, quemadmodum nos dicamus videri quaedam utilia, quae non sint, sic se dicere videri quaedam honesta, quae non sunt, ut hoc ipsum videtur honestum conservandi iuris iurandi causa ad cruciatum revertisse, sed fit non honestum, quia, quod per vim hostium esset actum, ratum esse non debuit. Addunt etiam, quicquid valde utile sit, id fieri honestum, etiam si antea non videretur. Haec fere contra Regulum. Sed prima videamus.
+		</latin>
+	</section>
+	<section from="104" to="104">
+		<german>
+			Nicht brauchte man zu befürchten, dass Jupiter im Zorn Schaden zufügte, der weder zu zürnen noch zu schaden gewohnt ist. Diese Begründung gilt nicht nur gegenüber dem Eid des Regulus, sondern gegenüber jedem Eid. Aber bei einem Eid muss man sich darüber im Klaren sein, nicht was man zu befürchten hat, sondern was seine Bedeutung ist. Der Eid ist nämlich eine heilige Beteuerung; was man aber unter Beteuerungen und gleichsam bei Gott als Zeugen versprochen hat, das ist zu halten. Denn der Eid bezieht sich nicht mehr auf den Zorn der Götter, den es nicht gibt, sondern auf die Gerechtigkeit und Treue. Denn vortrefflich sagt Ennius: "Segen spendende, geflügelte Treue und bei Jupiter geschworener Eid." Wer also einen Eid verletzt, der verletzt die Treue, die nach dem Willen unserer Vorfahren auf dem Capitol eine Nachbarin des Jupiter Optimus Maximus ist, wie es in einer Rede Catos steht.
+		</german>
+		<latin>
+			Non fuit Juppiter metuendus ne iratus noceret, qui neque irasci solet nec nocere. Haec quidem ratio non magis contra Reguli, quam contra omne ius iurandum valet. Sed in iure iurando non qui metus, sed quae vis sit, debet intellegi. Est enim ius iurandum affirmatio religiosa; quod autem affirmate, quasi deo teste promiseris, id tenendum est. Iam enim non ad iram deorum, quae nulla est, sed ad iustitiam et ad fidem pertinet. Nam praeclare Ennius: 
+"O Fides alma apta pinnis et ius iurandum Iovis."
+Qui ius igitur iurandum violat, is fidem violat, quam in Capitolio vicinam Iovis optimi maximi, ut in Catonis oratione est, maiores nostri esse voluerunt.
+		</latin>
+	</section>
+	<section from="105" to="105">
+		<german>
+			Aber nicht einmal im Zorn hätte Jupiter dem Regulus mehr geschadet, als Regulus sich selbst 
+			geschadet hat. Das trifft zu, wenn nichts außer Schmerz zu empfinden ein Übel wäre. Dass dieses 
+			aber nicht nur nicht das höchste Übel ist, sondern nicht einmal ein Übel, versichern Philosophen 
+			von größter Autorität. Deren nicht geringen, sondern vielleicht bedeutendsten Zeugen, Regulus, 
+			tadelt bitte nicht. Denn welchen glaubwürdigeren Zeugen suchen wir als den größten Mann des 
+			römischen Volkes, der, um seine Pflicht zu erfüllen, freiwillige Folter auf sich genommen hat? 
+			Denn wenn sie sagen 'Aus Übeln müssen die geringsten ausgewählt werden', d.h. dass wir eher 
+			schändlich handeln sollen: Gibt es etwa ein größeres Übel als die Schande? Wenn diese im Falle 
+			körperlicher Hässlichkeit Anstoß erregt, wie groß muss dann offenbar jene gemeine Entstellung 
+			eines sittenlosen Charakters sein?
+		</german>
+		<latin>
+			At enim ne iratus quidem Juppiter plus Regulo nocuisset, quam sibi nocuit ipse Regulus. Certe, si nihil malum esset nisi dolere. Id autem non modo non summum malum, sed ne malum quidem esse maxima auctoritate philosophi affirmant. Quorum quidem testem non mediocrem, sed haud scio an gravissimum Regulum nolite quaeso vituperare. Quem enim locupletiorem quaerimus quam principem populi Romani, qui retinendi officii causa cruciatum subierit voluntarium? Nam quod aiunt minima de malis, id est, ut turpiter potius quam calamitose; an est ullum maius malum turpitudine? Quae si in deformitate corporis habeat aliquid offensionis, quanta illa depravatio et foeditas turpificati animi debet videri?
+		</latin>
+	</section>
+	<section from="106" to="106">
+		<german>
+			Daher wagen es diejenigen, die dieses kraftvoller erörtern, allein das ein Übel zu nennen, was
+			schändlich ist, diejenigen aber, die es nachlässiger tun, zögern dennoch nicht, von einem
+			höchsten Übel zu sprechen. Denn jener Vers "Weder habe ich erwiesen noch erweise ich einem
+			Treulosen Treue" wurde deswegen zu Recht von einem Dichter gesagt, weil er sich an die Rolle 
+			halten musste, als Atreus dargestellt wurde. Aber wenn sie dieses für sich annehmen werden, 
+			dass ein Versprechen ungültig ist, das einem Untreuen gegeben worden ist, sollen sie zusehen, 
+			dass für einen Meineid kein Schlupfwinkel gesucht wird.
+		</german>
+		<latin>
+			 Itaque nervosius qui ista disserunt, solum audent malum dicere id, quod turpe sit, qui autem remissius, ii tamen non dubitant summum malum dicere. Nam illud quidem "Neque dedi neque do infideli cuiquam" idcirco recte a poeta, quia, cum tractaretur Atreus, personae serviendum fuit. Sed si hoc sibi sument, nullam esse fidem, quae infideli data sit, videant, ne quaeratur latebra periurio.
+		</latin>
+	</section>
+	<section from="107" to="107">
+		<german>
+			Es sind aber auch das Kriegsrecht und die Einhaltung eines Eides gegenüber dem Feind oft zu 
+			beachten. Was nämlich in der Weise geschworen worden ist, dass der Verstand sich über dessen Notwendigkeit im Klaren ist, muss eingehalten werden. Was anders geschworen worden ist, gilt, wenn der Schwörende dieses nicht getan hat, nicht als Meineid. Wenn man z.B. Räubern das pro Kopf ausbedungene Lösegeld nicht bringt, so ist es kein Betrug, auch dann nicht, wenn man dieses nach einem Schwur nicht getan hat. Denn der Pirat ist nicht der Zahl der Staatsfeinde zugerechnet, sondern er ist der gemeine Feind aller; denn mit diesem darf es kein verbindliches Versprechen und keinen verbindlichen Eid geben.
+		</german>
+		<latin>
+			Est autem ius etiam bellicum fidesque iuris iurandi saepe cum hoste servanda. Quod enim ita
+			iuratum est, ut mens conciperet fieri oportere, id servandum est; quod aliter, id si non
+			fecerit, nullum est periurium. Ut, si praedonibus pactum pro capite pretium non attuleris,
+			nulla fraus est, ne si iuratus quidem id non feceris. Nam pirata non est ex perduellium numero 
+			definitus, sed communis hostis omnium; cum hoc nec fides debet nec ius iurandum esse commune.
+		</latin>
+	</section>
+	<section from="108" to="108">
+		<german>
+			Denn nicht Falsches zu schwören macht einen Meineid aus, sondern das nicht zu tun bezeichnet einen Meineid, was man 'mit seiner ehrlichen Überzeugung' geschworen hat, wie es nach unserer Art in Worte gefasst ist. Treffend sagte nämlich Euripides: "Ich habe mit der Zunge geschworen, mein Gewissen aber weiß nichts von diesem Schwur." Regulus aber durfte nicht die im Krieg und mit dem Feinde geschlossenen Übereinkommen und Verträge durch einen Meineid brechen. Denn gegen einen regulären und rechtmäßigen Feind wurde gekämpft, gegenüber dem das Fetialrecht und viele Rechte verbindlich sind. Andernfalls hätte der Senat niemals den Feinden berühmte Männer in Fesseln übergeben.
+		</german>
+		<latin>
+			Non enim falsum iurare periurare est, sed quod ex animi tvi sententia iuraris, sicut verbis concipitur more nostro, id non facere periurium est. Scite enim Euripides: "Iuravi lingua, mentem iniuratam gero". Regulus vero non debuit condiciones pactionesque bellicas et hostiles perturbare periurio. Cum iusto enim et legitimo hoste res gerebatur, adversus quem et totum ius fetiale et multa sunt iura communia. Quod ni ita esset, numquam claros viros senatus vinctos hostibus dedidisset.
+		</latin>
+	</section>
+	<section from="109" to="109">
+		<german>
+			Aber weil T. Veturius und Sp. Postumius während ihres zweiten Konsulats nach ihrem erfolglosen Kampf bei Caudium, als unsere Legionen unter das Joch geschickt worden waren, mit den Samniten Frieden geschlossen hatten, wurden sie diesen übergeben, denn nicht auf Befehl des Volkes und des Senates hatten sie ihn geschlossen. Zur selben Zeit wurden Ti. Numicius und Q. Maelius, die damals Volkstribunen waren, weil durch deren Autorität Frieden geschlossen worden war, überstellt, damit der Friede mit den Samniten zurückgewiesen werden konnte. Und Postumius selbst, der übergeben wurde, war der Fürsprecher und Urheber dieser Auslieferung. Genau dasselbe tat viele Jahre später C. Mancinus, der, damit er den Numantinern überstellt werden konnte, mit denen er ohne den Willen des Senates einen Vertrag abgeschlossen hatte, zu diesem Antrag riet, den L. Furius und Sex. Atilius aufgrund eines Senatsbeschlusses einbrachten; der Antrag wurde angenommen und er den Feinden überstellt. Dieser handelte ehrenhafter als Q. Pompeius, auf dessen Bitten das Gesetz, obwohl er sich in derselben Lage befand, nicht angenommen wurde. Hier vermochte der vermeintliche Nutzen mehr als das Sittlichgute, bei den Früheren wurde der trügerische Schein des Nutzens von der Macht des Sittlichguten übertroffen.
+		</german>
+		<latin>
+			At vero T. Veturius et Sp. Postumius, cum iterum consules essent, quia, cum male pugnatum apud Caudium esset, legionibus nostris sub iugum missis, pacem cum Samnitibus fecerant, dediti sunt iis, iniussu enim populi senatusque fecerant. Eodemque tempore Ti. Numicius, Q. Maelius, qui tum tribuni pl. erant, quod eorum auctoritate pax erat facta, dediti sunt, ut pax Samnitium repudiaretur. Atque huius deditionis ipse Postumius, qui dedebatur, suasor et auctor fuit. Quod idem multis annis post C. Mancinus, qui, ut Numantinis, quibuscum sine senatus auctoritate foedus fecerat, dederetur, rogationem suasit eam, quam L. Furius, Sex. Atilius ex senatus consulto ferebant; qua accepta est hostibus deditus. Honestius hic quam Q. Pompeius, quo, cum in eadem causa esset, deprecante accepta lex non est. Hic ea, quae videbatur utilitas, plus valuit quam honestas, apud superiores utilitatis species falsa ab honestatis auctoritate superata est.
+		</latin>
+	</section>
+	<section from="110" to="110">
+		<german>
+			Aber es durfte nicht verbindlich sein, was gewaltsam getan worden war,
+			gleich als ob einem tapferen Mann Gewalt angetan werden könnte. Warum also brach er zum Senat auf, zumal er von den Kriegsgefangenen abraten wollte? Was am bedeutendsten an ihm ist, das tadelt ihr. Denn er blieb nicht bei seinem Urteil stehen, sondern übernahm die Vertretung der Sache, damit der Senat entscheide; wenn nicht er selbst Ratgeber für den Senat gewesen wäre, wären die Kriegsgefangenen in der Tat den Puniern zurückgegeben worden. So wäre Regulus wohlbehalten in seinem Vaterland zurückgeblieben. Weil dieses seiner Meinung nach für das Vaterland nicht nützlich war, deswegen glaubte er, es sei für ihn ehrenvoll, seine Meinung auszusprechen und zu leiden. Denn was das anbetrifft, dass sie behaupten, was sehr nützlich sei, werde sittlich gut [richtiger müsste gesagt werden, sehr nützlich werde, was sittlich gut sei], so hätte im Gegenteil gesagt werden müssen, es sei und nicht es werde sittlich gut. Denn nichts ist nützlich, was nicht zugleich sittlich gut ist, und es ist nicht, weil nützlich, sittlich gut, sondern weil sittlich gut, auch nützlich. Deswegen dürfte schwerlich jemand von den vielen bewundernswerten Beispielen eines nennen, das lobenswerter oder vortrefflicher ist als dieses.
+		</german>
+		<latin>
+			At non debuit ratum esse, quod erat actum per vim.
+			Quasi vero forti viro vis possit adhiberi. Cur igitur ad senatum proficiscebatur, cum praesertim de captivis dissuasurus esset? Quod maximum in eo est, id reprehenditis. Non enim suo iudicio stetit, sed suscepit causam, ut esset iudicium senatus; cui nisi ipse auctor fuisset, captivi profecto Poenis redditi essent. Ita incolumis in patria Regulus restitisset. Quod quia patriae non utile putavit, idcirco sibi honestum et sentire illa et pati credidit. Nam quod aiunt, quod valde utile sit, id fieri honestum, immo vero esse, non fieri. Est enim nihil utile, quod idem non honestum, nec quia utile, honestum, sed, quia honestum, utile. Quare ex multis mirabilibus exemplis haud facile quis dixerit hoc exemplo aut laudabilius aut praestantius.
+		</latin>
+	</section>
+	<section from="111" to="111">
+		<german>
+			Aber von diesem ganzen ehrenvollen Verhalten des Regulus verdient nur jenes Bewunderung, dass er dazu riet, die Kriegsgefangenen zurückzubehalten. Denn dass er zurückgekehrt ist, erscheint uns heutzutage erstaunlich, in jenen Zeiten aber konnte er nicht anders handeln. Daher ist dieses die Ruhmestat nicht eines Menschen, sondern des Zeitgeistes. Denn unsere Vorfahren wollten, dass kein Band fester sei als der Eid, um zum Worthalten zu zwingen. Dieses zeigen die Gesetze auf den zwölf Tafeln, dieses zeigen die Schwurgesetze, dieses zeigen die Verträge, durch welche die Treue sogar gegenüber dem Feind verbindlich gemacht wird, dieses zeigen die Rügen und Strafen der Zensoren, die über nichts genauer urteilten als über einen Eid.
+		</german>
+		<latin>
+			Sed ex tota hac laude Reguli unum illud est admiratione dignum, quod captivos retinendos censuit. Nam quod rediit, nobis nunc mirabile videtur, illis quidem temporibus aliter facere non potuit. Itaque ista laus non est hominis, sed temporum. Nullum enim vinculum ad astringendam fidem iure iurando maiores artius esse voluerunt. Id indicant leges in duodecim tabulis, indicant sacratae, indicant foedera, quibus etiam cum hoste devincitur fides, indicant notiones animadversionesque censorum, qui nulla de re diligentius quam de iure iurando iudicabant.
+		</latin>
+	</section>
+	<section from="112" to="112">
+		<german>
+			Als L. Manlius, der Sohn des Aulus, Diktator gewesen war, lud ihn der Volkstribun M. Pomponius auf einen bestimmten Tag vor Gericht, weil sich dieser wenige Tage zur Ausübung der Diktatur hinzugefügt habe. Er beschuldigte ihn auch, dass er seinen Sohn Titus, der später Torquatus genannt wurde, von den Menschen fortgeschickt und ihm befohlen habe, auf dem Land zu leben. Als der junge Sohn dieses gehört hatte, dass man seinem Vater zu schaffen mache, soll er nach Rom geeilt und bei Tagesanbruch zum Haus des Pomponius gekommen sein. Nachdem ihm dieses gemeldet worden war, erhob er sich, da er glaubte, jener werde im Zorn etwas gegen den Vater vorbringen, von seinem Ruhelager und ließ den jungen Mann ohne Zeugen zu sich kommen. Aber nachdem jener eingetreten war, zog er sofort das Schwert und schwor, jenen auf der Stelle zu töten, wenn er ihm nicht das eidliche Versprechen geben werde, dass er jenen gehen lasse. Aus Angst hierüber leistete Pomponius den Eid; er brachte die Sache vor die Volksversammlung, unterwies diese, warum er den Prozess fallen lasse müsse, und ließ Manlius gehen. (Und dieser T. Manlius ist derjenige, der am Anio einem Gallier, den er nach einer Provokation durch ihn getötet hatte, seine Halskette wegriss und so seinen Beinamen fand, in dessen drittem Konsulat die Latiner an der Veseris geschlagen und verjagt worden waren, ein ganz bedeutender Mann, der sehr nachsichtig gegenüber seinem Vater, zugleich aber unerbittlich streng gegenüber seinem Sohn gewesen war.)
+		</german>
+		<latin>
+			L. Manlio A. f., cum dictator fuisset, M. Pomponius tr. pl. diem dixit, quod is paucos sibi dies ad dictaturam gerendam addidisset; criminabatur etiam, quod Titum filium, qui postea est Torquatus appellatus, ab hominibus relegasset et ruri habitare iussisset. Quod cum audivisset adulescens filius negotium exhiberi patri, accurisse Romam et cum primo luci Pomponii domum venisse dicitur. Cui cum esset nuntiatum, qui illum iratum allaturum ad se aliquid contra patrem arbitraretur, surrexit e lectulo remotisque arbitris ad se adulescentem iussit venire. At ille, ut ingressus est, confestim gladium destrinxit iuravitque se illum statim interfecturum, nisi ius iurandum sibi dedisset se patrem missum esse facturum. Iuravit hoc terrore coactus Pomponius; rem ad populum detulit, docuit, cur sibi causa desistere necesse esset, Manlium missum fecit. Tantum temporibus illis ius iurandum valebat. Atque hic T. Manlius is est, qui ad Anienem Galli, quem ab eo provocatus occiderat, torque detracto cognomen invenit, cuius tertio consulatu Latini ad Veserim fusi et fugati, magnus vir in primis et qui perindulgens in patrem, idem acerbe severus in filium.
+		</latin>
+	</section>
+	<section from="113" to="113">
+		<german>
+			Aber wie Regulus wegen seiner Eidestreue gelobt werden muss, so sind jene zehn, wenn sie wirklich nicht zurückkehrten, zu tadeln, die Hannibal nach der Schlacht bei Cannae zum Senat schickte, nachdem sie geschworen hatten, sie würden in das Lager zurückkehren, dessen sich die Punier bemächtigt hatten, falls sie keinen Erfolg mit dem Loskauf der Gefangenen hätten. Hierüber berichten nicht alle auf dieselbe Art und Weise. Denn Polybius, ein überaus vertrauenswürdiger Gewährsmann, behauptet, von den zehn Männern vornehmster Herkunft, die damals geschickt worden waren, seien neun zurückgekehrt, nachdem sie beim Senat kein Gehör gefunden hatten; einer von den zehn, der ein wenig später, nachdem er das Lager verlassen hatte, zurückgekehrt sei, als ob er etwas vergessen habe, sei in Rom zurückgeblieben. Er sagte nämlich zur Erklärung, durch die Rückkehr in das Lager sei er von dem Eid befreit worden, und dieses sagt er zu Unrecht. Denn Betrug macht des Eidbruchs schuldig, hebt aber nicht den Meineid auf. Also war es törichte Verschlagenheit, die auf verkehrte Weise Klugheit nachzuahmen suchte. Daher beschloss der Senat, jener verschlagene Gauner solle gefesselt zu Hannibal geführt werden.
+		</german>
+		<latin>
+			Sed, ut laudandus Regulus in conservando iure iurando, sic decem illi, quos post Cannensem pugnam iuratos ad senatum misit Hannibal, se in castra redituros ea, quorum erant potiti Poeni, nisi de redimendis captivis impetravissent, si non redierunt, vituperandi. De quibus non omnes uno modo; nam Polybius, bonus auctor inprimis, ex decem nobilissimis, qui tum erant missi, novem revertisse dicit re a senatu non impertrata; unum ex decem, qui paulo post, quam erat egressus e castris, redisset, quasi aliquid esset oblitus, Romae remansisse. Reditu enim in castra liberatum se esse iure iurando interpretabatur, non recte. Fraus enim distringit, non dissolvit periurium. Fuit igitur stulta calliditas, perverse imitata prudentiam. Itaque decrevit senatus, ut ille veterator et callidus, vinctus ad Hannibalem duceretur.
+		</latin>
+	</section>
+	<section from="114" to="114">
+		<german>
+			Aber jenes ist am eindrucksvollsten. Achttausend Mann hielt Hannibal fest, nicht solche, die in
+			der Schlacht gefangen genommen waren oder sich in der Todesgefahr zerstreut hatten, sondern im
+			Lager von den Konsuln Paulus und Varro zurückgelassen waren. Der Senat beschloss, dass diese
+			nicht zurückgekauft werden dürften, obwohl dieses mit wenig Geld hätte geschehen können, damit
+			unseren Soldaten entweder der Sieg oder der Tod eingeimpft sei. Als Hannibal dieses gehört habe,
+			sei seine Zuversicht gebrochen, wie derselbe schreibt, weil der Senat und das römische Volk trotz
+			ihrer verzweifelten Lage einen derartigen Großmut bewiesen hätten. So wird das, was nützlich
+			erscheint, im Vergleich mit dem Sittlichguten übertroffen.
+		</german>
+		<latin>
+			Sed illud maximum: octo hominum milia tenebat Hannibal, non quos in acie cepisset, aut qui periculo mortis diffugissent, sed qui relicti in castris fuissent a Paulo et a Varrone consulibus. Eos senatus non censuit redimendos, cum id parva pecunia fieri posset, ut esset insitum militibus nostris aut vincere aut emori. Qua quidem re audita fractum animum Hannibalis scribit idem, quod senatus populusque Romanus rebus afflictis tam excelso animo fuisset. Sic honestatis comparatione ea, quae videntur utilia, vincuntur.
+		</latin>
+	</section>
+	<section from="115" to="115">
+		<german>
+			Acilius aber, der in griechischer Sprache ein Geschichtswerk verfasst hat, sagt, mehrere seien es gewesen, die in derselben trügerischen Absicht, von dem Eid befreit zu werden, in das Lager zurückgekehrt seien, und die Zensoren hätten sie mit jeder Art von Schande gebrandmarkt. Jetzt soll dieses Thema beendet sein. Es ist nämlich deutlich, dass das, was mit einer scheuen, feigen, kleinmütigen und kraftlosen Gesinnung verrichtet wird - von dieser Art wäre die Tat des Regulus gewesen, wenn er bezüglich der Kriegsgefangenen das beantragt hätte, was ihm selbst und nicht dem Staat zweckmäßig erschien, oder wenn er hätte zu Hause bleiben wollen -, nicht nützlich ist, weil schmachvoll, abscheulich und schändlich.
+		</german>
+		<latin>
+			C. Acilius autem, qui Graece scripsit historiam, plures ait fuisse, qui in castra revertissent eadem fraude, ut iure iurando liberarentur eosque a censoribus omnibus ignominiis notatos. Sit iam huius loci finis. Perspicuum est enim ea, quae timido animo, humili, demisso fractoque fiant, quale fuisset Reguli factum, si aut de captivis quod ipsi opus esse videretur, non quod rei publicae, censuisset aut domi remanere voluisset, non esse utilia, quia sint flagitiosa, foeda, turpia.
+		</latin>
+	</section>
+	<section from="116" to="116">
+		<german>
+			Es bleibt der vierte Bereich übrig, der auf Anstand, Maßhalten, Bescheidenheit, Selbstbeherrschung und Mäßigung beruht. Kann also etwas nützlich sein, das dieser Reihe so herrlicher Tugenden entgegengesetzt ist? Gleichwohl verlegten die Cyrenaiker, die Anhänger Aristipps, und die Annikerier, so genannte Philosophen, jedes Gut in die Freude und meinten, die Tugend müsse deswegen gelobt werden, weil sie die Urheberin der Freude sei; als diese aus der Mode gekommen waren, stand Epikur in Ansehen, ein Förderer und Vertreter fast derselben Lehrmeinung. Mit aller Macht, wie man sagt, muss gestritten werden, wenn es unser Wille ist, das Sittlichgute zu schützen und zu bewahren.
+		</german>
+		<latin>
+			Restat quarta pars, quae decore, moderatione, modestia, continentia, temperantia continetur. Potest igitur quicquam utile esse, quod sit huic talium virtutum choro contrarium? Atqui ab Aristippo Cyrenaici atque Annicerii philosophi nominati omne bonum in voluptate posuerunt virtutemque censuerunt ob eam rem esse laudandam, quod efficiens esset voluptatis. Quibus obsoletis floret Epicurus, eiusdem fere adiutor auctorque sententiae. Cum his "viris" equisque, ut dicitur, si honestatem tueri ac retinere sententia est, decertandum est.
+		</latin>
+	</section>
+	<section from="117" to="117">
+		<german>
+			Denn wenn nicht nur der Nutzen, sondern das gesamte glückselige Leben auf einer starken Verfassung des Körpers beruht und darauf, dass die Hoffnung auf ein Fortbestehen dieses Zustandes ausgemacht ist, wie Metrodorus geschrieben hat, wird dieser Nutzen, und zwar der höchste - so nämlich meinen sie - sicher mit dem Sittlichguten im Streit liegen. Denn wo wird erstens der Klugheit eine Stelle eingeräumt? Etwa zu dem Zweck, dass sie die Genüsse überall zusammensucht? Wie erbärmlich ist die Dienstbarkeit der Tugend, wenn sie der Freude dient. Was aber ist die Aufgabe der Klugheit? Etwa die Freuden intelligent auszuwählen? Setze den Fall, dass nichts angenehmer ist als dieses, was kann da Schändlicheres gedacht werden? Ferner, welchen Stellenwert hat bei demjenigen, der den Schmerz für das größte Übel hält, die Tapferkeit inne, welche in der Verachtung von Schmerzen und Strapazen besteht? Denn auch wenn Epikur an vielen Stellen, wie er es auch wirklich tut, recht energisch über den Schmerz spricht, so ist dennoch nicht darauf zu achten, was er sagt, sondern was für ihn zu sagen konsequent wäre, da er ja die Güter nach der Freude, die Übel nach dem Schmerz bemessen hat. Und wenn ich auf ihn hören wollte hinsichtlich der Selbstbeherrschung und Mäßigung: Jener sagt zwar vieles an vielen Stellen, aber das Wasser fließt nicht, wie man sagt. Denn wie kann derjenige die Mäßigung loben, der das höchste Gut auf die Freude verlegt? Die Mäßigung ist nämlich die Feindin der Begierden, die Begierden aber sind Anhängerinnen der Freude.
+		</german>
+		<latin>
+			Nam si non modo utilitas, sed vita omnis beata corporis firma constitutione eiusque constitutionis spe explorata, ut a Metrodoro scriptum est, continetur, certe haec utilitas et quidem summa (sic enim censent), cum honestate pugnabit. Nam ubi primum prudentiae locus dabitur? an ut conquirat undique suavitates? Quam miser virtutis famulatus servientis voluptati. Quod autem munus prudentiae? an legere intellegenter voluptates? fac nihil isto esse iucundius, quid cogitari potest turpius? Iam, qui dolorem summum malum dicat, apud eum quem habet locum fortitudo, quae est dolorum laborumque contemptio? Quamvis enim multis locis dicat Epicurus, sicuti dicit, satis fortiter de dolore, tamen non id spectandum est, quid dicat, sed quid consentaneum sit ei dicere, qui bona voluptate terminaverit, mala dolore. Et si illum audiam de continentia et temperantia, dicit ille quidem multa multis locis, sed aqua haeret, ut aiunt. Nam qui potest temperantiam laudare is, qui ponat summum bonum in voluptate? Est enim temperantia libidinum inimica, libidines autem consectatrices voluptatis.
+		</latin>
+	</section>
+	<section from="118" to="118">
+		<german>
+			Und dennoch suchen sie bei den drei besprochenen Kardinaltugenden so gut sie können nicht
+			ungeschickt Ausflüchte. Die Klugheit führen sie als Wissen ein, das reichlich Freuden gewährt,
+			Schmerzen aber vertreibt. Auch die Tapferkeit erklären sie irgendwie, wenn sie lehren, sie sei
+			ein vernünftiges Mittel, den Tod zu vernachlässigen und den Schmerz zu erdulden. Sogar die
+			Mäßigung führen jene auf, zwar mit größter Mühe, aber dennoch so gut sie können. Sie sagen
+			nämlich, dass sich die Größe der Freude nach der Befreiung vom Schmerz bemisst. Die Gerechtigkeit
+			steht auf schwachen Füßen oder liegt vielmehr danieder und all die Tugenden, die sich im 
+			Gemeinschaftsleben und in der Verbindung des Menschengeschlechts zeigen. Denn Rechtschaffenheit,
+			Freigebigkeit und Freundlichkeit können nicht existieren ebensowenig wie die Freundschaft, wenn
+			diese nicht um ihrer selbst willen begehrt, sondern auf die Freude oder den Nutzen bezogen
+			werden. Wir wollen also kurz zusammenfassen.
+		</german>
+		<latin>
+			Atque in his tamen tribus generibus quoquo modo possunt, non incallide tergiversantur. Prudentiam introducunt scientiam suppeditantem voluptates, depellentem dolores. Fortitudinem quoque aliquo modo expediunt, cum tradunt rationem neglegendae mortis, perpetiendi doloris. Etiam temperantiam inducunt non facillime illi quidem, sed tamen quoquo modo possunt. Dicunt enim voluptatis magnitudinem doloris detractione finiri. Iustitia vacillat vel iacet potius omnesque eae virtutes, quae in communitate cernuntur et in societate generis humani. Neque enim bonitas nec liberalitas nec comitas esse potest, non plus quam amicitia, si haec non per se expetantur, sed ad voluptatem utilitatemve referantur.
+			Conferamus igitur in pauca.
+		</latin>
+	</section>
+	<section from="119" to="119">
+		<german>
+			Denn wie wir gezeigt haben, dass es keinen Nutzen gibt, der dem Sittlichguten entgegengesetzt ist, so sagen wir, dass jeder sinnliche Genuss dem Sittlichguten entgegengesetzt ist. Umso mehr, meine ich, müssen Calliphon und Dinomachus getadelt werden, die glaubten, sie würden den Streit schlichten, wenn sie mit dem Sittlichguten die Freude sowie mit dem Menschen das Vieh verbunden hätten. Das Sittlichgute nimmt diese Verbindung nicht an, sondern verachtet sie und weist sie zurück. Nicht aber können das höchste Gut und das höchste Übel, welche einfach sein müssen, eine Mischung und Zusammensetzung aus sehr verschiedenen Qualitäten abgeben. Aber über dieses Thema habe ich - denn es ist ein wichtiges Thema - an anderer Stelle gesprochen; nun wollen wir zu unserem Hauptgegenstand zurückkehren.
+		</german>
+		<latin>
+			Nam ut utilitatem nullam esse docuimus, quae honestati esset contraria, sic omnem voluptatem
+			dicimus honestati esse contrariam. Quo magis reprehendendos Calliphontem et Dinomachum iudico, qui se dirempturos controversiam putaverunt, si cum honestate voluptatem tamquam cum homine pecudem copulavissent. Non recipit istam coniunctionem honestas, aspernatur, repellit. Nec vero finis bonorum et malorum, qui simplex esse debet, ex dissimillimis rebus misceri et temperari potest. Sed de hoc (magna enim res est) alio loco pluribus; nunc ad propositum.
+		</latin>
+	</section>
+	<section from="120" to="120">
+		<german>
+			Auf welche Weise also, wenn einmal der scheinbare Nutzen dem Sittlichguten widerstreitet, die Sache entschieden werden muss, ist oben hinreichend erörtert worden. Wenn aber auch die Freude einen Schein von Nutzen haben soll, kann es keine Verbindung zwischen ihr und dem Sittlichguten geben. Denn selbst wenn wir der Freude einen Wert beimessen, wird sie vielleicht etwas Würze haben, Nutzen sicherlich keinen.
+		</german>
+		<latin>
+			Quemadmodum igitur, si quando ea, quae videtur utilitas, honestati repugnat, diiudicanda res sit, satis est supra disputatum. Sin autem speciem utilitatis etiam voluptas habere dicetur, nulla potest esse ei cum honestate coniunctio. Nam, ut tribuamus aliquid voluptati, condimenti fortasse non nihil, utilitatis certe nihil habebit.
+		</latin>
+	</section>
+	<section from="121" to="121">
+		<german>
+			Du hast von mir ein Geschenk, mein Sohn Marcus, meiner Meinung nach ein großes, aber sein Wert wird von der Art abhängen, wie du es aufnimmst. Allerdings wirst du diese drei Bücher gleichsam als Gäste unter die Vorlesungen des Cratippus aufnehmen müssen, aber wie du auch mich gelegentlich hören würdest, wenn ich selbst nach Athen gekommen wäre, was bestimmt geschehen wäre, wenn mich nicht das Vaterland mitten auf der Fahrt mit deutlicher Stimme zurückgerufen hätte, so wirst du, da mein Wort durch diese Schriften zu dir gelangt, für diese so viel Zeit aufwenden, wie du kannst, du wirst aber nur so viel aufbringen können, wie du willst. Sobald ich aber erkenne, dass du dich über diese Art des Wissens freust, werde ich persönlich mit dir in nächster Zeit, wie ich hoffe, und für die Zeit deiner Abwesenheit als Abwesender sprechen. Lebe also wohl, mein Cicero, und überzeuge dich davon, dass du für mich sicherlich der liebste Mensch bist, dass du mir aber viel lieber sein wirst, wenn du dich über derartige Werke und Weisungen freust.
+		</german>
+		<latin>
+			Habes a patre munus, Marce fili, mea quidem sententia magnum, sed perinde erit, ut acceperis. Quamquam hi tibi tres libri inter Cratippi commentarios tamquam hospites erunt recipiendi, sed, ut, si ipse venissem Athenas, quod quidem esset factum, nisi me e medio cursu clara voce patria revocasset, aliquando me quoque audires, sic, quoniam his voluminibus ad te profecta vox est mea, tribues iis temporis, quantum poteris, poteris autem quantum voles. Cum vero intellexero te hoc scientiae genere gaudere, tum et praesens tecum propediem, ut spero, et dum aberis, absens loquar. Vale igitur, mi Cicero, tibique persuade esse te quidem mihi carissimum, sed multo fore cariorem, si talibus monumentis praeceptisque laetabere.
+		</latin>
+	</section>
+</text>
+</translation>

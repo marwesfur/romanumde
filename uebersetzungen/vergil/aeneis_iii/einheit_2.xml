@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Vergil</author>
+	<title>Aeneis III</title>
+	<snippet>Verse 294-505</snippet>
+	<translator>Rainer Lohmann</translator>
+	<textkind>poetry</textkind>
+	<firstnumber>294</firstnumber>
+	<navigation>
+		<previous url="intro.html">Aeneis III Einführung</previous>
+		<previous url="einheit_1.xml">Verse 1 bis 293</previous>
+		<next url="einheit_3.xml">Verse 506 bis 718</next>
+	</navigation>
+</description>
+<text>
+
+	<section from="294" to="355">
+		<german>
+			Hier erfüllte eine unglaubliche Kunde unsere Ohren, Helenus, Sohn des Priamos, herrsche über die griechischen Städte, nachdem er sich der Ehefrau des Aeaciden Pyrrhos und seiner Herrschaft bemächtigt habe, und Andromache sei abermals einem Gatten aus der Heimat zu eigen geworden. Ich erstarrte und mein Herz wurde entflammt von dem wundersamen Verlangen, den Mann anzusprechen und von den so vielen Schicksalsschlägen zu erfahren. Ich machte mich auf den Weg aus dem Hafen, die Flotte und das Gestade zurücklassend, als Andromache gerade die alljährlich wiederkehrenden Opfermähler und die Gaben der Trauer vor der Stadt in einem Hain am Wasser des fälschlich so genannten Simois den Toten spendete und den Totengeist Hektors zu seinem Grabhügel rief, den, leer und mit grünem Rasen bedeckt, sie gemeinsam mit zwei gleichen Altären geweiht hatte, um dort ihre Tränen zu vergießen. Als sie mich kommen sah und außer sich die trojanischen Krieger ringsum erblickte, wurde sie durch das große Wunder aufgeschreckt und erstarrte mitten beim Anblick, die Wärme wich aus ihren Gebeinen; und mit Mühe sprach sie schließlich lange Zeit später: "Nahst du dich mir in wirklicher Gestalt, als wirklicher Bote, du Sohn einer Göttin? Lebst du? Oder, wenn das gütige Lebenslicht dich verlassen hat, wo ist Hektor?" So sprach sie, sie vergoss Tränen und erfüllte den Ort ganz mit Lärm. Weniges nur entgegnete ich der Besessenen und verwirrt stammelte ich ein paar Worte: "Ich für meine Person lebe und ich führe ein Leben durch größte Not; zweifle nicht, denn du siehst die Wirklichkeit. Wehe! Welches Unglück nimmt dich, eines so noblen Gatten beraubt, in Beschlag, oder hat dich ein Schicksal heimgesucht, wie du es sehr wohl verdienst, Andromache, Hektors Frau? Bewahrst du den Ehebund mit Pyrrhos?" Sie senkte ihren Blick und sprach leise: "Ach, glücklich ist als einzige vor den anderen des Priamos Tochter, da ihr befohlen war, am Grabhügel des Feindes am Fuße der hohen Stadtmauern Trojas zu sterben; um sie wurde nicht gelost und gefangen berührte sie nicht das Bett ihres siegreichen Herrn! Nachdem das Vaterland angezündet und wir über verschiedene Meere gefahren waren, ertrugen wir den Hochmut der Familie Achills und den stolzen jungen Mann und brachten in der Knechtschaft ein Kind zur Welt. Dann warb dieser um Hermione, die Enkelin der Leda, und folgte spartanischen Hochzeitsliedern, mich aber überließ er Helenus zum Besitz, eine Sklavin einem Sklaven. Aber jenem lauerte in seiner Ahnungslosigkeit Orest auf, von großer Liebe zu seiner entrissenen Ehefrau entflammt und von dem Wahnsinn seiner Verbrechen gejagt, und an den Altären seines Vaters metzelte er ihn nieder. Durch den Tod des Neoptolemus wurde ein Teil des Königreiches Helenus hinterlassen und er ging auf Helenus über, der den Feldern den Beinamen die chaonischen gab, das ganze Gebiet nach dem Trojaner Chaon benannte und Pergama, diese trojanische Burg, auf ihre Bergrücken setzte. Aber welche Winde, welches Schicksal hat dir den Kurs gewiesen? Oder welcher Gott hat dich Unwissenden zu unseren Küsten getrieben? Wie steht es um den jungen Ascanius? Ist er noch am Leben und atmet er? <newparagraph number="340"/> Hat er, obwohl er so jung war, als er seine Mutter verlor, eine Sehnsucht nach ihr? Rufen wohl sein Vater Aeneas und sein Onkel Hektor in ihm die alte Tapferkeit und den männlichen Mut hervor?" So schüttete sie weinend ihr Herz aus und vergeblich gab sie lange Klagen von sich, als sich von der Stadtmauer her der Held, der Priamussohn Helenus, unter dem Geleit vieler nahte, die Seinen erkannte, sie freudig zu seinem Haus führte und zwischen den einzelnen Worten viel Tränen vergoss. Ich ging weiter und erkannte ein kleines Troja, die Burg Pergama, die der großen nachgebildet war, und einen trockenen Fluss namens Xanthus, und ich küsste die Schwellen des skäischen Tores. Ebenso erfreuten sich zugleich die Teukrer an der Schwesterstadt. Jene empfing der König in weiten Säulengängen: Inmitten des Hofes gossen sie, nachdem sie Speisen in goldene Schüsseln gelegt hatten, Becher mit Wein als Trankopfer aus, Opferschalen haltend.
+		</german>
+		<latin>
+			Hic incredibilis rerum fama occupat auris,<br/>
+			Priamiden Helenum Graias regnare per urbis<br/>
+			coniugio Aeacidae Pyrrhi sceptrisque potitum,<br/>
+			et patrio Andromachen iterum cessisse marito.<br/>
+			obstipui, miroque incensum pectus amore<br/>
+			compellare uirum et casus cognoscere tantos.<br/>
+			progredior portu classis et litora linquens,<br/>
+			sollemnis cum forte dapes et tristia dona<br/>
+			ante urbem in luco falsi Simoentis ad undam<br/>
+			libabat cineri Andromache manisque uocabat<br/>
+			Hectoreum ad tumulum, uiridi quem caespite inanem<br/>
+			et geminas, causam lacrimis, sacrauerat aras.<br/>
+			ut me conspexit uenientem et Troia circum<br/>
+			arma amens uidit, magnis exterrita monstris<br/>
+			deriguit uisu in medio, calor ossa reliquit,<br/>
+			labitur, et longo uix tandem tempore fatur:<br/>
+			'uerane te facies, uerus mihi nuntius adfers,<br/>
+			nate dea? uiuisne? aut, si lux alma recessit,<br/>
+			Hector ubi est?' dixit, lacrimasque effudit et omnem<br/>
+			impleuit clamore locum. uix pauca furenti<br/>
+			subicio et raris turbatus uocibus hisco:<br/>
+			'uiuo equidem uitamque extrema per omnia duco;<br/>
+			ne dubita, nam uera uides.<br/>
+			heu! quis te casus deiectam coniuge tanto<br/>
+			excipit, aut quae digna satis fortuna reuisit,<br/>
+			Hectoris Andromache? Pyrrhin conubia seruas?'<br/>
+			deiecit uultum et demissa uoce locuta est:<br/>
+			'o felix una ante alias Priameia uirgo,<br/>
+			hostilem ad tumulum Troiae sub moenibus altis<br/>
+			iussa mori, quae sortitus non pertulit ullos<br/>
+			nec uictoris heri tetigit captiua cubile!<br/>
+			nos patria incensa diuersa per aequora uectae<br/>
+			stirpis Achilleae fastus iuuenemque superbum<br/>
+			seruitio enixae tulimus; qui deinde secutus<br/>
+			Ledaeam Hermionen Lacedaemoniosque hymenaeos<br/>
+			me famulo famulamque Heleno transmisit habendam.<br/>
+			ast illum ereptae magno flammatus amore<br/>
+			coniugis et scelerum furiis agitatus Orestes<br/>
+			excipit incautum patriasque obtruncat ad aras.<br/>
+			morte Neoptolemi regnorum reddita cessit<br/>
+			pars Heleno, qui Chaonios cognomine campos<br/>
+			Chaoniamque omnem Troiano a Chaone dixit,<br/>
+			Pergamaque Iliacamque iugis hanc addidit arcem.<br/>
+			sed tibi qui cursum uenti, quae fata dedere?<br/>
+			aut quisnam ignarum nostris deus appulit oris?<br/>
+			quid puer Ascanius? superatne et uescitur aura?<br/>
+			quem tibi iam Troia<br/>
+			ecqua tamen puero est amissae cura parentis?<br/>
+			ecquid in antiquam uirtutem animosque uirilis<br/>
+			et pater Aeneas et auunculus excitat Hector?'<br/>
+			talia fundebat lacrimans longosque ciebat<br/>
+			incassum fletus, cum sese a moenibus heros<br/>
+			Priamides multis Helenus comitantibus adfert,<br/>
+			agnoscitque suos laetusque ad limina ducit,<br/>
+			et multum lacrimas uerba inter singula fundit.<br/>
+			procedo et paruam Troiam simulataque magnis<br/>
+			Pergama et arentem Xanthi cognomine riuum<br/>
+			agnosco, Scaeaeque amplector limina portae;<br/>
+			nec non et Teucri socia simul urbe fruuntur.<br/>
+			illos porticibus rex accipiebat in amplis:<br/>
+			aulai medio libabant pocula Bacchi<br/>
+			impositis auro dapibus, paterasque tenebant.355
+		</latin>
+	</section>
+	<section from="356" to="373">
+		<german>
+			Bald ging ein Tag nach dem anderen vorüber, die Winde riefen zur Fahrt, und durch den stürmischen Südwind blähte sich das Segel auf; mit diesen Worten sprach ich den Seher an und fragte Folgendes: "Gebürtiger Troer, Bote der Götter, der du die Macht des Phoebus kennst, den delphischen Dreifuß, den Lorbeer des Gottes von Claros, die Sterne, den Vogelgesang und die Vorzeichen des glückbringenden Flügels, wohlan, erzähle mir (denn alle göttlichen Zeichen haben zu mir günstig über meine Fahrt gesprochen, und alle Götter haben mich durch ihr Geheiß dazu bestimmt, Italien aufzusuchen und nach entlegenen Ländern Ausschau zu halten; allein die Harpyie Celaeno verkündet ein merkwürdiges Vorzeichen, über das zu sprechen schrecklich ist, und droht unheilvollen Zorn und verderblichen Hunger an), welche Gefahren soll ich als erste meiden? Oder was soll ich befolgen, um so gewaltige Strapazen überwinden zu können?" Hierauf schlachtete Helenus zuerst nach der Opfernden Sitte junge Stiere und erflehte Frieden mit den Göttern; er löste die Binden an seinem geheiligten Haupt und er selbst führte mich voll Angst bei der gewaltigen Gegenwart der Götter mit eigener Hand zu deinem Tempel, Phoebus, und dieses verkündete dann der Priester aus göttlichem Mund:
+		</german>
+		<latin>
+			Iamque dies alterque dies processit, et aurae<br/>
+			uela uocant tumidoque inflatur carbasus Austro:<br/>
+			his uatem adgredior dictis ac talia quaeso:<br/>
+			'Troiugena, interpres diuum, qui numina Phoebi,<br/>
+			qui tripodas Clarii et laurus, qui sidera sentis<br/>
+			et uolucrum linguas et praepetis omina pennae,<br/>
+			fare age (namque omnis cursum mihi prospera dixit<br/>
+			religio, et cuncti suaserunt numine diui<br/>
+			Italiam petere et terras temptare repostas;<br/>
+			sola nouum dictuque nefas Harpyia Celaeno<br/>
+			prodigium canit et tristis denuntiat iras<br/>
+			obscenamque famem), quae prima pericula uito?<br/>
+			quidue sequens tantos possim superare labores?'<br/>
+			hic Helenus caesis primum de more iuuencis<br/>
+			exorat pacem diuum uittasque resoluit<br/>
+			sacrati capitis, meque ad tua limina, Phoebe,<br/>
+			ipse manu multo suspensum numine ducit,<br/>
+			atque haec deinde canit diuino ex ore sacerdos:
+		</latin>
+	</section>
+	<section from="374" to="462">
+		<german>
+			"Du Sohn der Göttin (denn dass du unter höherem Geleit über das Meer fährst, ist infolge deutlicher Zeichen sicher; so verteilt der König der Götter das Schicksal und bestimmt dessen Wechsel, so ist des Schicksals Lauf), dir will ich von den vielen Worten wenige enträtseln, damit du umso sicherer die fremden Meere durchfährst und dich im ausonischen Hafen niederlassen kannst; denn die Parzen hindern Helenus daran, das Übrige zu wissen, oder Juno, Saturns Tochter, verbietet die Weissagung. Erstens trennt Italien, das schon, wie du glaubst, in der Nähe sei, und dessen benachbarte Häfen, in die einzufahren du, Unkundiger, dich anschickst, in der Ferne ein weiter Weg, unwegsam, durch lang sich erstreckende Länder von dir. Im sizilischen Meer musst du das Ruder beugen und die Flut des Tyrrhenischen Meeres mit Schiffen durchfahren sowie unterirdische Seen und die Insel der Kirke von Aeaea aufsuchen, bevor du auf sicherem Boden eine Stadt erbauen kannst. Zeichen will ich dir nennen, bewahre sie in deinem Gedächtnis und halte sie dort fest: Wenn eine gewaltige Sau, von dir beunruhigt am Wasser eines abgeschiedenen Flusses unter Steineichen am Ufer gefunden, nach ihrer Geburt von dreißig Jungen daliegt – weiß, auf dem Boden ruhend, die weißen Jungen um ihre Euter herum, wird dies der Ort für die Stadt sein, dies die sichere Erholung von den Strapazen. Und du, fürchte dich nicht vor dem künftigen Biss in die Tische: Das Schicksal wird einen Weg finden und zur Seite stehen der angerufene Apoll. Diese Länder aber und diesen Saum der italischen Küste, der als nächster von der Flut unseres Meeres bespült wird, meide; alle Städte werden von den schlimmen Griechen bewohnt. Auch hier errichteten die Lokrer aus Naryx Stadtmauern und die sallentinischen Gefilde besetzte Idomeneus aus Lyktos mit Soldaten; hier liegt jene kleine Stadt Petelia des Führers Philoktetes aus Meliboia, die sich an eine Mauer lehnt. Ja, wenn die über das Meer geschickten Flotten vor Anker gegangen sind und du, nachdem du Altäre errichtet, sodann deine Gelübde am Gestade erfüllst, verhülle und bedecke deine Haare mit einem purpurnen Umhang, damit sich keine feindliche Gestalt während der Opferhandlung für die Götter bei den heiligen Feuern zeigt und die Auspizien stört. An dieser Opfersitte sollen deine Gefährten, an dieser sollst du selbst festhalten, bei diesem religiösen Brauch mögen deine frommen Enkel bleiben. Aber sobald du weggegangen bist, der Wind dich zu der Küste Siziliens gebracht hat und die Meerenge des schmalen Pelorusgebirges sich auftut, sollst du das Land zu deiner Linken und das Meer zu deiner Linken ungeachtet eines langen Umweges ansteuern; das Gestade rechts von dir und seine Wogen meide. Man sagt, dass diese Gegend einst durch einen gewaltsamen und mächtigen Einsturz auseinandergerissen wurde (so viel vermag die lange Dauer vergangener Zeit zu verändern) und sich gespalten hat, als beide Länder noch ein zusammenhängendes Gebiet waren: Das Meer trat gewaltsam in die Mitte und trennte mit seinen Wogen die abendländische Seite von der sizilischen, Land und Städte teilte es durch einen Küstenstreifen und zwischen ihnen hindurch floss es mit enger Brandung. Die rechte Seite hat Scylla inne, die linke die unversöhnliche Charybdis, und mit dem tiefen Strudel ihres Abgrundes verschlingt sie dreimal die mächtigen Fluten in die Tiefe, schleudert sie von neuem im Wechsel nach oben empor und trifft die Sterne mit ihrer Gischt. Aber eine Höhle mit finsterem Versteck hält Scylla fest, ihre Rachen wiederholt hervorstreckend und Schiffe gegen Felsen ziehend. Ihr oberer Teil hat menschliches Aussehen und bis zum Schoß ist sie eine junge Frau mit einer schönen Brust, ihr unterer Teil ist ein Meerungeheuer, das die Schwänze von Delphinen mit dem Leib von Wölfen zusammenfügt. Es ist besser, Zeit verlierend das sizilische Pachymum zu umfahren und in weitem Bogen zu umsegeln als einmal die hässliche Scylla in ihrer gewaltigen Höhle gesehen zu haben und die Felsen, die von den blauen Hunden widerhallen. Außerdem, falls der Seher Helenus über irgendeine Klugheit verfügt, falls es irgendein Vertrauen gibt, falls Apoll den Sinn mit Wahrheit erfüllt, werde ich dir jenes eine vorhersagen, Sohn einer Göttin, und eines vor allem, und wiederholend werde ich dich immer wieder mahnen: Ganz besonders die göttliche Macht der erhabenen Juno verehre mit Gebeten, gern gelobe Juno in feierlicher Sprache und beschwichtige die mächtige Gebieterin mit demütig dargebrachten Gaben: So wirst du schließlich als Sieger, nachdem du Sizilien zurückgelassen hast, auf italisches Gebiet geschickt werden. Sobald du hierher gelangt bist und du dich der Stadt Cumae und den göttlichen Seen, d.h. dem waldumrauschten Avernersee genähert hast, wirst du eine verzückte Seherin erblicken, die tief in einer Höhle Schicksalssprüche verkündet und Blättern ihre Zeichen und Worte anvertraut. Alle Orakelsprüche, welche die Jungfrau auf Blättern geschrieben hat, bringt sie in die richtige Ordnung und lässt sie in der Höhle eingeschlossen zurück: Jene bleiben unbewegt am Platz und bewahren ihre Reihenfolge. Aber wenn die Türangel sich gedreht, ein schmaler Windhauch die leichten Blätter getroffen und das Öffnen der Tür sie durcheinandergebracht hat, dann sorgt dieselbe sich niemals darum, die in ihrer Felskluft umherfliegenden Orakelsprüche zu ergreifen und die Ordnung wiederherzustellen oder jene aneinanderzufügen. Unberaten gehen sie davon und schätzen den Wohnsitz der Sibylle gering. Hier sollen, obwohl die Kameraden ermunternd rufen, die Gelegenheit zur Fahrt mit Gewalt die Segel auf das hohe Meer drängt und du den Bausch der Segel so füllen kannst, dass sie der Fahrt günstig sind, nicht irgendwelche Gedanken an Zeitverlust eine so große Bedeutung für dich haben, dass du die Seherin nicht aufsuchst und sie durch Bitten aufforderst, selbst Orakelsprüche zu verkünden und willig zum Orakel den Mund zu öffnen. Jene wird dir die Völker Italiens und die zukünftigen Kriege darlegen, auf welche Weise du jedem entkommen und Strapaze ertragen sollst, und verehrt wird sie dir günstige Fahrten gewähren. Dies sind die Taten, zu denen wir dich mit unserer Stimme auffordern dürfen. Wohlan, gehe und trage durch deine Taten Troja zum Himmel empor, so dass es mächtig ist."
+		</german>
+		<latin>
+			'Nate dea (nam te maioribus ire per altum<br/>
+			auspiciis manifesta fides; sic fata deum rex<br/>
+			sortitur uoluitque uices, is uertitur ordo),<br/>
+			pauca tibi e multis, quo tutior hospita lustres<br/>
+			aequora et Ausonio possis considere portu,<br/>
+			expediam dictis; prohibent nam cetera Parcae<br/>
+			scire Helenum farique uetat Saturnia Iuno. <br/>
+			principio Italiam, quam tu iam rere propinquam<br/>
+			uicinosque, ignare, paras inuadere portus,<br/>
+			longa procul longis uia diuidit inuia terris.<br/>
+			ante et Trinacria lentandus remus in unda<br/>
+			et salis Ausonii lustrandum nauibus aequor<br/>
+			infernique lacus Aeaeaeque insula Circae,<br/>
+			quam tuta possis urbem componere terra.<br/>
+			signa tibi dicam, tu condita mente teneto:<br/>
+			cum tibi sollicito secreti ad fluminis undam<br/>
+			litoreis ingens inuenta sub ilicibus sus<br/>
+			triginta capitum fetus enixa iacebit,<br/>
+			alba solo recubans, albi circum ubera nati,<br/>
+			is locus urbis erit, requies ea certa laborum.<br/>
+			nec tu mensarum morsus horresce futuros:<br/>
+			fata uiam inuenient aderitque uocatus Apollo.<br/>
+			has autem terras Italique hanc litoris oram,<br/>
+			proxima quae nostri perfunditur aequoris aestu,<br/>
+			effuge; cuncta malis habitantur moenia Grais.<br/>
+			hic et Narycii posuerunt moenia Locri,<br/>
+			et Sallentinos obsedit milite campos<br/>
+			Lyctius Idomeneus; hic illa ducis Meliboei<br/>
+			parua Philoctetae subnixa Petelia muro.<br/>
+			quin ubi transmissae steterint trans aequora classes<br/>
+			et positis aris iam uota in litore solues,<br/>
+			purpureo uelare comas adopertus amictu,<br/>
+			ne qua inter sanctos ignis in honore deorum<br/>
+			hostilis facies occurrat et omina turbet.<br/>
+			hunc socii morem sacrorum, hunc ipse teneto;<br/>
+			hac casti maneant in religione nepotes.<br/>
+			ast ubi digressum Siculae te admouerit orae<br/>
+			uentus, et angusti rarescent claustra Pelori,<br/>
+			laeua tibi tellus et longo laeua petantur<br/>
+			aequora circuitu; dextrum fuge litus et undas.<br/>
+			haec loca ui quondam et uasta conuulsa ruina<br/>
+			(tantum aeui longinqua ualet mutare uetustas) <br/>
+			dissiluisse ferunt, cum protinus utraque tellus<br/>
+			una foret: uenit medio ui pontus et undis<br/>
+			Hesperium Siculo latus abscidit, aruaque et urbes<br/>
+			litore diductas angusto interluit aestu.<br/>
+			dextrum Scylla latus, laeuum implacata Charybdis<br/>
+			obsidet, atque imo barathri ter gurgite uastos<br/>
+			sorbet in abruptum fluctus rursusque sub auras<br/>
+			erigit alternos, et sidera uerberat unda.<br/>
+			at Scyllam caecis cohibet spelunca latebris<br/>
+			ora exsertantem et nauis in saxa trahentem.<br/>
+			prima hominis facies et pulchro pectore uirgo<br/>
+			pube tenus, postrema immani corpore pistrix<br/>
+			delphinum caudas utero commissa luporum.<br/>
+			praestat Trinacrii metas lustrare Pachyni<br/>
+			cessantem, longos et circumflectere cursus,<br/>
+			quam semel informem uasto uidisse sub antro<br/>
+			Scyllam et caeruleis canibus resonantia saxa.<br/>
+			praeterea, si qua est Heleno prudentia uati,<br/>
+			si qua fides, animum si ueris implet Apollo,<br/>
+			unum illud tibi, nate dea, proque omnibus unum<br/>
+			praedicam et repetens iterumque iterumque monebo,<br/>
+			Iunonis magnae primum prece numen adora,<br/>
+			Iunoni cane uota libens dominamque potentem<br/>
+			supplicibus supera donis: sic denique uictor<br/>
+			Trinacria finis Italos mittere relicta.<br/>
+			huc ubi delatus Cumaeam accesseris urbem<br/>
+			diuinosque lacus et Auerna sonantia siluis,<br/>
+			insanam uatem aspicies, quae rupe sub ima<br/>
+			fata canit foliisque notas et nomina mandat.<br/>
+			quaecumque in foliis descripsit carmina uirgo<br/>
+			digerit in numerum atque antro seclusa relinquit:<br/>
+			illa manent immota locis neque ab ordine cedunt.<br/>
+			uerum eadem, uerso tenuis cum cardine uentus<br/>
+			impulit et teneras turbauit ianua frondes,<br/>
+			numquam deinde cauo uolitantia prendere saxo<br/>
+			nec reuocare situs aut iungere carmina curat:<br/>
+			inconsulti abeunt sedemque odere Sibyllae.<br/>
+			hic tibi ne qua morae fuerint dispendia tanti,<br/>
+			quamuis increpitent socii et ui cursus in altum<br/>
+			uela uocet, possisque sinus implere secundos,<br/>
+			quin adeas uatem precibusque oracula poscas<br/>
+			ipsa canat uocemque uolens atque ora resoluat.<br/>
+			illa tibi Italiae populos uenturaque bella<br/>
+			et quo quemque modo fugiasque ferasque laborem<br/>
+			expediet, cursusque dabit uenerata secundos.<br/>
+			haec sunt quae nostra liceat te uoce moneri.<br/>
+			uade age et ingentem factis fer ad aethera Troiam.
+		</latin>
+	</section>
+	<section from="463" to="505">
+		<german>
+			Nachdem der Seher dieses mit wohlwollendem Mund erzählt hatte, befahl er hierauf, dass vom Gold schwere Geschenke und solche aus Schnitzwerk von Elfenbein zu den Schiffen getragen werden, und in den Schiffen verstaute er eine große Menge Silber und Metallbecken aus Dodona, einen dreidrähtigen Brustpanzer, geflochten aus Ringeln und Gold, und die Spitze eines hervorstechenden Helmes mit Helmbusch, die Waffen des Neoptolemus. Auch für den Vater gibt es die zu ihm passenden Geschenke. Er gab Pferde hinzu, er gab Lotsen hinzu, er vervollständigte die Ruderknechte und stattete zugleich seine Gefährten mit Waffen aus. Inzwischen befahl Anchises die Flotte segelfertig zu machen, damit für den günstigen Wind kein Aufschub entstehe. Ihn redete der Unterhändler des Phoebus mit viel Ehrerbietung an: "Anchises, der du der hohen Verbindung mit Venus für würdig befunden wurdest, du Sorge der Götter, der du zweimal der Zerstörung Trojas entrissen worden bist, siehe, dir gehört das Land Ausonien: Auf dieses segle eilig los. Und dennoch ist es notwendig, dass du an diesem auf dem Meer vorbeisegelst: Jener Teil Ausoniens, den Apoll enthüllt hat, ist weit entfernt. Gehe", sagte er, "du Glücklicher wegen der Liebe deines Sohnes. Wozu fahre ich noch weiter fort und halte mit Worten die sich erhebenden Winde auf?" Und ebenso brachte Andromache, traurig über den endgültigen Abschied, Ascanius mit einem Goldfaden verzierte Gewänder und den phrygischen Mantel (und nicht stand sie zurück hinter den Ehrengaben ihres Gemahls), sie überhäufte ihn mit gewebten Geschenken und sprach solche Worte: "Nimm auch diese Gaben an, die dich an meine Hände erinnern mögen, Knabe, und Andromaches, der Gattin Hektors, lange dauernde Liebe bezeugen sollen. Ergreife die letzten Gaben der Deinen, du mein einziges Bild meines Astyanax, das mir geblieben ist. Dieselben Augen, dieselben Hände, dasselbe Gesicht hatte jener; und nun würde er gleichaltrig gemeinsam mit dir erwachsen werden." Als ich wegging, sprach ich diese mit hervorbrechenden Tränen an: "Lebt glücklich, ist doch euer Los schon vollendet: Wir aber werden von Schicksalsspruch zu Schicksalsspruch gerufen. Ihr habt euch Ruhe verschafft: Keine Meeresflut braucht ihr zu durchfurchen und nicht die immer zurückweichenden Gefilde Ausoniens zu suchen. Ein Abbild des Xanthus und ein Troja seht ihr, das eure Hände geschaffen haben – ich wünsche unter besseren Vorzeichen – und das den Griechen weniger preisgegeben sein möge. Wenn ich irgendwann den Thybris und die dem Thybris benachbarten Gefilde erreiche und die meinem Volk gegebene Stadtmauer erblicken werde, werden wir einst die Städte gleichen Ursprungs und die benachbarten Völker, Epirus und Hesperia (sie haben denselben Dardanus als Gründer und dasselbe Schicksal), beide zu einem Troja geistig vereinen: Möge diese sorgende Liebe auch unseren Enkeln verbleiben."
+		</german>
+		<latin>
+			Quae postquam uates sic ore effatus amico est,<br/>
+			dona dehinc auro grauia ac secto elephanto<br/>
+			imperat ad nauis ferri, stipatque carinis<br/>
+			ingens argentum Dodonaeosque lebetas,<br/>
+			loricam consertam hamis auroque trilicem,<br/>
+			et conum insignis galeae cristasque comantis,<br/>
+			arma Neoptolemi. sunt et sua dona parenti.<br/>
+			addit equos, additque duces,<br/>
+			remigium supplet, socios simul instruit armis.<br/>
+			Interea classem uelis aptare iubebat<br/>
+			Anchises, fieret uento mora ne qua ferenti.<br/>
+			quem Phoebi interpres multo compellat honore:<br/>
+			'coniugio, Anchisa, Veneris dignate superbo,<br/>
+			cura deum, bis Pergameis erepte ruinis,<br/>
+			ecce tibi Ausoniae tellus: hanc arripe uelis.<br/>
+			et tamen hanc pelago praeterlabare necesse est:<br/>
+			Ausoniae pars illa procul quam pandit Apollo.<br/>
+			uade,' ait 'o felix nati pietate. quid ultra<br/>
+			prouehor et fando surgentis demoror Austros?'<br/>
+			nec minus Andromache digressu maesta supremo<br/>
+			fert picturatas auri subtemine uestis<br/>
+			et Phrygiam Ascanio chlamydem (nec cedit honore)<br/>
+			textilibusque onerat donis, ac talia fatur:<br/>
+			'accipe et haec, manuum tibi quae monimenta mearum<br/>
+			sint, puer, et longum Andromachae testentur amorem,<br/>
+			coniugis Hectoreae. cape dona extrema tuorum,<br/>
+			o mihi sola mei super Astyanactis imago.<br/>
+			sic oculos, sic ille manus, sic ora ferebat;<br/>
+			et nunc aequali tecum pubesceret aeuo.'<br/>
+			hos ego digrediens lacrimis adfabar obortis:<br/>
+			'uiuite felices, quibus est fortuna peracta<br/>
+			iam sua: nos alia ex aliis in fata uocamur.<br/>
+			uobis parta quies: nullum maris aequor arandum,<br/>
+			arua neque Ausoniae semper cedentia retro<br/>
+			quaerenda. effigiem Xanthi Troiamque uidetis<br/>
+			quam uestrae fecere manus, melioribus, opto,<br/>
+			auspiciis, et quae fuerit minus obuia Grais.<br/>
+			si quando Thybrim uicinaque Thybridis arua<br/>
+			intraro gentique meae data moenia cernam,<br/>
+			cognatas urbes olim populosque propinquos,<br/>
+			Epiro Hesperiam (quibus idem Dardanus auctor<br/>
+			atque idem casus), unam faciemus utramque<br/>
+			Troiam animis: maneat nostros ea cura nepotes.'
+		</latin>
+	</section>
+
+</text>
+</translation>

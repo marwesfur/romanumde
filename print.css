@@ -1,0 +1,146 @@
+
+/* -----------------------------------------------------------*/
+/*                         Structure                          */
+/* -----------------------------------------------------------*/
+
+body {
+	background:white;
+	margin: 7%;
+	font-family: "Helvetica";
+	font-size: 10pt;
+	color: black;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+
+#pageHeader {
+	display:none;
+}
+
+#navigation {
+	display: none;
+}
+
+#footer {
+	display:none;
+}
+
+.infobox {
+	display:none;
+}
+
+
+#contents {
+	
+}
+
+#contents h2 {
+	font-variant:small-caps;
+	text-align:center;
+	font-size: 12pt;
+}
+
+#contents p.translator {
+	text-align:center;
+	font-size: 9pt;
+	font-style: italic;
+}
+
+
+
+#contents h3 {
+	font-size: 11pt;
+	font-variant:small-caps;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	clear: both;
+	page-break-after: avoid;
+}
+
+
+#contents p {
+	font-size: 10pt;
+	line-height: 160%;
+}
+
+
+
+
+
+
+/* -----------------------------------------------------------*/
+/*                     Eigentliche Übersetzung                */
+/* -----------------------------------------------------------*/
+
+#contents ul.gliederung {
+	list-style: upper-roman;
+}
+#contents ul.gliederung ul {
+	list-style: disc;
+}
+#contents ul.gliederung li {
+	font-size: 9pt;
+	font-family: "Helvetica";
+	line-height: 150%;
+}
+
+
+#contents div.section {
+	clear: both;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+
+#contents div.section p.latin {
+	width: 48%;
+	text-align: justify;
+	float: left;
+	margin-top: 0px;
+}
+
+#contents div.section p.latin_only {
+	width: 99%;
+	float: left;
+	margin-top: 0px;
+}
+
+
+#contents div.section p.german {
+	width: 48%;
+	float: right;
+	text-align: justify;
+	margin-top: 0px;
+}
+
+#contents span.versnummer {
+	display: block;
+	position: absolute;
+	left: 17px;
+	width: 24px;
+	padding: 0px;
+	font-size: 8pt;
+	font-style: italic;
+	text-align: right;
+}
+
+#contents span.abschittnummer {
+	font-size: 8pt;
+	font-style: italic;
+}
+
+/* -----------------------------------------------------------*/
+/*                           Kommentare                       */
+/* -----------------------------------------------------------*/
+
+#contents div.commentbubble {
+	display: none;
+}
+
+#contents div.comments {
+	display: none;
+}

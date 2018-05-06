@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Cicero</author>
+	<title>De Amicitia</title>
+	<snippet>Prooemium</snippet>
+	<translator>Markus Westphal und Patrick Jungk</translator>
+	<textkind>prosa</textkind>
+	<firstnumber>1</firstnumber>
+	<navigation>
+		<previous url="intro.html">De Amicitia Einführung</previous>
+		<next url="wert.xml">Der Wert der Freundschaft</next>
+	</navigation>
+</description>
+<text>
+
+	<section from="1" to="1">
+		<german>
+			Der Augur Quintus Mucius pflegte viel aus dem Gedächtnis und liebenswürdig über seinen Schwiegervater Laelius zu erzählen und nicht zu zögern, 
+jenen bei jedem Gespräch einen Weisen zu nennen. Ich aber wurde von meinem Vater nach Vollendung des sechzehnten Lebensjahres (nach Anlegen der 
+Männertoga) (dem) Scaevulus so zur Ausbildung zugeführt, dass ich - soweit ich könne und er es erlaube - niemals von der Seite des Alten weichen 
+sollte; so merkte (übergab ich dem Gedächtnis) ich mir viel von dem, was er Kluges diskutierte und auch viel von dem, was er kurz und beiläufig sagte
+und strebte danach durch seine Weisheit gelehrter zu werden. Nach dessen Tod begab ich mich zum Priester Scaevola, den ich als einzigen unseres 
+Volkes sowohl in Geistesdingen  als auch in der Gerechtigkeit als herausragend zu bezeichnen wage. Doch von diesem ein andermal; jetzt kehre ich zu Augur zurück.
+
+		</german>
+		<latin>
+			Q. Mucius augur multa narrare de C. Laelio socero suo memoriter
+et iucunde solebat nec dubitare illum in omni sermone appellare
+sapientem; ego autem a patre ita eram deductus ad Scaevolam sumpta
+virili toga, ut, quoad possem et liceret, a senis latere numquam
+discederem; itaque multa ab eo prudenter disputata, multa etiam
+breviter et commode dicta memoriae mandabam fierique studebam eius
+prudentia doctior. Quo mortuo me ad pontificem Scaevolam contuli,
+quem unum nostrae civitatis et ingenio et iustitia praestantissimum
+audeo dicere. Sed de hoc alias; nunc redeo ad augurem.
+		</latin>
+	</section>
+	<section from="2" to="2">
+		<german>
+			Ich erinnere mich sowohl, dass er oft viele Dinge sprach, als auch besonders erinnere ich mich, dass er zuhause in einem halbrunden Lehnsessel 
+sitzend, wie gewöhnlich - als nur ich und wenige Bekannte anwesend waren - auf den Gesprächsstoff kam, der in aller Munde war.
+Du erinnerst dich nämlich doch gewiss, Atticus, wie groß die Verwunderung und die Klage der Menschen war, als der Volkstribun Sulpicio sich in 
+tödlichem Hass von Pompeius getrennt hat, der damals Konsul war und mit dem er sehr verbunden und freundschaftlich gelebt hatte, und zwar umso 
+mehr, weil du viel mit diesem verkehrtest.
+		</german>
+		<latin>
+			Cum saepe multa, tum memini domi in hemicyclio sedentem, ut
+solebat, cum et ego essem una et pauci admodum familiares, in eum
+sermonem illum incidere qui tum forte multis erat in ore. Meministi
+enim profecto, Attice, et eo magis, quod P. Sulpicio utebare multum,
+cum is tribunus plebis capitali odio a Q. Pompeio, qui tum erat
+consul, dissideret, quocum coniunctissime et amantissime vixerat,
+quanta esset hominum vel admiratio vel querella.
+		</latin>
+	</section>
+	<section from="3" to="3">
+		<german>
+			Deshalb trug uns Scaevola dann das Gespräch des Laelius über die Freundschaft vor, das von jenem mit ihm und dem anderen Schwiegersohn 
+Fannius, dem Sohn des Marcus, wenige Tage nach dem Tod des Africanus geführt wurde, weil er selbst diese Sache zufällig berührte.
+Ich merkte mir die Hauptgedanken jener Diskussion, welche ich nach eigenem Ermessen diesem Buch übergab:
+gleichsam führte ich nämlich sie selbst als sprechend auf, damit nicht so oft "inquam" und "inquit" eingeschoben wird und dass es so scheint, als 
+ob die Unterhaltung von den persönlich anwesenden geführt wurde.
+		</german>
+		<latin>
+			Itaque tum Scaevola cum in eam ipsam mentionem incidisset,
+exposuit nobis sermonem Laeli de amicitia habitum ab illo secum et
+cum altero genero, C. Fannio Marci filio, paucis diebus post mortem
+Africani. Eius disputationis sententias memoriae mandavi, quas hoc
+libro exposui arbitratu meo; quasi enim ipsos induxi loquentes, ne
+'inquam' et 'inquit' saepius interponeretur, atque ut tamquam a
+praesentibus coram haberi sermo videretur.
+		</latin>
+	</section>
+	<section from="4" to="4">
+		<german>
+			Da du nämlich mit mir darüber verhandelt hast, dass ich etwas über die Freundschaft schreiben sollte, schien mir die Sache einerseits der 
+allgemeinen Kenntnis, andererseits unserer eigenen Freundschaft würdig zu sein. Deshalb habe ich es gern getan, dass ich vielen auf deine Bitte 
+nütze.
+Aber wie ich im Cato Maior, der für dich über das Alter geschrieben ist, den alten Cato selbstredend eingeführt habe, weil keine Person geeigneter 
+erschien, die über jenes Lebensalter reden sollte, als seine Person, die sowohl sehr lange alt war als auch selbst im Alter mehr als die anderen 
+glänzte, so erschien mir die Person des Laelius geeignet, weil wir von den Vätern gehört haben, dass die Freundschaft des Laelius und des Scipio 
+sehr groß war, über die Freundschaft gerade das zu erörtern, was nach der Erinnerung des Scaevola von diesem getan wurde.
+Jedoch scheint diese Art von Gesprächen aber, die auf dem Ansehen von Menschen aus früheren Zeiten beruht - und zwar derer berühmter, irgendwie mehr 
+Gewicht zu haben. Deshalb habe ich manchmal selbst beim Lesen meiner eigenen Werke den Eindruck, dass ich glaube, dass Cato spricht und nicht ich.
+		</german>
+		<latin>
+			Cum enim saepe mecum ageres ut de amicitia scriberem aliquid,
+digna mihi res cum omnium cognitione tum nostra familiaritate visa
+est. Itaque feci non invitus ut prodessem multis rogatu tuo. Sed ut
+in Catone Maiore, qui est scriptus ad te de senectute, Catonem induxi
+senem disputantem, quia nulla videbatur aptior persona quae de illa
+aetate loqueretur quam eius qui et diutissime senex fuisset et in
+ipsa senectute praeter ceteros floruisset, sic cum accepissemus a
+patribus maxime memorabilem C. Laeli et P. Scipionis familiaritatem
+fuisse, idonea mihi Laeli persona visa est quae de amicitia ea ipsa
+dissereret quae disputata ab eo meminisset Scaevola. Genus autem hoc
+sermonum positum in hominum veterum auctoritate, et eorum inlustrium,
+plus nescio quo pacto videtur habere gravitatis; itaque ipse mea
+legens sic afficior interdum ut Catonem, non me loqui existimem.
+		</latin>
+	</section>
+	<section from="5" to="5">
+		<german>
+			Aber wie damals ein Greis zu einem Greis über das Greisenalter geschrieben hat, so habe ich in diesem Buch einem Freund als Freund über die 
+Freundschaft geschrieben. Damals hat Cato gesprochen, der in jener Zeit der beinahe Älteste war, niemand klüger, nun spricht Laelius über die
+Freundschaft- dafür nämlich galt er - sowohl weise als auch herausragend im Ruhm der Freundschaft.
+Ich wünsche, dass du deinen Sinn auf kurze Zeit von mir wendest und glaubst, Laelius spräche selber.
+Fannius und Mucius kommen nach dem Tod des Africanus zu ihrem Schwiegervater; von diesen wird das Gespräch eröffnet; es antwortet Laelius, der die 
+ganze (eigentliche) Erörterung anstellt, beim Lesen derer du dich selbst wiedererkennen sollst.
+		</german>
+		<latin>
+			Sed ut tum ad senem senex de senectute, sic hoc libro ad amicum
+amicissimus scripsi de amicitia. Tum est Cato locutus, quo erat nemo
+fere senior temporibus illis, nemo prudentior; nunc Laelius et
+sapiens (sic enim est habitus) et amicitiae gloria excellens de
+amicitia loquetur. Tu velim a me animum parumper avertas, Laelium
+loqui ipsum putes. C. Fannius et Q. Mucius ad socerum veniunt post
+mortem Africani; ab his sermo oritur, respondet Laelius, cuius tota
+disputatio est de amicitia, quam legens te ipse cognosces.
+		</latin>
+	</section>
+</text>
+</translation>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Vergil</author>
+	<title>Aeneis VIII</title>
+	<snippet>Erste Euander-Szene, Verse 102-369</snippet>
+	<translator>Rainer Lohmann</translator>
+	<textkind>poetry</textkind>
+	<firstnumber>102</firstnumber>
+	<navigation>
+		<previous url="intro.html">Aeneis VIII Einführung</previous>
+		<previous url="einleitung.xml">Einleitung, Verse 1-101</previous>
+		<next url="goetterhandlung.xml">Götterhandlung, Verse 370-453</next>
+	</navigation>
+</description>
+<text>
+
+	<section from="102" to="125">
+		<german>
+			Zufällig brachte an jenem Tag der arkadische König dem großen Sohn des Amphitryon und den Göttern das alljährlich wiederkehrende Opfer vor der Stadt in einem Hain dar. Gemeinsam mit ihm opferte sein Sohn Pallas diesem Weihrauch, gemeinsam mit ihm opferten alle Vornehmsten unter den trojanischen Männern und der arme Senat Weihrauch, und warmes Blut dampfte bei den Altären. Als sie die hochragenden Schiffe sahen, wie sie inmitten des Schatten spendenden Waldes heranglitten und dass Aeneas' Gefährten schweigsam schnell ruderten, erschraken sie bei dem plötzlichen Anblick, alle ließen die Tische zurück und erhoben sich. Diesen verbot der wagemutige Pallas die Opfer zu stören, mit hastig ergriffener Waffe eilte er selbst ihnen entgegen, und aus der Ferne sagte er von einem Hügel aus: "Junge Männer, welcher Grund hat euch gezwungen, unbekannte Wege auszuprobieren? Wohin wollt ihr? Von welcher Abstammung seid ihr? Bringt ihr Frieden hierher oder Krieg?" Dann sprach Vater Aeneas folgendermaßen vom hohen Heck aus und er hielt einen friedenbringenden Olivenzweig in seiner Hand vor sich hin: "Trojaner siehst du und gegen die Latiner feindlich gerichtete Waffen, Flüchtlinge, die jene in einem hochmütigen Krieg verfolgt haben. Euander bitten wir. Überbringt diese Nachricht und sagt, ausgewählte Führer Trojas seien gekommen und bäten um ein Waffenbündnis." Pallas erstaunte und zeigte sich beeindruckt von dem so großen Namen: "Steige aus, wer auch immer du bist", sagte er, "an Ort und Stelle sprich meinen Vater an und tritt als Gast in unser Haus ein." Mit einem Handschlag empfing er ihn, umfasste seine Rechte und hielt sie fest; nachdem sie weitergegangen waren, näherten sie sich einem Hain und ließen den Fluss zurück.
+		</german>
+		<latin>
+			Forte die sollemnem illo rex Arcas honorem<br/>
+			Amphitryoniadae magno diuisque ferebat<br/>
+			ante urbem in luco. Pallas huic filius una,<br/>
+			una omnes iuuenum primi pauperque senatus<br/>
+			tura dabant, tepidusque cruor fumabat ad aras.<br/>
+			ut celsas uidere rates atque inter opacum<br/>
+			adlabi nemus et tacitos incumbere remis,<br/>
+			terrentur uisu subito cunctique relictis<br/>
+			consurgunt mensis. audax quos rumpere Pallas<br/>
+			sacra uetat raptoque uolat telo obuius ipse,<br/>
+			et procul e tumulo: 'iuuenes, quae causa subegit<br/>
+			ignotas temptare uias? quo tenditis?' inquit.<br/>
+			'qui genus? unde domo? pacemne huc fertis an arma?'<br/>
+			tum pater Aeneas puppi sic fatur ab alta<br/>
+			paciferaeque manu ramum praetendit oliuae:<br/>
+			'Troiugenas ac tela uides inimica Latinis,<br/>
+			quos illi bello profugos egere superbo.<br/>
+			Euandrum petimus. ferte haec et dicite lectos<br/>
+			Dardaniae uenisse duces socia arma rogantis.'<br/>
+			obstipuit tanto percussus nomine Pallas:<br/>
+			'egredere o quicumque es' ait 'coramque parentem<br/>
+			adloquere ac nostris succede penatibus hospes.'<br/>
+			excepitque manu dextramque amplexus inhaesit;<br/>
+			progressi subeunt luco fluuiumque relinquunt.
+		</latin>
+	</section>
+	
+	<section from="126" to="151">
+		<german>
+			Dann sprach Aeneas den König mit freundlichen Worten an: "Bester der Griechen, das Schicksal verlangte, dass ich mich dir bittend nahe und mit einer Binde umflochtene Zweige vor mir hinhalte; ich meinerseits geriet nicht in Furcht bei dem Gedanken, dass du ein griechischer Anführer warst, ein Arkadier, von Geburt an verbunden mit den Zwillingssöhnen des Atreus; aber mein Mut, die heiligen Orakel der Götter, die Verwandtschaft unserer Väter und dein Ruhm, der sich auf Erden verbreitet hat, haben mich mit dir verbunden und durch Weissagungen mich willig hierher getrieben. Dardanus, der erste Vorfahre und Gründer der Stadt Troja, von Elektra, einer Tochter des Atlas, wie die Griechen erzählen, geboren, gelangte zu den Trojanern; der sehr starke Atlas, der das Himmelsgewölbe auf seiner Schulter trägt, brachte Elektra hervor. Ihr habt Merkur zum Vater, den die weißglänzende Maia, nachdem sie ihn empfangen hatte, auf dem kalten Gipfel des Cyllenegebirges gebar; Atlas aber, wenn wir dem Hörensagen Glauben schenken, zeugte Maia, derselbe Atlas, der die Sterne des Himmels emporhebt. So lassen sich beide Geschlechter auf eine gemeinsame Abstammung zurückführen. Im Vertrauen hierauf habe ich keine Legaten geschickt und auch nicht durch ein Geschick erste Verhandlungen mit dir aufgenommen; mich, mich selbst und mein Haupt habe ich dir entgegengehalten und demütig bin ich zu deinem Haus gekommen. Dasselbe Geschlecht des Daunus, das dich verfolgt, verfolgt auch uns in einem grausamen Krieg; wenn sie uns schlagen, so glauben sie, werde es nichts daran fehlen, dass sie ganz Italien vollständig unterjochen und das Adriatische und Tyrrhenische Meer beherrschen. Nimm meine Zusage entgegen und gib mir deine. Wir sind tapfer im Krieg, wir haben Mut und eine durch Taten bewährte Jugend."
+		</german>
+		<latin>
+			Tum regem Aeneas dictis adfatur amicis:<br/>
+			'optime Graiugenum, cui me Fortuna precari<br/>
+			et uitta comptos uoluit praetendere ramos,<br/>
+			non equidem extimui Danaum quod ductor et Arcas<br/>
+			quodque a stirpe fores geminis coniunctus Atridis;<br/>
+			sed mea me uirtus et sancta oracula diuum<br/>
+			cognatique patres, tua terris didita fama,<br/>
+			coniunxere tibi et fatis egere uolentem.<br/>
+			Dardanus, Iliacae primus pater urbis et auctor,<br/>
+			Electra, ut Grai perhibent, Atlantide cretus,<br/>
+			aduehitur Teucros; Electram maximus Atlas<br/>
+			edidit, aetherios umero qui sustinet orbis.<br/>
+			uobis Mercurius pater est, quem candida Maia<br/>
+			Cyllenae gelido conceptum uertice fudit;<br/>
+			at Maiam, auditis si quicquam credimus, Atlas,<br/>
+			idem Atlas generat caeli qui sidera tollit.<br/>
+			sic genus amborum scindit se sanguine ab uno.<br/>
+			his fretus non legatos neque prima per artem<br/>
+			temptamenta tui pepigi; me, me ipse meumque<br/>
+			obieci caput et supplex ad limina ueni.<br/>
+			gens eadem, quae te, crudeli Daunia bello<br/>
+			insequitur; nos si pellant nihil afore credunt<br/>
+			quin omnem Hesperiam penitus sua sub iuga mittant,<br/>
+			et mare quod supra teneant quodque adluit infra.<br/>
+			accipe daque fidem. sunt nobis fortia bello<br/>
+			pectora, sunt animi et rebus spectata iuuentus.'
+		</latin>
+	</section>
+	
+	<section from="152" to="183">
+		<german>
+			Aeneas hatte gesprochen. Jener musterte schon lange dessen Mund und Augen, während er redete, und seinen ganzen Körper. Dann trug er wenige Worte folgendermaßen vor: "Wie gerne empfange ich dich und erkenne dich wieder, tapferster Trojaner! Wie sehr denke ich an die Worte, die Stimme und das Gesicht deines großen Vaters Anchises zurück! Denn ich erinnere mich, wie Priamus, Laomedons Sohn, das Königreich seiner Schwester Hesione aufsuchte, nach Salamis ging und geradewegs die kalten Grenzen Arkadiens besuchte. Damals schmückte das beginnende Jugendalter meine Wangen mit den ersten zarten Barthaaren, und ich bewunderte die trojanischen Führer, ich bewunderte gleichfalls Laomedons Sohn; aber hochragender als alle schritt Anchises einher. Mein Verstand wurde von dem jugendlichen Verlangen verzehrt, den Mann anzusprechen und sich die Hände zu reichen; ich trat auf ihn zu und führte ihn bis an die Stadtmauern von Pheneus. Jener schenkte mir, als er fortging, einen auffallenden Köcher, lykische Pfeile und einen mit Gold durchwebten Mantel sowie zwei goldene Zügel, die nun mein Pallas besitzt. Also hat meine rechte Hand, um die ihr bittet, deine in einem Bündnis umschlossen, und sobald das Licht am morgigen Tag auf die Erde zurückkehrt, werde ich euch fröhlich mit Hilfe fortschicken und mit Besitz unterstützen. Inzwischen feiert, weil ihr als Freunde hierher gekommen seid, diese alljährlich wiederkehrenden heiligen Bräuche, die aufzuschieben unerlaubt ist, in weihevoller Stimmung gemeinsam mit uns, und gewöhnt euch eben jetzt an die Tische der Kameraden.“
+			Als er dieses gesagt hatte, ließ er die Speisen und die entfernten Becher wieder auftragen, und er selbst setzte die Männer auf eine Grasbank; Aeneas, ausgezeichnet durch einen Ehrensitz und das Fell eines zottigen Löwen, nahm er auf und berief ihn auf einen Thron aus Ahornholz. Dann brachten wetteifernd ausgewählte junge Männer und ein Priester des Altares gebratenes Fleisch von Stieren, in Rohrkörbchen häuften sie Brotgaben auf und schenkten Wein ein. Zugleich aßen Aeneas und die trojanische Jugend von dem Rücken eines nicht zerschnittenen Rindes und den Eingeweiden des Sühnopfers.
+		</german>
+		<latin>
+			Dixerat Aeneas. ille os oculosque loquentis<br/>
+			iamdudum et totum lustrabat lumine corpus.<br/>
+			tum sic pauca refert: 'ut te, fortissime Teucrum,<br/>
+			accipio agnoscoque libens! ut uerba parentis<br/>
+			et uocem Anchisae magni uultumque recordor!<br/>
+			nam memini Hesionae uisentem regna sororis<br/>
+			Laomedontiaden Priamum Salamina petentem<br/>
+			protinus Arcadiae gelidos inuisere finis.<br/>
+			tum mihi prima genas uestibat flore iuuentas,<br/>
+			mirabarque duces Teucros, mirabar et ipsum<br/>
+			Laomedontiaden; sed cunctis altior ibat<br/>
+			Anchises. mihi mens iuuenali ardebat amore<br/>
+			compellare uirum et dextrae coniungere dextram;<br/>
+			accessi et cupidus Phenei sub moenia duxi.<br/>
+			ille mihi insignem pharetram Lyciasque sagittas<br/>
+			discedens chlamydemque auro dedit intertextam,<br/>
+			frenaque bina meus quae nunc habet aurea Pallas.<br/>
+			ergo et quam petitis iuncta est mihi foedere dextra,<br/>
+			et lux cum primum terris se crastina reddet,<br/>
+			auxilio laetos dimittam opibusque iuuabo.<br/>
+			interea sacra haec, quando huc uenistis amici,<br/>
+			annua, quae differre nefas, celebrate fauentes<br/>
+			nobiscum, et iam nunc sociorum adsuescite mensis.'<br/>
+
+
+			Haec ubi dicta, dapes iubet et sublata reponi<br/>
+			pocula gramineoque uiros locat ipse sedili,<br/>
+			praecipuumque toro et uillosi pelle leonis<br/>
+			accipit Aenean solioque inuitat acerno.<br/>
+			tum lecti iuuenes certatim araeque sacerdos<br/>
+			uiscera tosta ferunt taurorum, onerantque canistris<br/>
+			dona laboratae Cereris, Bacchumque ministrant.<br/>
+			uescitur Aeneas simul et Troiana iuuentus<br/>
+			perpetui tergo bouis et lustralibus extis.
+		</latin>
+	</section>
+	
+	<section from="184" to="279">
+		<german>
+			Nachdem der Hunger gestillt und die Esslust unterdrückt war, sagte König Euander: "Diese Feiern, diese gewohnten Opfermähler, diesen Altar einer so bedeutenden Gottheit hat uns nicht ein nichtiger Aberglaube auferlegt, der um die alten Götter nicht weiß: Da wir aus schrecklichen Gefahren, trojanischer Gastfreund, gerettet worden sind, bringen wir die gebührenden Opfer dar und erneuern diese. Zuerst nun betrachte diesen auf Steinblöcken schwebenden Felsen, wie die Steinmassen weit verstreut sind, die Wohnung im Berg verlassen daliegt und die Felsen gewaltig eingestürzt sind. Hier befand sich eine in unermessliche Weiten sich verlierende Höhle, welche, unzugänglich für die Strahlen der Sonne, die schreckliche Gestalt des Cacus, halb Mensch, halb Tier, besetzt hielt; und immer war der Boden warm vom jüngsten Blutbad, und an den stolzen Portalen befestigt hingen die Köpfe der Männer herab, bleich von widerlicher Verwesung. Dieses Ungeheuer hatte Vulkan zum Vater: dessen qualmendes Feuer hauchte er mit seinem Mund aus und eilte mit seiner gewaltigen Masse dahin. Auch uns brachte die Zeit auf unser Gebet hin endlich die Hilfe und die Ankunft eines Gottes. Denn stolz über den Tod des dreigestaltigen Geryon und die Beute war als größter Rächer der Alkide zugegen und trieb siegreich überaus große Stiere hierher, und Rinder erfüllten das Tal und die Ufer des Flusses. Aber die wilde Sinnesart des Diebes Cacus trieb, damit kein Verbrechen oder keine List ungewagt oder unversucht blieb, vier Stiere mit einem vortrefflichen Körper von den Ställen weg, ebenso viele junge Kühe von unvergleichlicher Schönheit. Und diese versteckte der Räuber, damit es keine Abdrücke von vorwärts gerichteten Füßen gab, nachdem er sie am Schwanz und somit umgekehrt in die Höhle gezogen hatte, durch einen schattigen Felsen; für einen Sucher führten keine Zeichen zu der Höhle. 
+			Inzwischen, als Herkules gerade seine Herde gesättigt aus den Ställen hinaustrieb und den Abzug vorbereitete, brüllten die Rinder bei ihrem Weggang, der ganze Wald füllte sich mit Klagelauten und die Hügel wurden mit Lärm zurückgelassen. Ein einziges Rind gab einen Laut von sich, brüllte in der gewaltigen Höhle und täuschte, obwohl gefangen gehalten, Cacus in seiner Hoffnung. Hierauf aber war durch die finsterzornige Raserei des Herkules sein Schmerz entbrannt: Mit der Hand ergriff er seine Waffen und die knotige eichene Keule, und die steilen Anhöhen des hochragenden Berges steuerte er an. Dann sahen unsere Augen zum ersten Mal Cacus, wie er sich fürchtete und beunruhigt war; sogleich floh er schneller als der Eurus und eilte zu seiner Höhle, seine Angst gab seinen Füßen Flügel. Sobald er sich eingeschlossen, die Ketten zerbrochen und den gewaltigen Felsen hatte herabfallen lassen, der an dem Eisen dank der Geschicklichkeit des Vaters herabhing, und er die Tür durch einen Riegel befestigt und versperrt hatte, siehe, da war rasend vor Wut der Tirynthier zugegen, den ganzen Zugang betrachtete er genau und wendete sein Gesicht hierhin und dorthin, wobei er mit den Zähnen knirschte. Dreimal musterte er hitzig vor Zorn den ganzen Aventin, dreimal griff er vergeblich die felsige Wohnung an, dreimal ließ er sich erschöpft im Tal nieder. Es ragte dort ein spitzer Felsen empor, die Steinblöcke waren auf allen Seiten abgeschnitten, auf dem Rücken der Höhle erhob er sich, für die Augen sehr hoch, für die Nester Unheil verkündender Vögel eine günstige Behausung. Wie dieser vornüber vom Berg zum Fluss hin nach links zu fallen drohte, stemmte er sich von rechts dagegen, schüttelte ihn und riss ihn los von seinem Grund in der Tiefe, dann stieß er ihn plötzlich fort; durch einen Stoß, der den Himmel in seiner größten Weite ertönen lässt, barsten die Ufer und floss der aufgeschreckte Strom zurück. 
+			Aber die Höhle und die gewaltige Residenz des Cacus wurden nach ihrer Enthüllung sichtbar, und die finsteren Löcher standen weithin offen, ganz so wie wenn die Erde, sobald sie sich in der Tiefe klaffend auftut, die unterirdischen Wohnsitze öffnet und das bleiche Reich, das den Göttern verhasst ist, aufschließt, von oben her der riesige Schlund wahrgenommen wird und die Manen in Aufregung sind, wenn das Licht eingefallen ist. Also setzte ihm, von dem unerwarteten Licht plötzlich überrascht und in der Höhle eingeschlossen, während er ungewöhnlich brüllte, Herkules von oben mit Geschossen hart zu, alles gebrauchte er als Waffe und mit gewaltigen Ästen und Felsblöcken drang er auf ihn ein. Jener aber stieß – denn es gab überdies keine Flucht vor der Gefahr mehr – aus seinem Rachen (es ist erstaunlich zu sagen) gewaltigen Rauch aus und hüllte seine Behausung in dunklen Qualm ein, den Augen den Blick raubend, und tief in der Höhle ballte er die rauchende Nacht zusammen und die Finsternis mischte sich mit Feuer. Herkules fand sich in seinem Zorn nicht damit ab und stürzte sich selbst in einem Sprung Hals über Kopf durch das Feuer, wo dickster Rauch aufwirbelte und die riesige Höhle von schwarzem Nebel wogte. Hier ergriff er Cacus, als dieser in der Finsternis nichtiges Feuer ausspie, und umschlang ihn mit seinen Armen; er hing an ihm und würgte seine hervortretenden Augen und seine blutlose Kehle. Sofort öffnete sich die schwarze Behausung, nachdem die Türen herausgerissen waren, die fortgeschleppten Rinder und die verleugnete Beute wurden sichtbar und an den Füßen der unförmige Leichnam hervorgezogen. Die Herzen konnten sich nicht sattsehen an seinen schrecklichen Augen und seinem Gesicht, an der von Borsten rauen Brust und dem in seinem Rachen erloschenen Feuer. 
+			Seit jener Zeit wurde das Opfer gefeiert und hielten die jüngeren Leute fröhlich an dem Tag fest, Potitius als erster Urheber und das Geschlecht der Pinarii als Wächter über den Herkuleskult errichteten in einem Hain diesen Altar, den wir immer den größten nennen werden und der immer der größte sein wird. Daher wohlan, ihr jungen Männer, umkränzt zu Ehren so großer Ruhmestaten eure Haare mit Laub und die Becher erhebt mit eurer Rechten, den gemeinsamen Gott ruft an und opfert willig Wein." Er hatte gesprochen, da schmückte die dunkle Silberpappel des Herkules seine Haare und sie ruhte mit ihren geflochtenen Blättern auf ihm, und ein heiliger Becher füllte seine rechte Hand. Schleunigst gossen alle fröhlich ein Trankopfer auf dem Tisch aus und beteten zu den Göttern.
+		</german>
+		<latin>
+			Postquam exempta fames et amor compressus edendi,<br/>
+			rex Euandrus ait: 'non haec sollemnia nobis,<br/>
+			has ex more dapes, hanc tanti numinis aram<br/>
+			uana superstitio ueterumque ignara deorum<br/>
+			imposuit: saeuis, hospes Troiane, periclis<br/>
+			seruati facimus meritosque nouamus honores.<br/>
+			iam primum saxis suspensam hanc aspice rupem,<br/>
+			disiectae procul ut moles desertaque montis<br/>
+			stat domus et scopuli ingentem traxere ruinam.<br/>
+			hic spelunca fuit uasto summota recessu,<br/>
+			semihominis Caci facies quam dira tenebat<br/>
+			solis inaccessam radiis; semperque recenti<br/>
+			caede tepebat humus, foribusque adfixa superbis<br/>
+			ora uirum tristi pendebant pallida tabo.<br/>
+			huic monstro Volcanus erat pater: illius atros<br/>
+			ore uomens ignis magna se mole ferebat.<br/>
+			attulit et nobis aliquando optantibus aetas<br/>
+			auxilium aduentumque dei. nam maximus ultor<br/>
+			tergemini nece Geryonae spoliisque superbus<br/>
+			Alcides aderat taurosque hac uictor agebat<br/>
+			ingentis, uallemque boues amnemque tenebant.<br/>
+			at furis Caci mens effera, ne quid inausum<br/>
+			aut intractatum scelerisue doliue fuisset,<br/>
+			quattuor a stabulis praestanti corpore tauros<br/>
+			auertit, totidem forma superante iuuencas.<br/>
+			atque hos, ne qua forent pedibus uestigia rectis,<br/>
+			cauda in speluncam tractos uersisque uiarum<br/>
+			indiciis raptor saxo occultabat opaco;<br/>
+			quaerenti nulla ad speluncam signa ferebant.<br/>
+			interea, cum iam stabulis saturata moueret<br/>
+			Amphitryoniades armenta abitumque pararet,<br/>
+			discessu mugire boues atque omne querelis <br/>
+			impleri nemus et colles clamore relinqui.<br/>
+			reddidit una boum uocem uastoque sub antro<br/>
+			mugiit et Caci spem custodita fefellit.<br/>
+			hic uero Alcidae furiis exarserat atro<br/>
+			felle dolor: rapit arma manu nodisque grauatum<br/>
+			robur, et aerii cursu petit ardua montis.<br/>
+			tum primum nostri Cacum uidere timentem<br/>
+			turbatumque oculis; fugit ilicet ocior Euro<br/>
+			speluncamque petit, pedibus timor addidit alas.<br/>
+			ut sese inclusit ruptisque immane catenis<br/>
+			deiecit saxum, ferro quod et arte paterna<br/>
+			pendebat, fultosque emuniit obice postis,<br/>
+			ecce furens animis aderat Tirynthius omnemque<br/>
+			accessum lustrans huc ora ferebat et illuc,<br/>
+			dentibus infrendens. ter totum feruidus ira<br/>
+			lustrat Auentini montem, ter saxea temptat<br/>
+			limina nequiquam, ter fessus ualle resedit.<br/>
+			stabat acuta silex praecisis undique saxis<br/>
+			speluncae dorso insurgens, altissima uisu,<br/>
+			dirarum nidis domus opportuna uolucrum.<br/>
+			hanc, ut prona iugo laeuum incumbebat ad amnem,<br/>
+			dexter in aduersum nitens concussit et imis<br/>
+			auulsam soluit radicibus, inde repente<br/>
+			impulit; impulsu quo maximus intonat aether,<br/>
+			dissultant ripae refluitque exterritus amnis.<br/>
+			at specus et Caci detecta apparuit ingens<br/>
+			regia, et umbrosae penitus patuere cauernae,<br/>
+			non secus ac si qua penitus ui terra dehiscens<br/>
+			infernas reseret sedes et regna recludat<br/>
+			pallida, dis inuisa, superque immane barathrum<br/>
+			cernatur, trepident immisso lumine Manes.<br/>
+			ergo insperata deprensum luce repente<br/>
+			inclusumque cauo saxo atque insueta rudentem<br/>
+			desuper Alcides telis premit, omniaque arma<br/>
+			aduocat et ramis uastisque molaribus instat.<br/>
+			ille autem, neque enim fuga iam super ulla pericli,<br/>
+			faucibus ingentem fumum (mirabile dictu)<br/>
+			euomit inuoluitque domum caligine caeca<br/>
+			prospectum eripiens oculis, glomeratque sub antro<br/>
+			fumiferam noctem commixtis igne tenebris.<br/>
+			non tulit Alcides animis, seque ipse per ignem<br/>
+			praecipiti iecit saltu, qua plurimus undam<br/>
+			fumus agit nebulaque ingens specus aestuat atra.<br/>
+			hic Cacum in tenebris incendia uana uomentem<br/>
+			corripit in nodum complexus, et angit inhaerens<br/>
+			elisos oculos et siccum sanguine guttur.<br/>
+			panditur extemplo foribus domus atra reuulsis<br/>
+			abstractaeque boues abiurataeque rapinae<br/>
+			caelo ostenduntur, pedibusque informe cadauer<br/>
+			protrahitur. nequeunt expleri corda tuendo<br/>
+			terribilis oculos, uultum uillosaque saetis<br/>
+			pectora semiferi atque exstinctos faucibus ignis.<br/>
+			ex illo celebratus honos laetique minores<br/>
+			seruauere diem, primusque Potitius auctor<br/>
+			et domus Herculei custos Pinaria sacri<br/>
+			hanc aram luco statuit, quae maxima semper<br/>
+			dicetur nobis et erit quae maxima semper.<br/>
+			quare agite, o iuuenes, tantarum in munere laudum<br/>
+			cingite fronde comas et pocula porgite dextris,<br/>
+			communemque uocate deum et date uina uolentes.'<br/>
+			dixerat, Herculea bicolor cum populus umbra<br/>
+			uelauitque comas foliisque innexa pependit,<br/>
+			et sacer impleuit dextram scyphus. ocius omnes<br/>
+			in mensam laeti libant diuosque precantur.
+		</latin>
+	</section>
+	
+	<section from="280" to="369">
+		<german>
+			Inzwischen näherte sich, da der Himmel sich neigte, der Abend. Und schon schritten die Priester und als erster Potitius einher, nach der Sitte in Felle gehüllt, und sie trugen Flammen. Sie erneuerten das Festmahl, brachten als Nachtisch willkommene Gaben und überhäuften die Altäre mit überladenen Schüsseln. Dann waren die Salier zum Klang der Musik um die entzündeten Altäre herum zugegen, mit Pappellaub die Schläfen umwunden, hier ein Reigen junger Männer, dort ein Reigen alter, die in einem Lied von den ruhmreichen Taten des Herkules erzählten: wie er als Erstes die Scheusale seiner Stiefmutter, ein Schlangenpaar, mit der Hand erdrückte und erdrosselte, wie derselbe vorzügliche Städte durch Krieg zerstörte, Troja und Oechalia, wie er unzählige harte Strapazen unter König Eurystheus nach dem Willen der ungerechten Juno ertrug. "Du, Unbesiegter, schlachtest mit eigener Hand die doppelgliedrigen Wolkensöhne Hylaeus und Pholus, du das kretische Ungeheuer und den gewaltigen Löwen am Fuße des Felsens von Nemea. Vor dir zitterten die Wasser der Styx, vor dir der Türhüter des Orkus, der auf halbverzehrten Knochen in der blutigen Höhle zurückgelehnt liegt; nicht erschreckten dich irgendwelche Gestalten, selbst Typhoeus nicht, hoch aufragend und Waffen haltend; ohne dass du den Verstand entbehrtest, umgab dich die Lernäische Schlange mit der Menge ihrer Köpfe. Sei gegrüßt, wahrhafter Nachkomme Jupiters, der du den Göttern als Zierde hinzugesellt wurdest, uns und deinen Opfern nähere dich gnädig geneigten Fußes." Solches feierten sie in ihren Liedern; vor allem fügten sie die Höhle des Cacus hinzu und ihn selbst, wie er Feuer schnaubte. Es hallten vom Lärm der ganze Wald und die Hügel wider.
+			Hierauf gingen alle zur Stadt zurück, nachdem sie die Opferhandlungen vollzogen hatten. Der König ging reich an Jahren, als Begleiter hielt er Aeneas und seinen Sohn an der Seite, während er einherschritt, und verkürzte sich durch ein Gespräch über verschiedene Themen den Weg. Aeneas wunderte sich und richtete seine regsamen Augen auf alles, er ließ sich von der Gegend fesseln, erkundigte sich fröhlich nach den einzelnen Denkmälern der Männer der Frühzeit und hörte über sie. Dann sprach König Euander, der Gründer der römischen Festung: "Diese Wälder bewohnten die einheimischen Faunen und Nymphen und ein Geschlecht von Männern, entstanden aus Stämmen und hartem Eichenholz, die weder Gesittung noch Kultur besaßen, und sie wussten weder Stiere ins Joch zu spannen noch Vorräte zu sammeln noch das Erworbene einzuteilen, sondern Äste und die zum Unterhalt schwierige Jagd ernährten sie. Als erster kam vom himmlischen Olymp Saturn herab, vor den Waffen Jupiters fliehend und vertrieben aus seinem weggenommenen Reich. Dieser vereinigte friedlich das unwissende und auf den hohen Bergen versprengte Geschlecht und gab ihm Gesetze, und er wollte lieber, dass es Latium genannt werde, da er in dieser Gegend sicher geborgen gewesen sei. Die Zeitalter, die sie die goldenen nennen, standen unter jenem König: So regierte er die Völker in stillem Frieden, bis allmählich ein schlechteres und entartetes Zeitalter, der Wahnsinn des Krieges und die Habsucht nachfolgten. Dann kamen das Geschlecht der Ausonier und die sikanischen Stämme und häufiger änderte das Land Saturns seinen Namen; dann gab es Könige und den ungestümen Thybris mit seinem riesigen Körper, nach dem wir Italier später den Fluss Tiber benannt haben; aber er verlor seinen alten Namen Albula. Als ich aus meinem Vaterland vertrieben war und zum äußersten Meer fuhr, siedelten mich die allmächtige Fortuna und das unabwendbare Schicksal in dieser Gegend an, und es trieben mich umher die schrecklichen Prophezeiungen meiner Mutter, der Nymphe Carmentis, und als ihr Urheber der Gott Apollo." 
+			Kaum hatte er dieses gesagt, da ging er weiter und zeigte einen Altar und ein Tor, das die Römer das carmentalische nennen, eine uralte Auszeichnung für die Nymphe Carmentis, eine schicksalverkündende Seherin, die als erste geweissagt hat, Aeneas’ Söhne würden bedeutend sein und Pallanteum berühmt. Hierauf zeigte er einen überaus großen Hain, den der tapfere Romulus zur Freistätte machte, und unter einer starren Felswand die Höhle Lupercal, benannt nach arkadischer Sitte als zu Pan Lycaeus gehörig. Ferner zeigte er auch den Wald des verfluchten Argiletum, rief den Ort als Zeugen an und berichtete von dem Tod des Gastfreundes Argus. Hierauf führte er zur tarpeischen Burg und zum jetzt goldenen Kapitol, das einst mit wildem Gestrüpp bedeckt war. Schon damals erschreckte eine unheimliche Ehrfurcht vor dem Ort die ängstlichen Bauern, schon damals zitterten sie vor dem Wald  und dem Felsen. "Diesen Wald", sagte er, "diesen Hügel mit seinem reich belaubten Gipfel bewohnt ein Gott (welcher Gott, ist ungewiss); die Arkadier glauben, Jupiter selbst gesehen zu haben, als er oft den dunkelfarbigen Schild in seiner Rechten schüttelte und Unwetter hervorbrachte. Außerdem siehst du diese zwei Städte mit ihren eingerissenen Mauern, Überbleibsel und Denkmäler alter Männer; die eine Festung hat Vater Ianus gegründet, die andere Saturn; diese hatte den Namen Ianiculum, jene den Namen Festung Saturns." Während sie solche Worte miteinander wechselten, näherten sie sich dem Haus des armen Euander, und überall sahen sie Herden brüllen, auf dem Forum Romanum und in den eleganten Carinen. Sobald man zu seinem Wohnsitz gekommen war, sagte er: "Als Sieger trat Herkules über diese Schwelle ein, diese Königsburg nahm jenen auf. Wage es, Gastfreund, den Reichtum zu verachten, zeige auch du dich des Gottes würdig und verschmähe nicht die ärmlichen Verhältnisse." So sprach er, unter das enge Giebeldach führte er den großen Aeneas und ließ ihn sich setzen, gestützt auf einer Streu von Blättern und auf dem Fell einer libyschen Bärin: die Nacht eilte herauf und umschloss die Erde mit ihren dunklen Flügeln.
+		</german>
+		<latin>
+			Deuexo interea propior fit Vesper Olympo.<br/>
+			iamque sacerdotes primusque Potitius ibant<br/>
+			pellibus in morem cincti, flammasque ferebant.<br/>
+			instaurant epulas et mensae grata secundae<br/>
+			dona ferunt cumulantque oneratis lancibus aras.<br/>
+			tum Salii ad cantus incensa altaria circum<br/>
+			populeis adsunt euincti tempora ramis,<br/>
+			hic iuuenum chorus, ille senum, qui carmine laudes<br/>
+			Herculeas et facta ferunt: ut prima nouercae<br/>
+			monstra manu geminosque premens eliserit anguis,<br/>
+			ut bello egregias idem disiecerit urbes,<br/>
+			Troiamque Oechaliamque, ut duros mille labores<br/>
+			rege sub Eurystheo fatis Iunonis iniquae<br/>
+			pertulerit. 'tu nubigenas, inuicte, bimembris<br/>
+			Hylaeumque Pholumque manu, tu Cresia mactas<br/>
+			prodigia et uastum Nemeae sub rupe leonem.<br/>
+			te Stygii tremuere lacus, te ianitor Orci<br/>
+			ossa super recubans antro semesa cruento;<br/>
+			nec te ullae facies, non terruit ipse Typhoeus<br/>
+			arduus arma tenens; non te rationis egentem<br/>
+			Lernaeus turba capitum circumstetit anguis.<br/>
+			salue, uera Iouis proles, decus addite diuis,<br/>
+			et nos et tua dexter adi pede sacra secundo.'<br/>
+			talia carminibus celebrant; super omnia Caci<br/>
+			speluncam adiciunt spirantemque ignibus ipsum.<br/>
+			consonat omne nemus strepitu collesque resultant.<br/>
+
+
+			Exim se cuncti diuinis rebus ad urbem<br/>
+			perfectis referunt. ibat rex obsitus aeuo,<br/>
+			et comitem Aenean iuxta natumque tenebat<br/>
+			ingrediens uarioque uiam sermone leuabat.<br/>
+			miratur facilisque oculos fert omnia circum<br/>
+			Aeneas, capiturque locis et singula laetus<br/>
+			exquiritque auditque uirum monimenta priorum.<br/>
+			tum rex Euandrus Romanae conditor arcis:<br/>
+			'haec nemora indigenae Fauni Nymphaeque tenebant<br/>
+			gensque uirum truncis et duro robore nata,<br/>
+			quis neque mos neque cultus erat, nec iungere tauros<br/>
+			aut componere opes norant aut parcere parto,<br/>
+			sed rami atque asper uictu uenatus alebat.<br/>
+			primus ab aetherio uenit Saturnus Olympo<br/>
+			arma Iouis fugiens et regnis exsul ademptis.<br/>
+			is genus indocile ac dispersum montibus altis<br/>
+			composuit legesque dedit, Latiumque uocari<br/>
+			maluit, his quoniam latuisset tutus in oris.<br/>
+			aurea quae perhibent illo sub rege fuere<br/>
+			saecula: sic placida populos in pace regebat,<br/>
+			deterior donec paulatim ac decolor aetas<br/>
+			et belli rabies et amor successit habendi.<br/>
+			tum manus Ausonia et gentes uenere Sicanae,<br/>
+			saepius et nomen posuit Saturnia tellus;<br/>
+			tum reges asperque immani corpore Thybris,<br/>
+			a quo post Itali fluuium cognomine Thybrim<br/>
+			diximus; amisit uerum uetus Albula nomen.<br/>
+			me pulsum patria pelagique extrema sequentem<br/>
+			Fortuna omnipotens et ineluctabile fatum<br/>
+			his posuere locis, matrisque egere tremenda<br/>
+			Carmentis nymphae monita et deus auctor Apollo.'<br/>
+
+
+			Vix ea dicta, dehinc progressus monstrat et aram<br/>
+			et Carmentalem Romani nomine portam<br/>
+			quam memorant, nymphae priscum Carmentis honorem,<br/>
+			uatis fatidicae, cecinit quae prima futuros<br/>
+			Aeneadas magnos et nobile Pallanteum.<br/>
+			hinc lucum ingentem, quem Romulus acer asylum<br/>
+			rettulit, et gelida monstrat sub rupe Lupercal<br/>
+			Parrhasio dictum Panos de more Lycaei.<br/>
+			nec non et sacri monstrat nemus Argileti<br/>
+			testaturque locum et letum docet hospitis Argi.<br/>
+			hinc ad Tarpeiam sedem et Capitolia ducit<br/>
+			aurea nunc, olim siluestribus horrida dumis.<br/>
+			iam tum religio pauidos terrebat agrestis<br/>
+			dira loci, iam tum siluam saxumque tremebant.<br/>
+			'hoc nemus, hunc' inquit 'frondoso uertice collem<br/>
+			(quis deus incertum est) habitat deus; Arcades ipsum<br/>
+			credunt se uidisse Iouem, cum saepe nigrantem<br/>
+			aegida concuteret dextra nimbosque cieret.<br/>
+			haec duo praeterea disiectis oppida muris,<br/>
+			reliquias ueterumque uides monimenta uirorum.<br/>
+			hanc Ianus pater, hanc Saturnus condidit arcem;<br/>
+			Ianiculum huic, illi fuerat Saturnia nomen.'<br/>
+			talibus inter se dictis ad tecta subibant<br/>
+			pauperis Euandri, passimque armenta uidebant<br/>
+			Romanoque foro et lautis mugire Carinis.<br/>
+			ut uentum ad sedes, 'haec' inquit 'limina uictor<br/>
+			Alcides subiit, haec illum regia cepit.<br/>
+			aude, hospes, contemnere opes et te quoque dignum<br/>
+			finge deo, rebusque ueni non asper egenis.'<br/>
+			dixit, et angusti subter fastigia tecti<br/>
+			ingentem Aenean duxit stratisque locauit<br/>
+			effultum foliis et pelle Libystidis ursae:<br/>
+			nox ruit et fuscis tellurem amplectitur alis.
+		</latin>
+	</section>
+	
+</text>
+</translation>

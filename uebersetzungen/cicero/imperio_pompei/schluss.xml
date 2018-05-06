@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Cicero</author>
+	<title>De Imperio Cn. Pompei</title>
+	<snippet>Schluss</snippet>
+	<translator>Markus Westphal und Patrick Jungk</translator>
+	<textkind>prosa</textkind>
+	<firstnumber>69</firstnumber>
+	<navigation>
+		<previous url="intro.html">De Imperio Pompei Einführung</previous>
+		<previous url="widerlegung.xml">Widerlegung der Gegner des Gesetzes</previous>
+	</navigation>
+</description>
+
+<structure>
+	<list>
+		<item url="disposition.xml">Disposition</item>
+		<item url="art.xml">Art des Krieges</item>
+		<item url="groesse.xml">Die Größe des Krieges</item>
+		<item url="wahl.xml">Die Wahl des Feldherrn</item>
+		<item url="widerlegung.xml">Widerlegung der Gegner des Gesetzes</item>
+
+		<item>Schluß</item>
+	</list>
+</structure>
+
+<text>
+
+	<section from="69" to="69">
+		<german>
+			Da dies so ist, lobe ich zuerst sowohl dein Gesetz selbst als auch deinen Willen, zudem billige ich deinen Antrag aufs entschiedenste, Gaius Mantilus. Ferner ermahne ich dich, dass du aufgrund der Zustimmung des römischen Volkes bei deiner Meinung bleibst, und niemandes Gewalt oder Drohung fürchtest. Zuerst glaube ich, dass du genug Mut und Ausdauer hast, dann, als wir eine so große Menge sahen, die mit soviel Interesse anwesend war, wie wir nun zum zweiten Mal bei der Berufung desselben Menschen zum Oberkommando sehen, was gibt es, das uns entweder über die Angelegenheit oder über die Möglichkeit des Vollendens dieser Sache zweifeln lässt ? Dies alles verspreche und biete ich dir und dem römischen Volk zur Vollendung dieser Sache, alles was in mir ist an Eifer, an Rat, an Mühe, an Geist, dann noch was ich aufgrund meiner prätorischen Stellung, alles was ich aufgrund des Ansehens und des Vertrauens das ich genieße, und aufgrund der Standhaftigkeit vermag, an.
+		</german>
+		<latin>
+			Que cum ita sint, C. Manlili, primum istam tuam et legem et voluntatem et sententiam laudo vehementissimeque comprobo: deinde te hortor, ut auctore populo Romano maneas in sententia, neve cuiusquam vim aut minas pertimescas. Primum in te satis esse animi perseverantiaeque arbitror: deinde cum tantam multitudinem cum tanto studio adesse videamus, quantam iterum nunc in eodem homine praeficiendo videmus, quid est quod aut de re aut de perficiendi facultate dubitemus? Ego autem quicquid est in me studi, consili, laboris, ingeni, quicquid hoc beneficio populi Romani atque hac potestate praetoria, quicquid auctoritate, fide, constantia possum, id omne ad hanc re conficiendam tibi et populo Romano polliceor ac defero:
+		</latin>
+	</section>
+	<section from="70" to="70">
+		<german>
+			Ich rufe alle Götter als Zeugen auf, und jene am meisten, die an diesem Ort und in jenen Tempeln sind, die in allen Geistern derer, die im Staatsdienst tätig sind, am meisten erblicken/erkennen, dass ich diese Sache weder auf die Bitte von irgend jemanden hin tat, noch mir dadurch den Dank des Gnaeus Pompeius aus diesem Grund einzuhandeln glaube, noch mir dadurch weder bei irgend jemandes Ansehen Hilfe vor Gefahren noch Unterstützung zum Erlangen von Ehrenämtern suche, deswegen, weil wir die Gefahr dadurch leicht, wenn es sich ein Mensch leisten kann, von der Unbescholtenheit abwenden. Die Ehre aber erreichen wir nicht; weder von einem einzigen Menschen noch von einem Ort aus, sondern durch jene selbe unsere schwerste Anstrengung des Lebensplanes, wenn euer Wille es zulässt.
+		</german>
+		<latin>
+			testorque omnis deos, et eos maxime qui huic loco temploque praesident, qui omnium mentis eorum qui ad rem publicam adeunt maxime perspiciunt, me hoc neque rogatu facere cuiusquam, neque quo Cn. Pompei gratiam mihi per hanc causam conciliari putem, neque quo mihi ex cuiusquam amplitudine aut praesidia periculis aut adiumenta honoribus quaeram; propterea quod pericula facile, ut hominem praestare oportet, innocentia tecti repellemus, honorem autem neque ab uno neque ex hoc loco, sed eadem illa nostra laboriosissima ratione vitae, si vestra voluntas feret, consequemur.
+		</latin>
+	</section>
+	<section from="71" to="71">
+		<german>
+			Deswegen, ihr Quiriten, versichere ich, dass ich alles, was in dieser Sache unternommen worden ist, wegen des Staates getan habe und der Anschein, dass ich für mich Dankbarkeit gesucht hätte ist so weit weg, das ich erkenne, dass ich Feindschaften, teils offene, teils versteckte, für mich nicht notwendige, für euch nicht unnütze auf mich genommen habe. Aber ich habe festgestellt, dass ich mit dieser Ehre ausgezeichnet bin, und mit so vielen Ehrenämtern wiederum versehen bin, ihr Quiriten, dass es sich gehört, dass euer Wille, und die Würde des Staates, und das Wohl der Provinzen und der Bundesgenossen all meinen Bequemlichkeiten und meinen Interessen vorangestellt ist.
+		</german>
+		<latin>
+			Quam ob rem quicquid in hac causa mihi susceptum est, Quirites, id ego omne me rei publicae causa suscepisse confirmo; tantumque abest ut aliquam mihi bonam gratiam quaesisse videar, ut multas me etiam simultates partim obscuras, partim apertas intellegam mihi non necessarias, vobis non inutilis suscepisse. Sed ego me hoc honore praeditum, tantis vestris beneficiis adfectum statui, Quirites, vestram voluntatem et rei publicae dignitatem et salutem provinciarum atque sociorum meis omnibus commodis et rationibus praeferre oportere.
+		</latin>
+	</section>
+</text>
+</translation>

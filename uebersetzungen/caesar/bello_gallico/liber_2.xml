@@ -1,0 +1,600 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<translation>
+<description>
+	<author>Caesar</author>
+	<title>De Bello Gallico</title>
+	<snippet>Liber II</snippet>
+	<translator>Felix Stadelmaier</translator>
+	<textkind>prosa</textkind>
+	<firstnumber>1</firstnumber>
+	
+	<navigation>
+		<previous url="intro.html">De Bello Gallico Einführung</previous>
+		<next url="liber_6.xml">Liber VI</next>
+		<previous url="liber_1.xml">Liber I</previous>
+	</navigation>
+	
+</description>
+<text>
+
+	<section from="1" to="1">
+		<german>
+			Als Cäsar im Winterlager in Gallia citerior war, so wie wir oben berichtet, wurden ihm 
+			wiederholt Gerüchte zugetragen und  ihm wurde das ebenso in einem Brief des Labienus 
+			berichtet, dass alle Belger – diese hatten wir als dritten Teil Galliens bezeichnet – sich gegen 
+			das römische Volk verschwüren und untereinander Geiseln austauschten. Die Gründe der 
+			Verschwörung seien diese: erstens fürchteten sie sich davor, dass unser Heer nach der Befriedung Galliens zu ihnen käme; dann würden sie von einigen Galliern aufgehetzt, teils von 
+			solchen, die so wie sie die Germanen in Gallien nicht ertragen gewollt hatten und es aber 
+			ebenso lästig fanden, dass das Heer des römischen Volkes in Gallien überwinterte und sich 
+			dort einnistete; teils von denen, die aus Charakterlosigkeit und Leichtsinn neue Herrschaftsverhältnisse
+			anstrebten; auch ging von manchen Unruhe aus, weil in Gallien die Mächtigeren und diejenigen, welche die Mittel hatten, Menschen zu dingen, gewöhnlich die Königswürde inne hatten; diese konnten unter unserer Herrschaft weniger leicht ihr Ziel erreichen.
+		</german>
+		<latin>
+			Cum esset Caesar in citeriore Gallia [in hibernis], ita uti supra demonstravimus, crebri ad eum rumores adferebantur litterisque item Labieni certior fiebat omnes Belgas, quam tertiam esse Galliae partem dixeramus, contra populum Romanum coniurare obsidesque inter se dare. Coniurandi has esse causas: primum quod vererentur ne, omni pacata Gallia, ad eos exercitus noster adduceretur; deinde quod ab non nullis Gallis sollicitarentur, partim qui, ut Germanos diutius in Gallia versari noluerant, ita populi Romani exercitum hiemare atque inveterascere in Gallia moleste ferebant, partim qui mobilitate et levitate animi novis imperiis studebant; ab non nullis etiam quod in Gallia a potentioribus atque iis qui ad conducendos homines facultates habebant vulgo regna occupabantur; qui minus facile eam rem imperio nostro consequi poterant.
+		</latin>
+	</section>
+	<section from="2" to="2">
+		<german>
+			Von diesen Meldungen und dem Brief veranlasst hob Cäsar zwei neue Legionen in Gallia 
+			citerior aus und schickte den Legaten Quintus Pedius aus, der sie nach dem Sommerbeginn 
+			nach Gallia ulterior führen sollte. Er selbst stieß zum Heer, nachdem es einen ausreichend 
+			großen Nahrungsvorrat gab. Er gab den Senonen und den übrigen gallischen Stämmen, die 
+			Nachbarn der Belger waren, die Aufgabe, alles, was bei diesen vorgehe, in Erfahrung zu bringen und ihm über diese Dinge Bericht zu erstatten. All diese berichteten übereinstimmend, 
+			Soldaten würden gesammelt und das Heer an einem Ort zusammengezogen. Darauf aber 
+			zweifelte er nicht daran, dass er zu ihnen aufbrechen müsse. Nachdem er für die Versorgung 
+			Sorge getragen hatte, brach er das Lager ab und erreiche nach etwa 15 Tagen das Stammesgebiet der Belger.
+		</german>
+		<latin>
+			His nuntiis litterisque commotus Caesar duas legiones in citeriore Gallia novas conscripsit et inita aestate in ulteriorem Galliam qui deduceret Q. Pedium legatum misit. Ipse, cum primum pabuli copia esse inciperet, ad exercitum venit. Dat negotium Senonibus reliquisque Gallis qui finitimi Belgis erant uti ea quae apud eos gerantur cognoscant seque de his rebus certiorem faciant. Hi constanter omnes nuntiaverunt manus cogi, exercitum in unum locum conduci. Tum vero dubitandum non existimavit quin ad eos proficisceretur. Re frumentaria provisa castra movet diebusque circiter XV ad fines Belgarum pervenit.
+		</latin>
+	</section>
+	<section from="3" to="3">
+		<german>
+			Als er dort unvermutet und schneller als erwartet eingetroffen war, schickten die Remer, 
+			die von den Belgern am nahesten zu Gallien leben, Iccius und Andebrogius, die Angesehensten ihres Stammes, als Legaten zu ihm. Diese teilten ihm mit, sie ergäben sich mit all ihrer 
+			Habe auf Gnade und Ungnade dem römischen Volk. Weder hätten sie mit den übrigen Belgerstämmen gemeinsame Sache gemacht noch hätten sie sich an einer Verschwörung gegen 
+			das römische Volk beteiligt; auch seien sie bereit, Geißeln zu stellen, seine Anordnungen zu 
+			befolgen, ihn in ihren Städten aufzunehmen und ihn mit Getreide und anderen Gütern zu 
+			versorgen. Alle anderen Belgerstämme stünden unter Waffen und die germanischen Stämme, die diesseits des Rheines lebten, hätten sich mit diesen verbündet; so groß sei die Wut 
+			all dieser, dass nicht einmal die Suessionen, ihre Brüder und Blutsverwandten, die nach 
+			demselben Recht und denselben Gesetzten lebten wie sie und mit ihnen dieselbe Regierung 
+			und Verwaltung hätten, davon abzubringen seien, mit diesen zu konspirieren.
+		</german>
+		<latin>
+			Eo cum de improviso celeriusque omnium opinione venisset, Remi, qui proximi Galliae ex Belgis sunt, ad eum legatos Iccium et Andebrogium, primos civitatis, miserunt, qui dicerent se suaque omnia in fidem atque potestatem populi Romani permittere, neque se cum reliquis Belgis consensisse neque contra populum Romanum coniurasse, paratosque esse et obsides dare et imperata facere et oppidis recipere et frumento ceterisque rebus iuvare; reliquos omnes Belgas in armis esse, Germanosque qui cis Rhenum incolant sese cum his coniunxisse, tantumque esse eorum omnium furorem ut ne Suessiones quidem, fratres consanguineosque suos, qui eodem iure et isdem legibus utantur, unum imperium unumque magistratum cum ipsis habeant, deterrere potuerint quin cum iis consentirent.
+		</latin>
+	</section>
+	<section from="4" to="4">
+		<german>
+			Als er von diesen wissen wollte, welche und wie viele Stämme unter Waffen stünden und 
+			welche Kampfkraft sie besäßen, erfuhr er das folgende: Die meisten Belger stammten von 
+			den Germanen ab, hätten einstmals den Rhein überquert und sich auf Grund des fruchtbaren Ackerbodens dort angesiedelt; auch hätten sie die Gallier, die das Gebiet bewohnten, 
+			vertrieben und sie allein seien es, die die Teutonen und Kimbern am Einmarsch in ihr Gebiet 
+			hindern konnten, nachdem diese schon ganz Gallien heimgesucht hatten, wie unsere Väter 
+			berichteten. Darum sei es so, dass sie sich eingedenk dieser Taten für große Helden hielten 
+			und hoch hinaus wollten. Die Remer behaupteten, sie hätten alles über die Anzahl deren 
+			Soldaten herausgefunden, deshalb, weil sie als Nachbarn und Verwandte wüssten, wie viele 
+			Soldaten jeder auf dem gemeinsamen Stammesrat der Belger für diesen Krieg versprochen 
+			habe. Am meisten Geltung hätten bei ihnen durch Tapferkeit wie Ansehen und Bevölkerungszahl die Bellovaker: diese könnten 100.000 Mann unter Waffen stellen, hätten von diesen erlesene 60.000 Mann versprochen und forderten das Oberkommando für den ganzen 
+			Krieg für sich. Die Suessionen seien ihre Nachbarn und die besäßen das ausgedehnteste Gebiet und die fruchtbarsten Felder. Noch zu unserer Zeit sei bei diesen Diviciacus König gewesen, der mächtigste in ganz Gallien, der, als er schon die Herrschaft über einen Großteil dieser Gebiete inne hatte, dann auch über Britannien herrschte. Zur Zeit sei Galba König: ihm 
+			sei wegen seines Gerechtigkeitssinns und großer Klugheit auf Wunsch aller der Oberbefehl 
+			übertragen worden. Die Suessionen besäßen 12 Städte und hätten 50.000 Soldaten versprochen; ebenso viele die Nervier, die als die wildesten unter ihnen galten und am weitesten 
+			weit weg lebten. 15.000 Soldaten die Atrebaten, die Ambianer 10.000, die Moriner 25.000, 
+			die Menapier 7.000, die Kaleter 10.000, die Veliokassen und Viromanduer ebenso viele und 
+			die Atuatuken 19.000; die Kondruser, Eburonen, Käroser und Pämaner, die im Ganzen  
+			Germanen heißen, schätzten sie zusammen auf 40.000 Mann.
+		</german>
+		<latin>
+			Cum ab iis quaereret quae civitates quantaeque in armis essent et quid in bello possent, sic reperiebat: plerosque Belgos esse ortos a Germanis Rhenumque antiquitus traductos propter loci fertilitatem ibi consedisse Gallosque qui ea loca incolerent expulisse, solosque esse qui, patrum nostrorum memoria omni Gallia vexata, Teutonos Cimbrosque intra suos fines ingredi prohibuerint; qua ex re fieri uti earum rerum memoria magnam sibi auctoritatem magnosque spiritus in re militari sumerent. De numero eorum omnia se habere explorata Remi dicebant, propterea quod propinquitatibus adfinitatibus quo coniuncti quantam quisque multitudinem in communi Belgarum concilio ad id bellum pollicitus sit cognoverint. Plurimum inter eos Bellovacos et virtute et auctoritate et hominum numero valere: hos posse conficere armata milia centum, pollicitos ex eo numero electa milia LX totiusque belli imperium sibi postulare. Suessiones suos esse finitimos; fines latissimos feracissimosque agros possidere. Apud eos fuisse regem nostra etiam memoria Diviciacum, totius Galliae potentissimum, qui cum magnae partis harum regionum, tum etiam Britanniae imperium obtinuerit; nunc esse regem Galbam: ad hunc propter iustitiam prudentiamque summam totius belli omnium voluntate deferri; oppida habere numero XII, polliceri milia armata L; totidem Nervios, qui maxime feri inter ipsos habeantur longissimeque absint; XV milia Atrebates, Ambianos X milia, Morinos XXV milia, Menapios VII milia, Caletos X milia, Veliocasses et Viromanduos totidem, Atuatucos XVIIII milia; Condrusos, Eburones, Caerosos, Paemanos, qui uno nomine Germani appellantur, arbitrari ad XL milia.
+		</latin>
+	</section>
+	<section from="5" to="5">
+		<german>
+			Cäsar bekräftigte die Remer in ihrer Haltung, redete ihnen freundlich zu, befahl den ganzen Stammesrat zu sich und ließ sich die Kinder der Stammesführer als Geißeln bringen. Dies 
+			alles wurde von ihnen genau und pünktlich ausgeführt. Er selbst legte, nachdem er ihm 
+			nachdrücklich zugeredet hatte, dem Häduer Diviciacus dar, wie sehr es für den Staat und das 
+			Heil aller wichtig sei, die Scharen der Feinde zu trennen, damit man nicht mit einer so großen Streitmacht auf einmal kämpfen müsse. Dies könne geschehen, wenn die Häduer mit 
+			ihrer Streitmacht in das Gebiet der Bellovaker einfielen und deren Ländereien zu verwüsten 
+			begännen. Hiermit beauftragt entließ er ihn. Nachdem er gesehen hatte, dass die an einem 
+			Ort zusammengezogene Streitmacht der Belger auf ihn zumarschierte und von den Kundschaftern, die er ausgeschickt hatte, und den Remern erfahren hatte, dass sie nicht mehr 
+			weit von ihm entfernt waren, beeilte er sich, sein Heer über die Aisne zu führen, die das Gebiet der Remer begrenzt, und schlug dort Lager auf. Somit schützte er eine Lagerseite mit 
+			dem Flussufer und sicherte auch den Bereich, der hinter ihm war und bewirkte, dass der 
+			Nachschub von den Remern und den übrigen Stämmen ihm ohne Gefahr geliefert werden 
+			konnte. Über diesen Fluss führte eine Brücke. Auf ihr postierte er einen Schutztrupp und ließ 
+			auf der anderen Seite des Flusses den Legaten Quintus Titurius Sabinus mit sechs Kohorten zurück. Das Lager ließ er mit einem 12 Fuß hohen Schutzwall und einem 18 Fuß breiten Graben befestigen.
+		</german>
+		<latin>
+			Caesar Remos cohortatus liberaliterque oratione prosecutus omnem senatum ad se convenire principumque liberos obsides ad se adduci iussit. Quae omnia ab his diligenter ad diem facta sunt. Ipse Diviciacum Haeduum magnopere cohortatus docet quanto opere rei publicae communisque salutis intersit manus hostium distineri, ne cum tanta multitudine uno tempore confligendum sit. Id fieri posse, si suas copias Haedui in fines Bellovacorum introduxerint et eorum agros populari coeperint. His datis mandatis eum a se dimittit. Postquam omnes Belgarum copias in unum locum coactas ad se venire vidit neque iam longe abesse ab iis quos miserat exploratoribus et ab Remis cognovit, flumen Axonam, quod est in extremis Remorum finibus, exercitum traducere maturavit atque ibi castra posuit. Quae res et latus unum castrorum ripis fluminis muniebat et post eum quae erant tuta ab hostibus reddebat et commeatus ab Remis reliquisque civitatibus ut sine periculo ad eum portari possent efficiebat. In eo flumine pons erat. Ibi praesidium ponit et in altera parte fluminis Q. Titurium Sabinum legatum cum sex cohortibus relinquit; castra in altitudinem pedum XII vallo fossaque duodeviginti pedum muniri iubet.
+		</latin>
+	</section>
+	<section from="6" to="6">
+		<german>
+			Die Remerstadt Bibrax lag von diesem Lager acht Meilen entfernt. Diese begannen die 
+			Belger aus dem Marsch heraus stark zu belagern. An diesem Tag hielt man mühevoll stand. 
+			Die Belagerungstaktik der Gallier und der Belger ist dieselbe: Sobald man, nachdem man die 
+			Stadt mit der Armee umstellt hat, begonnen hat, von überall her Steine auf die Mauer zu 
+			werfen, und die Mauer von Verteidigern entblößt hat, zündet man nach Bildung der Schildkröte die Tore an und untergräbt die Mauern. Dies geschah damals leicht. Denn wenn eine 
+			so große Menge auf einmal Steine und Wurfgeschosse warf, konnte sich keiner auf der 
+			Mauer halten. Als die Nacht dem Angriff ein Ende gesetzt hatte, schickte der Remer Iccius, 
+			hochadelig und -angesehen bei seinem Stamm, der damals die Stadt regierte, einer von denen, die als Friedensbotschafter zu Cäsar gekommen waren, Botschafter zu diesem: Sie 
+			könnten nicht länger durchhalten, wenn nicht heimlich Hilfe geschickt würde.
+		</german>
+		<latin>
+			Ab his castris oppidum Remorum nomine Bibrax aberat milia passuum VIII. Id ex itinere magno impetu Belgae oppugnare coeperunt. Aegre eo die sustentatum est. Gallorum eadem atque Belgarum oppugnatio est haec: ubi circumiecta multitudine hominum totis moenibus undique in murum lapides iaci coepti sunt murusque defensoribus nudatus est, testudine facta portas succedunt murumque subruunt. Quod tum facile fiebat. Nam cum tanta multitudo lapides ac tela coicerent, in muro consistendi potestas erat nulli. Cum finem oppugnandi nox fecisset, Iccius Remus, summa nobilitate et gratia inter suos, qui tum oppido praeerat, unus ex iis qui legati de pace ad Caesarem venerant, nuntium ad eum mittit, nisi subsidium sibi submittatur, sese diutius sustinere non posse.
+		</latin>
+	</section>
+	<section from="7" to="7">
+		<german>
+			Kurz nach Mitternacht schickte Cäsar den Einwohnern als Verstärkung numidische und 
+			kretische Bogenschützen sowie Schleuderer von den Balearen, und ließ die von denselben, 
+			die als Boten von Iccius gekommen waren, dorthin führen. Mit deren Ankunft nahm mit der 
+			Hoffnung auf Verteidigung der Wille weiterzukämpfen bei den Remern zu, bei den Feinden 
+			aber verlor sich aus demselben Grund die Hoffnung die Stadt einzunehmen. Deshalb marschierten sie kurze Zeit nach ihrem Verweilen bei der Stadt und nachdem sie die Ländereien 
+			der Remer verwüstet und alle Dörfer und Häuser, zu denen sie gelangen konnten, abgebrannt hatten, mit ihrer gesamten Streitmacht auf Cäsars Lager und schlugen ungefähr zwei 
+			Meilen vorher ihr Lager auf; dieses Lager erstreckte sich, soweit man es an Feuer und Rauch 
+			erkennen konnte, auf mehr als acht Meilen Breite.
+		</german>
+		<latin>
+			Eo de media nocte Caesar isdem ducibus usus qui nuntii ab Iccio venerant, Numidas et Cretas sagittarios et funditores Baleares subsidio oppidanis mittit; quorum adventu et Remis cum spe defensionis studium propugnandi accessit et hostibus eadem de causa spes potiundi oppidi discessit. Itaque paulisper apud oppidum morati agrosque Remorum depopulati, omnibus vicis aedificiisque quo adire potuerant incensis, ad castra Caesaris omnibus copiis contenderunt et a milibus passuum minus duobus castra posuerunt; quae castra, ut fumo atque ignibus significabatur, amplius milibus passuum VIII latitudinem patebant.
+		</latin>
+	</section>
+	<section from="8" to="8">
+		<german>
+			Cäsar beschloss, zunächst, wegen der Übermacht der Feinde und ihres außerordentlichen 
+			Rufes von Tapferkeit, einer Schlacht auszuweichen. Dennoch testete er täglich in Reiterscharmützeln deren Kampfkraft und unserer Soldaten Wagemut aus. Sobald er erkannt hatte, dass unsere Soldaten nicht schwächer waren, ließ er auf dem Gelände vor dem Lager, das 
+			zum Aufstellen des Heeres gut gelegen und geeignet war, weil gerade der Hügel, auf welchem er das Lager hatte aufschlagen lassen, ein wenig von der Ebene emporragend so sehr 
+			zum Feinde hin breit war, dass das aufgestellte Heer gut Platz finden konnte und zu beiden 
+			Seiten hin ein Gefälle hatte, zur Stirnseite hin aber nur leicht abschüssig war und langsam 
+			wieder eben wurde, auf beiden Seiten dieses Hügels einen Quergraben von 400 Fuß Länge 
+			ziehen. An den Enden des Grabens ließ er Schanzen errichten und darin Geschütze aufstellen, damit die Feinde, wenn er sein Heer aufgestellt hätte, nicht sein Heer, während es an 
+			den Seiten kämpfte, umgehen könnten, weil sie in Überzahl waren. Hiernach ließ er die zwei 
+			Legionen, die er erst eben angeworben hatte, im Lager zurück, damit sie, wenn es irgendwo 
+			nötig werden sollte, als Entsatz eingreifen könnten. Die übrigen sechs Legionen ließ er sich in 
+			Schlachtordnung auf dem Gelände vor dem Lager aufstellen. Die Feinde hatten ebenfalls ihre 
+			Streitmacht aus dem Lager herausgeführt und aufgestellt.
+		</german>
+		<latin>
+			Caesar primo et propter multitudinem hostium et propter eximiam opinionem virtutis proelio supersedere statuit; cotidie tamen equestribus proeliis quid hostis virtute posset et quid nostri auderent periclitabatur. Ubi nostros non esse inferiores intellexit, loco pro castris ad aciem instruendam natura oportuno atque idoneo, quod is collis ubi castra posita erant paululum ex planitie editus tantum adversus in latitudinem patebat quantum loci acies instructa occupare poterat, atque ex utraque parte lateris deiectus habebat et in fronte leniter fastigatus paulatim ad planitiem redibat, ab utroque latere eius collis transversam fossam obduxit circiter passuum CCCC et ad extremas fossas castella constituit ibique tormenta conlocavit, ne, cum aciem instruxisset, hostes, quod tantum multitudine poterant, ab lateribus pugnantes suos circumvenire possent. Hoc facto, duabus legionibus quas proxime conscripserat in castris relictis ut, si quo opus esset, subsidio duci possent, reliquas VI legiones pro castris in acie constituit. Hostes item suas copias ex castris eductas instruxerunt.
+		</latin>
+	</section>
+	<section from="9" to="9">
+		<german>
+			Zwischen unserem Heer und dem der Feinde lag ein kleiner Sumpf. Die Feinde warteten, 
+			ob unser Heer diesen überquerte; das aber stand kampfbereit da, um, falls jene begännen 
+			ihn zu überqueren, die hierdurch nicht Kampfesbereiten anzugreifen. In der Zwischenzeit 
+			wurde in einem Reitergefecht zwischen den Fronten gekämpft. Als keiner von beiden begann, ihn zu überqueren, führte Cäsar sein Heer nach einem für uns recht erfolgreichen Kavalleriegefecht ins Lager zurück. Die Feinde marschierten sogleich von dort zur Aisne, die, 
+			wie beschrieben, unserem Lager im Rücken lag. Nachdem sie eine Furt ausfindig gemacht 
+			hatten, versuchten sie, einen Teil ihrer Truppen hinüberzubringen, um, wie es ihr Plan war, 
+			wenn sie es schafften, das Kastell, das der Legat Quintus Titurius befehligte, zu erobern und 
+			die Brücke einzureisen; wenn sie dies nicht vermocht hätten, wollten sie das Land der Remer 
+			verwüsten, das für unsere Kriegsführung sehr nützlich war und unserem Heer so den Nachschub abschneiden.
+		</german>
+		<latin>
+			Palus erat non magna inter nostrum atque hostium exercitum. Hanc si nostri transirent hostes expectabant; nostri autem, si ab illis initium transeundi fieret, ut impeditos adgrederentur, parati in armis erant. Interim proelio equestri inter duas acies contendebatur. Ubi neutri transeundi initium faciunt, secundiore equitum proelio nostris Caesar suos in castra reduxit. Hostes protinus ex eo loco ad flumen Axonam contenderunt, quod esse post nostra castra demonstratum est. Ibi vadis repertis partem suarum copiarum traducere conati sunt eo consilio ut, si possent, castellum, cui praeerat Q. Titurius legatus, expugnarent pontemque interscinderent; si minus potuissent, agros Remorum popularentur, qui magno nobis usui ad bellum gerendum erant, commeatuque nostros prohiberent.
+		</latin>
+	</section>
+	<section from="10" to="10">
+		<german>
+			Von Titurius benachrichtigt führte Cäsar die gesamte Kavallerie und leicht bewaffnete 
+			Numider, Schleuderer und Bogenschützen über die Brücke und marschierte auf diese zu. 
+			Hier wurde hart gekämpft. Unsere Männer griffen die Feinde, die im Fluss kampfunfähig 
+			waren, an und töteten viele von ihnen. Die übrigen, die über deren Leichen hinweg den Fluss 
+			tollkühn zu überqueren versuchten, schlugen sie mit einem Geschosshagel zurück; die ersten 
+			aber, die herübergekommen waren, töteten sie, indem sie sie mit der Kavallerie umgingen. 
+			Sobald sie sich in ihrer Hoffnung, sowohl die Stadt einzunehmen als auch den Fluss zu überqueren, getäuscht sahen, und erkannten, dass unser Heer nicht auf das abschüssige Gelände 
+			marschierte, um zu kämpfen und ihnen selbst ihre Vorräte knapp zu werden begannen, hielten sie einen Kriegsrat und beschlossen, dass es das beste sei, ein jeder ginge nach Hause 
+			zurück und sie kämen, um die, in deren Stammesgebiet die Römer zuerst einfielen, zu verteidigen, von allen Seiten her zusammen. Sie wollten lieber in ihrem eigenen Stammesgebiet, als in einem fremden kämpfen und die eigenen Getreidevorräte nutzen. Zu diesem 
+			Schluss führte sie neben anderen Gründen auch der Beweggrund, dass sie erkannt hatten, 
+			dass Diviciacus und die Häduer sich dem Bellovaker-Gebiet näherten. Diese konnten nicht 
+			dazu bewegt werden, noch länger zu bleiben und ihren Stammesbrüdern nicht zu Hilfe zu 
+			kommen.
+		</german>
+		<latin>
+			[Caesar] certior factus ab Titurio omnem equitatum et levis armaturae Numidas, funditores sagittariosque pontem traducit atque ad eos contendit. Acriter in eo loco pugnatum est. Hostes impeditos nostri in flumine adgressi magnum eorum numerum occiderunt; per eorum corpora reliquos audacissime transire conantes multitudine telorum reppulerunt primosque, qui transierant, equitatu circumventos interfecerunt. Hostes, ubi et de expugnando oppido et de flumine transeundo spem se fefellisse intellexerunt neque nostros in locum iniquiorum progredi pugnandi causa viderunt atque ipsos res frumentaria deficere coepit, concilio convocato constituerunt optimum esse domum suam quemque reverti, et quorum in fines primum Romani exercitum introduxissent, ad eos defendendos undique convenirent, ut potius in suis quam in alienis finibus decertarent et domesticis copiis rei frumentariae uterentur. Ad eam sententiam cum reliquis causis haec quoque ratio eos deduxit, quod Diviciacum atque Haeduos finibus Bellovacorum adpropinquare cognoverant. His persuaderi ut diutius morarentur neque suis auxilium ferrent non poterat.
+		</latin>
+	</section>
+	<section from="11" to="11">
+		<german>
+			Dies beschlossen sie und zur zweiten Nachtwache marschierten sie mit großem Getöse 
+			und Lärm ohne bestimmte Ordnung oder Führung ab, weil jeder der erste auf dem Weg zu 
+			sein suchte und eilig nach Hause gelangen wollte. Hierdurch bewirkten sie, dass der Aufbruch einer Flucht sehr ähnlich schien. Cäsar erfuhr davon sofort durch Kundschafter, fürchtete aber einen Hinterhalt und beließ Infanterie wie Kavallerie im Lager, weil er noch nicht 
+			erkannt hatte, aus welchem Grunde sie abmarschierten. Nachdem ihm bei Tagesanbruch die 
+			Sache von Kundschaftern bestätigt worden war, schickte er die gesamte Reiterei voraus, die 
+			die Nachhut aufhalten sollte. Diese stellte er unter den Befehl der Legaten Quintus Pedius 
+			und Lucius Aurunculeius Cotta. Den Legaten Titus Labienus ließ er ihr mit drei Legionen folgen. Jene griffen die Nachhut an, verfolgten sie viele Meilen weit und töteten sehr viele der 
+			Fliehenden. Die Soldaten der Nachhut aber, zu denen man gekommen war, blieben stehen 
+			und hielten Tapfer dem Ansturm unserer Soldaten stand. Die Vordersten aber suchten,
+			kaum, dass sie das Geschrei gehört hatten, sämtlich ohne jede Ordnung Schutz in der Flucht, 
+			da sie sich von der Gefahr fern wähnten und weder durch die Not noch durch eine Führung 
+			zusammengehalten wurden. So töteten unsere Soldaten ohne Gefahr eine große Masse von 
+			ihnen, solange der Tag andauerte; bei Sonnenuntergang beendeten sie die Verfolgung und 
+			kehrten, wie es ihnen befohlen worden war, ins Lager zurück.
+		</german>
+		<latin>
+			Ea re constituta, secunda vigilia magno cum, strepitu ac tumultu castris egressi nullo certo ordine neque imperio, cum sibi quisque primum itineris locum peteret et domum pervenire properaret, fecerunt ut consimilis fugae profectio videretur. Hac re statim Caesar per speculatores cognita insidias veritus, quod qua de causa discederent nondum perspexerat, exercitum equitatumque castris continuit. Prima luce, confirmata re ab exploratoribus, omnem equitatum, qui novissimum agmen moraretur, praemisit. His Q. Pedium et L. Aurunculeium Cottam legatos praefecit; T. Labienum legatum cum legionibus tribus subsequi iussit. Hi novissimos adorti et multa milia passuum prosecuti magnam multitudinem eorum fugientium conciderunt, cum ab extremo agmine, ad quos ventum erat, consisterent fortiterque impetum nostrorum militum sustinerent, priores, quod abesse a periculo viderentur neque ulla necessitate neque imperio continerentur, exaudito clamore perturbatis ordinibus omnes in fuga sibi praesidium ponerent. Ita sine ullo periculo tantam eorum multitudinem nostri interfecerunt quantum fuit diei spatium; sub occasum solis sequi destiterunt seque in castra, ut erat imperatum, receperunt.
+		</latin>
+	</section>
+	<section from="12" to="12">
+		<german>
+			Am nächsten Tag führte Cäsar das Heer, bevor sich die Feinde von Schrecken und Flucht 
+			erholt hatten, ins Stammesgebiet der Suessionen, die der Nachbarstamm der Remer waren, 
+			und marschierte auf einem langen Marsch auf die Stadt Soissons. Diese versuchte er vom 
+			Marsch weg zu belagern, da man hörte, dass sie frei von Verteidigern sei, doch er konnte sie 
+			wegen den zu breiten Gräben und den zu hohen Mauern trotz der wenigen Verteidiger nicht 
+			erobern. Nach Befestigung der Lager ließ er Schutzdächer bauen und alles beschaffen, was 
+			für die Belagerung von Nutzen wäre. In der Zwischenzeit kam die ganze Bande der Suessionen von der Flucht in der vorigen Nacht in der Stadt zusammen. Schnell waren die Schutzdächer an die Stadt herangeführt, die Schanze aufgeschüttet und die Belagerungstürme errichtet worden. Die Größe der Belagerungswerke, die die Gallier noch nie zuvor gesehen oder 
+			gehört hatten, und die Schnelligkeit der Römer veranlassten sie, Legaten zu Cäsar zwecks 
+			Kapitulationsverhandlungen zu schicken. Da die Remer darum baten, erreichten sie, dass sie 
+			begnadigt würden.
+		</german>
+		<latin>
+			Postridie eius diei Caesar, prius quam se hostes ex terrore ac fuga reciperent, in fines Suessionum, qui proximi Remis erant, exercitum duxit et magno itinere [confecto] ad oppidum Noviodunum contendit. Id ex itinere oppugnare conatus, quod vacuum ab defensoribus esse audiebat, propter latitudinem fossae murique altitudinem paucis defendentibus expugnare non potuit. Castris munitis vineas agere quaeque ad oppugnandum usui erant comparare coepit. Interim omnis ex fuga Suessionum multitudo in oppidum proxima nocte convenit. Celeriter vineis ad oppidum actis, aggere iacto turribusque constitutis, magnitudine operum, quae neque viderant ante Galli neque audierant, et celeritate Romanorum permoti legatos ad Caesarem de deditione mittunt et petentibus Remis ut conservarentur impetrant.
+		</latin>
+	</section>
+	<section from="13" to="13">
+		<german>
+			Cäsar nahm von den Mächtigsten des Stammes Geißeln wie auch zwei Söhne des Königs 
+			Galba und ließ sich alle Waffen in der Stadt herausgeben. Dann nahm er die Kapitulation der 
+			Suessionen an und führte das Heer ins Stammesgebiet der Bellovaker. Diese hatten sich mit 
+			all ihrem Gut in der Stadt Bratuspantium zusammengefunden. Als Cäsar von dieser Stadt nur 
+			noch ungefähr fünf Meilen entfernt war, schickten sie alle Alten aus der Stadt, die Cäsar entgegenkamen und laut zu verstehen gaben, sie ergäben sich ihm auf Gnade und Ungnade. 
+			Und würden niemals die Waffen gegen das römische Volk erheben. Ebenso baten, als er zur 
+			Stadt gelangte und dort ein Lager aufschlagen ließ, Kinder und Frauen von der Mauer herab 
+			mit ausgestreckten Armen nach ihrer Sitte die Römer um Frieden.
+		</german>
+		<latin>
+			Caesar, obsidibus acceptis primis civitatis atque ipsius Galbae regis duobus filiis armisque omnibus ex oppido traditis, in deditionem Suessiones accipit exercitumque in Bellovacos ducit. Qui cum se suaque omnia in oppidum Bratuspantium contulissent atque ab eo oppido Caesar cum exercitu circiter milia passuum V abesset, omnes maiores natu ex oppido egressi manus ad Caesarem tendere et voce significare coeperunt sese in eius fidem ac potestatem venire neque contra populum Romanum armis contendere. Item, cum ad oppidum accessisset castraque ibi poneret, pueri mulieresque ex muro passis manibus suo more pacem ab Romanis petierunt.
+		</latin>
+	</section>
+	<section from="14" to="14">
+		<german>
+			 Für diese sprach Diviciacus – denn nach dem Abmarsch der Belger hatte er die Streitkräfte der Häduer entlassen und war zu Cäsar zurückgekehrt: Die Bellovaker hätten schon immer 
+			in Schutz und Freundschaft mit dem Stamm der Häduer gelebt; sie seien von ihren Führern, 
+			die ihnen einredeten, die Häduer seien von Cäsar geknechtet worden und erduldeten Zurücksetzung und schmachvolle Behandlung, dazu angestachelt worden, sich von den Häduern loszulösen sowie gegen das Römische Volk Krieg zu beginnen. Diejenigen, welche diesen Plan ausgeheckt hätten, hätten sich nach Britannien geflüchtet, weil sie wüssten, wie viel 
+			Unheil sie über ihren Stamm brächten. Nicht nur die Bellovaker bäten ihn, er möge seine 
+			Milde und Güte bei ihnen walten lassen, sondern auch die Häduer. Wenn er dies täte, würde 
+			er das Ansehen der Häduer bei allen Belgerstämmen steigern, durch deren Hilfe und Macht 
+			sie, wenn sie Krieg begännen, durchzuhalten gewohnt seien.
+		</german>
+		<latin>
+			Pro his Diviciacus (nam post discessum Belgarum dimissis Haeduorum copiis ad eum reverterat) facit verba: Bellovacos omni tempore in fide atque amicitia civitatis Haeduae fuisse; impulsos ab suis principibus, qui dicerent Haeduos a Caesare in servitutem redacto. Omnes indignitates contumeliasque perferre, et ab Haeduis defecisse et populo Romano bellum intulisse. Qui eius consilii principes fuissent, quod intellegerent quantam calamitatem civitati intulissent, in Britanniam profugisse. Petere non solum Bellovacos, sed etiam pro his Haeduos, ut sua clementia ac mansuetudine in eos utatur. Quod si fecerit, Haeduorum auctoritatem apud omnes Belgas amplificaturum, quorum auxiliis atque opibus, si qua bella inciderint, sustentare consuerint.
+		</latin>
+	</section>
+	<section from="15" to="15">
+		<german>
+			Cäsar erklärte, auf Grund des Ansehens des Diviciacus und der Häduer würde er diese 
+			unter seinen Schutz stellen und Milde walten lassen; da der Stamm aber großen Einfluss bei
+			den Belgern hatte und ein sehr großes Volk war, forderte er von ihnen 600 Geiseln. Diese 
+			übergaben sie und lieferten alle Waffen aus der Stadt aus. Hiernach gelangte er ins Stammesgebiet der Ambianer. Diese ergaben sich mit all ihrer Habe, ohne Anstalten zu machen. 
+			An deren Gebiet grenzte das Stammesland der Nervier an. Als sich Cäsar nach deren Art und 
+			Sitten erkundigte, gab man ihm dies zur Antwort: Kaufleute hätten zu ihnen keinen Zutritt; 
+			sie ließen es nicht zu, dass Wein und die übrigen Luxusgüter zu ihnen eingeführt würden, 
+			weil sie meinten, durch diese Waren erschlaffe ihr Gemüt und ihre Tapferkeit ließe nach. Es 
+			seien wilde und sehr tapfere Krieger und verhöhnten und beschuldigten die übrigen Belgerstämme, sie hätten sich dem römischen Volke ergeben und die vaterländische Tapferkeit fallengelassen. Sie bekräftigten, sie würden weder Gesandte schicken noch irgend ein Friedensangebot annehmen.
+		</german>
+		<latin>
+			Caesar honoris Diviciaci atque Haeduorum causa sese eos in fidem recepturum et conservaturum dixit, et quod erat civitas magna inter Belgas auctoritate atque hominum multitudine praestabat, DC obsides poposcit. His traditis omnibusque armis ex oppido conlatis, ab eo loco in fines Ambianorum pervenit; qui se suaque omnia sine mora dediderunt. Eorum fines Nervii attingebant. Quorum de natura moribusque Caesar cum quaereret, sic reperiebat: nullum esse aditum ad eos mercatoribus; nihil pati vini reliquarumque rerum ad luxuriam pertinentium inferri, quod his rebus relanguescere animos eorum et remitti virtutem existimarent; esse homines feros magnaeque virtutis; increpitare atque incusare reliquos Belgas, qui se populo Romano dedidissent patriamque virtutem proiecissent; confirmare sese neque legatos missuros neque ullam condicionem pacis accepturos.
+		</latin>
+	</section>
+	<section from="16" to="16">
+		<german>
+			Als er drei Tage lang durch deren Gebiet marschiert war, fand er von einem der Gefangenen heraus, dass der Fluss Sabis von seinem Lager nicht mehr als 10 Meilen entfernt sei. 
+			Jenseits dieses Flusses hätten alle Nervier Stellung bezogen und erwarteten dort zusammen 
+			mit den Atrebaten und Virumanduern, ihren Nachbarn (denn diese beiden hatten sie überzeugen können, dass sie ihr Glück im Krieg versuchen sollten), die Ankunft der Römer. Von 
+			ihnen würden auch noch Truppen der Atuatuker erwartet, die bereits auf dem Weg seien. 
+			Die Frauen und jeder, der durch sein Alter zum Kampfe unnütz erschien, hätten sich zu dem 
+			Ort begeben, der wegen der Sümpfe für ein Heer unzugänglich war.
+		</german>
+		<latin>
+			Cum per eorum fines triduum iter fecisset, inveniebat ex captivis Sabim flumen a castris suis non amplius milibus passuum X abesse; trans id flumen omnes Nervios consedisse adventumque ibi Romanorum expectare una cum Atrebatibus et Viromanduis, finitimis suis (nam his utrisque persuaserant uti eandem belli fortunam experirentur); expectari etiam ab iis Atuatucorum copias atque esse in itinere; mulieres quique per aetatem ad pugnam inutiles viderentur in eum locum coniecisse quo propter paludes exercitui aditus non esset.
+		</latin>
+	</section>
+	<section from="17" to="17">
+		<german>
+			Nachdem er von dieser Lage Kenntnis erhalten hatte, schickte er Kundschafter und Zenturionen voraus, die einen für ein Lager geeigneten Platz finden sollten. Zusammen mit uns 
+			marschierten viele von den Belgern, die sich ergeben hatten, und den Galliern, die Cäsar 
+			gefolgt waren. Einige von diesen,  kundschafteten die Marschweise unseres Heeres an diesen Tagen aus und gelangten, wie später von Gefangen erfahren wurde, in der Nacht zu den 
+			Nerviern und erklärten ihnen, zwischen den einzelnen Legionen marschiere ein großer Tross 
+			und es sei keine Mühe, die erste Legion, wenn diese im Lager angekommen wäre und die 
+			restlichen Legionen noch weit entfernt wären, anzugreifen, solange sie noch unter Gepäck 
+			stände. Die restlichen Legionen würden es nicht wagen, Widerstand zu leisten, nachdem die 
+			erste einmal geschlagen und der Tross geplündert worden wäre. Den Rat dieser Überläufer 
+			empfahl auch, dass die Reiterei der Nervier von alters her nichts taugte (denn auch bis heute 
+			liegt ihnen nichts daran, sondern sie schätzen Fußtruppen, wie stark auch immer. Um die 
+			Reiterei ihrer Nachbarn umso leichter abzuwehren, wenn sie auf Beutezügen zu ihnen kommen, sägen sie junge Bäume an und bewirken durch die vielen in die Breite nachwachsenden 
+			äste, auch mit zwischengepflanztem Brombeer- und Dorngesträuch, dass diese Befestigungen mit der Wirkung von Mauern bilden, durch die man nicht nur nicht durchkommen, sondern nicht einmal durchschauen konnte. Weil der Marsch unseres Heeres durch diese Befestigungen aufgehalten wurde, glaubten die Nervier, an ihrem Plan festhalten zu sollen.
+		</german>
+		<latin>
+			His rebus cognitis, exploratores centurionesque praemittit qui locum castris idoneum deligant. Cum ex dediticiis Belgis reliquisque Gallis complures Caesarem secuti una iter facerent, quidam ex his, ut postea ex captivis cognitum est, eorum dierum consuetudine itineris nostri exercitus perspecta, nocte ad Nervios pervenerunt atque his demonstrarunt inter singulas legiones impedimentorum magnum numerum intercedere, neque esse quicquam negotii, cum prima legio in castra venisset reliquaeque legiones magnum spatium abessent, hanc sub sarcinis adoriri; qua pulsa impedimentisque direptis, futurum ut reliquae contra consistere non auderent. Adiuvabat etiam eorum consilium qui rem deferebant quod Nervii antiquitus, cum equitatu nihil possent (neque enim ad hoc tempus ei rei student, sed quicquid possunt, pedestribus valent copiis), quo facilius finitimorum equitatum, si praedandi causa ad eos venissent, impedirent, teneris arboribus incisis atque inflexis crebrisque in latitudinem ramis enatis [et] rubis sentibusque interiectis effecerant ut instar muri hae saepes munimentum praeberent, quo non modo non intrari sed ne perspici quidem posset. His rebus cum iter agminis nostri impediretur, non omittendum sibi consilium Nervii existimaverunt.
+		</latin>
+	</section>
+	<section from="18" to="18">
+		<german>
+			 Das Gelände, des Ortes, den unsere Kundschafter für das Lager ausgesucht hatten, war 
+			so beschaffen: Ein von der Spitze an gleich abschüssiger Hügel neigte sich zum Fluss Sambre, 
+			den wir schon oben genannt hatten. Auf der anderen Seite des Flusses stieg ein Hügel mit
+			derselben Neigung an, am unteren Teil etwa 200 Fuß offen, am oberen Teil aber bewaldet, 
+			sodass man kaum nach Innen hineinsehen konnte. In diesen Wäldern verbargen sich die 
+			Feinde. Auf offenem Gelände entlang dem Fluss wurden wenige Reiterposten gesehen. Der 
+			Fluss war ungefähr drei Fuß tief.  
+			
+		</german>
+		<latin>
+			Loci natura erat haec, quem locum nostri castris delegerant. Collis ab summo aequaliter declivis ad flumen Sabim, quod supra nominavimus, vergebat. Ab eo flumine pari acclivitate collis nascebatur adversus huic et contrarius, passus circiter CC infimus apertus, ab superiore parte silvestris, ut non facile introrsus perspici posset. Intra eas silvas hostes in occulto sese continebant; in aperto loco secundum flumen paucae stationes equitum videbantur. Fluminis erat altitudo pedum circiter trium.
+		</latin>
+	</section>
+	<section from="19" to="19">
+		<german>
+			Cäsar schickte seine Reiterei voraus und folge ihr mit allen Truppen. Seine Heeresordnung war aber anders, als es die Belger den Nerviern geschildert hatten. Weil er sich nämlich 
+			den Feinden näherte, führte Cäsar sechs kampfbereite Legionen so, wie es seine Gewohnheit war. Hinter diesen hatte er den Versorgungstross des ganzen Heeres positioniert. Dann 
+			schlossen zwei Legionen, die als letzte ausgehoben worden waren, den ganzen Zug ab und 
+			schützten so gleichzeitig den Versorgungstross. Unsere Reiter überquerten mit Schleuderern 
+			und Bogenschütze den Fluss und begannen den Kampf mit der Kavallerie der Feinde. Während sich jene wiederholt in die Wälder zu den Ihren zurückzogen und wiederum aus dem 
+			Wald heraus unsere Kavallerie angriffen und unsere Soldaten es nicht wagten, die Fliehenden weiter als bis zur Grenze des ausgedehnten und offenen Geländes zu verfolgen, begannen inzwischen die sechs Legionen, die als erste gekommen waren, ein Lager abzustecken 
+			und zu errichten. Sobald die Spitze des Versorgungstross unseres Heeres von den Feinden, 
+			die sich in den Wäldern verbargen, gesehen worden war, bildeten sie Schlachtreihe und  
+			-ordnung, feuerten sich gegenseitig an und stürzten plötzlich mit all ihren Truppen hervor 
+			und griffen unsere Reiterei an. Diesen Zeitpunkt hatten sie nämlich untereinander ausgemacht, um die Schlacht zu beginnen. Nachdem diese leicht geschlagen und verjagt worden 
+			waren, stürmten sie unglaublich schnell zum Fluss herab. Genauso schnell aber stürmten sie 
+			auf den gegenüberliegenden Hügel zu unserem Lager und stießen mit denen, die gerade mit 
+			dem Lagerbau beschäftigt waren, zusammen. So schien es, als ob die Feinde gleichzeitig bei 
+			den Wäldern, im Fluss und schon in unseren Händen seien.
+		</german>
+		<latin>
+			Caesar equitatu praemisso subsequebatur omnibus copiis; sed ratio ordoque agminis aliter se habebat ac Belgae ad Nervios detulerant. Nam quod hostibus adpropinquabat, consuetudine sua Caesar VI legiones expeditas ducebat; post eas totius exercitus impedimenta conlocarat; inde duae legiones quae proxime conscriptae erant totum agmen claudebant praesidioque impedimentis erant. Equites nostri cum funditoribus sagittariisque flumen transgressi cum hostium equitatu proelium commiserunt. Cum se illi identidem in silvis ad suos reciperent ac rursus ex silva in nostros impetum facerent, neque nostri longius quam quem ad finem porrecta [ac] loca aperta pertinebant cedentes insequi auderent, interim legiones VI quae primae venerant, opere dimenso, castra munire coeperunt. Ubi prima impedimenta nostri exercitus ab iis qui in silvis abditi latebant visa sunt, quod tempus inter eos committendi proelii convenerat, ut intra silvas aciem ordinesque constituerant atque ipsi sese confirmaverant, subito omnibus copiis provolaverunt impetumque in nostros equites fecerunt. His facile pulsis ac proturbatis, incredibili celeritate ad flumen decucurrerunt, ut paene uno tempore et ad silvas et in flumine [et iam in manibus nostris] hostes viderentur. Eadem autem celeritate adverso colle ad nostra castra atque eos qui in opere occupati erant contenderunt.
+		</latin>
+	</section>
+	<section from="20" to="20">
+		<german>
+			Cäsar musste alles gleichzeitig tun: die Fahne aufstecken, die das Zeichen gab, zu den 
+			Waffen zu eilen, das Signal mit der Tuba geben, die Soldaten von den Befestigungsarbeiten 
+			zurückrufen, die abrufen, die ein wenig weiter weggegangen waren, um Baustoff zu besorgen, das Heer aufstellen, die Soldaten anfeuern, das Signal geben. An einem großen Teil dieser Aufgaben hinderten ihn der Mangel an Zeit und der Angriff der Feinde. In dieser gefährlichen Lage halfen zwei Dinge: Geschick und Erfahrung der Soldaten, die sie in den letzten 
+			Schlachten gesammelt hatten. Was zu tun war, wussten sie nicht weniger gut selbst als es 
+			von anderen gesagt zu bekommen; und dann, dass Cäsar den einzelnen Legaten verboten 
+			hatte, von den Befestigungsarbeiten oder ihren Legionen abzurücken, bevor das Lager befestigt war. Wegen der Nähe und Schnelligkeit der Feinde warteten diese nicht mehr auf Cäsars 
+			Befehl, sondern ordneten selbstständig an, was sie für richtig hielten.
+		</german>
+		<latin>
+			Caesari omnia uno tempore erant agenda: vexillum proponendum, quod erat insigne, cum ad arma concurri oporteret; signum tuba dandum; ab opere revocandi milites; qui paulo longius aggeris petendi causa processerant arcessendi; acies instruenda; milites cohortandi; signum dandum. Quarum rerum magnam partem temporis brevitas et incursus hostium impediebat. His difficultatibus duae res erant subsidio, scientia atque usus militum, quod superioribus proeliis exercitati quid fieri oporteret non minus commode ipsi sibi praescribere quam ab aliis doceri poterant, et quod ab opere singulisque legionibus singulos legatos Caesar discedere nisi munitis castris vetuerat. Hi propter propinquitatem et celeritatem hostium nihil iam Caesaris imperium expectabant, sed per se quae videbantur administrabant.
+		</latin>
+	</section>
+	<section from="21" to="21">
+		<german>
+			Cäsar ordnete die notwendigen Dinge an und eilte zu dem Abschnitt, zu dem der Zufall 
+			ihn brachte, um die Soldaten anzufeuern, und traf dann auf die zehnte Legion.  Er feuerte die 
+			Soldaten mit einer nicht besonders Langen Rede an, sie sollten sich ihre alte Tapferkeit ins 
+			Gedächtnis rufen, sich nicht verwirren lassen und dem Angriff der Feinde tapfer standhalten. 
+			Da die Feinde bereits so nah waren, dass man auf sie schießen konnte, gab er das Zeichen
+			zum Beginn der Schlacht. Ebenso ging er zu einem anderen Abschnitt, um die Soldaten anzufeuern, fand sie aber schon im Kampfe begriffen. Die Zeit war so knapp und die Feinde griffen so risikofreudig an, dass nicht mal die Zeit blieb, die Rangabzeichen anzulegen, die Helme 
+			anzuziehen und die Abdeckungen von den Schilden wegzunehmen. Jeder kam von den Befestigungsarbeiten zufällig zu einem Abschnitt und blieb bei dem Feldzeichen, das er zuerst 
+			sah, um nicht beim Suchen nach seiner Einheit Zeit zum Kampf zu verlieren.
+		</german>
+		<latin>
+			Caesar, necessariis rebus imperatis, ad cohortandos milites, quam [in] partem fors obtulit, decucurrit et ad legionem decimam devenit. Milites non longiore oratione cohortatus quam uti suae pristinae virtutis memoriam retinerent neu perturbarentur animo hostiumque impetum fortiter sustinerent, quod non longius hostes aberant quam quo telum adigi posset, proelii committendi signum dedit. Atque in alteram item cohortandi causa profectus pugnantibus occurrit. Temporis tanta fuit exiguitas hostiumque tam paratus ad dimicandum animus ut non modo ad insignia accommodanda sed etiam ad galeas induendas scutisque tegimenta detrahenda tempus defuerit. Quam quisque ab opere in partem casu devenit quaeque prima signa conspexit, ad haec constitit, ne in quaerendis suis pugnandi tempus dimitteret.
+		</latin>
+	</section>
+	<section from="22" to="22">
+		<german>
+			Das Heer war eher aufgestellt, wie es das Gelände, der Abhang des Hügels und der Zeitmangel, als die militärischen Grundsätze erforderten. Weil die verschiedenen Legionen getrennt von einander in anderen Abschnitten den Feinden Widerstand leisteten und die Sicht 
+			durch die dichten Verzäunungen behindert wurde, konnte Cäsar keine bestimmten Reserven 
+			aufstellen und Vorkehrungen dafür treffen, was in jedem Abschnitt nötig wäre. Auch konnten nicht alle Befehle von einem allein gegeben werden.  Bei einer so ungünstigen Lage 
+			nahm es auch einen unterschiedlichen Ausgang.
+		</german>
+		<latin>
+			Instructo exercitu magis ut loci natura [deiectusque collis] et necessitas temporis quam ut rei militaris ratio atque ordo postulabat, cum diversae legiones aliae alia in parte hostibus resisterent saepibusque densissimis, ut ante demonstravimus, interiectis prospectus impediretur, neque certa subsidia conlocari neque quid in quaque parte opus esset provideri neque ab uno omnia imperia administrari poterant. Itaque in tanta rerum iniquitate fortunae quoque eventus varii sequebantur.
+		</latin>
+	</section>
+	<section from="23" to="23">
+		<german>
+			Die Soldaten er neunten und zehnten Legion, die der linke Flügel des Heeres waren, 
+			schleuderten ihre Speere und trieben die vom Laufen und der Ermattung ermüdeten sowie 
+			von Wunden geschwächten Atrebaten (denn ihnen war dieser Abschnitt zugefallen) schnell 
+			von der Höhe hinunter in den Fluss, verfolgten die, die ihn überqueren wollten, hinderten sie 
+			daran und töteten viele von ihnen mit dem Schwert. Sie zögerten nicht, selbst den Fluss zu 
+			überqueren und stießen in unebenes Gelände vor, wo sie die wiederum Widerstand leistenden Feinde nach wiederholtem Kampfe in die Flucht schlugen. Ebenso schlugen zwei einzelne Legionen, die elfte und die achte Legion, an einem anderen Abschnitt, die Viromanduer, 
+			mit welchen sie zusammengestoßen waren, von der Höhe aus und fochten mit ihnen direkt 
+			am Flussufer. Weil aber fast alle Lager von vorne und von der linken Seite unverteidigt gelassen waren, stürmten alle Nervier in äußerst dichter Schlachtreihe unter ihrem Führer Boduognatus, der den Oberbefehl inne hatte, hierhin, während die zwölfte Legion und nicht 
+			weit davon entfernt die siebte Legion an der rechten Flügelspitze stand. Ein Teil der Nervier 
+			begann, die Legionen auf der offenen Seite zu umgehen, der andere Teil, die Höhe des Lagers zu gewinnen. 
+			
+		</german>
+		<latin>
+			Legionis VIIII. et X. milites, ut in sinistra parte aciei constiterant, pilis emissis cursu ac lassitudine exanimatos vulneribusque confectos Atrebates (nam his ea pars obvenerat) celeriter ex loco superiore in flumen compulerunt et transire conantes insecuti gladiis magnam partem eorum impeditam interfecerunt. Ipsi transire flumen non dubitaverunt et in locum iniquum progressi rursus resistentes hostes redintegrato proelio in fugam coniecerunt. Item alia in parte diversae duae legiones, XI. et VIII., profligatis Viromanduis, quibuscum erant congressae, ex loco superiore in ipsis fluminis ripis proeliabantur. At totis fere castris a fronte et a sinistra parte nudatis, cum in dextro cornu legio XII. et non magno ab ea intervallo VII. constitisset, omnes Nervii confertissimo agmine duce Boduognato, qui summam imperii tenebat, ad eum locum contenderunt; quorum pars ab aperto latere legiones circumvenire, pars summum castrorum locum petere coepit.
+		</latin>
+	</section>
+	<section from="24" to="24">
+		<german>
+			Zur selben Zeit wollten sich unsere Kavallerie und leicht bewaffnete Infanteristen, die mit 
+			diesen kämpften, die, wie ich gesagt hatte, beim ersten Angriff der Feinde geschlagen worden waren, sich ins Lager zurückziehen. Da stießen sie auf die entgegenrückenden Feinde 
+			und flohen wieder auf der anderen Seite. Auch die Trossknechte, die vom Haupttor und vom 
+			höchsten Kamm des Hügels aus gesehen hatten, wie unsere Soldaten siegreich den Fluss 
+			überquert hatten und dann herausgeeilt waren, um Beute zu machen, ergriffen kopfüber die 
+			Flucht, als sie sich umsahen und bemerkten, dass die Feinde bereits im Lager waren. Gleichzeitig erhob sich bei denen, die mit dem Tross marschierten, Geschrei und Lärm, und sie 
+			stürmten durcheinander in alle Richtungen davon. All diese Geschehnisse beeindruckten die 
+			Treverer, die bei den Galliern im Ruf außerordentlicher Tapferkeit stehen und von ihrem 
+			Stamm als Hilfstruppen geschickt zu Cäsar gekommen waren, außerordentlich. Als sie gesehen hatten, wie eine Masse von Feinden unser Lager überschwemmte, unsere Legionen zurückdrängte und fast eingeschlossen hielt, die Trossknechte, Reiter, Schleuderer und Numider zerstreut und zersprengt die Flucht in alle Richtungen ergriffen, eilten sie nach Hause, 
+			weil sie unsere Sache für verloren hielten. Sie berichteten ihrem Stamm, die Römer seien 
+			total besiegt, des Lagers und des Trosses habe sich der Feind bemächtigt.  
+			
+		</german>
+		<latin>
+			Eodem tempore equites nostri levisque armaturae pedites, qui cum iis una fuerant, quos primo hostium impetu pulsos dixeram, cum se in castra reciperent, adversis hostibus occurrebant ac rursus aliam in partem fugam petebant; et calones, qui ab decumana porta ac summo iugo collis nostros victores flumen transire conspexerant, praedandi causa egressi, cum respexissent et hostes in nostris castris versari vidissent, praecipites fugae sese mandabant. Simul eorum qui cum impedimentis veniebant clamor fremitusque oriebatur, aliique aliam in partem perterriti ferebantur. Quibus omnibus rebus permoti equites Treveri, quorum inter Gallos virtutis opinio est singularis, qui auxilii causa a civitate missi ad Caesarem venerant, cum multitudine hostium castra [nostra] compleri, legiones premi et paene circumventas teneri, calones, equites, funditores, Numidas diversos dissipatosque in omnes partes fugere vidissent, desperatis nostris rebus domum contenderunt: Romanos pulsos superatosque, castris impedimentisque eorum hostes potitos civitati renuntiaverunt.
+		</latin>
+	</section>
+	<section from="25" to="25">
+		<german>
+			Cäsar eilte nach der Anfeuerungsrede an die zehnte Legion zur Spitze des rechten Flügels. Dort sah er, dass seine Soldaten bedrängt wurden und die Feldzeichen auf einem Fleck 
+			waren und die Soldaten der zwölften Legion dicht zusammengedrängt waren, sodass sie sich 
+			selbst beim Kampf behinderten. Alle Zenturionen der vierten Kohorte waren gefallen, der 
+			Feldzeichenträger tot, der Adler war verloren, fast alle Zenturionen der übrigen Kohorten 
+			waren entweder verwundet oder bereits gefallen, unter diesen der Rangälteste, Publius Sextius Baculus, ein unglaublich tapferer Mann, der so schwere Wunden davongetragen hatte, 
+			dass er sich kaum noch auf den Füßen halten konnte. Die übrigen waren stark ermüdet und 
+			einige aus der letzten Reihe verließen die Schlacht nach dem Platzverlust und brachten sich 
+			vor den Wurfgeschossen in Sicherheit. Die Feinde griffen ununterbrochen von vorne und von 
+			unten an, drangen von allen Seiten aus vor und Cäsar sah die Situation und erkannte, dass es 
+			keine Reserve gab, die er schicken könnte. Deshalb entriss er einem Soldaten aus der letzten 
+			Reihe seinen Schild, weil er selbst ohne Schild dorthin gekommen war, stieß bis zur ersten 
+			Schlachtreihe vor, rief die Zenturionen namentlich, feuerte die übrigen Soldaten an und befahl, anzugreifen und die Manipel zu lockern, damit man umso leichter mit dem Schwert 
+			kämpfen könnte. Seine Ankunft dort brachte den Soldaten neue Hoffnung und frischen Mut, 
+			da jeder seinen Dienst unter den Augen des Feldherrn auch in größter Gefahr leisten wollte. 
+			So wurde der Ansturm der Feinde ein wenig aufgehalten.  
+			
+		</german>
+		<latin>
+			Caesar ab X. legionis cohortatione ad dextrum cornu profectus, ubi suos urgeri signisque in unum locum conlatis XII. legionis confertos milites sibi ipsos ad pugnam esse impedimento vidit, quartae cohortis omnibus centurionibus occisis signiferoque interfecto, signo amisso, reliquarum cohortium omnibus fere centurionibus aut vulneratis aut occisis, in his primipilo P. Sextio Baculo, fortissimo viro, multis gravibusque vulneribus confecto, ut iam se sustinere non posset, reliquos esse tardiores et non nullos ab novissimis deserto loco proelio excedere ac tela vitare, hostes neque a fronte ex inferiore loco subeuntes intermittere et ab utroque latere instare et rem esse in angusto vidit, neque ullum esse subsidium quod submitti posset, scuto ab novissimis [uni] militi detracto, quod ipse eo sine scuto venerat, in primam aciem processit centurionibusque nominatim appellatis reliquos cohortatus milites signa inferre et manipulos laxare iussit, quo facilius gladiis uti possent. Cuius adventu spe inlata militibus ac redintegrato animo, cum pro se quisque in conspectu imperatoris etiam in extremis suis rebus operam navare cuperet, paulum hostium impetus tardatus est.
+		</latin>
+	</section>
+	<section from="26" to="26">
+		<german>
+			Cäsar sah, dass die siebte Legion, die nahe stand, ebenfalls vom Feind bedrängt wurde. 
+			Deshalb befahl er den Kriegstribunen, die Legionen allmählich zusammenzuschließen und 
+			die Feinde umgekehrt anzugreifen. Da sie sich hiernach gegenseitig Unterstützung leisten 
+			konnten und nicht mehr fürchten mussten, hinten vom Feinde umgangen zu werden, begannen sie, ungestümer Widerstand zu leisten und stärker zu kämpfen. Inzwischen erblickten die Feinde die Soldaten der zwei Legionen, die zum Schutz des Trosses ganz hinten positioniert gewesen waren und denen der über den Verlauf der Schlacht berichtet worden war 
+			und deshalb hergeeilt waren, auf der Spitze des Hügels. Auch eroberte Titus Labienus das 
+			Lager der Feinde, sah, was in unserem Lager geschah, und schickte unseren Truppen die 
+			zehnte Legion zu Hilfe. Als diese Soldaten aus der Flucht der Reiter und Trossknechte ersahen, wie schlimm die Sache stand und in welch großer Gefahr sich das Lager, die Legionen 
+			und der Feldherr befanden, beeilten sie sich, dorthin zu gelangen.  
+			
+		</german>
+		<latin>
+			Caesar, cum VII. legionem, quae iuxta constiterat, item urgeri ab hoste vidisset, tribunos militum monuit ut paulatim sese legiones coniungerent et conversa signa in hostes inferrent. Quo facto cum aliis alii subsidium ferrent neque timerent ne aversi ab hoste circumvenirentur, audacius resistere ac fortius pugnare coeperunt. Interim milites legionum duarum quae in novissimo agmine praesidio impedimentis fuerant, proelio nuntiato, cursu incitato in summo colle ab hostibus conspiciebantur, et T.Labienus castris hostium potitus et ex loco superiore quae res in nostris castris gererentur conspicatus X.legionem subsidio nostris misit. Qui cum ex equitum et calonum fuga quo in loco res esset quantoque in periculo et castra et legiones et imperator versaretur cognovissent, nihil ad celeritatem sibi reliqui fecerunt.
+		</latin>
+	</section>
+	<section from="27" to="27">
+		<german>
+			 Deren Ankunft wandelte das Blatt so sehr, dass unsere Soldaten – auch die, die vor Verletzungen erschöpft dagelegen hatten, stützten sich auf ihre Schilde – den Kampf wieder 
+			aufnahmen. Die Trossknechte gingen sogar unbewaffnet auf Bewaffnete los, als sie die eingeschüchterten Feinde sahen. Die Reiter aber taten sich im Kampf überall vor den Legionären hervor, da sie die Schande ihrer Flucht durch Tapferkeit wettmachen wollten. Aber auch 
+			die Feinde waren in hoffnungsloser Lage so mutig, dass, wenn ihre Vordermänner gefallen
+			waren, sich die Hintermänner auf sie stellten und von deren Körpern herab kämpften; als 
+			auch diese gefallen waren und die Leichen sich türmten, schossen die Überlebenden wie von 
+			einem Grabhügel auf unsere Soldaten und schleuderten aufgefangene Speere zurück, sodass 
+			man diese Männer als sehr mutig einschätzen muss und sagen muss, dass sie nicht unnütz 
+			den unglaublich breiten Fluss zu überqueren gewagt, die hohen Ufer erklommen und unwegsames Gelände hinaufgestürmt sind. Diese leichten Dinge von all den Schwierigkeiten 
+			hatte ihr Mut überwunden.	
+		</german>
+		<latin>
+			Horum adventu tanta rerum commutatio est facta ut nostri, etiam qui vulneribus confecti procubuissent, scutis innixi proelium redintegrarent, calones perterritos hostes conspicati etiam inermes armatis occurrerent, equites vero, ut turpitudinem fugae virtute delerent, omnibus in locis pugnae se legionariis militibus praeferrent. At hostes, etiam in extrema spe salutis, tantam virtutem praestiterunt ut, cum primi eorum cecidissent, proximi iacentibus insisterent atque ex eorum corporibus pugnarent, his deiectis et coacervatis cadaveribus qui superessent ut ex tumulo tela in nostros conicerent et pila intercepta remitterent: ut non nequiquam tantae virtutis homines iudicari deberet ausos esse transire latissimum flumen, ascendere altissimas ripas, subire iniquissimum locum; quae facilia ex difficillimis animi magnitudo redegerat.
+		</latin>
+	</section>
+	<section from="28" to="28">
+		<german>
+			Nach dieser Schlacht, bei der der Stamm und der Namen der Nervier fast völlig ausgerottet worden war, glaubten die Alten, die, wie wir gesagt hatten, zusammen mit den Frauen 
+			und Kindern in Seelachen und Sümpfe verbracht worden waren, nach den Berichten von der 
+			Schlacht könne die Sieger nichts mehr aufhalten und die Besiegten seien nicht sicher. Deshalb schickten sie in Übereinstimmung mit allen Überlebenden, Gesandte zu Cäsar und ergaben sich ihm. Und beim Beklagen über das Unglück des Stammes sagten sie, er sei von 600 
+			auf drei Senatoren, von 60.000 waffenfähigen Männern auf kaum 500 geschrumpft.  
+			Cäsar schonte sie, da er barmherzig zu den Elenden und Armen scheinen wollte. Er ließ sie 
+			ihr Gebiet und ihre Städte weiter bewohnen und befahl ihren Nachbarn, sich und ihre Bundesgenossen von Unrecht und Misshandlung derer abzuhalten.
+		</german>
+		<latin>
+			Hoc proelio facto et prope ad internecionem gente ac nomine Nerviorum redacto, maiores natu, quos una cum pueris mulieribusque in aestuaria ac paludes coniectos dixeramus, hac pugna nuntiata, cum victoribus nihil impeditum, victis nihil tutum arbitrarentur, omnium qui supererant consensu legatos ad Caesarem miserunt seque ei dediderunt; et in commemoranda civitatis calamitate ex DC ad tres senatores, ex hominum milibus LX vix ad D, qui arma ferre possent, sese redactos esse dixerunt. Quos Caesar, ut in miseros ac supplices usus misericordia videretur, diligentissime conservavit suisque finibus atque oppidis uti iussit et finitimis imperavit ut ab iniuria et maleficio se suosque prohiberent.
+		</latin>
+	</section>
+	<section from="29" to="29">
+		<german>
+			Die Atuatuker, von denen wir schon oben berichtet haben, wollten den Nerviern mit all 
+			ihren Kriegern zu Hilfe kommen, doch auf die Kunde von dieser Schlacht hin kehrten sie auf 
+			dem Weg um und gingen in ihr Gebiet zurück. Sie verließen all ihre Städte und verbrachten 
+			all ihre Habe in eine einzige Stadt, die durch ihre natürliche Lage hervorragend geschützt 
+			war. Obwohl sie auf allen Seiten ringsum von sehr hohen Felsen und steilen Abhängen umgeben war, blieb auf der einen Seite ein nicht mehr als 200 Fuß breiter leicht ansteigender 
+			Zugang frei. Den hatten sie mit einer sehr hohen Doppelmauer befestigt. Dann brachten sie 
+			sehr schwere Steine und vorne zugespitzte Balken auf die Mauer. Sie selbst waren Abkömmlinge der Kimbern und Teutonen, die, als sie in unsere Provinz und nach Italien marschierten, 
+			ihre Habe, die sie nicht mit sich führen oder tragen konnten, jenseits des Rheins in Sicherheit 
+			gebracht und bei einer Schutzmannschaft von 6.000 Männern zurückgelassen hatten. Nach 
+			dem Niedergang der Stämme wurden sie viele Jahre lang von ihren Nachbarn aufgerüttelt, 
+			weil sie einmal Krieg begannen, einmal sich gegen einen angefangenen Krieg verteidigten. 
+			Bald hatten sie Frieden geschlossen und hatten sich nach Übereinkunft aller diesen Ort als 
+			Heimat ausgesucht.
+		</german>
+		<latin>
+			Atuatuci, de quibus supra diximus, cum omnibus copiis auxilio Nerviis venirent, hac pugna nuntiata ex itinere domum reverterunt; cunctis oppidis castellisque desertis sua omnia in unum oppidum egregie natura munitum contulerunt. Quod cum ex omnibus in circuitu partibus altissimas rupes deiectusque haberet, una ex parte leniter acclivis aditus in latitudinem non amplius pedum CC relinquebatur; quem locum duplici altissimo muro munierant; tum magni ponderis saxa et praeacutas trabes in muro conlocabant. Ipsi erant ex Cimbris Teutonisque prognati, qui, cum iter in provinciam nostram atque Italiam facerent, iis impedimentis quae secum agere ac portare non poterant citra flumen Rhenum depositis custodiam [ex suis] ac praesidium VI milia hominum una reliquerant. Hi post eorum obitum multos annos a finitimis exagitati, cum alias bellum inferrent, alias inlatum defenderent, consensu eorum omnium pace facta hunc sibi domicilio locum delegerant.
+		</latin>
+	</section>
+	<section from="30" to="30">
+		<german>
+			 Direkt nach dem Eintreffen unseres Heeres machten sie häufige Ausfälle und maßen sich 
+			in Scharmützeln mit unseren Soldaten. Später, nachdem sie sich mit einem Wall von 15.000 
+			Fuß Umfang und zahlreichen Stützpunkten verschanzt hatten, blieben sie in der Stadt. Als sie 
+			sahen, dass der Belagerungsturm in der Ferne aufgestellt wurde, nachdem bereits die 
+			Schutzdächer gebaut und der Wall aufgeschüttet worden waren, verspotteten sie uns zuerst 
+			von der Mauer herab und höhnten laut, weil eine so große Kriegsmaschine in so großer Entfernung aufgestellt wurde. Mit welchen Händen oder welchen Kräften denn glaubten zumal
+			kleine Menschen (denn gewöhnlich verachteten alle Gallier unsere Kurzwüchsigkeit im Vergleich mit ihrer Größe) einen so schweren Turm an die Mauer heranschaffen zu können?
+		</german>
+		<latin>
+			Ac primo adventu exercitus nostri crebras ex oppido excursiones faciebant parvulisque proeliis cum nostris contendebant; postea vallo pedum XII in circuitu quindecim milium crebrisque castellis circummuniti oppido sese continebant. Ubi vineis actis aggere extructo turrim procul constitui viderunt, primum inridere ex muro atque increpitare vocibus, quod tanta machinatio a tanto spatio institueretur: quibusnam manibus aut quibus viribus praesertim homines tantulae staturae (nam plerumque omnibus Gallis prae magnitudine corporum quorum brevitas nostra contemptui est) tanti oneris turrim in muro sese posse conlocare confiderent?
+		</latin>
+	</section>
+	<section from="31" to="31">
+		<german>
+			Sobald sie aber sahen, dass er sich bewegte und sich der Mauer näherte, sandten sie von 
+			einem neuen und ungewöhnlichen Anblick veranlasst Gesandte zu Cäsar, um über die Kapitulation zu verhandeln. Die sprachen bald zu ihm: Sie glaubten, die Römer führten Krieg mit 
+			göttlichem Beistand, wenn sie so hohe Kriegsmaschinen so schnell voranbewegen könnten. 
+			Sie sagten, sie ergäben sich mit all ihrer Habe in deren Gewalt. Nur eines erbäten und erflehten sie: Wenn er in seiner Milde und Gutherzigkeit, von der sie selbst von anderen gehört 
+			hätten, beschlösse, die Atuatuker zu schonen, möge er sie nicht ihrer Waffen berauben. Fast 
+			all ihre Nachbarstämme seien mit ihnen verfeindet und beneideten sie um ihre Tapferkeit. 
+			Vor denen könnten sie sich nicht verteidigen, wenn sie ihre Waffen abgeben müssten. Ihnen 
+			sei es lieber, wenn es zu diesem Fall käme, auch noch so sehr ihr Schicksal vom römischen 
+			Volk zu erdulden, als von diesem durch Marter getötet zu werden, über die sie gewohnt gewesen waren, zu herrschen.
+		</german>
+		<latin>
+			 Ubi vero moveri et adpropinquare muris viderunt, nova atque inusitata specie commoti legatos ad Caesarem de pace miserunt, qui ad hunc modum locuti; non se existimare Romanos sine ope divina bellum gerere, qui tantae altitudinis machinationes tanta celeritate promovere possent; se suaque omnia eorum potestati permittere dixerunt. Unum petere ac deprecari: si forte pro sua clementia ac mansuetudine, quam ipsi ab aliis audirent, statuisset Atuatucos esse conservandos, ne se armis despoliaret. Sibi omnes fere finitimos esse inimicos ac suae virtuti invidere; a quibus se defendere traditis armis non possent. Sibi praestare, si in eum casum deducerentur, quamvis fortunam a populo Romano pati quam ab his per cruciatum interfici inter quos dominari consuessent.
+		</latin>
+	</section>
+	<section from="32" to="32">
+		<german>
+			Darauf antwortete Cäsar: Er werde den Stamm mehr aus seiner Gewohnheit schonen als 
+			deswegen, weil sie es verdient hätten, wenn sie sich ergeben würden, bevor der Rammbock 
+			die Mauer berührt hätte. Die Bedingung für die Kapitulation aber sei die Herausgabe der 
+			Waffen. Er wolle das tun, was er bei den Nerviern getan hatte und den Nachbarstämmen 
+			befehlen, Untertanen des römischen Volkes kein Unrecht zuzufügen. Nachdem sie ihren 
+			Stammesgenossen darüber Bericht abgestattet hatten, sagten jene, sie täten das, was ihnen 
+			befohlen wurde. Sie warfen eine große Menge Waffen in den Graben, der vor der Stadt gezogen war, sodass die Waffenhaufen fast bis zur Höhe von Stadtmauer und Wall reichten. 
+			Und dennoch verbargen sie etwa ein Drittel davon und hielten sie in der Stadt zurück, wie 
+			später herausgefunden wurde. An diesem Tag aber öffneten sie die Tore und genossen Frieden.
+		</german>
+		<latin>
+			Ad haec Caesar respondit: se magis consuetudine sua quam merito eorum civitatem conservaturum, si prius quam murum aries attigisset se dedidissent; sed deditionis nullam esse condicionem nisi armis traditis. Se id quod in Nerviis fecisset facturum finitimisque imperaturum ne quam dediticiis populi Romani iniuriam inferrent. Re renuntiata ad suos illi se quae imperarentur facere dixerunt. Armorum magna multitudine de muro in fossam, quae erat ante oppidum, iacta, sic ut prope summam muri aggerisque altitudinem acervi armorum adaequarent, et tamen circiter parte tertia, ut postea perspectum est, celata atque in oppido retenta, portis patefactis eo die pace sunt usi.
+		</latin>
+	</section>
+	<section from="33" to="33">
+		<german>
+			Gleich nach Abend ließ Cäsar die Tore schließen und die Soldaten aus der Stadt abziehen, 
+			damit den Stadtbewohnern bei Nacht von den Soldaten kein Unrecht zugefügt würde., Jene 
+			hatten aber schon vorher ihren Plan gefasst: Weil sie geglaubt hatten, unsere Soldaten würden nach ihrer Kapitulation die Posten verlegen oder wenigstens sorgloser Wache halten, 
+			machten sie, teils mit dem, was sie zurückgehalten hatten, teils mit aus Rinde oder zusammengebundenem Flechtwerk gefertigten Schilden, die sie aus Zeitmangel geschwind mit 
+			Fellen überzogen hatten, bewaffnet, zur dritten Nachtwache, bei der es am leichtesten 
+			schien, unsere Befestigungen zu erklimmen, mit all ihren Männern unvermutet einen Ausfall 
+			aus der Stadt. So, wie Cäsar es vorher befohlen hatte, wurden schnell Signalfeuer angezündet und von den nächsten Schanzen eilte man herbei. Die Feinde kämpften so wild, wie tapfere Männer in hoffnungsloser Lage auf unebenem Gelände gegen Männer kämpfen mussten, die vom Wall und den Türmen herab Geschosse schleuderten, weil allein in dieser 
+			Standhaftigkeit all ihre Hoffnung lag. Als etwa 4.000 Mann gefallen waren, schlugen wir die 
+			übrigen in die Stadt zurück. Am nächsten Tag ließ Cäsar die Stadttore aufbrechen, weil sie
+			niemand mehr verteidigte. Dann ließ er die Soldaten in die Stadt einmarschieren und verkaufte die gesamte Beute. Von den Käufern wurde ihm eine Kopfzahl von 53.000 verrechnet.
+		</german>
+		<latin>
+			Sub vesperum Caesar portas claudi militesque ex oppido exire iussit, ne quam noctu oppidani a militibus iniuriam acciperent. Illi ante inito, ut intellectum est, consilio, quod deditione facta nostros praesidia deducturos aut denique indiligentius servaturos crediderant, partim cum iis quae retinuerant et celaverant armis, partim scutis ex cortice factis aut viminibus intextis, quae subito, ut temporis exiguitas postulabat, pellibus induxerant, tertia vigilia, qua minime arduus ad nostras munitiones accensus videbatur, omnibus copiis repente ex oppido eruptionem fecerunt. Celeriter, ut ante Caesar imperaverat, ignibus significatione facta, ex proximis castellis eo concursum est, pugnatumque ab hostibus ita acriter est ut a viris fortibus in extrema spe salutis iniquo loco contra eos qui ex vallo turribusque tela iacerent pugnari debuit, cum in una virtute omnis spes consisteret. Occisis ad hominum milibus IIII reliqui in oppidum reiecti sunt. Postridie eius diei refractis portis, cum iam defenderet nemo, atque intromissis militibus nostris, sectionem eius oppidi universam Caesar vendidit. Ab iis qui emerant capitum numerus ad eum relatus est milium LIII.
+		</latin>
+	</section>
+	<section from="34" to="34">
+		<german>
+			Zur selben Zeit ließ ihn Publius Crassus, den er mit einer Legion zu den Venetern, Venellern, Osismern, Coriosolitern, Esuviern, Aulerkern und Redonen – Seevölker, deren Gebiet 
+			am Ozean liegt – geschickt hatte, benachrichtigen, dass all diese Stämme nun unter der 
+			Macht und Gewalt des römischen Volkes stünden.
+		</german>
+		<latin>
+			Eodem tempore a P. Crasso, quem cum legione una miserat ad Venetos, Venellos, Osismos, Coriosolitas, Esuvios, Aulercos, Redones, quae sunt maritimae civitates Oceanumque attingunt, certior factus est omnes eas civitates in dicionem potestatemque populi Romani esse redactas.
+		</latin>
+	</section>
+	<section from="35" to="35">
+		<german>
+			Nachdem er hierdurch nun ganz Gallien befriedet hatte, gelangten zu den Barbaren so 
+			große Gerüchte über diesen Krieg, dass die Stämme, die jenseits des Rheins lebten, Gesandtschaften zu Cäsar schickten, die versprachen, ihm Geiseln ausliefern und seinen Befehlen gehorchen zu wollen. Weil Cäsar nach Italien und Illyrien eilen musste, ließ er diese Gesandtschaften zu Beginn des folgenden Sommers zu ihm zurückkehren. Er selbst führte seine Legionen in die Gebiete der Karnuten, Anden, Turonern und der Stämme, die in der Nähe 
+			des Gebiets lebten, wo er Krieg geführt hatte, ins Winterlager und brach dann nach Italien 
+			auf. Deshalb wurde wegen Cäsars Bericht ein Dankfest von 15 Tagen beschlossen, was zuvor 
+			noch niemandem zuteil geworden war.
+		</german>
+		<latin>
+			His rebus gestis omni Gallia pacata, tanta huius belli ad barbaros opinio perlata est uti ab iis nationibus quae trans Rhenum incolerent legationes ad Caesarem mitterentur, quae se obsides daturas, imperata facturas pollicerentur. Quas legationes Caesar, quod in Italiam Illyricumque properabat, inita proxima aestate ad se reverti iussit. Ipse in Carnutes, Andes, Turonos quaeque civitates propinquae iis locis erant ubi bellum gesserat, legionibus in hiberna deductis, in Italiam profectus est. Ob easque res ex litteris Caesaris dierum XV supplicatio decreta est, quod ante id tempus accidit nulli.
+		</latin>
+	</section>
+
+</text>
+</translation>

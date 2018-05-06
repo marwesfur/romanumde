@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Cicero</author>
+	<title>In Catilinam</title>
+	<snippet>Oratio prima</snippet>
+	<translator>Nicole Ortner</translator>
+	<textkind>prosa</textkind>
+	<firstnumber>1</firstnumber>
+	<navigation>
+		<previous url="intro.html">In Catilinam Einführung</previous>
+	</navigation>
+</description>
+<text>
+
+	<section from="1" to="1">
+		<german>
+			Wie lange noch wirst du, Catilina, unsere Geduld mißbrauchen? Wie lange wird uns auch dieser dein Wahnsinn verspotten? Bis zu welchem Zeitpunkt wird sich deine zügellose Frechheit aufschaukeln? Hat dich nicht die nächtliche Bewachung am Palatin, nicht die Wachen der Stadt, nicht die Angst des Volkes, nicht das Zusammenströmen aller Guten, nicht dieser sehr befestigte Ort der Senatssitzung, nicht die Mienen und Blicke der hier Anwesenden bewegt? Dass diese Beschlüsse jedermann bekannt sind, merkst du nicht? Daß deine Verschwörung schon durch das Mitwissen aller Anwesenden gefesselt ist, siehst du nicht? Was du letzte, was du vorletzte Nacht gemacht hast, wo du gewesen bist, wen du zusammengerufen hast, welchen Plan du gefaßt hast, wer von uns, glaubst du, weiß das nicht?
+		</german>
+		<latin>
+			Quo usque tandem abutere, Catilina, patientia nostra? Quam diu etiam furor iste tuus nos eludet? Quem ad finem sese effrenata iactabit audacia? Nihilne te nocturnum praesidium Palatii, nihil urbis vigiliae, nihil timor populi, nihil concursus bonorum omnium, nihil hic munitissimus habendi senatus locus, nihil horum ora voltusque moverunt? Patere tua consilia non sentis? Constrictam iam horum omnium scientia teneri coniurationem tuam non vides? Quid proxima, quid superiore nocte egeris, ubi fueris, quos convocaveris, quid consilii ceperis, quem nostrum ignorare arbitraris?
+		</latin>
+	</section>
+	<section from="2" to="2">
+		<german>
+			Oh Zeiten, oh Sitten! Der Senat versteht dieses, der Konsul sieht zu. Dieser lebt noch. Lebt er? Nein, noch schlimmer, er kommt in den Senat, er nimmt an der öffentlichen Beratung teil, er bezeichnet und wählt mit den Augen zum Mord jeden einzelnen von uns. Wir aber, tapfere Männer, bilden uns ein, daß wir genug für den Staat tun, wenn wir seinen Wahnsinn und die Waffen vermeiden. Daß man dich, Catilina, zum Tod führt auf Befehl des Konsuls, hätte sich schon längst gehört, und daß auf dich das Unheil vereinigt wird, welches du für uns alle schon lange ausbrütest. 
+		</german>
+		<latin>
+			O tempora, o mores! Senatus haec intellegit, consul videt; hic tamen vivit. Vivit? Immo vero etiam in senatum venit, fit publici consilii particeps, notat et designat oculis ad caedem unum quemque nostrum. Nos autem fortes viri satis facere rei publicae videmur, si istius furorem ac tela vitemus. Ad mortem te, Catilina, duci iussu consulis iam pridem oportebat, in te conferri pestem, quam tu in nos omnis iam diu macchinaris.
+		</latin>
+	</section>
+	<section from="3" to="3">
+		<german>
+			Hat wahrlich etwa der angesehenste Mann, P. Scipio, pontifex maximus, als Privatmann den höher strebenden T.Gracchus in der schwankenden Lage des Staates getötet? Sollen wir Konsuln dulden, daß du Catilina dir wünschst, daß die Welt tötet und die Brände verwüsten? Denn es entgeht jenen sehr alten nicht, daß C. S. Ahala von Sp. Maeium mit seinen eigenen Händen getötet wurde, weil er einen Umsturz geplant hatte. Das, das war einst in diesem Staat Tugend, daß tapfer Männer mit schlimmen Strafen einem Bürger im Zaum, schlimmsten als den Feind gehalten wurden. Wir haben einen starken und wichtigen Beschluß gegen dich, Catilina. Dem Staat mangelt es nicht an Entschlossenheit und Einfluß diesem Stand, wir, wir - ich sage es offen - die Konsuln fehlen.
+		</german>
+		<latin>
+			An vero vir amplissimus, P.Scipio, pontifex maximus, Ti. Gracchum mediocriter labefactantem statum rei publicae privatus interfecit: Catilinam orbem terrae caede atque incendiis vastare cupientem nos consules perferemus? Nam illa nimis antiqua praetereo, quod C.Servilius Ahala Sp.Maelium novis rebus studentem manu sua occidit. Fuit, fuit ista quondam in hac re publica virtus, ut viri fortes acrioribus suppliciis civem perniciosum quam acerbissimum hostem coercerent. Habemus senatus consultum in te, Catilina, vehemens et grave; non deest rei publicae consilium neque auctoritas huius ordinis: nos, nos, dico aperte, consules desumus.
+		</latin>
+	</section>
+	<section from="4" to="4">
+		<latin>
+			Decrevit quondam senatus, uti L. Opimius consul videret, ne quid res publica detrimenti caperet; nox nulla intercessit: interfectus est propter quasdam seditionum suspiciones C. Gracchus, clarissimo  patre, avo, maioribus; occisus est cum liberis M. Fulvius consularis. Simili senatus consulto C. Mario et L. Valerio consulibus est permissa res publica; num unum diem postea L. Saturninum tribunum plebis et C. Servilium praetorem mors ac rei publicae poena remorata est? At vero nos vicesimum iam diem patimur hebescere aciem horum auctoritatis. Habemus enim eius modi senatus consultum, verum inclusum in tabulis tamquam in vagina reconditum, quo ex senatus consulto confestim te interfectum esse, Catilina, convenit. Vivis, et vivis non ad deponendam, sed ad confirmandam audaciam. Cupio, patres conscripti, me esse clementem, cupio in tantis rei publicae periculis me non dissolutum videri, sed iam me ipse inertiae nequitiaeque condemno.
+		
+			<newparagraph number="5"/>
+		
+			Castra sunt in Italia contra populum Romanum in Etruriae faucibus conlocata, crescit in dies singulos hostium numerus: eorum autem castrorum imperatorem ducemque hostium intra moenia atque adeo in senatu videmus intestinam aliquam cotidie perniciem rei publicae molientem. Si te iam, Catilina, comprehendi, si interfici iussero, credo, erit verendum mihi, ne non hoc potius omnes boni serius a me quam quisquam crudelius factum esse dicat. Verum ego hoc, quod iam pridem factum esse oportuit, certa de causa nondum adducor, ut faciam. Tum denique interficiere, cum iam nemo tam improbus, tam perditus, tam tui similis inveniri poterit, qui id non iure factum esse fateatur.
+		</latin>
+	</section>
+	<section from="6" to="6">
+		<german>
+			Solange irgendeiner sein wird, der es wagt dich zurückzuhalten, wirst du leben und du wirst so wie du schon lebst: Von meinen starken Schützen bedrängt, damit du nichts gegen den Staat unternehmen kannst. Denn die Augen und Ohren, ohne dass du es merkst, wie sie es bisher gemacht haben, werden dich beobachten und bewachen.
+		</german>
+		<latin>
+			Quamdiu quisquam erit, qui te defendere audeat, vives, et vives ita, ut nunc vivis, multis meis et firmis praesidiis obsessus, ne commovere te contra rem publicam possis. Multorum te etiam oculi et aures non sentientem, sicut adhuc fecerunt, speculabuntur atque custodient. Etenim quid est, Catilina, quod iam amplius exspectes, si neque nox tenebris obscurare coetus nefarios nec privata domus parietibus continere voces coniurationis tuae potest, si inlustrantur, si erumpunt omnia? Muta iam istam mentem, mihi crede, obliviscere caedis atque incendiorum! Teneris undique; luce sunt clariora nobis tua consilia omnia, quae iam mecum licet recognoscas.
+		</latin>
+	</section>
+	<section from="7" to="7">
+		<latin>
+			Meministine me ante diem XII Kalendas Novembris dicere in senatu fore in armis certo die, qui dies futurus esset ante diem VI Kalendas Novembris, C. Manlium, audaciae satellitem atque administrum tuae? Num me fefellit, Catilina, non modo res tanta, tam atrox tamque incredibilis, verum id quod multo magis est admirandum, dies? Dixi ego idem in senatu caedem te optimatium contulisse in ante diem V Kalendas Novembris, tum cum multi principes civitatis Roma non tam sui conservandi quam tuorum consiliorum reprimendorum causa profugerunt. Num infitiari potes te illo ipso die meis praesidiis, mea diligentia circumclusum commovere te contra rem publicam non potuisse, cum tu discessu ceterorum nostra tamen, qui remansissemus, caede contentum te esse dicebas?
+			<newparagraph number="8"/>
+			Quid? Cum te Praeneste Kalendis ipsis Novembribus occupaturum nocturno impetu esse confideres, sensistine illam coloniam meo iussu meis praesidiis, custodiis, vigiliis esse munitam? Nihil agis, nihil moliris, nihil cogitas, quod non ego non modo audiam, sed etiam videam planeque sentiam. Recognosce mecum tandem noctem illam superiorem: iam intelleges multo me vigilare acrius ad salutem quam te ad perniciem rei publicae. Dico te priore nocte venisse inter falcarios - non agam obscure - in M. Laecae domum, convenisse eodem compluris eiusdem amentiae scelerisque socios. Num negare audes? Quid taces? Convincam, si negas. Video enim esse hic in senatu quosdam, qui tecum una fuerunt.
+			<newparagraph number="9"/>
+			O di immortales! Ubinam gentium sumus? Quam rem publicam habemus? In qua urbe vivimus? Hic, hic sunt in nostro numero, patres conscripti, in hoc orbis terrae sanctissimo gravissimoque consilio, qui de nostro omnium interitu, qui de huius urbis atque adeo de orbis terrarum exitio cogitent! Hos ego video consul et de re publica sententiam rogo et, quos ferro trucidari oportebat, eos nondum voce vulnero. Fuisti igitur apud Laecam illa nocte, Catilina, distribuisti partis Italiae, statuisti, quo quemque proficisci placeret, delegisti, quos Romae relinqueres, quos tecum educeres, discripsisti urbis partis ad incendia, confirmasti te ipsum iam esse exiturum, dixisti paulum tibi esse etiam nunc morae, quod ego viverem. Reperti sunt duo equites Romani, qui te ista cura liberarent et se illa ipsa nocte paulo ante lucem me in meo lecto interfecturos esse pollicerentur.
+		</latin>
+	</section>
+	<section from="10" to="10">
+		<german>
+			Weil das so ist, Catilina, setze den Weg fort, den du eingeschlagen hast! Gehe irgendwann aus der Stadt hinaus! Die Tore stehen offen; brich auf! Allzu lange vermisst dich jenes dein manlianische Lager als Feldherr. Führe alle deine auch mit dir hinaus! Wenn weniger, dann möglichst viele! Reinige die Stadt! Du wirst mich von der großen Furcht befreien, wenn nur zwischen mir und dir eine Mauer dazwischen liegt. Du kannst dich nicht mehr länger mit uns aufhalten; ich werde es nicht ertragen, ich werde es nicht dulden, ich lasse das nicht zu.
+		</german>
+		<latin>
+			Haec ego omnia vixdum etiam coetu vestro dimisso comperi; domum meam maioribus praesidiis munivi atque firmavi; exclusi eos, quos tu ad me salutatum mane miseras, cum illi ipsi venissent, quos ego iam multis ac summis viris ad me id temporis venturos esse praedixeram. Quae cum ita sint, Catilina, perge, quo coepisti! Egredere aliquando ex urbe! Patent portae: proficiscere! Nimium diu te imperatorem tua illa Manliana castra desiderant. Educ tecum etiam omnis tuos, si minus, quam plurimos! Purga urbem! Magno me metu liberaveris, modo inter me atque te murus intersit. Nobiscum versari iam diutius non potes: non feram, non patiar, non sinam.
+		</latin>
+	</section>
+	<section from="11" to="11">
+		<latin>
+			Magna dis immortalibus habenda est atque huic ipsi Iovi Statori, antiquissimo custodi huius urbis, gratia, quod hanc tam taetram, tam horribilem tamquam infestam rei publicae pestem totiens iam effugimus. Non est saepius in uno homine summa salus periclitanda rei publicae. Quamdiu mihi consuli designato, Catilina, insidiatus es, non publico me praesidio, sed privata diligentia defendi. Cum proximis comitiis consularibus me consulem in campo et competitores tuos interficere voluisti, compressi conatus tuos nefarios amicorum praesidio et copiis, nullo tumultu publice concitato. Denique quotienscumque me petisti, per me tibi obstiti, quamquam videbam perniciem meam cum magna calamitate rei publicae esse coniunctam.
+			<newparagraph number="12"/>
+			Nunc iam aperte rem publicam universam petis; templa deorum immortalium, tecta urbis, vitam omnium civium, Italiam totam ad  exitium et vastitatem vocas. Quare, quoniam id, quod est primum et quod huius imperii disciplinaeque maiorum proprium est, facere nondum audeo, faciam id, quod est ad severitatem lenius, ad communem salutem utilius. Nam si te interfici iussero, residebit in re publica reliqua coniuratorum manus; sin tu, quod te iam dudum hortor, exieris, exhaurietur ex urbe tuorum comitum magna et perniciosa sentina rei publicae.
+			<newparagraph number="13"/>
+			Quid est, Catilina? Num dubitas id me imperante facere, quod iam tua sponte faciebas? Exire ex urbe iubet consul hostem. Interrogas me, num in exsilium? Non iubeo, sed, si me consulis, suadeo. Quid est enim, Catilina, quod te iam in hac urbe delectare possit? In qua nemo est extra istam coniurationem perditorum hominum, qui te non metuat, nemo, qui non oderit. Quae nota domesticae turpitudinis non inusta vitae tuae est? Quod privatarum rerum dedecus non haeret in fama? Quae libido ab oculis, quod facinus a manibus umquam tuis, quod flagitium a toto corpore afuit? Cui tu adulescentulo, quem corruptelarum inlecebris inretisses, non aut ad audaciam ferrum aut ad libidinem facem praetulisti?
+			<newparagraph number="14"/>
+			Quid vero? Nuper cum morte superioris uxoris novis nuptiis locum vacuefecisses, nonne etiam alio incredibili scelere hoc scelus cumulasti? Quod ego praetermitto et facile patior sileri, ne in hac civitate tanti facinoris immanitas aut exstitisse aut non vindicata esse videatur. Praetermitto ruinas fortunarum tuarum, quas omnis proximis Idibus impendere tibi senties; ad illa venio, quae non ad privatam ignominiam vitiorum tuorum, non ad domesticam tuam difficultatem ac turpitudinem, sed ad summam rem publicam atque ad omnium nostrum vitam salutemque pertinent.
+			<newparagraph number="15"/>
+			Potestne tibi haec lux, Catilina, aut huius caeli spiritus esse  iucundus, cum scias esse horum neminem, qui nesciat te pridie Kalendas Ianuarias Lepido et Tullo consulibus stetisse in comitio cum telo, manum consulum et principum civitatis interficiendorum causa paravisse, sceleri ac furori tuo non mentem aliquam aut timorem tuum, sed fortunam populi Romani obstitisse? Ac iam illa omitto - neque enim sunt aut obscura aut non multa commissa postea - quotiens tu me designatum, quotiens vero consulem interficere conatus es. Quot ego tuas petitiones ita coniectas, ut vitari posse non viderentur, parva quadam declinatione et, ut aiunt, corpore effugi! Nihil agis, nihil adsequeris, neque tamen conari ac velle desistis.
+			<newparagraph number="16"/>
+			Quotiens iam tibi extorta est ista sica de manibus! Quotiens excidit casu aliquo et elapsa est! Tamen ea carere diem unum non potes. Quae quidem quibus abs te initiata sacris ac devota sit, nescio, quod eam necesse putas esse in consulis corpore defigere. Nunc vero quae tua est ista vita? Sic enim iam tecum loquar, non ut odio permotus esse videar, quo debeo, sed ut misericordia, quae tibi nulla debetur. Venisti paulo ante in senatum. Quis te ex hac tanta frequentia, tot ex tuis amicis ac necessariis salutavit? Si hoc post hominum memoriam contigit nemini, vocis exspectas contumeliam, cum sis gravissimo iudicio taciturnitatis oppressus? Quid, quod adventu tuo ista subsellia vacuefacta sunt, quod omnes consulares, qui tibi persaepe ad caedem constituti fuerunt, simul atque adsedisti, partem istam subselliorum nudam atque inanem reliquerunt, quo tandem animo tibi ferendum putas?
+			<newparagraph number="17"/>
+			Servi mehercule mei si me isto pacto metuerent, ut te metuunt omnes cives tui, domum meam relinquendam putarem: tu tibi urbem non arbitraris? Et si me meis civibus iniuria suspectum tam graviter atque offensum viderem, carere me aspectu civium quam infestis omnium oculis conspici mallem: tu, cum conscientia scelerum tuorum agnoscas odium omnium iustum et iam diu tibi debitum, dubitas, quorum mentes sensusque volneras, eorum aspectum praesentiamque vitare? Si te parentes timerent atque odissent tui neque eos ratione ulla placare posses, ut opinor, ab eorum oculis aliquo concederes. Nunc te patria, quae communis est parens omnium nostrum, odit ac metuit et iam diu nihil te iudicat nisi de parricidio suo cogitare: huius tu neque auctoritatem verebere nec iudicium sequere nec vim pertimescere?
+		</latin>
+	</section>
+	<section from="18" to="18">
+		<german>
+			Dieses verhandelt mit dir, Catilina, und auf eine gewisse Weise spricht sie schweigend: Schon seit einigen Jahren geschieht keine Tat nicht ohne dich, keine Schande ohne dich. Die Ermordung vieler Bürger von dir, die Misshandlung und Plünderung der Bundesgenossen von dir nicht bestraft und befreit; du warst nicht nur im Stande Gesetze und Prozesse zu missachten, sondern auch sie zu vernichten und durchbrechen. Jene, früheren Dinge, obwohl sie nicht zu ertragen waren, ertrug ich, wie ich konnte; es ist nicht zu ertragen, dass ich gänzlich einzig wegen dir in Angst bin, bei jedem noch so kleinen Geräusch dass Catilina gefürchtet wird, dass kein Plan gegen mich geschmiedet werden zu können scheint, der von deinen Verbrechen abweicht. Geh wegen dieser Sache weg und entreiße mir diese Furcht; wenn es wahr ist, damit ich nicht unterdrückt werde, wenn es falsch ist, damit ich irgendwann endlich zu fürchten aufhöre.
+		</german>
+		<latin>
+			Quae tecum, Catilina, sic agit et quodam modo tacita loquitur: "Nullum iam aliquot annis facinus exstitit nisi per te, nullum flagitium sine te; tibi uni multorum civium neces, tibi vexatio direptioque sociorum impunita fuit ac libera; tu non solum ad neglegendas leges et quaestiones, verum etiam ad evertendas perfringendasque valuisti. Superiora illa, quamquam ferenda non fuerunt, tamen, ut potui, tuli; nunc vero me totam esse in metu propter unum te, quicquid increpuerit, Catilinam timeri, nullum videri contra me consilium iniri posse, quod a tuo scelere abhorreat, non est ferendum. Quam ob rem discede atque hunc mihi timorem eripe; si est verus, ne opprimar, sin falsus, ut tandem aliquando timere desinam."
+		</latin>
+	</section>
+	<section from="19" to="32">
+		<latin>
+			Nicht übersetzt.
+		</latin>
+	</section>
+</text>
+</translation>

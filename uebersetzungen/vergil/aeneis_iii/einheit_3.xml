@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Vergil</author>
+	<title>Aeneis III</title>
+	<snippet>Verse 506-718</snippet>
+	<translator>Rainer Lohmann</translator>
+	<textkind>poetry</textkind>
+	<firstnumber>506</firstnumber>
+	<navigation>
+		<previous url="intro.html">Aeneis III Einführung</previous>
+		<previous url="einheit_2.xml">Verse 294 bis 505</previous>
+	</navigation>
+</description>
+<text>
+
+	<section from="506" to="547">
+		<german>
+			Wir fuhren los über das Meer bis dicht in die Nähe des benachbarten keraunischen Gebirges, von wo aus der Weg nach Italien führt, und zwar die kürzeste Fahrt durch die Wogen. Inzwischen ging die Sonne unter und die dunklen Berge wurden beschattet. Wir legten uns nieder im Schoß der ersehnten Erde unmittelbar am Meer, nachdem wir die Ruderwache verlost hatten, und ringsumher pflegten wir am trockenen Gestade unsere Körper: Die ermüdeten Glieder erfrischte der Schlaf. Noch nicht nahte sich der Mitte der Kreisbahn die Nacht, geführt von den Horen: Da erhob sich nicht träge Palinurus von seinem Lager, prüfte alle Winde und belauschte die Luft; er beobachtete, wie alles am schweigsamen Himmel dahinglitt, Arcturus, die Regen bringenden Hyaden und die beiden Trionen, und er erblickte den mit Gold bewaffneten Orion. Als er sah, dass sich am heiteren Himmel alles in guter Ordnung befand, gab er vom Heck aus ein lautes Signal: Wir brachen auf, fuhren vorsichtig ab und spannten die Segel auf. Und schon errötete, nachdem sie die Sterne verjagt, Aurora, als wir plötzlich von weitem die dunklen Hügel und das niedrige Italien sahen. "Italien" rief als erster Achates, Italien begrüßten die Kameraden mit fröhlichem Rufen. Dann bekränzte Vater Anchises einen großen Krug und füllte ihn mit Wein, und er rief die Götter an, hoch auf dem Heck stehend: "Ihr Götter des Meeres und des Landes und ihr Herren über die Stürme, gebt uns einen leichten Wind und sendet uns einen günstigen." Frisch wehten die ersehnten Winde, der schon näher kommende Hafen öffnete sich und der Tempel erschien auf der Burg. Die Kameraden refften die Segel und lenkten das Bug der Schiffe in Richtung auf das Gestade. Die vom Ostwind getriebene Flut hat eine bogenförmige Bucht ausgespült, die felsigen Wellenbrecher schäumen von der salzigen Gischt, aber der Hafen selbst ist verborgen: Turmhohe Klippen breiten ihre Arme zu einer doppelten Mauer aus, und zurück tritt vom Gestade der Tempel. Hier sah ich, wie vier Pferde von schneeweißer Farbe, ein erstes Vorzeichen, im Gras ein Feld weithin abweideten. Und Vater Anchises sprach: "Krieg, du fremdes Land, bringst du: Für den Krieg werden die Pferde ausgerüstet, Krieg droht diese Herde an. Aber dennoch sind es dieselben Tiere gewohnt, zuzeiten den Wagen zu ziehen und die Zügel unter ihrem Joch in Eintracht zu tragen: Auch besteht Hoffnung auf Frieden." Dann beteten wir zu der erhabenen Gottheit der waffenklirrenden Pallas, die als erste uns Jubelnde aufnahm, wir verhüllten vor den Altären unsere Häupter mit einem phrygischen Schleier und brachten entsprechend den Weisungen des Helenus, die er als wichtigste gegeben hatte, nach rechtem Brauch zu Ehren der Juno aus Argos die befohlenen Brandopfer dar.
+		</german>
+		<latin>
+			Prouehimur pelago uicina Ceraunia iuxta,<br/>
+			unde iter Italiam cursusque breuissimus undis.<br/>
+			sol ruit interea et montes umbrantur opaci;<br/>
+			sternimur optatae gremio telluris ad undam<br/>
+			sortiti remos passimque in litore sicco<br/>
+			corpora curamus, fessos sopor inrigat artus.<br/>
+			necdum orbem medium Nox Horis acta subibat:<br/>
+			haud segnis strato surgit Palinurus et omnis<br/>
+			explorat uentos atque auribus aera captat;<br/>
+			sidera cuncta notat tacito labentia caelo,<br/>
+			Arcturum pluuiasque Hyadas geminosque Triones,<br/>
+			armatumque auro circumspicit Oriona.<br/>
+			postquam cuncta uidet caelo constare sereno,<br/>
+			dat clarum e puppi signum; nos castra mouemus<br/>
+			temptamusque uiam et uelorum pandimus alas.<br/>
+			Iamque rubescebat stellis Aurora fugatis<br/>
+			cum procul obscuros collis humilemque uidemus<br/>
+			Italiam. Italiam primus conclamat Achates,<br/>
+			Italiam laeto socii clamore salutant.<br/>
+			tum pater Anchises magnum cratera corona<br/>
+			induit impleuitque mero, diuosque uocauit<br/>
+			stans celsa in puppi:<br/>
+			'di maris et terrae tempestatumque potentes,<br/>
+			ferte uiam uento facilem et spirate secundi.'<br/>
+			crebrescunt optatae aurae portusque patescit<br/>
+			iam propior, templumque apparet in arce Mineruae;<br/>
+			uela legunt socii et proras ad litora torquent.<br/>
+			portus ab euroo fluctu curuatus in arcum,<br/>
+			obiectae salsa spumant aspergine cautes,<br/>
+			ipse latet: gemino demittunt bracchia muro<br/>
+			turriti scopuli refugitque ab litore templum.<br/>
+			quattuor hic, primum omen, equos in gramine uidi<br/>
+			tondentis campum late, candore niuali.<br/>
+			et pater Anchises 'bellum, o terra hospita, portas:<br/>
+			bello armantur equi, bellum haec armenta minantur. <br/>
+			sed tamen idem olim curru succedere sueti<br/>
+			quadripedes et frena iugo concordia ferre:<br/>
+			spes et pacis' ait. tum numina sancta precamur<br/>
+			Palladis armisonae, quae prima accepit ouantis,<br/>
+			et capita ante aras Phrygio uelamur amictu,<br/>
+			praeceptisque Heleni, dederat quae maxima, rite<br/>
+			Iunoni Argiuae iussos adolemus honores.
+		</latin>
+	</section>
+	<section from="548" to="587">
+		<german>
+			Unverzüglich kehrten wir, sofort nachdem wir ordnungsgemäß die Gelübde verrichtet hatten, die Enden der segelbekleideten Rahen dem Meer zu und ließen die Häuser der Griechen und die beargwöhnten Gefilde zurück. Hier wurde die Bucht (wenn das Gerücht wahr ist) des herakleischen Tarent gesehen, gegenüber erhob sich die lakinische Göttin, die Burgen Caulons und das Schiffe zerschellende Scylaceum. Dann zeigte sich von weitem aus der Flut der sizilische Ätna, und von fern hörten wir das gewaltige Tosen des Meeres, die gepeitschten Felsen und das an der Küste sich brechende Getöse, die Wasser wallten auf und der Sand wurde in der Brandung herumgewirbelt. Und Vater Anchises sprach: "Kein Wunder, hier ist jene Charybdis: Diese Klippen, diese schrecklichen Felsen sagte Helenus voraus. Rettet uns, Kameraden, und legt euch ohne Unterschied in die Ruder." Genauso wie befohlen machten sie es und als erster lenkte Palinurus das knarrende Bug herum zu den Wogen zur Linken; die ganze Schiffsmannschaft fuhr mit den Rudern und Winden nach links. Wir wurden auf aufgetürmter Flut zum Himmel emporgehoben, und gleichzeitig senkten wir uns, als die Woge zurückging, tief hinab zu den Manen. Dreimal erdröhnten die Klippen zwischen den Felsenklüften, dreimal sahen wir die ausgestoßene Gischt und den feuchten Himmel. Inzwischen verließ uns ermüdet der Wind mit dem Sonnenaufgang und ohne den Weg zu kennen landeten wir an der Küste der Zyklopen. Der Hafen ist unbewegt und sicher vor dem Andrang der Winde und selbst gewaltig: Aber dicht dabei dröhnt der Ätna in schauerlichem Einsturz, bisweilen lässt er eine schwarze Wolke in den Himmel hervorbrechen, eine wirbelnde Wolke aus pechschwarzem Rauch und glühender Asche, Garben von Flammen hebt er in die Höhe und züngelt zu den Gestirnen empor, bisweilen speit er Felsen und losgerissene Brocken vom Innern des Berges aus und türmt sie auf, und Lava wirft er unter Stöhnen in Ballen in die Lüfte und erglüht aus der Tiefe seines Grundes. Es geht das Gerücht um, der durch einen Blitz halbverbrannte Körper des Enceladus werde von dieser Masse gedrückt, überdies hauche der gewaltige Ätna daraufliegend aus klaffenden Schloten Flammen aus und, sooft er die ermüdete Seite wechsle, erbebe ganz Sizilien unter dem Tosen und verschleiere den Himmel durch Rauch. Jene Nacht hindurch in den Wäldern verborgen ertrugen wir unheimliche Erscheinungen und sahen nicht, was den Donner erzeugte. Denn weder gab es feurige Sterne noch einen vom Sternenglanz leuchtenden Himmel, sondern Wolken zeigten sich am verborgenen Firmament, und den Mond hielt tiefe Nacht in einer Wolke.
+		</german>
+		<latin>
+			Haud mora, continuo perfectis ordine uotis<br/>
+			cornua uelatarum obuertimus antemnarum,<br/>
+			Graiugenumque domos suspectaque linquimus arua.<br/>
+			hinc sinus Herculei (si uera est fama) Tarenti<br/>
+			cernitur, attollit se diua Lacinia contra,<br/>
+			Caulonisque arces et nauifragum Scylaceum.<br/>
+			tum procul e fluctu Trinacria cernitur Aetna,<br/>
+			et gemitum ingentem pelagi pulsataque saxa<br/>
+			audimus longe fractasque ad litora uoces,<br/>
+			exsultantque uada atque aestu miscentur harenae.<br/>
+			et pater Anchises 'nimirum hic illa Charybdis:<br/>
+			hos Helenus scopulos, haec saxa horrenda canebat.<br/>
+			eripite, o socii, pariterque insurgite remis.'<br/>
+			haud minus ac iussi faciunt, primusque rudentem<br/>
+			contorsit laeuas proram Palinurus ad undas;<br/>
+			laeuam cuncta cohors remis uentisque petiuit.<br/>
+			tollimur in caelum curuato gurgite, et idem<br/>
+			subducta ad Manis imos desedimus unda.<br/>
+			ter scopuli clamorem inter caua saxa dedere,<br/>
+			ter spumam elisam et rorantia uidimus astra.<br/>
+			interea fessos uentus cum sole reliquit,<br/>
+			ignarique uiae Cyclopum adlabimur oris.<br/>
+			Portus ab accessu uentorum immotus et ingens<br/>
+			ipse: sed horrificis iuxta tonat Aetna ruinis,<br/>
+			interdumque atram prorumpit ad aethera nubem<br/>
+			turbine fumantem piceo et candente fauilla,<br/>
+			attollitque globos flammarum et sidera lambit;<br/>
+			interdum scopulos auulsaque uiscera montis<br/>
+			erigit eructans, liquefactaque saxa sub auras<br/>
+			cum gemitu glomerat fundoque exaestuat imo.<br/>
+			fama est Enceladi semustum fulmine corpus<br/>
+			urgeri mole hac, ingentemque insuper Aetnam<br/>
+			impositam ruptis flammam exspirare caminis,<br/>
+			et fessum quotiens mutet latus, intremere omnem<br/>
+			murmure Trinacriam et caelum subtexere fumo.<br/>
+			noctem illam tecti siluis immania monstra<br/>
+			perferimus, nec quae sonitum det causa uidemus.<br/>
+			nam neque erant astrorum ignes nec lucidus aethra<br/>
+			siderea polus, obscuro sed nubila caelo,<br/>
+			et lunam in nimbo nox intempesta tenebat.
+		</latin>
+	</section>
+	<section from="588" to="654">
+		<german>
+			Schon brach mit dem Aufgang des Morgensterns der folgende Tag an und Aurora hatte die feuchte Dunkelheit vom Himmel entfernt, als plötzlich aus den Wäldern zum Gerippe abgemagert die ungewöhnliche Gestalt eines unbekannten Mannes, bemitleidenswert in seinem Erscheinungsbild, hervorkam und bittend seine Hände zum Gestade hin ausstreckte. Wir blickten uns um. Sein Schmutz war scheußlich und sein Bart hing lang herab, sein Gewand war mit Dornen zusammengeheftet: aber sonst war er ein Grieche und einst nach Troja in den Waffen seines Vaterlandes geschickt worden. Und sobald er von weitem die trojanische Kleidung und Waffen gesehen hatte, stockte er ein wenig, durch den Anblick eingeschüchtert, und hemmte seinen Schritt; dann eilte er Hals über Kopf unter Flehen und Bitten zum Gestade: "Bei den Sternen rufe ich euch als Zeugen an, bei den Göttern im Himmel und bei diesem belebenden Himmelslicht, nehmt mich an Bord, Trojaner; führt mich weg, in welche Länder auch immer: Dieses wird genug sein. Ich weiß, dass ich einer der Männer der griechischen Flotte bin, und ich gebe zu, ich habe die Penaten Trojas mit Krieg heimgesucht. Hierfür streut mich, falls das Unrecht unserer ruchlosen Tat so groß ist, in den Fluten aus und versenkt mich im weiten Meer; wenn ich umkomme, wird es mich erfreuen, durch die Hände von Menschen umgekommen zu sein." Er hatte gesprochen und unsere Knie umfassend und sich windend hielt er an den Knien sich fest. Wer er sei, welchem Geschlecht er entsprossen sei, forderten wir ihn auf zu sagen, und dann öffentlich zu erklären, welches Schicksal ihn hin- und hertreibe. Vater Anchises selbst gab ohne langes Zögern dem jungen Mann seine rechte Hand und ermutigte ihn durch das greifbare Unterpfand. Jener sprach folgende Worte, nachdem er schließlich seine Furcht abgelegt hatte: "Ich bin aus meiner Heimat Ithaka, ein Begleiter des unglücklichen Odysseus mit Namen Achaemenides, und weil mein Vater Adamastus arm war (und wenn doch nur dieses Schicksal Bestand gehabt hätte!), brach ich nach Troja auf. Hier ließen mich meine Gefährten, während sie ängstlich den schrecklichen Eingang zurückließen, ohne an mich zu denken in der riesigen Höhle des Zyklopen im Stich. Seine Wohnung roch nach Verwesung und war angefüllt mit bluttriefenden Speisen, von innen war sie dunkel und gewaltig. Er selbst war ein Riese und stieß an die hohen Gestirne (ihr Götter, rettet unsere Welt vor solch einem Scheusal!), weder leicht anzusehen noch anzusprechen für jemanden; von den Eingeweiden der Elenden und schwarzem Blut ernährte er sich. Ich sah mit eigenen Augen, als er zwei Körper aus unserer Schar, nachdem er sie mit seiner großen Hand ergriffen hatte, mitten in der Höhle auf dem Rücken liegend an einem Felsen zerschmetterte und der von Blut bespritzte Eingang vom Blut überströmte; ich sah, als er die von schwarzem Eiter triefenden Glieder verzehrte und unten an seinen Zähnen die lauwarmen Gelenke zitterten – allerdings nicht ungestraft, denn nicht nahm Odysseus aus Ithaka Derartiges hin oder vergaß sich selbst in einer so großen Gefahr. Denn sobald er, gefüllt mit Speisen und durch Wein eingeschläfert, seinen gebeugten Kopf zum Schlaf geneigt und sich in seiner ungeheuren Länge in der Höhle ausgestreckt hatte, im Schlaf blutigen Eiter und mit blutigem Wein vermischte Brocken ausspeiend, verteilten wir uns gemeinsam ringsum, nachdem wir die erhabenen Götter angefleht und die Rollen ausgelost hatten, und wir durchbohrten mit einer spitzen Lanze sein gewaltiges Auge, das, sein einziges, unter einer finsteren Stirn verborgen war, so groß wie ein griechischer Schild oder die Sonne, und schließlich nahmen wir fröhlich Rache für die Schatten der Kameraden. Aber flieht, ihr Elenden, flieht und reißt das Seil vom Meeresufer ab! Denn genauso wie Polyphemus in seiner Höhle seine Wolle tragenden Tiere einsperrt und sie melkt, so leben hundert andere abscheuliche Zyklopen überall entlang dieser gekrümmten Küsten und schweifen auf den hohen Bergen umher. Zum dritten Mal schon füllen sich die Hörner des Mondes mit Licht, seitdem ich in den Wäldern zwischen den verlassenen Lagern des Wildes und seiner Behausungen mein Leben friste, nach den riesigen Zyklopen halte ich von einem Felsen aus Ausschau und zittere vor dem Getrappel und Getöse ihrer Füße. Kärgliche Nahrung, Beeren und steinige Kornelkirschen, geben die Zweige, und ich ernähre mich von den Wurzeln der Pflanzen, die ich herausreißen kann. Alles genau betrachtend erblickte ich zuerst, wie diese Flotte an der Küste ankam. Dieser habe ich mich zu eigen gegeben, möge sie sein, welche sie wolle: Es genügt, einem ruchlosen Volk entkommen zu sein. Vernichtet lieber dieses mein Leben durch welchen Tod auch immer."
+		</german>
+		<latin>
+			Postera iamque dies primo surgebat Eoo<br/>
+			umentemque Aurora polo dimouerat umbram,<br/>
+			cum subito e siluis macie confecta suprema<br/>
+			ignoti noua forma uiri miserandaque cultu<br/>
+			procedit supplexque manus ad litora tendit.<br/>
+			respicimus. dira inluuies immissaque barba,<br/>
+			consertum tegimen spinis: at cetera Graius,<br/>
+			et quondam patriis ad Troiam missus in armis.<br/>
+			isque ubi Dardanios habitus et Troia uidit<br/>
+			arma procul, paulum aspectu conterritus haesit<br/>
+			continuitque gradum; mox sese ad litora praeceps<br/>
+			cum fletu precibusque tulit: 'per sidera testor,<br/>
+			per superos atque hoc caeli spirabile lumen,<br/>
+			tollite me, Teucri. quascumque abducite terras:<br/>
+			hoc sat erit. scio me Danais e classibus unum<br/>
+			et bello Iliacos fateor petiisse penatis.<br/>
+			pro quo, si sceleris tanta est iniuria nostri,<br/>
+			spargite me in fluctus uastoque immergite ponto;<br/>
+			si pereo, hominum manibus periisse iuuabit.'<br/>
+			dixerat et genua amplexus genibusque uolutans<br/>
+			haerebat. qui sit fari, quo sanguine cretus,<br/>
+			hortamur, quae deinde agitet fortuna fateri.<br/>
+			ipse pater dextram Anchises haud multa moratus<br/>
+			dat iuueni atque animum praesenti pignore firmat.<br/>
+			ille haec deposita tandem formidine fatur:<br/>
+			'sum patria ex Ithaca, comes infelicis Vlixi,<br/>
+			nomine Achaemenides, Troiam genitore Adamasto<br/>
+			paupere (mansissetque utinam fortuna!) profectus.<br/>
+			hic me, dum trepidi crudelia limina linquunt,<br/>
+			immemores socii uasto Cyclopis in antro<br/>
+			deseruere. domus sanie dapibusque cruentis,<br/>
+			intus opaca, ingens. ipse arduus, altaque pulsat<br/>
+			sidera (di talem terris auertite pestem!)<br/>
+			nec uisu facilis nec dictu adfabilis ulli;<br/>
+			uisceribus miserorum et sanguine uescitur atro.<br/>
+			uidi egomet duo de numero cum corpora nostro<br/>
+			prensa manu magna medio resupinus in antro<br/>
+			frangeret ad saxum, sanieque aspersa natarent<br/>
+			limina; uidi atro cum membra fluentia tabo<br/>
+			manderet et tepidi tremerent sub dentibus artus&#151;<br/>
+			haud impune quidem, nec talia passus Vlixes<br/>
+			oblitusue sui est Ithacus discrimine tanto.<br/>
+			nam simul expletus dapibus uinoque sepultus<br/>
+			ceruicem inflexam posuit, iacuitque per antrum<br/>
+			immensus saniem eructans et frusta cruento<br/>
+			per somnum commixta mero, nos magna precati<br/>
+			numina sortitique uices una undique circum<br/>
+			fundimur, et telo lumen terebramus acuto<br/>
+			ingens quod torua solum sub fronte latebat,<br/>
+			Argolici clipei aut Phoebeae lampadis instar,<br/>
+			et tandem laeti sociorum ulciscimur umbras.<br/>
+			sed fugite, o miseri, fugite atque ab litore funem<br/>
+			rumpite.<br/>
+			nam qualis quantusque cauo Polyphemus in antro<br/>
+			lanigeras claudit pecudes atque ubera pressat,<br/>
+			centum alii curua haec habitant ad litora uulgo<br/>
+			infandi Cyclopes et altis montibus errant.<br/>
+			tertia iam lunae se cornua lumine complent<br/>
+			cum uitam in siluis inter deserta ferarum<br/>
+			lustra domosque traho uastosque ab rupe Cyclopas<br/>
+			prospicio sonitumque pedum uocemque tremesco.<br/>
+			uictum infelicem, bacas lapidosaque corna,<br/>
+			dant rami, et uulsis pascunt radicibus herbae.<br/>
+			omnia conlustrans hanc primum ad litora classem<br/>
+			conspexi uenientem. huic me, quaecumque fuisset,<br/>
+			addixi: satis est gentem effugisse nefandam.<br/>
+			uos animam hanc potius quocumque absumite leto.'
+		</latin>
+	</section>
+	<section from="655" to="691">
+		<german>
+			Kaum hatte er dieses gesagt, als wir sahen, wie sich Polyphemus selbst auf dem Gipfel des Berges zwischen den Tieren als Hirte mit der ungeheuren Masse seines Körpers bewegte und das bekannte Gestade ansteuerte, ein schreckliches Ungeheuer, hässlich, gewaltig, dem das Augenlicht genommen war. Eine gestutzte Pinie führte seine Hand und sicherte seine Schritte; Wolle tragende Schafe begleiteten ihn; dieses war seine einzige Freude und Trost im Unglück. Nachdem er die hohen Fluten berührt und zum Meer gekommen war, spülte er das fließende Blut seines ausgestochenen Auges hierin weg, unter Seufzen mit den Zähnen knirschend, und er schritt schon mitten durch das tiefe Meer, aber die Flut benetzte noch nicht seine hohen Hüften. In der Ferne beschleunigten wir ängstlich die Flucht von dort, nachdem wir unseren Schützling, der sich so verdient gemacht, aufgenommen hatten, schweigend kappten wir das Tau und vorwärts geneigt wühlten wir wetteifernd mit unseren Rudern das Meer um. Er spürte es und wandte sich den lärmenden Stimmen zu. Aber als ihm keine Gelegenheit gegeben wurde, das Schiff mit seiner Rechten zu ergreifen, und er auf seiner Verfolgungsjagd mit den ionischen Fluten nicht Schritt halten konnte, erhob er ein ungeheures Geschrei, durch welches das Meer und alle Wogen erzitterten, und tief im Landesinneren wurde die Erde Italiens aufgeschreckt und der Ätna erdröhnte in seinen zerklüfteten Höhlen. Aber das Geschlecht der Zyklopen stürzte aufgescheucht aus den Wäldern und von den hohen Bergen zu den Häfen und füllte den Küstenstreifen. Wir sahen, wie die Zyklopen mit ihrem drohenden Auge erfolglos dastanden und ihre Köpfe hoch in den Himmel hielten, eine schreckliche Versammlung: wie wenn hohe Eichen oder zapfentragende Zypressen mit ihrem aufragenden Wipfel dastehen, ein hoher Wald Jupiters oder ein Hain Dianas. Heftige Furcht trieb uns dazu, jählings die Taue, wohin auch immer, auseinanderzurollen und für die folgenden Winde die Segel zu hissen. Hingegen erinnerten Helenus’ Befehle an Scylla und Charybdis und lehrten, dass der Weg zwischen beiden nur einen geringen Abstand vom Tode habe, wenn sie nicht Kurs hielten; es war unser fester Entschluss zurückzusegeln. Aber siehe, der Nordwind wurde von der engen Straße von Pelorus geschickt und nahte sich: Ich fuhr vorbei an der Mündung des Pantagias aus natürlichem Fels, an der megarischen Bucht und an der flachen Halbinsel Thapsus. Auf Derartiges verwies Achaemenides, der Begleiter des unglücklichen Odysseus, als er in entgegengesetzter Richtung wieder an den durchirrten Küsten vorbeisegelte. 
+		</german>
+		<latin>
+			Vix ea fatus erat summo cum monte uidemus<br/>
+			ipsum inter pecudes uasta se mole mouentem<br/>
+			pastorem Polyphemum et litora nota petentem,<br/>
+			monstrum horrendum, informe, ingens, cui lumen ademptum.<br/>
+			trunca manum pinus regit et uestigia firmat;<br/>
+			lanigerae comitantur oues; ea sola uoluptas<br/>
+			solamenque mali.<br/>
+			postquam altos tetigit fluctus et ad aequora uenit,<br/>
+			luminis effossi fluidum lauit inde cruorem<br/>
+			dentibus infrendens gemitu, graditurque per aequor<br/>
+			iam medium, necdum fluctus latera ardua tinxit. <br/>
+			nos procul inde fugam trepidi celerare recepto<br/>
+			supplice sic merito tacitique incidere funem,<br/>
+			uertimus et proni certantibus aequora remis.<br/>
+			sensit, et ad sonitum uocis uestigia torsit.<br/>
+			uerum ubi nulla datur dextra adfectare potestas<br/>
+			nec potis Ionios fluctus aequare sequendo,<br/>
+			clamorem immensum tollit, quo pontus et omnes<br/>
+			intremuere undae, penitusque exterrita tellus<br/>
+			Italiae curuisque immugiit Aetna cauernis.<br/>
+			at genus e siluis Cyclopum et montibus altis<br/>
+			excitum ruit ad portus et litora complent.<br/>
+			cernimus astantis nequiquam lumine toruo<br/>
+			Aetnaeos fratres caelo capita alta ferentis,<br/>
+			concilium horrendum: quales cum uertice celso<br/>
+			aeriae quercus aut coniferae cyparissi<br/>
+			constiterunt, silua alta Iouis lucusue Dianae.<br/>
+			praecipitis metus acer agit quocumque rudentis<br/>
+			excutere et uentis intendere uela secundis.<br/>
+			contra iussa monent Heleni, Scyllamque Charybdinque<br/>
+			inter, utrimque uiam leti discrimine paruo,<br/>
+			ni teneam cursus: certum est dare lintea retro.<br/>
+			ecce autem Boreas angusta ab sede Pelori<br/>
+			missus adest: uiuo praeteruehor ostia saxo<br/>
+			Pantagiae Megarosque sinus Thapsumque iacentem.<br/>
+			talia monstrabat relegens errata retrorsus<br/>
+			litora Achaemenides, comes infelicis Vlixi.
+		</latin>
+	</section>
+	<section from="692" to="718">
+		<german>
+			Es liegt dort eine Insel, die der sizilischen Bucht vorgelagert ist, gegenüber dem wogenreichen Plemyrium, die Alten nannten sie Ortygia. Alpheus, der Fluss von Elis, so geht das Gerücht, habe seinen verborgenen Lauf hierher genommen, der sich jetzt durch deine Quelle, Arethusa, mit den sizilischen Wogen vereinigt. Auf Befehl verehrten wir die großen Gottheiten des Ortes, und danach passierte ich den sehr fruchtbaren Bodes des übertretenden Helorus. Sodann segelten wir an den hohen Riffen und den vorspringenden Felsen des Pachymusgebirges vorbei, und von weitem erschien die Stadt Camerina, der es nie erlaubt war, sich zu ändern, die geloischen Felder und die Stadt Gela, die nach dem wilden Fluss benannt worden ist. Darauf zeigte das hochragende Acragas die bei weitem größte Stadtmauer, einst der Züchter edler Pferde; und dich verließ ich, nachdem ich die Segel gesetzt hatte, palmenreiches Selinus, und ich fuhr an den lilybeischen Untiefen vorbei, gefährlich durch verborgene Klippen. Hierauf nahm mich der Hafen von Depranum auf und die traurige Küste. Hier verlor ich, umhergetrieben von so vielen Stürmen des Meeres, ach, meinen Vater Anchises, den Linderer jeglicher Sorge und Not. Hier, bester Vater, verließest du mich erschöpft, ach, nachdem du vergeblich so großen Gefahren entrissen! Weder sagte mir der Seher Helenus, obwohl er viele schreckliche Geschehnisse verkündete, diese Trauer voraus noch die entsetzliche Celaeno. Dies war die letzte Strapaze, dies das Ende der langen Wege. Mich trieb, von hier abgefahren, der Gott an eure Küsten!“ 
+			So erzählte Vater Anchises allein, während alle gespannt waren, über das von den Göttern verhängte Schicksal und schilderte dessen Verlauf. Schließlich verstummte er und, als er hier ein Ende gesetzt, ruhte er aus.
+		</german>
+		<latin>
+			Sicanio praetenta sinu iacet insula contra<br/>
+			Plemyrium undosum; nomen dixere priores<br/>
+			Ortygiam. Alpheum fama est huc Elidis amnem<br/>
+			occultas egisse uias subter mare, qui nunc<br/>
+			ore, Arethusa, tuo Siculis confunditur undis.<br/>
+			iussi numina magna loci ueneramur, et inde<br/>
+			exsupero praepingue solum stagnantis Helori.<br/>
+			hinc altas cautes proiectaque saxa Pachyni<br/>
+			radimus, et fatis numquam concessa moueri<br/>
+			apparet Camerina procul campique Geloi,<br/>
+			immanisque Gela fluuii cognomine dicta.<br/>
+			arduus inde Acragas ostentat maxima longe<br/>
+			moenia, magnanimum quondam generator equorum;<br/>
+			teque datis linquo uentis, palmosa Selinus,<br/>
+			et uada dura lego saxis Lilybeia caecis.<br/>
+			hinc Drepani me portus et inlaetabilis ora<br/>
+			accipit. hic pelagi tot tempestatibus actus<br/>
+			heu, genitorem, omnis curae casusque leuamen,<br/>
+			amitto Anchisen. hic me, pater optime, fessum<br/>
+			deseris, heu, tantis nequiquam erepte periclis!<br/>
+			nec uates Helenus, cum multa horrenda moneret,<br/>
+			hos mihi praedixit luctus, non dira Celaeno.<br/>
+			hic labor extremus, longarum haec meta uiarum,<br/>
+			hinc me digressum uestris deus appulit oris.715<br/>
+			Sic pater Aeneas intentis omnibus unus<br/>
+			fata renarrabat diuum cursusque docebat.<br/>
+			conticuit tandem factoque hic fine quieuit.
+		</latin>
+	</section>
+</text>
+</translation>

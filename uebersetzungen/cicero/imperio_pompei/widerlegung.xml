@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Cicero</author>
+	<title>De Imperio Cn. Pompei</title>
+	<snippet>Widerlegung der Gegner</snippet>
+	<translator>Markus Westphal und Patrick Jungk</translator>
+	<textkind>prosa</textkind>
+	<firstnumber>51</firstnumber>
+	<navigation>
+		<previous url="intro.html">De Imperio Pompei Einführung</previous>
+		<previous url="wahl.xml">Die Wahl des Feldherren</previous>
+		<next url="schluss.xml">Schluss</next>
+		
+	</navigation>
+</description>
+
+<structure>
+	<list>
+		<item url="disposition.xml">Disposition</item>
+		<item url="art.xml">Art des Krieges</item>
+		<item url="groesse.xml">Die Größe des Krieges</item>
+		<item url="wahl.xml">Die Wahl des Feldherrn</item>
+		
+		<item>Widerlegung der Gegner des Gesetzes</item>
+		<list>
+			<item number="51">Widerlegung des Hortensius</item>
+			<item number="59">Widerlegung des Catulus</item>
+			<item number="63b">Appell an das Volk</item>
+			<item number="64b">Die Fehler der anderen Feldherren</item>
+			<item number="68b">Gewichtige Befürworter des Gesetzes</item>
+		</list>
+
+		<item url="schluss.xml">Schluß</item>
+	</list>
+</structure>
+
+<text>
+
+	<section from="51" to="51">
+		<german>
+			Ja aber Quintus Catulus, ein sehr berühmter Mann, ein glühender Patriot, der durch die Übertragung hoher Ehrenämter ausgezeichnet wurde, und ebenso Quintus Hortensius, der mit den höchsten Vorzüge, mit Glück, Tapferkeit und mit hohem Talent versehen ist, stimmen nicht mit dieser Absicht überein. Ich gestehe, dass deren Ansehen natürlich bei euch bei vielen Gelegenheiten sehr hohen Stellenwert hatte und hat. Aber obwohl ihr in dieser Sache seht, dass gegenteilige Ansichten von sehr tapferen und berühmten Männern gibt, können wir dennoch durch die Überlegung selbst feststellen, wenn wir das Ansehen außer Acht lassen und dass ist um so leichter, weil alles was von mir bis jetzt gesagt worden ist, von den selben als wahr angesehen wurde, dass nämlich sowohl der Krieg notwendig, als auch groß ist und dass in Gnaeus Pompeius alles im höchsten Maße vorhanden ist.
+		</german>
+		<latin>
+			 At enim vir clarissimus, amantissimus rei publicae, vestris beneficiis amplissimis adfectus, Q. Catulus, itemque summis ornamentis honoris, fortunae, virtutis, ingeni praeditus, Q. Hortensius, ab hac ratione dissentiunt. Quorum ego auctoritatem apud vos multis locis plurimum valuisse et valere oportere confiteor; sed in hac causa, tametsi cognoscitis auctoritates contrarias virorum fortissimorum et clarissimorum, tamen omissis auctoritatibus ipsa re ac ratione exquirere possumus veritatem, atque hoc facilius, quod ea omnia quae a me adhuc dicta sunt, eidem isti vera esse concedunt, -- et necessarium bellum esse et magnum, et in uno Cn. Pompeio summa esse omnia.
+		</latin>
+	</section>
+	<section from="52" to="52">
+		<german>
+			Was sagt also Hortensius ? Wenn alles einem einzigen übertragen werden muss, dann ist Gnaeus Pompeius der würdigste, aber es gehört sich dennoch nicht alles einem zu übertragen. Dieser Einwurf hat schon an Wert verloren, weil sie durch die Ergebnisse selbst mehr widerlegt worden ist, als durch Worte. Denn du selbst, Quintus Hortensius, hast sowohl im Senat vieles, gemessen an deiner Redefülle und an deiner einzigartigen Fähigkeit zu Reden, ernst und wohl gesetzt gegen den tapferen Mann Aulus Gabinius gesagt, als dieser ein Gesetz über die Einsetzung eines einzigen Feldherrn gegen die Seeräuber einbrachte, als auch hast du von diesem Ort selbst aus viele Worte gegen das Gesetz gemacht. Was also?
+		</german>
+		<latin>
+			 Quid igitur ait Hortensius? Si uni omnia tribuenda sint, dignissimum esse Pompeium, sed ad unum tamen omnia deferri non oportere. Obsolevit iam ista oratio, re multo magis quam verbis refutata. Nam tu idem, Q. Hortensi, multa pro tua summa copia ac singulari facultate dicendi et in senatu contra virum fortem, A. Gabinium, graviter ornateque dixisti, cum is de uno imperatore contra praedones constituendo legem promulgasset, et ex hoc ipso loco permuta item contra eam legem verba fecisti.
+		</latin>
+	</section>
+	<section from="53" to="53">
+		<german>
+			Sodann, bei den unsterblichen Göttern, wenn das Ansehen beim römischen Volk mehr zählen würde, als das Wohl des römischen Volkes selbst und das wahre Interesse, würden wir dann heute diesen Ruhm und diese Herrschaft über den Erdkreis innehaben? Oder schien dir das etwa Herrschaft zu sein, wenn die Legaten des römischen Volkes, die Quaestoren und Praetoren gefangen werden, wenn sowohl der private als auch der öffentliche Verkehr aus allen Provinzen unterbunden war, wenn alle Meere uns so verschlossen waren, dass wir weder als Privatmann noch als Staatsmann eine Unternehmung über das Meer wagen konnten?
+		</german>
+		<latin>
+			Quid? tum (per deos immortalis!) si plus apud populum Romanum auctoritas tua quam ipsius populi Romani salus et vera causa valuisset, hodie hanc gloriam atque hoc orbis terrae imperium teneremus? An tibi tum imperium hoc esse videbatur, cum populi Romani legati quaestores praetoresque capiebantur? cum ex omnibus provinciis commeatu et privato et publico prohibebamur? cum ita clausa nobis erant maria omnia, ut neque privatam rem transmarinam neque publicam iam obire possemus?
+		</latin>
+	</section>
+	<section from="54" to="54">
+		<german>
+			Welcher Staat war jemals zuvor - ich spreche nicht vom Staat der Athener, der einst das Meer genügend weit beherrscht haben soll, auch nicht vom Staat der Katharger, die durch ihre Flotte und durch ihre Tüchtigkeit zur See sehr viel vermochte, auch nicht von Staat der Rhodiorer, deren Meereskenntnisse und deren Ruhm bis zum heutigen Tag anhält - so schwach, welche Insel so klein, dass sie nicht ihre Häfen, ihre Felder, irgendeinen Teil ihres Gebietes und die Küsten aus eigener Kraft verteidigten ?Aber, beim Herkules, jenes römische Volk, dessen Name soweit unser Gedächtnis reicht in Seeschlachten stets als unbesiegt galt, hat in jenen aufeinanderfolgenden Jahren vor der Lex Gabinia auf viele ja sogar auf den größten Teil nicht nur der Einkünfte, sondern der Würde und der Herrschaft verzichten müssen.
+		</german>
+		<latin>
+			Quae civitas antea umquam fuit, -- non dico Atheniensium, quae satis late quondam mare tenuisse dicitur; non Karthaginiensium, qui permultum classe ac maritimis rebus valuerunt; non Rhodiorum, quorum usque ad nostram memoriam disciplina navalis et gloria remansit, -- sed quae civitas umquam antea tam tenuis, quae tam parva insula fuit, quae non portus suos et agros et aliquam partem regionis atque orae maritimae per se ipsa defenderet? At (hercule) aliquot annos continuos ante legem Gabiniam ille populus Romanus, cuius usque ad nostram memoriam nomen invictum in navalibus pugnis permanserit, magna ac multo maxima parte non modo utilitatis, sed dignitatis atque imperi caruit.
+		</latin>
+	</section>
+	<section from="55" to="55">
+		<german>
+			Wir, deren Vorfahren den König Antiochus mit der Flotte und den Perseus überwanden, und die Katharger, Menschen die sehr geschickt und geübt im Seewesen sind, in Seeschlachten besiegt, konnten auf keinster Weise den Seeräubern gleichwertig sein. Wir, die früher nicht nur Italien sicher besaßen, sondern allen Bundesgenossen an den entferntesten Küsten durch das Ansehen unserer Herrschaft die Sicherheit garantieren konnten, damals als die Insel Delos, soweit weg von und im ägäischen Meer gelegen war, wo alle von überall her mit allen möglichen Waren Handel trieben, die vollgestopft mit Reichtümern war, klein und ohne Mauern nichts befürchtete, wir mussten nicht nur auf die Provinzen und die italienische Meeresküste und unsere Häfen, sondern sogar auf unsere Via Apia verzichten. Und zu diesen Zeiten schämten sich die Magistrate des römischen Volkes nicht, auf diesen Ort hinauszugehen, als unsere Vorfahren diesen mit Seebeute und Schiffsschnäbeln geschmückt zurückließen.
+		</german>
+		<latin>
+			Nos, quorum maiores Antiochum regem classe Persenque superarunt, omnibus navalibus pugnis Karthaginiensis, homines in maritimis rebus exercitatissimos paratissimosque, vicerunt, ei nullo in loco iam praedonibus pares esse poteramus: nos, qui antea non modo Italiam tutam habebamus, sed omnis socios in ultimis oris auctoritate nostri imperi salvos praestare poteramus, -- tum cum insula Delos, tam procul a nobis in Aegaeo mari posita, quo omnes undique cum mercibus atque oneribus commeabant, referta divitiis, parva, sine muro, nihil timebat, -- eidem non modo provinciis atque oris Italiae maritimis ac portubus nostris, sed etiam Appia iam via carebamus; et eis temporibus non pudebat magistratus populi Romani in hunc ipsum locum escendere, cum eum nobis maiores nostri exuviis nauticis et classium spoliis ornatum reliquissent.
+		</latin>
+	</section>
+	<section from="56" to="56">
+		<german>
+			Das römische Volk glaubte, dass du Quintus Hortensius, und die anderen, die gleicher Meinung sind, das in guter Absicht gesagt habt; aber dennoch wollte sich dasselbe römische Volk in Fragen des allgemeinen Wohles lieber von dem Unwillen leiten lassen, als von eurem Ansehen. Deshalb hat uns ein einziges Gesetz, ein einziger Mann, ein einziges Jahr nicht nur von jenem Elend und jener Schande befreit, sondern es hat auch bewirkt, dass es scheint, dass wir endlich einmal allen Stämmen und Nationen zu Lande und zu Wasser befehlen.
+		</german>
+		<latin>
+			Bono te animo tum, Q. Hortensi, populus Romanus et ceteros qui erant in eadem sententia, dicere existimavit ea quae sentiebatis: sed tamen in salute communi idem populus Romanus dolori suo maluit quam auctoritati vestrae obtemperare. Itaque una lex, unus vir, unus annus non modo nos illa miseria ac turpitudine liberavit, sed etiam effecit, ut aliquando vere videremur omnibus gentibus ac nationibus terra marique imperare.
+		</latin>
+	</section>
+	<section from="57" to="57">
+		<german>
+			Um so entwürdigender erscheint mir auch, dass bis jetzt dagegen gearbeitet wurde - soll ich sagen gegen den Gabinius oder gegen den Pompeius oder beiden zusammen - oder, was richtiger wäre, dass nicht Gabinius dem Gnaeus Pompeius als Legat auf seinen Wunsch und seiner Forderung hin zugeteilt wurde. Ist jener, welcher zu einem so großen Krieg einen Legaten fordert, den der will, nicht geeignet, ihn zu verlangen, während andere zum Plündern der Bundesgenossen und Provinzen die Legaten mit sich nahmen, die sie wollten, oder muss er selbst, durch dessen Gesetz das Wohl und die Würde des römischen Volkes und der übrigen Nationen gefestigt wurde, ohne Anteil am Ruhm jenes Feldherrn und jenes Heeres sein, dass auf seinen eigenen Vorschlag und auf seine Verantwortung hin aufgestellt wurde?
+		</german>
+		<latin>
+			Quo mihi etiam indignius videtur obtrectatum esse adhuc, -- Gabinio dicam anne Pompeio, an utrique, id quod est verius? -- ne legaretur A. Gabinius Cn. Pompeio expetenti ac postulanti. Utrum ille, qui postulat ad tantum bellum legatum quem velit, idoneus non est qui impetret, cum ceteri ad expilandos socios diripiendasque provincias quos voluerunt legatos eduxerint; an ipse, cuius lege salus ac dignitas populo Romano atque omnibus gentibus constituta est, expers esse debet gloriae eius imperatoris atque eius exercitus, qui consilio ipsius ac periculo est constitutus?
+		</latin>
+	</section>
+	<section from="58" to="58">
+		<german>
+			Während Gaius Falcidius , Quintus Metellus, Quintus Caelius Latiniensis und Gnaeus Lentulus, die ich ehrenhalber nenne, obwohl sie noch Volkstribunen waren, im nächsten Jahr Legaten werden konnten, ist man allein bei Gabinius so peinlich genau, der doch bei diesem Krieg, der unter dem Lex Gabinius mit dem selben Feldherrn und dem selben Heer geführt wird, ein Vorrecht haben müsste ? Ich hoffe, dass die Konsuln den Antrag stellen, dass er als Legat zugeteilt wird. Wenn diese zögern oder Schwierigkeiten machen, verspreche ich, dass ich diesen Antrag stelle. Weder wird mich irgendein gegen mich gerichteter Einspruch abhalten, im Vertrauen auf euch euer Recht und eure Vergünstigungen zu verteidigen, noch werde ich auf irgend etwas außer eurem Einspruch hören. Was diesen Einspruch anbelangt, wie ich meine, werden diese selbst, die den Einspruch erheben, mehr als einmal überlegen müssen, was gefällt. Meiner Meinung nach, ich Quiriten, kann der Aulus Gabinius dem Pompeius als Gefährte im Seekrieg und bei seinen Taten zugeteilt werden, deswegen, weil der eine dem anderen die Übernahme des Krieges durch eure Stimme übertrug, und der andere den übertragenen und übernommenen Krieg zu Ende geführt hat.
+		</german>
+		<latin>
+			An C. Falcidius, Q. Metellus, Q. Caelius Latiniensis, Cn. Lentulus, quos omnis honoris causa nomino, cum tribuni plebi fuissent, anno proximo legati ese potuerunt: in uno Gabinio sunt tam diligentes, qui in hoc bello, quod lege Gabinia geritur, in hoc imperatore atque exercitu, quem per vos ipse constituit, etiam praecipuo iure esse deberet? De quo legando consules spero ad senatum relaturos. Qui si dubitabunt aur gravabuntur, ego me profiteor relaturum. Neque me impediet cuiusquam inimicum edictum, quo minus vobis fretus vestrum ius beneficiumque defendam; neque praeter intercessionem quicquam audiam, de qua (ut arbitror) isti ipsi, qui minantur, etiam atque etiam quid liceat considerabunt. Mea quidem sentenia, Quirites, unus A. Gabinius belli maritimi rerumque gestarum Cn. Ponpeio socius ascribitur, propterea quod alter uni illud bellum suscipiendum vestris suffragiis detulit, alter delatum susceptumque confecit.
+		</latin>
+	</section>
+	<section from="59" to="59">
+		<german>
+			Übrig scheint es, dass ich über die gewaltige Meinung des Quintus Catulus reden muss. Als er euch fragte, wenn ihr allein alle Hoffnung auf Gnaeus Catulus legt, und wenn dieser sterben würde, auf wen ihr dann die Hoffnung setzen wollt, da erntete seine Würde und seine Tapferkeit viele Früchte, dadurch, dass ihr fast mit einer Stimme sagtet, dass ihr in dieser Sache auf ihn selbst die Hoffnung setzt. Dieser Mann ist so beschaffen, dass keine Sache so groß und so schwierig ist, dass jener sie nicht durch seinen Plan lenken, nicht mit seiner Gradlinigkeit damit umgehen , oder mit deiner Tapferkeit vollenden könnte. Aber in dieser Sache selbst bin ich völlig anderer Meinung. Denn je weniger sicher und kürzer das Leben des Menschen ist, desto mehr muss der Staat, solange es die unsterblichen Götter zulassen, das Leben und die Tapferkeit eines ausgezeichneten Mannes ausnützen.
+		</german>
+		<latin>
+			Reliquum est ut de Q. Catuli auctoritate et sententia dicendum esse videatur. Qui cum ex vobis quaereret, si in uno Cn. Pompeio omnia poneretis, si quid eo factum esset, in quo spem essetis habituri, -- cepit magnum suae virtutis fructum ac dignitatis, cum omnes una prope voce in [eo] ipso vos spem habituros esse dixistis. Etenim talis est vir, ut nulla res tanta sit ac tam difficilis, quam ille non et consilio regere et integritate tueri et virtute conficere possit. Sed in hoc ipso ab eo vehementissime dissentio; quod, quo minus certa est hominum ac minus diuturna vita, hoc magis res publica, dum per deos immortalis licet, frui debet summi viri vita atque virtute.
+		</latin>
+	</section>
+	<section from="60" to="60">
+		<german>
+			Ja aber es soll doch nichts Neues gegen die beispielhaften Satzungen der Vorfahren gemacht werden. Ich sage nicht, dass unsere Vorfahren in dieser Situation immer in Friedenszeiten die Sitte, in Kriegszeiten der Nützlichkeit gehorcht haben, und immer an neue Situationen neue Methoden angepasst haben; ich rede nicht über zwei sehr große Kriege, den Punischen und den Spanischen, die von einem Feldherrn beendet wurde, und nicht von zwei sehr mächtigen Städten, die dieses Reich immer wieder auf das heftigste bedrohten, nämlich Kathargo und Numantia, die von diesem selben Scipio zerstört worden sind, ich werde nicht erwähnen, dass es gut schien, dass euch und euren Vorfahren früher gut ging, dass die Hoffnung des Reiches in den einem Gaius Marius gesetzt wurde, dass derselbe Mann mit Iugurta, derselbe mit den Camben und derselbe mit den Teutonen Krieg führte;
+		</german>
+		<latin>
+			'At enim ne quid novi fiat contra exempla atque instituta maiorum.' Non dicam hoc loco maiores nostros semper in pace consuetudini, in bello utilitati paruisse; semper ad novos casus temporum novorom consiliorum rationes adcommodasse: non dicam duo bella maxima, Punicum atque Hispaniense, ab uno imperatore esse confecta, duasque urbis potentissimas, quae huic imperio maxime minitabantur, Karthaginem atque Numantiam, ab eodem Scipione esse deletas: non commemorabo nuper ita vobis patribusque vestris esse visum, ut in uno C. Mario spes imperi poneretur, ut idem cum iugurtha, idem cum Cimbris, idem cum Teutonis bellum administraret.
+		</latin>
+	</section>
+	<section from="61" to="61">
+		<german>
+			selbst bei diesem Pompeius, bei dem Quintus Catulus will, dass nichts Neues beschlossen wird, erinnert euch doch, wie viele neue Sachen mit vollster Zustimmung des Catulus beschlossen wurden, Was ist daran so neu, als dass ein Jüngling privat ein Heer in einer so schwierigen Zeit des Staates aufstellte ? Er hat es getan. Dass dieser es anführt ? Er hat es angeführt. Dass die Aufgabe unter seiner Führung ausgezeichnet gelöst wurde ? Er tat dies. Was ist so gegen die Sitte, dass einem blutjungem Menschen, dem es noch an vielen Jahren bis zum Senatorenalter fehlte, ein Imperium und ein Heer gegeben wurde, dass ihm Sizilien und Afrika übergeben wurde und er den Krieg in diesen Provinzen führte ? In diesen Provinzen war er von einzigartiger Uneigennützigkeit, Energie und Tapferkeit, er beendete den sehr großen Krieg in Afrika, und führte das Heer siegreich heim. Was ist wahrlich so unerhört, wenn ein römischer Ritter einen Triumph feiert ? Aber auch das römische Volk hat dieses Ergebnis gesehen, sondern glaubte sogar mit Eifer alles anschauen und mitfeiern zu müssen.
+		</german>
+		<latin>
+			 In ipso Cn. Pompeio, in quo novi constitui nihil volt Q. Catulus, quam multa sint nova summa Q. Catuli voluntate constituta recordamini. Quid tam novum quam adulescentulum privatum exercitum difficili rei publicae temporare conficere? Confecit. Huic praeesse? Praefuit. Rem optime ductu suo gerere? Gessit. Quid tam praeter consuetudinem quam homini peradulescenti, cuius aetas a senatorio gradu longe abesset, imperium atque exercitum dari, Siciliam permitti, atque Africam bellumque in ea provincia administrandum? Fuit in his provinciis singulari innocentia, gravitate, virtute: bellum in Africa maximum confecit, victorem exercitum deportavit. Quid vero tam inauditum quam equitem Romanum triumphare? At eam quoque rem populus Romanus non modo vidit, sed omnium etiam studio visendam et concelebrandam putavit.
+		</latin>
+	</section>
+	<section from="62" to="62">
+		<german>
+			Was ist so ungewöhnlich, dass ein römischer Ritter, als es zwei sehr berühmte und sehr tapfere Konsuln gab, zu einem so großen und grausamen Krieg geschickt wurde? Er ist geschickt worden. Als zu dieser Zeit im Senat so mancher war, der sagte, es gehöre sich nicht einen Privatmann anstelle eines Konsuln zu schicken, da soll Lucius Phillipus gesagt haben, er schicke ihn nicht Pro - Konsule, sondern anstelle beider Konsuln. So große Hoffnung setzte man auf diesen die Angelegenheiten zu regeln, dass man die Pflicht zweier Konsuln der Tapferkeit eines jungen Mannes anvertraute. Was ist so einzigartig, als dass er, losgelöst von den Gesetzen, auf Beschluss des Senates Konsul geworden ist, vor der Zeit wie es irgendeinem anderen erlaubt gewesen wäre ein Magistratsamt anzunehmen. Was ist so unerhört, als dass abermals ein römischer Ritter durch einen Senatsbeschluss triumphiert hat ? Alles das, was an Neuem nach Menschengedenken beschlossen wurde, das ist nicht so Zahlreich, wie das, was wir bei diesem einen Menschen sehen.
+		</german>
+		<latin>
+			Quid tam inusitatum quam ut, cum duo consules clarissimi fortissimique essent, eques Romanus ad bellum maximum formidolosissimumque pro consule mitteretur? Missus est. Quo quidem tempore, cum esset non nemo in senatu qui diceret 'non oportere mitti hominem privatum pro consule,' L. Philippus dixisse dicitur ''non se illum sua sententia pro consule, sed pro consulibus mittere.'' Tanta in eo rei publicae bene gerendae spes constituebatur, ut duorum consulum munus unius adulescentis virtuti committeretur. Quid tam singulare quam ut ex senatus consuto legibus solutus consul ante fieret, quam ullum alium magistratum per leges capere licuisset? quid tam incredibile quam ut iterum eques Romanus ex senatus consulto triumpharet? Quae in omnibus hominibus nova post hominum memoriam constituta sunt, ea tam multa non sunt quam haec, quae in hoc uno homine videmus.
+		</latin>
+	</section>
+	<section from="63" to="63">
+		<german>
+			Und diese so großen und so neuen Beispiele sind von dem Ansehen des Quintus Catulus und der übrigen sehr einflussreichen Menschen gleicher Würde, im Hinblick auf den selben Menschen gemacht worden.
+		</german>
+		<latin>
+			Atque haec tot exempla, tanta ac tam nova, profecta sunt in eundem hominem a Q. Catuli atque a ceterorum eiusdem dignitatis amplissimorum hominum auctoritate.
+		</latin>
+	</section>
+	<section from="63b" to="63b">
+		<german>
+			Deshalb sollen sie sehen, ob es nicht absolut ungerecht und unerträglich ist, dass ihr Ansehen über die Würde des Gnaeus Pompeius von euch immer gebilligt wurde, während aber euer Urteil über denselben Menschen und der Beschluss des römischem Volkes von jenen mißbilligt wurde. Zumal das römische Volk seinem Beschluss über denselben Mann mit Recht gegen alle, die anderer Meinung sind, verteidigen kann, deswegen weil ihr, obwohl diese Einspruch erhoben, allein jenen von allen ausgewählt habt, um in dem Seeräuberkrieg voranzustellen.
+		</german>
+		<latin>
+			Qua re videant ne sit periniquum et non ferundum, illorum auctoritatem de Cn. Pompei dignitate a vobis comprobatam semper esse, vestrum ab illis de eodem homine iudicium populique Romani auctoritatem improbari; praesertim cum iam suo iure populus Romanus in hoc homine suam auctoritatem vel contra omnis qui dissentiunt possit defendere, propterea quod, isdem istis reclamantibus, vos unum illum ex omnibus delegistis quem bello praedonum praeponeretis.
+		</latin>
+	</section>
+	<section from="64" to="64">
+		<german>
+			Wenn ihr dieses leichtsinnig gemacht habt und nicht genug für den Saat gesorgt habt, versuchen jene zu Recht eure Bemühungen durch ihren Rat zu leiten; wenn ihr aber so mehr politische Einsicht habt und wenn ihr mit vollem Recht, obwohl diese widersprachen, diesem Reich Würde und der Welt das Heil brachtet, sollen die da, die doch die führenden Köpfe sein wollen, endlich zugeben, dass sowohl sie als auch alle anderen dem umfassenden Beschluß des römischen Volkes gehorchen müssen.
+		</german>
+		<latin>
+			Hoc si vos temere fecistis, et rei publicae parum consuluistis, recte isti studia vestra suis consiliis regere conantur. Sin autem vos plus tum in re publica vidistis, vos eis repugnantibus per vosmet ipsos dignitatem huic imperio, salutem orbi terrarum attulistis, aliquando isti principes et sibi et ceteris populi Romani universi auctoritati parendum esse fateantur.
+		</latin>
+	</section>
+	<section from="64b" to="64b">
+		<german>
+			Und in diesem asiatischen und königlichen Krieg sucht man nicht nur nach jener militärischen Tugend, welche in Pompeius einzigartig ist, sondern auch nach anderen Fähigkeiten des Geistes - großen und zahlreichen. Es ist für unsere Feldherren in Cilicien, in Asien, in Syrien und den Königreichen der inneren Nationen schwierig, so zu verweilen, dass er an nichts anderes als an den Feind und seinen Ruhm denkt. Weiterhin, auch wenn es Leute gibt, die gemäßigter sind aus Scham oder Zurückhaltung, glaubt dennoch niemand, dass sie so sind, wegen der großen Anzahl gieriger Menschen.
+		</german>
+		<latin>
+			Atque in hoc bello Asiatico et regio non solum militaris illa virtus, quae est in Cn. Pompeio singularis, sed aliae quoque virtutes animi magnae et multae requiruntur. Difficile est in Asia, Cilicia, Syria regnisque interiorum nationum ita versari nostrum imperatorem, ut nihil nisi de hoste ac de laude cogitet. Deinde etiam si qui sunt pudore ac temperantia moderatiores, tamen eos esse talis propter multitudinem cupidiorum hominum nemo arbitratur.
+		</latin>
+	</section>
+	<section from="65" to="65">
+		<german>
+			Es ist schwer (peinlich) zu sagen, ihr Quiriten, in wie großem Haß wir bei den anderen Nationen sind, wegen der zügellosen und willkürlichen Handlungen derer, die wir in den letzten Jahren mit Befehlsgewalt zu ihnen geschickt haben. Welcher Tempel, glaubt ihr, war in jenen Ländern unseren Magistraten heilig (oder: welcher Tempel war für sie tabu - um die Wiederholung zu vermeiden), welche Bürgerschaft war ihnen heilig, welches Haus war ihnen genug fest verschlossen und befestigt? Man findet überaus reiche (Hendiadyoin) Städte, denen man den Krieg erklärt hat, wegen der Gier nach Plünderung.
+		</german>
+		<latin>
+			Difficile est dictu, Quirites, quanto in odio simus apud exteras nationes propter eorum, quos ad eas per hos annos cum imperio misimus, libidines et iniurias. Quod enim fanum putatis in illis terris nostris magistratibus religiosum, quam civitatem sanctam, quam domum satis clausam ac munitam fuisse? Urbes iam locupletes et copiosae requiruntur, quibus causa belli propter diripiendi cupiditatem inferatur.
+		</latin>
+	</section>
+	<section from="66" to="66">
+		<german>
+			Gerne möchte ich darüber mit Hortensius und Catulus, sehr berühmte und ehrenvolle Männer, diskutieren; sie kennen nämlich die Wunden unserer Bundesgenossen, sehen deren Schaden, hören ihre Klagen. Glaubt ihr für eure Bundesgenossen ein Heer gegen den Feind zu schicken oder im Gegenteil angeblich gegen den Feind in Wahrheit aber gegen Bundesgenossen und Freunde? Gibt es eine Bürgerschaft in Asien, die nicht etwa nur die Gelüste eines Feldherrn oder Legaten, sondern sogar die eines Militär Tribunen reizen könnte? Deshalb, (auch) wenn ihr jemanden habt, der in der Feldschlacht die Heere des Königs besiegen zu können scheint, ist nicht derjenige geeignet, der nicht Hände, Augen und Sinn vom Geld der Bundesgenossen zurückhalten kann, von ihren Frauen und Kindern, vom Schmuck ihrer Tempel und Städte, vom Gold und vom Schatz des Königs, dass er zu diesem asiatischen und königlichen Krieg geschickt wird.
+		</german>
+		<latin>
+			Libenter haec coram cum Q. Catulo et Q. Hortensio, summis et clarissimis viris, disputarem. Noverunt enim sociorum volnera, vident eorum calamitates, querimonias audiunt. Pro sociis vos contra hostis exercitum mittere putatis, an hostium simulatione contra socios atque amicos? Quae civitas est in Asia quae non modo imperatoris aut legati, sed unius tribuni militum animos ac spiritus capere possit? Qua re, etiam si quem habetis qui conlatis signis exercitus regios superare posse videatur, tamen nisi erit idem, qui se a pecuniis sociorum, qui ab eorum coniugibus ac liberis, qui ab ornamentis fanorum atque oppidorum, qui ab auro gazaque regia manus, oculos, animum cohibere possit, non erit idoneus qui ad bellum Asiaticum regiumque mittatur.
+		</latin>
+	</section>
+	<section from="67" to="67">
+		<german>
+			Glaubt ihr etwa, dass eine Bürgerschaft in Frieden lebte, die reich ist? Die Meeresküste, ihr Quiriten, fordert Pompeius nicht nur wegen seines Ruhmes in militärischen Dingen, sondern auch wegen seiner Zurückhaltung. Man sah nämlich, wie sich Praetoren außer wenige in den Jahren mit Staatsgeldern bereicherten, und dass wir im Namen unserer Flotte nur erreichten, dass wir offenkundig zum angenommenen Schaden nur noch mehr Schande bekamen. Nun wissen die natürlich nicht, die meinen, dass einem nicht alles übertragen werden dürfe, mit welchen Begierden nach Geld und mit welchen finanziellen Opfern und unter welchen Bedingungen die Menschen in die Provinzen aufbrechen. Gleich als ob wir nicht sehen, dass Gnaeus Pompeius nicht mit seinen Tugenden, sondern auch durch den Fehlern anderer groß ist.
+		</german>
+		<latin>
+			Ecquam putatis civitatem pacatam fuisse quae locuples sit? ecquam esse locupletem quae istis pacata esse videatur? Ora maritima, Quirites, Cn. Pompeium non solum propter rei militaris gloriam, sed etiam propter animi continentiam requisivit. Videbat enim praetores locupletari quot annis pecunia publica praeter paucos; neque eos quicquam aliud adsequi, classium nomine, nisi ut detrimentis accipiendis maiore adfici turpitudine videremur. Nunc qua cupiditate homines in provincias, quibus iacturis et quibus condicionibus proficiscantur, ignorant videlicet isti, qui ad unum deferenda omnia esse non arbitrantur? Quasi vero Cn. Pompeium non cum suis virtutibus tum etiam alienis vitiis magnum esse videamus.
+		</latin>
+	</section>
+	<section from="68" to="68">
+		<german>
+			Deswegen bedenkt euch nicht, ihm allein alles anzuvertrauen, was in den ganzen Jahren als der einzige erfunden worden war, über den sich die Bundesgenossen freuten, wenn er mit seinem Heer in die Städten kam.
+		</german>
+		<latin>
+			Qua re nolite dubitare quin huic uni credatis omnia, qui inter tot annos unus inventus sit, quem socii in urbis suas cum exercitu venisse gaudeant.
+		</latin>
+	</section>
+	<section from="68b" to="68b">
+		<german>
+Wenn ihr glaubt diese Angelegenheit müsse von gewichtigen Persönlichkeiten gefestigt werden, ihr Quiriten, so rät euch eine Autorität, ein Mann aller Kriege zu Lande und zu Wasser, Publius Servilius, der so großen Taten auf dem Meer und an Land vollbracht hat, dass, wenn ihr über den Krieg beratet, niemandes Würde gewichtiger sein darf; dann gibt es noch Gaius Curio, der durch die höchsten eurer Auszeichnungen und höchste Taten geehrt, durch sein sehr hohes Talent ausgezeichnet und mit seiner Klugheit begabt ist; dann ist da noch Gnaeus Lentulus, in dem ihr alle entsprechend eurer gewichtigen Auszeichnungen höchste Klugheit und höchsten sittlichen Ernst erkennt; es gibt so dann noch einen Gaius Cassius, er ist von einzigartiger Redlichkeit, Tapferkeit, und Standhaftigkeit. Deshalb seht zu, wie ihr wohl durch deren Ansehen auf die Rede jener, die anderer Meinung sind, antworten könnt.
+		</german>
+		<latin>
+Quod si auctoritatibus hanc causam, Quirites, confirmandam putatis, est vobis auctor vir bellorum omnium maximarumque rerum peritissimus, P. Servilius, cuius tantae res gestae terra marique exstiterunt, ut cum de bello deliberetis, auctor vobis gravior nemo esse debeat; est C. urio, summis vestris beneficiis maximisque rebus gestis, summo ingenio et prudentia praeditus; est Cn. Lentulus, in quo omnes pro amplissimis vestris honoribus summum consilium, summam gravitatem esse cognovistis; est C. Cassius, integritate, virtute, constantia singulari. Que re videte ut horum auctoritatibus illorum orationi qui dissentiunt, respondere posse videamur.
+		</latin>
+	</section>
+
+</text>
+</translation>

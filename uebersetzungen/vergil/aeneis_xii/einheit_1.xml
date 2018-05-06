@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Vergil</author>
+	<title>Aeneis XII</title>
+	<snippet>Verse 1-215</snippet>
+	<translator>Rainer Lohmann</translator>
+	<textkind>poetry</textkind>
+	<firstnumber>1</firstnumber>
+	<navigation>
+		<previous url="intro.html">Aeneis XII Einführung</previous>
+		<next url="einheit_2.xml">Verse 216 bis 467</next>
+	</navigation>
+</description>
+<text>
+
+	<section from="1" to="17">
+		<german>
+			Sobald Turnus gesehen hatte, dass die im widrigen Kampf geschwächten Latiner nachgelassen hatten, jetzt seine Versprechen gefordert und die Augen auf ihn gerichtet wurden, entbrannte er von sich aus unversöhnlich und ermutigte sich. Wie in den Gefilden der Punier jener Löwe dann erst, wenn er an der Brust infolge einer schweren Verwundung durch Jäger verletzt ist, den Kampf beginnt, und wie er, die lange Mähne im Nacken schüttelnd, sich freut, den fest steckenden Pfeil des Jägers unerschrocken zerbricht und mit blutigem Maul brüllt: nicht anders entbrennt die Kampfeslust des entflammten Turnus. Dann sprach er den König folgendermaßen an, und aufgewühlt begann er so: "Turnus kennt keinen Aufschub; es gibt keinen Grund, warum die trägen Gefährten des Aeneas ihre Worte widerrufen und zurückweisen sollten, was sie verabredet haben: Ich stelle mich. Bringe die heiligen Geräte herbei, Vater, und schließe einen Vertrag. Entweder werde ich mit dieser Rechten den Trojaner, den Ausreißer aus Asien, in den Tartarus hinabschicken (die Latiner sollen dasitzen und zuschauen), und allein mit dem Schwert die Beschuldigung von uns allen widerlegen, oder er soll uns als Besiegte besitzen und Lavinia ihm als seine Gattin zufallen."
+		</german>
+		<latin>
+			Turnus ut infractos aduerso Marte Latinos<br/>
+			defecisse uidet, sua nunc promissa reposci,<br/>
+			se signari oculis, ultro implacabilis ardet<br/>
+			attollitque animos. Poenorum qualis in aruis<br/>
+			saucius ille graui uenantum uulnere pectus<br/>
+			tum demum mouet arma leo, gaudetque comantis<br/>
+			excutiens ceruice toros fixumque latronis<br/>
+			impauidus frangit telum et fremit ore cruento:<br/>
+			haud secus accenso gliscit uiolentia Turno.<br/>
+			tum sic adfatur regem atque ita turbidus infit:<br/>
+			'nulla mora in Turno; nihil est quod dicta retractent<br/>
+			ignaui Aeneadae, nec quae pepigere recusent:<br/>
+			congredior. fer sacra, pater, et concipe foedus.<br/>
+			aut hac Dardanium dextra sub Tartara mittam<br/>
+			desertorem Asiae (sedeant spectentque Latini),<br/>
+			et solus ferro crimen commune refellam,<br/>
+			aut habeat uictos, cedat Lauinia coniunx.'		
+		</latin>
+	</section>
+	<section from="18" to="53">
+		<german>
+			Jenem antwortete Latinus in ruhigem Gemüt: "Vortrefflich gesinnter junger Mann, recht und billig ist es, wenn ich in meiner Furcht, sosehr du selbst durch deine ungestüme Tapferkeit hervorragst, umso entschiedener auf alle Vorkommnisse bedacht bin und sie abwäge. Dir gehört das Königreich deines Vaters Daunus, dir gehören viele mit eigener Hand eroberte Städte und fürwahr, Latinus verfügt über Gold und Großmütigkeit; es gibt noch andere unverheiratete junge Frauen in Latium und den laurentinischen Gefilden, und sie sind nicht von einfacher Herkunft. Lass mich, indem ich von Täuschungen absehe, dieses, was zu sagen sehr hart ist, darlegen, und nimm es zugleich in dein Herz auf: Dass ich meine Tochter mit keinem der alten Freier verheirate, war göttliches Recht, und dieses verkündeten alle Götter und Menschen. Überwältigt von der Liebe zu dir, überwältigt von der Blutsverwandtschaft und den Tränen meiner betrübten Gemahlin, habe ich alle Fesseln gesprengt: Die versprochene Braut habe ich dem Schwiegersohn entrissen und zu den ruchlosen Waffen gegriffen. Demgemäß erkennst du, Turnus, welche Schicksalsschläge, welche Kriege mich verfolgen, wie viele Strapazen besonders du erleidest. Zweimal in einem großen Kampf besiegt, verteidigen wir kaum in der eigenen Stadt die Hoffnungen Italiens; immer noch warm sind die Fluten des Tibers von unserem Blut, und die riesigen Felder sind weiß von Knochen. Wohin werde ich so häufig zurückgetrieben? Welcher Wahnsinn verändert mein Ansinnen? Wenn ich für den Fall, dass Turnus tot ist, bereit bin, die Trojaner als Verbündete aufzunehmen, warum beendige ich dann nicht lieber die Kämpfe, während er unversehrt bleibt? Was werden deine blutsverwandten Rutuler sagen, was das übrige Italien, wenn ich dich dem Tod (mag das Schicksal meine Worte abwenden!) ausliefern sollte, da du doch meine Tochter und die Heirat mit meiner Familie begehrst? Denke an die Wechselfälle des Krieges, erbarme dich deines hochbetagten Vaters, den jetzt sein heimatliches Ardea weit fernhält." Keineswegs änderte sich durch diese Worte Turnus' Ungestüm; es flammte noch stärker auf und verschlimmerte sich durch die Heilung. Als er sprechen konnte, begann er also zu reden: "Die Fürsorge, die du für mich zeigst, gib – ich bitte dich, mein Bester – für mich auf, und erlaube mir, den Tod für Ruhm einzutauschen, und ich, Vater, schleudere mit meiner Rechten Speere und nicht kraftloses Eisen, und aus der von mir zugefügten Wunde folgt Blut. Weit weg wird die Göttin, seine Mutter, für ihn sein, die den Flüchtigen mit der Wolke einer Frau und sich in nichtigem Schatten verbergen will." 
+		</german>
+		<latin>
+			Olli sedato respondit corde Latinus:<br/>
+			'o praestans animi iuuenis, quantum ipse feroci<br/>
+			uirtute exsuperas, tanto me impensius aequum est<br/>
+			consulere atque omnis metuentem expendere casus.<br/>
+			sunt tibi regna patris Dauni, sunt oppida capta<br/>
+			multa manu, nec non aurumque animusque Latino est;<br/>
+			sunt aliae innuptae Latio et Laurentibus aruis<br/>
+			nec genus indecores. sine me haec haud mollia fatu<br/>
+			sublatis aperire dolis, simul hoc animo hauri:<br/>
+			me natam nulli ueterum sociare procorum<br/>
+			fas erat, idque omnes diuique hominesque canebant.<br/>
+			uictus amore tui, cognato sanguine uictus<br/>
+			coniugis et maestae lacrimis, uincla omnia rupi;<br/>
+			promissam eripui genero, arma impia sumpsi.<br/>
+			ex illo qui me casus, quae, Turne, sequantur<br/>
+			bella, uides, quantos primus patiare labores.<br/>
+			bis magna uicti pugna uix urbe tuemur<br/>
+			spes Italas; recalent nostro Thybrina fluenta<br/>
+			sanguine adhuc campique ingentes ossibus albent.<br/>
+			quo referor totiens? quae mentem insania mutat?<br/>
+			si Turno exstincto socios sum ascire paratus,<br/>
+			cur non incolumi potius certamina tollo?<br/>
+			quid consanguinei Rutuli, quid cetera dicet<br/>
+			Italia, ad mortem si te (fors dicta refutet!)<br/>
+			prodiderim, natam et conubia nostra petentem?<br/>
+			respice res bello uarias, miserere parentis<br/>
+			longaeui, quem nunc maestum patria Ardea longe<br/>
+			diuidit.' haudquaquam dictis uiolentia Turni<br/>
+			flectitur; exsuperat magis aegrescitque medendo.<br/>
+			ut primum fari potuit, sic institit ore:<br/>
+			'quam pro me curam geris, hanc precor, optime, pro me<br/>
+			deponas letumque sinas pro laude pacisci.<br/>
+			et nos tela, pater, ferrumque haud debile dextra<br/>
+			spargimus, et nostro sequitur de uulnere sanguis.<br/>
+			longe illi dea mater erit, quae nube fugacem<br/>
+			feminea tegat et uanis sese occulat umbris.'
+		</latin>
+	</section>
+	
+	<section from="54" to="80">
+		<german>
+			Aber die Königin, erschreckt durch die neue Wende der Schlacht, weinte und hielt ihren hitzigen Schwiegersohn fest, zu sterben entschlossen: "Turnus, bei diesen Tränen bitte ich dich um eines nur, wenn irgendeine Wertschätzung Amatas dich berührt (Du bist nun meine einzige Hoffnung, du bist die Ruhe im beschwerlichen Greisenalter, Latinus' Ehre und Herrschaft liegen in deiner Gewalt, von dir hängt das ganze Haus in seinem Fall ab): Lass davon ab, mit den Trojanern handgemein zu werden. Welche Schicksalsschläge auch immer dich in diesem Kampf erwarten, auch mich, Turnus, erwarten sie; zugleich werde ich dieses verhasste Leben zurücklassen, und Aeneas, meinen Schwiegersohn, werde ich, eine Kriegsgefangene, nicht sehen." Lavinia vernahm die Rede ihrer Mutter, die glühenden Wangen mit Tränen benetzt, und eine tiefe Röte entzündete ein Feuer und verbreitete sich über ihr erhitztes Gesicht. Gleichwie wenn jemand indisches Elfenbein blutrot färbt oder wenn weiße Lilien, sobald sie mit vielen Rosen vermischt sind, rötlich schimmern, so zeigte das Mädchen Farben auf seinem Gesicht. Die Liebe verwirrte jenen und ließ seinen Blick auf dem Mädchen ruhen; und heftiger noch verlangte er nach den Waffen und sprach Amata mit wenigen Worten an: "Gib mir bitte nicht Tränen und nicht ein solches Omen mit auf den Weg, da ich in die Kämpfe eines harten Krieges ziehe, Mutter; denn Turnus steht es nicht frei, den Tod aufzuschieben. Als mein Bote, Idmon, überbringe diese meine Worte dem phrygischen Tyrannen, die ihm nicht gefallen werden. Sobald Aurora morgen mit ihren purpurnen Wagen am Himmel dahinfährt und erröten wird, soll sie nicht die Trojaner gegen die Rutuler treiben, die Waffen der Trojaner und die Rutuler sollen schweigen; lasst uns mit unserem Blut den Krieg beenden, auf jenem Feld soll Lavinia als Gattin gesucht werden."
+		</german>
+		<latin>
+			At regina noua pugnae conterrita sorte<br/>
+			flebat et ardentem generum moritura tenebat:<br/>
+			'Turne, per has ego te lacrimas, per si quis Amatae<br/>
+			tangit honos animum: spes tu nunc una, senectae<br/>
+			tu requies miserae, decus imperiumque Latini<br/>
+			te penes, in te omnis domus inclinata recumbit.<br/>
+			unum oro: desiste manum committere Teucris.<br/>
+			qui te cumque manent isto certamine casus<br/>
+			et me, Turne, manent; simul haec inuisa relinquam<br/>
+			lumina nec generum Aenean captiua uidebo.'<br/>
+			accepit uocem lacrimis Lauinia matris<br/>
+			flagrantis perfusa genas, cui plurimus ignem<br/>
+			subiecit rubor et calefacta per ora cucurrit.<br/>
+			Indum sanguineo ueluti uiolauerit ostro<br/>
+			si quis ebur, aut mixta rubent ubi lilia multa<br/>
+			alba rosa, talis uirgo dabat ore colores.<br/>
+			illum turbat amor figitque in uirgine uultus;<br/>
+			ardet in arma magis paucisque adfatur Amatam:<br/>
+			'ne, quaeso, ne me lacrimis neue omine tanto<br/>
+			prosequere in duri certamina Martis euntem,<br/>
+			o mater; neque enim Turno mora libera mortis.<br/>
+			nuntius haec, Idmon, Phrygio mea dicta tyranno<br/>
+			haud placitura refer. cum primum crastina caelo<br/>
+			puniceis inuecta rotis Aurora rubebit,<br/>
+			non Teucros agat in Rutulos, Teucrum arma quiescant<br/>
+			et Rutuli; nostro dirimamus sanguine bellum,<br/>
+			illo quaeratur coniunx Lauinia campo.
+		</latin>
+	</section>
+
+	<section from="81" to="106">
+		<german>
+			Sobald er diese Worte gesprochen und sich schnell in sein Haus zurückgezogen hatte, verlangte er seine Pferde und freute sich, als er sah, wie sie vor seinen Augen schnaubten: Dem Pilumnus gab Orithyia selbst diese als Auszeichnung, da sie an Helligkeit den Schnee übertrafen und in ihrem Lauf die Winde. Schnell umstanden die Wagenlenker die Pferde, sie schlugen und reizten sie mit ihren gewölbten Händen und kämmten deren behaarten Nacken. Dann legte er selbst den Brustpanzer, der mit Gold und blassem Messing überzogen war, um seine Schultern, zugleich machte er sein Schwert, seinen Schild und die Hörner seines roten Helmbusches für den Einsatz bereit, das Schwert, das der feuergewaltige Gott persönlich für dessen Vater Daunus gemacht und glühend in die Wasser der Styx eingetaucht hatte. Hierauf riss er gewaltsam eine starke Lanze an sich, die mitten im Haus an einer gewaltigen Säule angelehnt dastand, ein Beutestück, das dem Aurunker Actor gehört hatte; er schüttelte die zuckende Lanze und rief laut: "Jetzt, Lanze, die du niemals mein Rufen getäuscht hast, jetzt ist die Zeit da: Dich trug zuvor der sehr starke Actor, dich trägt jetzt Turnus' Rechte; gewähre mir, den Körper des weibischen Phrygiers niederzustrecken, seinen abgerissenen Brustpanzer zu zerstören und seine mit dem heißen Brenneisen gekräuselten und von Myrrhe triefenden Haare im Staub zu zerraufen." Von diesen Rasereien wurde er getrieben, und aus seinem brennenden Gesicht sprühten im Ganzen Funken, ein Feuer blitzte in seinen durchdringenden Augen: gleichwie wenn ein Stier für den Beginn des Kampfes ein Schrecken erregendes Gebrüll ertönen lässt und mit den Hörnern wütend zu stoßen versucht, sich gegen einen Baumstamm stemmend, und er die Winde durch seine Stöße reizt oder sich für den Kampf einübt, den Sand verstreuend. 
+		</german>
+		<latin>
+			Haec ubi dicta dedit rapidusque in tecta recessit,<br/>
+			poscit equos gaudetque tuens ante ora frementis,<br/>
+			Pilumno quos ipsa decus dedit Orithyia,<br/>
+			qui candore niues anteirent, cursibus auras.<br/>
+			circumstant properi aurigae manibusque lacessunt<br/>
+			pectora plausa cauis et colla comantia pectunt.<br/>
+			ipse dehinc auro squalentem alboque orichalco<br/>
+			circumdat loricam umeris, simul aptat habendo<br/>
+			ensemque clipeumque et rubrae cornua cristae,<br/>
+			ensem quem Dauno ignipotens deus ipse parenti <br/>
+			fecerat et Stygia candentem tinxerat unda.<br/>
+			exim quae mediis ingenti adnixa columnae<br/>
+			aedibus astabat, ualidam ui corripit hastam,<br/>
+			Actoris Aurunci spolium, quassatque trementem<br/>
+			uociferans: 'nunc, o numquam frustrata uocatus<br/>
+			hasta meos, nunc tempus adest: te maximus Actor,<br/>
+			te Turni nunc dextra gerit; da sternere corpus<br/>
+			loricamque manu ualida lacerare reuulsam<br/>
+			semiuiri Phrygis et foedare in puluere crinis<br/>
+			uibratos calido ferro murraque madentis.'<br/>
+			his agitur furiis, totoque ardentis ab ore<br/>
+			scintillae absistunt, oculis micat acribus ignis,<br/>
+			mugitus ueluti cum prima in proelia taurus<br/>
+			terrificos ciet aut irasci in cornua temptat<br/>
+			arboris obnixus trunco, uentosque lacessit<br/>
+			ictibus aut sparsa ad pugnam proludit harena.
+		</latin>
+	</section>
+
+	<section from="107" to="112">
+		<german>
+			Nicht weniger fachte inzwischen Aeneas wütend in den von seiner Mutter gebrachten Waffen die Kampfbegier an und ermunterte sich im Zorn, sich freuend, dass der Krieg, nachdem eine Übereinkunft angeboten worden sei, beigelegt werde. Dann beschwichtigte er seine Gefährten und die Furcht des traurigen Iulus, indem er sie das Schicksal lehrte, und er befahl den Männern, König Latinus zuverlässige Antworten zu überbringen und die Friedensbedingungen festzusetzen. 
+		</german>
+		<latin>
+			Nec minus interea maternis saeuus in armis<br/>
+			Aeneas acuit Martem et se suscitat ira,<br/>
+			oblato gaudens componi foedere bellum.<br/>
+			tum socios maestique metum solatur Iuli<br/>
+			fata docens, regique iubet responsa Latino<br/>
+			certa referre uiros et pacis dicere leges.
+		</latin>
+	</section>
+
+	<section from="113" to="133">
+		<german>
+			Kaum bestrahlte der folgende Tag nach seinem Beginn die Gipfel der Berge, als die Pferde der Sonne sich aus dem tiefen Meer erhoben und das Licht aus ihren aufgerichteten Nüstern bliesen: Die Männer der Rutuler und Trojaner hatten ein Feld für den Wettkampf am Fuß der Mauer der großen Stadt abgemessen, bereiteten dieses vor und errichteten in seiner Mitte Feuerstätten und Altäre aus Rasen für die gemeinsamen Götter. Andere brachten Quellwasser und Feuer, mit einem Schurz bekleidet und die Schläfen mit grünem Gezweig umwunden. Die Armee der Ausonier schritt vorwärts, und mit Wurfspießen bewaffnete Scharen strömten aus den vollen Toren. Auf der anderen Seite stürzte das gesamte trojanische und etruskische Heer los, mit verschiedenen Waffen, nicht anders in Schlachtordnung aufgestellt, als wenn der harte Kampf des Krieges sie rufen würde. Und in der Tat schwärmten mitten unter den Tausenden die Führer selbst umher, stolz auf Gold und Purpur, Mnestheus, der Nachkomme des Assaracus, der tapfere Asilas und Messapus, der Pferdebändiger, ein Nachkomme Neptuns. Und sobald sich jeder auf ein gegebenes Signal in seinen Raum zurückgezogen hatte, stießen sie ihre Lanzen in die Erde und lehnten ihre Schilde dagegen. Dann besetzten die mit Eifer heranströmenden Mütter, die große Menge der Unbewaffneten und die kränklichen Greise die Türme und Dächer der Häuser, andere standen da bei den hohen Stadttoren.
+		</german>
+		<latin>
+			Postera uix summos spargebat lumine montis<br/>
+			orta dies, cum primum alto se gurgite tollunt<br/>
+			Solis equi lucemque elatis naribus efflant:<br/>
+			campum ad certamen magnae sub moenibus urbis<br/>
+			dimensi Rutulique uiri Teucrique parabant<br/>
+			in medioque focos et dis communibus aras<br/>
+			gramineas. alii fontemque ignemque ferebant<br/>
+			uelati limo et uerbena tempora uincti.<br/>
+			procedit legio Ausonidum, pilataque plenis<br/>
+			agmina se fundunt portis. hinc Troius omnis<br/>
+			Tyrrhenusque ruit uariis exercitus armis,<br/>
+			haud secus instructi ferro quam si aspera Martis<br/>
+			pugna uocet. nec non mediis in milibus ipsi<br/>
+			ductores auro uolitant ostroque superbi,<br/>
+			et genus Assaraci Mnestheus et fortis Asilas<br/>
+			et Messapus equum domitor, Neptunia proles;<br/>
+			utque dato signo spatia in sua quisque recessit,<br/>
+			defigunt tellure hastas et scuta reclinant.<br/>
+			tum studio effusae matres et uulgus inermum<br/>
+			inualidique senes turris ac tecta domorum<br/>
+			obsedere, alii portis sublimibus astant.
+		</latin>
+	</section>
+
+	<section from="134" to="160">
+		<german>
+			Aber Juno hielt Ausschau von dem Gipfel des Hügels, der jetzt Albanerberg genannt wird (damals besaß der Berg weder den Namen noch Ehre oder Ruhm), und sie betrachtete das Feld, beide Schlachtreihen der Laurentiner und Trojaner und die Stadt des Latinus. Sogleich sprach die Göttin die Schwester des Turnus, eine Göttin, die Teiche und rauschende Flüsse schützt, folgendermaßen an (diese Ehre wies ihr der hochgeborene König des Himmels, Jupiter, für ihre geraubte Jungfräulichkeit zu): "Nymphe, du Zierde der Flüsse, unserer Wesensart sehr willkommen, du weißt, wie ich dich allein allen latinischen Mädchen, die das undankbare Bett des hochherzigen Jupiter bestiegen haben, vorgezogen und dir willig einen Platz im Himmel gegeben habe: Lerne deinen Schmerz kennen, Juturna, damit du mich nicht beschuldigst. Soweit Fortuna es zu dulden schien und die Parzen es zuließen, dass sich die Verhältnisse für Latium gut entwickelten, habe ich Turnus und deine Stadt geschützt: Jetzt sehe ich, dass der junge Mann mit dem Schicksal aneinandergerät, dem er nicht gewachsen ist, und der Tag der Parzen und ihre feindselige Macht nähern sich. Nicht kann ich diesen Kampf mit meinen Augen ansehen, nicht den Vertrag. Wenn du für deinen Bruder etwas Wirksameres wagst, so lasse nicht davon ab; es ziemt sich. Vielleicht wird den Armen Besseres folgen." Kaum hatte sie dieses gesagt, als Juturna Tränen aus ihren Augen hervorströmen ließ und dreimal und viermal mit der Hand gegen ihre schönen Brüste schlug. "Dies ist nicht die Zeit für Tränen", sagte Juno, Saturns Tochter; "eile und entreiße deinen Bruder dem Tod, wenn es noch möglich ist; oder beginne du Kriege und stoße den geschlossenen Vertrag um. Verantwortlich für das, was du wagst, bin ich." Nachdem sie Juturna so ermahnt hatte, ließ sie sie ratlos und infolge der schmerzlichen Kränkung ihrer Seele verwirrt zurück. 
+		</german>
+		<latin>
+			At Iuno ex summo (qui nunc Albanus habetur;<br/>
+			tum neque nomen erat neque honos aut gloria monti)<br/>
+			prospiciens tumulo campum aspectabat et ambas<br/>
+			Laurentum Troumque acies urbemque Latini.<br/>
+			extemplo Turni sic est adfata sororem<br/>
+			diua deam, stagnis quae fluminibusque sonoris<br/>
+			praesidet (hunc illi rex aetheris altus honorem<br/>
+			Iuppiter erepta pro uirginitate sacrauit):<br/>
+			'nympha, decus fluuiorum, animo gratissima nostro,<br/>
+			scis ut te cunctis unam, quaecumque Latinae<br/>
+			magnanimi Iouis ingratum ascendere cubile,<br/>
+			praetulerim caelique libens in parte locarim:<br/>
+			disce tuum, ne me incuses, Iuturna, dolorem.<br/>
+			qua uisa est Fortuna pati Parcaeque sinebant<br/>
+			cedere res Latio, Turnum et tua moenia texi;<br/>
+			nunc iuuenem imparibus uideo concurrere fatis,<br/>
+			Parcarumque dies et uis inimica propinquat.<br/>
+			non pugnam aspicere hanc oculis, non foedera possum.<br/>
+			tu pro germano si quid praesentius audes,<br/>
+			perge; decet. forsan miseros meliora sequentur.'<br/>
+			uix ea, cum lacrimas oculis Iuturna profundit<br/>
+			terque quaterque manu pectus percussit honestum.<br/>
+			'non lacrimis hoc tempus' ait Saturnia Iuno:<br/>
+			'accelera et fratrem, si quis modus, eripe morti;<br/>
+			aut tu bella cie conceptumque excute foedus.<br/>
+			auctor ego audendi.' sic exhortata reliquit<br/>
+			incertam et tristi turbatam uulnere mentis.
+		</latin>
+	</section>
+
+	<section from="161" to="174">
+		<german>
+			Inzwischen trafen die Könige ein: Latinus fuhr mit einem vierspännigen Wagen von gewaltiger Größe (sein leuchtendes Haupt umgaben zwölf vergoldete Strahlen, ein Beweis, dass die Sonne sein Vorfahre war), Turnus in einem weißen Zweigespann, in seiner Hand zwei Lanzen mit einer breiten Spitze schwingend. Auf der anderen Seite kam Vater Aeneas, der Ahnherr des römischen Geschlechts, aus dem Lager hervor, von seinem glänzenden Rundschild und den himmlischen Waffen strahlend, und neben ihm Ascanius, die zweite Hoffnung des großen Rom, und ein Priester in einem reinen Gewand trug das Junge eines borstigen Schweins und ein ungeschorenes Schaf herbei, und er brachte das Vieh zu den brennenden Altären. Jene, die Augen auf die aufsteigende Sonne gerichtet, gaben mit ihren Händen salzige Früchte und kennzeichneten die Tiere oben auf der Stirn mit der Klinge, und mit ihren Opferschalen benetzten sie den Brandaltar.
+		</german>
+		<latin>
+			Interea reges ingenti mole Latinus<br/>
+			quadriiugo uehitur curru (cui tempora circum<br/>
+			aurati bis sex radii fulgentia cingunt,<br/>
+			Solis aui specimen), bigis it Turnus in albis,<br/>
+			bina manu lato crispans hastilia ferro.<br/>
+			hinc pater Aeneas, Romanae stirpis origo,<br/>
+			sidereo flagrans clipeo et caelestibus armis<br/>
+			et iuxta Ascanius, magnae spes altera Romae,<br/>
+			procedunt castris, puraque in ueste sacerdos<br/>
+			saetigeri fetum suis intonsamque bidentem<br/>
+			attulit admouitque pecus flagrantibus aris.<br/>
+			illi ad surgentem conuersi lumina solem<br/>
+			dant fruges manibus salsas et tempora ferro<br/>
+			summa notant pecudum, paterisque altaria libant.
+		</latin>
+	</section>
+
+	<section from="175" to="194">
+		<german>
+			Dann betete der gottesfürchtige Aeneas mit gezücktem Schwert folgendermaßen: "Nun sei die Sonne mein Zeuge und diese Erde bei meinem Anruf, um deretwillen ich so große Strapazen ertragen konnte, der allmächtige Vater und du, Saturns Tochter, seine Gemahlin – mir schon besser gesinnte Göttin, dich bitte ich – und du, berühmter Mavors, der du, Vater, nach deinem Geheiß den Gang aller Kriege lenkst; die Quellen und Flüsse rufe ich an, die heilige Macht, die der erhabene Äther besitzt, und die Götter, die im blauen Meer sind: Wenn etwa der Sieg dem Ausonier Turnus zufällt, gehört es sich, dass die Besiegten in die Stadt Euanders abziehen, Iulus wird das Land verlassen, und später werden die aufständischen Trojaner keine Waffen zurückbringen und dieses Königreich nicht mit dem Schwert herausfordern. Wenn aber Victoria unserem Kampf den Sieg verleiht (wie ich eher glaube und die Götter mögen es vorzugsweise durch ihr Wirken bekräftigen), werde ich den Italern nicht befehlen, den Trojanern zu gehorchen, und für mich erstrebe ich nicht die Königsherrschaft: Unter gleichen Bedingungen sollen sich beide unbesiegten Völker auf ein ewiges Bündnis einlassen. Die heiligen Bräuche und die Götter werde ich geben; als mein Schwiegervater soll Latinus die Waffen haben, die gewohnte Herrschaft als mein Schwiegervater; die Trojaner werden für mich eine Stadt errichten und Lavinia wird der Stadt ihren Namen geben." 
+		</german>
+		<latin>
+			Tum pius Aeneas stricto sic ense precatur:<br/>
+			'esto nunc Sol testis et haec mihi terra uocanti,<br/>
+			quam propter tantos potui perferre labores,<br/>
+			et pater omnipotens et tu Saturnia coniunx<br/>
+			(iam melior, iam, diua, precor), tuque inclute Mauors,<br/>
+			cuncta tuo qui bella, pater, sub numine torques;<br/>
+			fontisque fluuiosque uoco, quaeque aetheris alti<br/>
+			religio et quae caeruleo sunt numina ponto:<br/>
+			cesserit Ausonio si fors uictoria Turno,<br/>
+			conuenit Euandri uictos discedere ad urbem,<br/>
+			cedet Iulus agris, nec post arma ulla rebelles<br/>
+			Aeneadae referent ferroue haec regna lacessent.<br/>
+			sin nostrum adnuerit nobis uictoria Martem<br/>
+			(ut potius reor et potius di numine firment),<br/>
+			non ego nec Teucris Italos parere iubebo<br/>
+			nec mihi regna peto: paribus se legibus ambae<br/>
+			inuictae gentes aeterna in foedera mittant.<br/>
+			sacra deosque dabo; socer arma Latinus habeto,<br/>
+			imperium sollemne socer; mihi moenia Teucri<br/>
+			constituent urbique dabit Lauinia nomen.'
+		</latin>
+	</section>
+
+	<section from="195" to="215">
+		<german>
+			So sprach als erster Aeneas, so folgte dann Latinus, zum Himmel emporblickend, und er streckte seine Rechte zu den Sternen aus: "Bei denselben Mächten, Aeneas, der Erde, dem Meer und den Sternen, schwöre ich, bei der doppelten Nachkommenschaft Latonas und dem zweiköpfigen Ianus, bei der Macht der unterirdischen Götter und bei dem Heiligtum des strengen Pluto; hören soll dies der Göttervater, der Bündnisse durch seinen Blitz unverletzlich macht. Ich berühre die Altäre, bei den Feuern zwischen uns und den Gottheiten versichere ich: Kein Tag wird diesen Frieden für die Italer brechen und auch nicht die Übereinkunft, wie auch immer die Geschehnisse ablaufen werden; keine Kraft wird meinen Willen ablenken, nicht wenn sie die Erde in den Ozean beide vermengend ausgießen und den Himmel in die Unterwelt verwandeln sollte, so sicher wie dieses Zepter" - denn in seiner Rechten trug er zufällig das Zepter - "niemals Buschwerk mit leichtem Laub hervorbringen wird und auch keinen Schatten, sobald es, ein für alle Mal in den Wäldern unten vom Stamm abgehauen, ohne Mutter ist und seine Blätter und Zweige unter der Axt abgelegt hat, einst ein Ast, jetzt aber hat die Hand eines Künstlers ihn in Bronze eingeschlossen, um ihn zu schmücken, und den latinischen Ältesten gegeben, damit sie ihn tragen." Mit solchen Worten bekräftigten sie untereinander ihre Übereinkunft inmitten der Gegenwart der Adeligen. Dann weihten sie nach religiösem Brauch die geheiligten Tiere geschlachtet den Flammen und entrissen ihnen noch lebend die Eingeweide, und sie häuften sie in beladenen Schalen auf den Altären auf.  
+		</german>
+		<latin>
+			Sic prior Aeneas, sequitur sic deinde Latinus<br/>
+			suspiciens caelum, tenditque ad sidera dextram:<br/>
+			'haec eadem, Aenea, terram, mare, sidera, iuro<br/>
+			Latonaeque genus duplex Ianumque bifrontem,<br/>
+			uimque deum infernam et duri sacraria Ditis;<br/>
+			audiat haec genitor qui foedera fulmine sancit.<br/>
+			tango aras, medios ignis et numina testor:<br/>
+			nulla dies pacem hanc Italis nec foedera rumpet,<br/>
+			quo res cumque cadent; nec me uis ulla uolentem<br/>
+			auertet, non, si tellurem effundat in undas<br/>
+			diluuio miscens caelumque in Tartara soluat,<br/>
+			ut sceptrum hoc' (dextra sceptrum nam forte gerebat)<br/>
+			'numquam fronde leui fundet uirgulta nec umbras,<br/>
+			cum semel in siluis imo de stirpe recisum<br/>
+			matre caret posuitque comas et bracchia ferro,<br/>
+			olim arbos, nunc artificis manus aere decoro<br/>
+			inclusit patribusque dedit gestare Latinis.'<br/>
+			talibus inter se firmabant foedera dictis<br/>
+			conspectu in medio procerum. tum rite sacratas<br/>
+			in flammam iugulant pecudes et uiscera uiuis<br/>
+			eripiunt, cumulantque oneratis lancibus aras.
+		</latin>
+	</section>
+
+</text>
+</translation>

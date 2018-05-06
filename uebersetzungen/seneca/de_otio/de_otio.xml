@@ -1,0 +1,197 @@
+<translation>
+<description>
+	<author>Seneca</author>
+	<title>De Otio</title>
+	<snippet>Über die Muße</snippet>
+	<translator>Rainer Lohmann</translator>
+	<textkind>prosa</textkind>
+	<firstnumber>I.1</firstnumber>
+	<navigation>
+		<previous url="intro.html">De Otio Einführung</previous>
+	</navigation>
+</description>
+
+<structure>
+	<list style="list-style: decimal">
+		<item number="I.1">Exordium (I)</item>
+		<item number="II.1">Propositio (II)</item>
+		
+		<item number="III.1">Argumentatio (III-VI)</item>
+		<list style="list-style: decimal">
+			<item number="III.1">Voraussetzung (1): Die Muße und ihr Nutzen (III)</item>
+			<item number="IV.1">Voraussetzung (2): Der Mensch als Kosmopolit (IV)</item>
+			<item number="V.1">Der Beweis (V) und die Widerlegung eines Einwandes (VI)</item>
+		</list>
+		
+		<item number="VII.1">Epikritische Weiterführungen (VII-VIII)</item>
+		<list style="list-style: decimal">
+			<item number="VII.1">Die drei Lebensformen (VII)</item>
+			<item number="VIII.1">Der notwendige Rückzug aus dem politischen Leben (VIII)</item>
+		</list>
+	</list>
+</structure>
+
+
+<text>
+	<section from="I.1" to="I.3">
+		<german>
+			Uns empfehlen sie mit großer Einmütigkeit die Laster. Mögen wir auch nichts anderes, was heilsam sein könnte, ausprobieren, so wird dennoch der Rückzug ganz aus eigenem Antrieb nützlich sein: Einzeln werden wir besser sein. Ist es nicht so, dass wir uns zu den besten Männern zurückziehen und irgendein Vorbild auswählen können, damit wir unser Leben danach einrichten? Dieses geschieht nur in der Muße: Dann kann beibehalten werden, was man einmal beschlossen hat, wenn niemand dazwischenkommt, der das noch schwache Urteil mit Unterstützung des Volkes ablenkt; dann vermag das Leben in einem gleichmäßigen und ununterbrochenen Zug voranzuschreiten, das wir durch die widerstrebendsten Projekte gewaltsam unterbrechen. <newparagraph number="2"/> Denn unter den übrigen Übeln ist jenes am schlimmsten, dass wir die Laster selbst wechseln. So wird uns nicht einmal das zuteil, nämlich an einem schon vertrauten Übel festzuhalten. Eines nach dem andern gefällt, und es quält uns auch, dass unsere Urteile nicht nur schlecht, sondern auch unzuverlässig sind: Wir schwanken und ergreifen eines nach dem andern, das Begehrte lassen wir zurück, das Zurückgelassene begehren wir von neuem, alternierend zwischen unserer Begierde und Reue vollzieht sich der Wechsel. <newparagraph number="3"/> Denn völlig abhängig sind wir von fremden Meinungen und uns erscheint das am besten, was viele Bewerber und Lobredner hat, nicht das, was lobens- und erstrebenswert ist, und nicht beurteilen wir einen guten oder schlechten Weg aus sich heraus, sondern nach der Menge der Spuren, unter denen es keine von Heimkehrern gibt.
+		</german>
+		<latin>
+			nobis magno consensu uitia commendant. Licet nihil aliud quod sit salutare temptemus, proderit tamen per se ipsum secedere: meliores erimus singuli. Quid quod secedere ad optimos uiros et aliquod exemplum eligere ad quod uitam derigamus licet? Quod &lt;nisi&gt; in otio non fit: tunc potest optineri quod semel placuit, ubi nemo interuenit qui iudicium adhuc inbecillum populo adiutore detorqueat; tunc potest uita aequali et uno tenore procedere, quam propositis diuersissimis scindimus. <newparagraph number="2"/> Nam inter cetera mala illud pessimum est, quod uitia ipsa mutamus. Sic ne hoc quidem nobis contingit, permanere in malo iam familiari. Aliud ex alio placet uexatque nos hoc quoque, quod iudicia nostra non tantum praua sed etiam leuia sunt: fluctuamur aliudque ex alio comprendimus, petita relinquimus, relicta repetimus, alternae inter cupiditatem nostram et paenitentiam uices sunt. <newparagraph number="3"/> Pendemus enim toti ex alienis iudiciis et id optimum nobis uidetur quod petitores laudatoresque multos habet, non id quod laudandum petendumque est, nec uiam bonam ac malam per se aestimamus sed turba uestigiorum, in quibus nulla sunt redeuntium. 
+		</latin>
+	</section>
+	<section from="I.4" to="I.5">
+		<german>
+			Du wirst mir sagen: "Was sagst du, Seneca? Verlässt du die Partei? Bestimmt sagen eure Stoiker: 'Bis zum äußersten Ende des Lebens werden wir in Bewegung sein, wir werden nicht aufhören, auf das gemeinsame Wohl Mühe zu verwenden, Einzelne zu unterstützen und sogar den Feinden mit gealterter Hand Hilfe zu bringen. Wir sind diejenigen, die dem Alter keine Dienstbefreiung gewähren und, was jener sehr beredte Mann sagt, ihr graues Haar mit einem Helm verbergen; wir sind diejenigen, bei denen vor dem Tod in einem Maße nichts müßig ist, dass der Tod selbst, falls die Umstände es zulassen, nicht ruhig ist.' Was nennst du uns die Weisungen Epikurs unmittelbar im Zusammenhang mit den Grundlehren Zenons? Warum läufst du nicht, falls die Partei deinen Unwillen erregt, eher vollständig über, als dass du Verrat begehst?" <newparagraph number="5"/> Dieses werde ich dir augenblicklich antworten: "Willst du denn mehr, als dass ich mich meinen Führern als ähnlich erweise? Was also ist zu tun? Nicht wohin jene mich geschickt, sondern wohin sie mich geführt haben, werde ich gehen."
+		</german>
+		<latin>
+			Dices mihi: 'quid ais, Seneca? deseris partes? Certe Stoici uestri dicunt: "usque ad ultimum uitae finem in actu erimus, non desinemus communi bono operam dare, adiuuare singulos, opem ferre etiam inimicis senili manu. Nos sumus qui nullis annis uacationem damus et, quod ait ille uir disertissimus,
+
+			canitiem galea premimus;
+
+			nos sumus apud quos usque eo nihil ante mortem otiosum est ut, si res patitur, non sit ipsa mors otiosa." Quid nobis Epicuri praecepta in ipsis Zenonis principiis loqueris? Quin tu bene gnauiter, si partium piget, transfugis potius quam prodis?' <newparagraph number="5"/> Hoc tibi in praesentia respondebo: 'numquid uis amplius quam ut me similem ducibus meis praestem? Quid ergo est? non quo miserint me illi, sed quo duxerint ibo.'
+		</latin>
+	</section>
+	
+	
+	
+	<section from="II.1" to="II.2">
+		<german>
+			Nun werde ich dir beweisen, dass ich nicht den Weisungen der Stoiker untreu werde; denn nicht einmal sie selbst haben sich von ihren eigenen Lehren losgesagt, und dennoch wäre ich ganz und gar entschuldigt, auch wenn ich nicht ihren Lehren folgte, sondern ihren Beispielen. Das, was ich sage, werde ich in zwei Teile gliedern: erstens, dass jemand sogar von Jugend auf sich ganz der Betrachtung der Wahrheit widmen, die richtige Lebensweise suchen und für sich verwirklichen kann; <newparagraph number="2"/> zweitens, dass er dieses, nachdem er seine Jahre abgedient hat, in weit vorgerücktem Alter, mit bestem Recht tun und auf sehr geistreiche Weise anderen vortragen kann, nach Art der Vestalinnen, die, da die Jahre unter die Pflichten aufgeteilt worden sind, Opfer darzubringen lernen und es lehren, sobald sie es gelernt haben.
+		</german>
+		<latin>
+			Nunc probabo tibi non desciscere me a praeceptis Stoicorum; nam ne ipsi quidem a suis desciuerunt, et tamen excusatissimus essem, etiam si non praecepta illorum sequerer sed exempla. Hoc quod dico in duas diuidam partes: primum, ut possit aliquis uel a prima aetate contemplationi ueritatis totum se tradere, rationem uiuendi quaerere atque exercere secreto; <newparagraph number="2"/> deinde, ut possit hoc aliquis emeritis stipendiis, profligatae aetatis, iure optimo facere et ~ad alios actus animos~ referre, uirginum Vestalium more, quae annis inter officia diuisis discunt facere sacra et cum didicerunt docent. 
+		</latin>
+	</section>
+	
+	
+	<section from="III.1" to="III.1">
+		<german>
+			Dass dieses auch die Meinung der Stoiker ist, werde ich zeigen, nicht als ob ich es mir zur Regel machte, mir nichts gegen ein Wort Zenons oder Chrysipps zu Schulden kommen zu lassen, sondern weil die Sache selbst es zulässt, dass ich mich der Meinung jener anschließe; wenn jemand immer nur der Meinung eines Einzigen folgt, ist er nicht in der Kurie, sondern in einer Partei. Wenn doch alles sogleich verstanden würde, die Wahrheit in deutlichem Licht erschiene sowie allgemein anerkannt wäre und wir nichts an unseren Grundsätzen veränderten! Nun suchen wir die Wahrheit mit eben denjenigen, die sie lehren.
+		</german>
+		<latin>
+			Hoc Stoicis quoque placere ostendam, non quia mihi legem dixerim nihil contra dictum Zenonis Chrysippiue committere, sed quia res ipsa patitur me ire in illorum sententiam, quoniam si quis semper unius sequitur, non in curia sed in factione est. Vtinam quidem iam tenerentur omnia et in aperto et confesso ueritas esset nihilque ex decretis mutaremus! nunc ueritatem cum eis ipsis qui docent quaerimus. 
+		</latin>
+	</section>
+	
+	
+	<section from="III.2" to="III.5">
+		<german>
+			Zwei Schulen sind überaus uneins, auch in dieser Angelegenheit, die der Epikureer und Stoiker, aber beiden führen zur Muße auf unterschiedlichem Weg. Epikur sagt: "Der Weise wird sich nicht politisch betätigen, außer wenn etwas dazwischengekommen ist"; Zenon sagt: "Er wird sich politisch betätigen, außer wenn ihn etwas hindert." <newparagraph number="3"/> Der eine erstrebt die Muße aus Vorsatz, der andere aus gutem Grund; jener Grund aber hat einen weiten Spielraum. Wenn der Staat verdorbener ist, als dass ihm geholfen werden könnte, wenn sich üble Menschen seiner bemächtigt haben, wird sich der Weise nicht unnötigerweise anstrengen und sich nicht aufopfern, da er keinen Nutzen erbringen wird; wenn er zu wenig Einfluss oder Stärke haben und der Staat nicht bereit sein wird, jenen zu akzeptieren, wenn Krankheit jenen behindern wird, wird er genauso wenig, wie er ein leck geschlagenes Schiff ins Meer auslaufen ließe und kraftlos sich zum Kriegsdienst meldete, sich mit einem Weg befassen, von dessen Schwierigkeit er wissen wird. <newparagraph number="4"/> Es kann also auch jener, dem alle Möglichkeiten noch offen stehen, bevor er irgendeine stürmische Zeit erlebt, in Sicherheit verweilen, sich sogleich den guten Künsten widmen und eine unverminderte Muße verleben, ein Verehrer der Tugenden, die auch von denen, die in größter Zurückgezogenheit leben, ausgeübt werden können. <newparagraph number="5"/> Dieses wird doch wohl von einem Menschen gefordert, dass er den Menschen nützt, wenn es sich ermöglichen lässt, vielen, wenn nicht, wenigen, wenn nicht, den Nächsten, andernfalls sich selbst. Denn wenn er sich den übrigen nützlich macht, verrichtet er eine allgemeine Aufgabe. Wie derjenige, der sich schlechter macht, nicht nur sich schadet, sondern auch all denjenigen, denen er, besser geworden, hätte nützen können, so nützt jeder, der sich um sich verdient macht, durch genau diese Tat anderen, weil er ihnen das besorgt, was ihnen nützen wird. 
+		</german>
+		<latin>
+			Duae maxime et in hac re dissident sectae, Epicureorum et Stoicorum, sed utraque ad otium diuersa uia mittit. Epicurus ait: 'non accedet ad rem publicam sapiens, nisi si quid interuenerit'; Zenon ait: 'accedet ad rem publicam, nisi si quid inpedierit.' <newparagraph number="3"/> Alter otium ex proposito petit, alter ex causa; causa autem illa late patet. Si res publica corruptior est quam &lt;ut&gt; adiuuari possit, si occupata est malis, non nitetur sapiens in superuacuum nec se nihil profuturus inpendet; si parum habebit auctoritatis aut uirium nec illum erit admissura res publica, si ualetudo illum inpediet, quomodo nauem quassam non deduceret in mare, quomodo nomen in militiam non daret debilis, sic ad iter quod inhabile sciet non accedet. <newparagraph number="4"/> Potest ergo et ille cui omnia adhuc in integro sunt, antequam ullas experiatur tempestates, in tuto subsistere et protinus commendare se bonis artibus et inlibatum otium exigere, uirtutium cultor, quae exerceri etiam quietissimis possunt. <newparagraph number="5"/> Hoc nempe ab homine exigitur, ut prosit hominibus, si fieri potest, multis, si minus, paucis, si minus, proximis, si minus, sibi. Nam cum se utilem ceteris efficit, commune agit negotium. Quomodo qui se deteriorem facit non sibi tantummodo nocet sed etiam omnibus eis quibus melior factus prodesse potuisset, sic quisquis bene de se meretur hoc ipso aliis prodest quod illis profuturum parat. 
+		</latin>
+	</section>
+	
+	<section from="IV.1" to="IV.2">
+		<german>
+			Zwei Staaten wollen wir betrachten, den einen großen und wirklich allgemeinen, durch den Götter und Menschen verbunden werden, in dem wir uns nicht nach diesem oder jenem Winkel umschauen, sondern die Grenzen unseres Gemeinwesens mit der Sonne durchmessen, den anderen, dem uns das Los der Geburt eingeschrieben hat; dieser Staat wird entweder der der Athener oder Karthager sein oder irgendeiner anderen Stadt, die nicht alle Menschen einschließt, sondern nur bestimmte. Einige verwenden zu derselben Zeit auf beide Staaten Mühe, auf den größeren und den kleineren, einige nur auf den kleineren, einige nur auf den größeren. <newparagraph number="2"/> Diesem größeren Staat können wir auch in der Muße uns widmen, ja sogar in der Muße möglicherweise noch mehr, dadurch dass wir fragen, was die Tugend ist, ob es nur eine gibt oder mehrere, ob die Natur oder die Einübung die Menschen gut macht; ob das einzigartig ist, was das Meer und das Land und die Dinge, die mit dem Meer und dem Land verbunden sind, vereinigt oder die Gottheit viele derartige Körper verteilt hat; ob die ganze Materie, aus der alles hervorgebracht wird, zusammenhängend und ausgefüllt oder auseinandergezogen und eine mit Festem vermischte Leere ist; was der Wohnsitz der Gottheit ist, ob sie ihr Werk anschaut oder aktiv kontrolliert, ob sie jenes von außen umschließt oder in das Ganze hineingelegt ist; ob die Welt unsterblich ist oder zu den vergänglichen und auf Zeit entstandenen Dingen gerechnet werden muss. Was leistet derjenige, der dieses erwägt, für die Gottheit? Dass ihre so gewaltigen Werke nicht ohne einen Zeugen sind.
+		</german>
+		<latin>
+			Duas res publicas animo complectamur, alteram magnam et uere publicam qua di atque homines continentur, in qua non ad hunc angulum respicimus aut ad illum sed terminos ciuitatis nostrae cum sole metimur, alteram cui nos adscripsit condicio nascendi; haec aut Atheniensium erit aut Carthaginiensium aut alterius alicuius urbis quae non ad omnis pertineat homines sed ad certos. Quidam eodem tempore utrique rei publicae dant operam, maiori minorique, quidam tantum minori, quidam tantum maiori. <newparagraph number="2"/> Huic maiori rei publicae et in otio deseruire possumus, immo uero nescio an in otio melius, ut quaeramus quid sit uirtus, una pluresne sint, natura an ars bonos uiros faciat; unum sit hoc quod maria terrasque et mari ac terris inserta complectitur, an multa eiusmodi corpora deus sparserit; continua sit omnis et plena materia ex qua cuncta gignuntur, an diducta et solidis inane permixtum; quae sit dei sedes, opus suum spectet an tractet, utrumne extrinsecus illi circumfusus sit an toti inditus; inmortalis sit mundus an inter caduca et ad tempus nata numerandus. Haec qui contemplatur, quid deo praestat? ne tanta eius opera sine teste sint. 
+		</latin>
+	</section>
+	
+	<section from="V.1" to="V.3">
+		<german>
+			Wir sagen gewöhnlich, das höchste Gut bestehe darin, gemäß der Natur zu leben: Die Natur hat uns für beides hervorgebracht, für die Betrachtung der Dinge und für das Handeln. Nun wollen wir prüfen, was wir als Erstes genannt haben. Was gibt es noch mehr zu sagen? Ist nicht der Beweis erbracht, wenn ein jeder sich selbst fragt, welch starkes Verlangen er hat, Unbekanntes kennenzulernen, wie sehr alle Geschichten seine Begeisterung hervorrufen? <newparagraph number="2"/> Einige fahren zur See und ertragen die Strapazen einer sehr langen Reise für einen Lohn, der einzig und allein darin besteht, etwas Verborgenes und Entlegenes kennenzulernen. Dieser Sachverhalt versammelt Völker zu Schauspielen, er zwingt dazu, Verschlossenes zu erforschen, Verborgeneres zu ergründen, die Vergangenheit zu enthüllen und die Sitten barbarischer Völker zu vernehmen. <newparagraph number="3"/> Die Natur hat uns einen wissbegierigen Charakter gegeben und uns im Bewusstsein ihrer Kunstfertigkeit und Schönheit als Zuschauer so bedeutender Naturschauspiele hervorgebracht, da sie die Freude über sich selbst verliere, wenn sie so Großes, so Ruhmvolles, so fein Gestaltetes, so Schönes und nicht bloß in einer Hinsicht Wohlgestaltetes der Einsamkeit zeige. 
+		</german>
+		<latin>
+			Solemus dicere summum bonum esse secundum naturam uiuere: natura nos ad utrumque genuit, et contemplationi rerum et actioni. Nunc id probemus quod prius diximus. Quid porro? hoc non erit probatum, si se unusquisque consuluerit quantam cupidinem habeat ignota noscendi, quam ad omnis fabulas excitetur? <newparagraph number="2"/> Nauigant quidam et labores peregrinationis longissimae una mercede perpetiuntur cognoscendi aliquid abditum remotumque. Haec res ad spectacula populos contrahit, haec cogit praeclusa rimari, secretiora exquirere, antiquitates euoluere, mores barbararum audire gentium. <newparagraph number="3"/> Curiosum nobis natura ingenium dedit et artis sibi ac pulchritudinis suae conscia spectatores nos tantis rerum spectaculis genuit, perditura fructum sui, si tam magna, tam clara, tam subtiliter ducta, tam nitida et non uno genere formosa solitudini ostenderet. 
+		</latin>
+	</section>
+	
+	<section from="V.4" to="V.5">
+		<german>
+			Damit du weißt, dass jene betrachtet, nicht nur angeschaut werden wollte, sieh, welchen Platz sie uns gegeben hat: In der Mitte ihrer selbst stellte sie uns auf und gab uns einen gebieterischen Ausblick auf alles; und sie richtete den Menschen nicht nur auf, sondern um ihn auch für die Betrachtung tauglich zu machen, damit er die Gestirne auf ihrem Weg von ihrem Aufgang bis zu ihrem Untergang begleiten und seinen Blick mit dem Ganzen umherschweifen lassen könne, gab sie jenem ein emporgerichtetes Haupt und setzte dieses auf einen biegsamen Nacken; dann brachte sie je sechs Sternbilder für den Tag und je sechs für die Nacht hervor und offenbarte jeden Teil ihrer selbst, um durch das, was sie den Augen gezeigt hatte, sein Verlangen auch nach dem Übrigen zu wecken. <newparagraph number="5"/> Denn wir sehen weder alles noch die wirklichen Ausmaße, sondern unser Auge bahnt sich einen Weg für die Erkundung und legt die Grundlagen für die Wahrheit, damit die Erforschung vom Offenkundigen zum Verborgenen hinüberwechselt und etwas findet, das älter ist als die Welt selbst: woraus diese Gestirne hervorgegangen sind; was der Zustand des Universums gewesen ist, bevor die einzelnen Elemente sich trennten, um dessen Teile zu bilden; welche Vernunft das, was in Dunkelheit getaucht und ungeordnet war, auseinandergezogen hat; wer den Dingen ihren Platz zugewiesen hat, ob aufgrund seiner eigenen Natur das Schwere hinabgestiegen und das Leichte sich emporgeschwungen hat oder abgesehen von dem Druck und dem Gewicht der Körper irgendeine höhere Gewalt den einzelnen Körpern ihr Gesetz bestimmt hat; ob jenes Argument wahr ist, durch das hauptsächlich bewiesen wird, dass die Menschen eine göttliche Seele haben, nämlich dass ein Teil und gleichsam einige Funken der Sterne auf die Erde herabgesprungen und an einem fremden Ort festgehalten worden seien. 
+		</german>
+		<latin>
+			Vt scias illam spectari uoluisse, non tantum aspici, uide quem nobis locum dederit: in media nos sui parte constituit et circumspectum omnium nobis dedit; nec erexit tantummodo hominem, sed etiam habilem contemplationis factura, ut ab ortu sidera in occasum labentia prosequi posset et uultum suum circumferre cum toto, sublime fecit illi caput et collo flexili inposuit; deinde sena per diem, sena per noctem signa producens nullam non partem sui explicuit, ut per haec quae optulerat oculis eius cupiditatem faceret etiam ceterorum. <newparagraph number="5"/> Nec enim omnia nec tanta uisimus quanta sunt, sed acies nostra aperit sibi inuestigandi uiam et fundamenta uero iacit, ut inquisitio transeat ex apertis in obscura et aliquid ipso mundo inueniat antiquius: unde ista sidera exierint; quis fuerit uniuersi status, antequam singula in partes discederent; quae ratio mersa et confusa diduxerit; quis loca rebus adsignauerit, suapte natura grauia descenderint, euolauerint leuia, an praeter nisum pondusque corporum altior aliqua uis legem singulis dixerit; an illud uerum sit quo maxime probatur homines diuini esse spiritus, partem ac ueluti scintillas quasdam astrorum in terram desiluisse atque alieno loco haesisse. 
+		</latin>
+	</section>
+	
+	<section from="V.6" to="V.6">
+		<german>
+			Unser Denken durchbricht die Bollwerke des Himmels und ist nicht damit zufrieden, das zu wissen, was sich sehen lässt: "Jenes", sagt es, "untersuche ich, was jenseits der Welt liegt, ob dieses grenzenlose Leere ist oder von seinen Grenzen eingeschlossen wird; welches Aussehen das außerhalb der Welt Gelegene hat, ob es formlos und ungeordnet ist und in jeder Richtung denselben Raum innehat oder irgendeiner Ordnung zugewiesen ist; ob es mit dieser Welt zusammenhängt oder sich weit von ihr entfernt hat und diese Welt sich in einem leeren Raum bewegt; ob es die Atome sind, durch die ein jedes, was entstanden ist und noch sein wird, aufgebaut wird, oder deren Materie zusammenhängend ist und überall im Ganzen veränderlich; ob die Elemente untereinander entgegengesetzt sind oder nicht im Streit liegen, sondern auf verschiedene Weisen harmonieren."  
+		</german>
+		<latin>
+			Cogitatio nostra caeli munimenta perrumpit nec contenta est id quod ostenditur scire: 'illud' inquit 'scrutor quod ultra mundum iacet, utrumne profunda uastitas sit an et hoc ipsum terminis suis cludatur; qualis sit habitus exclusis, informia et confusa sint, [an] in omnem partem tantundem loci optinentia, an et illa in aliquem cultum discripta sint; huic cohaereant mundo, an longe ab hoc secesserint et hic in uacuo uolutetur; indiuidua sint per quae struitur omne quod natum futurumque est, an continua eorum materia sit et per totum mutabilis; utrum contraria inter se elementa sint, an non pugnent sed per diuersa conspirent.' 
+		</latin>
+	</section>
+	
+	<section from="V.7" to="V.7">
+		<german>
+			Geboren, um dieses zu untersuchen, erwäge, wie wenig Zeit der Mensch empfangen hat, auch wenn er jene ganz für sich beansprucht. Mag er es auch geschehen lassen, dass ihm nichts hiervon in seiner Gutmütigkeit entrissen wird, dass nichts infolge von Nachlässigkeit verloren geht, mag er auch seine Stunden sehr bedacht aufbewahren und bis zum äußersten Ende der menschlichen Lebensdauer voranschreiten, mag das Schicksal nichts von dem erschüttern, was die Natur für ihn bestimmt hat, so ist der Mensch dennoch hinsichtlich der Erkenntnis des Unsterblichen allzu sterblich.
+		</german>
+		<latin>
+			Ad haec quaerenda natus, aestima quam non multum acceperit temporis, etiam si illud totum sibi uindicat. Qui licet nihil facilitate eripi, nihil neglegentia patiatur excidere, licet horas suas auarissime seruet et usque in ultimum aetatis humanae terminum procedat nec quicquam illi ex eo quod natura constituit fortuna concutiat, tamen homo ad inmortalium cognitionem nimis mortalis est. 
+		</latin>
+	</section>
+	
+	<section from="V.8" to="V.8">
+		<german>
+			Also lebe ich gemäß der Natur, wenn ich mich jener ganz hingegeben habe, wenn ich ihr Bewunderer und Verehrer bin. Die Natur aber hat gewollt, dass ich beides mache, nämlich handle und Zeit für die Betrachtung habe: Beides mache ich, da auch die Betrachtung nicht ohne Tätigkeit ist.
+		</german>
+		<latin>
+			Ergo secundum naturam uiuo si totum me illi dedi, si illius admirator cultorque sum. Natura autem utrumque facere me uoluit, et agere et contemplationi uacare: utrumque facio, quoniam ne contemplatio quidem sine actione est. 
+		</latin>
+	</section>
+	
+	<section from="VI.1" to="VI.2">
+		<german>
+			 "Aber es kommt darauf an", sagst du, "ob man sich jener um des Vergnügens willen nähert und nichts anderes von ihr verlangt als fortwährende Betrachtung ohne Ende; sie ist nämlich angenehm und hat ihre eigenen Reize." Dagegen antworte ich dir: In gleicher Weise kommt es darauf an, in welcher Verfassung du ein politisches Leben führst, ob du immer unruhig bist und dir niemals eine Auszeit nimmst, um von dem Menschlichen auf das Göttliche zu blicken. <newparagraph number="2"/> Wie es keineswegs löblich ist, ohne jede Liebe zu den Tugenden und ohne geistige Erziehung Besitz zu erstreben und bloßen Kriegsdienst zu leisten (denn dieses muss untereinander vereinigt und verknüpft werden), so ist es ein unvollkommenes und schwaches Gut, wenn die Tugend ohne eine Tätigkeit der Muße überlassen wird und sie niemals das zeigen kann, was sie gelernt hat.  
+		</german>
+		<latin>
+			'Sed refert' inquis 'an ad illam uoluptatis causa accesseris, nihil aliud ex illa petens quam adsiduam contemplationem sine exitu; est enim dulcis et habet inlecebras suas.' Aduersus hoc tibi respondeo: aeque refert quo animo ciuilem agas uitam, an semper inquietus sis nec tibi umquam sumas ullum tempus quo ab humanis ad diuina respicias. <newparagraph number="2"/> Quomodo res adpetere sine ullo uirtutum amore et sine cultu ingeni ac nudas edere operas minime probabile est (misceri enim ista inter se et conseri debent), sic inperfectum ac languidum bonum est in otium sine actu proiecta uirtus, numquam id quod didicit ostendens.
+		</latin>
+	</section>
+	
+	<section from="VI.3" to="VI.4">
+		<german>
+			Wer stellt in Abrede, dass jene ihre Wirkungen in einer Tätigkeit unter Beweis stellen und nicht nur bedenken muss, was zu tun ist, sondern auch einmal entschlossen handeln und das, was sie überlegt hat, in die Wirklichkeit überführen muss? Wenn nun der Hinderungsgrund nicht bei dem Weisen selbst liegt, wenn nicht der Akteur fehlt, sondern die Aufgaben, die zu verrichten sind, wirst du jenem dann nicht erlauben, bei sich zu sein? <newparagraph number="4"/> In welcher Verfassung zieht sich der Weise in die Muße zurück? In dem Wissen, dass er auch dann das tun wird, wodurch er der Nachwelt nützt. Ohne Zweifel sind wir es, die sagen, dass Zenon und Chrysipp Größeres geleistet haben, als wenn sie Heere angeführt, Ehrenämter ausgeübt und Gesetze eingebracht hätten; diese haben sie nicht für ein einziges Gemeinwesen, sondern für das gesamte Menschengeschlecht eingebracht. Was ist also der Grund, warum eine derartige Muße nicht zu einem guten Mann passen sollte, durch die er zukünftige Zeitalter lenkt und in der er nicht vor wenigen öffentlich redet, sondern vor allen Menschen aller Völker, die es gibt und die es geben wird? 
+		</german>
+		<latin>
+			Quis negat illam debere profectus suos in opere temptare, nec tantum quid faciendum sit cogitare sed etiam aliquando manum exercere et ea quae meditata est ad uerum perducere? Quodsi per ipsum sapientem non est mora, si non actor deest sed agenda desunt, ecquid illi secum esse permittes? <newparagraph number="4"/> Quo animo ad otium sapiens secedit? ut sciat se tum quoque ea acturum per quae posteris prosit. Nos certe sumus qui dicimus et Zenonem et Chrysippum maiora egisse quam si duxissent exercitus, gessissent honores, leges tulissent; quas non uni ciuitati, sed toti humano generi tulerunt. Quid est ergo quare tale otium non conueniat uiro bono, per quod futura saecula ordinet nec apud paucos contionetur sed apud omnis omnium gentium homines, quique sunt quique erunt?
+		</latin>
+	</section>
+	
+	<section from="VI.5" to="VI.5">
+		<german>
+			Kurz, ich frage, ob Cleanthes, Chrysippus und Zenon nach ihren Weisungen gelebt haben. Ohne Zweifel wirst du antworten, dass jene so gelebt haben, wie man nach ihrer Meinung leben muss: Gleichwohl hat niemand von jenen einen Staat verwaltet. "Nicht verfügten jene", sagst du, "über die Herkunft oder den Stand, die eine Beschäftigung mit Politik gewöhnlich erlauben." Aber dieselben führten trotzdem ein nicht träges Leben: Sie haben herausgefunden, auf welche Weise ihre eigene Ruhe den Menschen mehr nutzte als das Umherlaufen und der Schweiß der anderen. Also schienen diese trotzdem viel getan zu haben, obgleich sie öffentlich nichts verrichteten.
+		</german>
+		<latin>
+			Ad summam, quaero an ex praeceptis suis uixerint Cleanthes et Chrysippus et Zenon. &lt;Non&gt; dubie respondebis sic illos uixisse quemadmodum dixerant esse uiuendum: atqui nemo illorum rem publicam administrauit. 'Non fuit' inquis 'illis aut ea fortuna aut ea dignitas quae admitti ad publicarum rerum tractationem solet.' Sed idem nihilominus non segnem egere uitam: inuenerunt quemadmodum plus quies ipsorum hominibus prodesset quam aliorum discursus et sudor. Ergo nihilominus hi multum egisse uisi sunt, quamuis nihil publice agerent. 
+		</latin>
+	</section>
+	
+	<section from="VII.1" to="VII.4">
+		<german>
+			Außerdem gibt es drei Weisen des Lebens, unter denen gewöhnlich nach der besten gesucht wird: Die erste ist dem Genuss gewidmet, die zweite der Betrachtung, die dritte dem Handeln. Nachdem wir zuerst den Streit und den Hass abgelegt haben, den wir unversöhnlich denjenigen angesagt haben, die entgegengesetzten Richtungen folgen, wollen wir sehen, wie diese Lebensformen alle unter diesem oder jenem Namen auf dasselbe hinauslaufen: Weder ist jener, der das Vergnügen billigt, ohne Betrachtung, noch jener, welcher sich der Betrachtung hingibt, ohne Genuss, und auch jener, dessen Leben auf Handlungen hin angelegt ist, ist nicht ohne Betrachtung. <newparagraph number="2"/> "Es ist ein sehr großer Unterschied", sagst du, "ob irgendetwas das letzte Ziel ist oder das Nebenprodukt eines anderen Zieles." Meinetwegen mag der Unterschied gewaltig sein, dennoch besteht das eine nicht ohne das andere: Weder betrachtet jener ohne zu handeln, noch handelt dieser ohne zu betrachten, und auch jener Dritte, über den wir übereinstimmend schlecht urteilen, billigt nicht einen untätigen Genuss, sondern denjenigen, dem er durch die Vernunft Beständigkeit verleiht; so ist auch diese dem Genuss ergebene Schule selbst in der Verrichtung. <newparagraph number="3"/> Warum sollte sie nicht in der Verrichtung sein, wo doch Epikur selbst sagt, er werde sich irgendwann von dem Genuss lossagen und sogar den Schmerz erstreben, wenn entweder dem Genuss Reue drohen oder ein geringerer Schmerz den Vorzug gegenüber einem stärkeren erhalten wird? <newparagraph number="4"/> Was für einen Sinn hat es, dieses zu sagen? Damit sich zeigt, dass die Betrachtung allen gefällt; andere streben nach ihr, für uns ist sie ein Ankerplatz, nicht ein Hafen.
+		</german>
+		<latin>
+			Praeterea tria genera sunt uitae, inter quae quod sit optimum quaeri solet: unum uoluptati uacat, alterum contemplationi, tertium actioni. Primum deposita contentione depositoque odio quod inplacabile diuersa sequentibus indiximus, uideamus ut haec omnia ad idem sub alio atque alio titulo perueniant: nec ille qui uoluptatem probat sine contemplatione est, nec ille qui contemplationi inseruit sine uoluptate est, nec ille cuius uita actionibus destinata est sine contemplatione est. <newparagraph number="2"/> 'Plurimum' inquis 'discriminis est utrum aliqua res propositum sit an propositi alterius accessio.' Sit sane grande discrimen, tamen alterum sine altero non est: nec ille sine actione contemplatur, nec hic sine contemplatione agit, nec ille tertius, de quo male existimare consensimus, uoluptatem inertem probat sed eam quam ratione efficit firmam sibi; ita et haec ipsa uoluptaria secta in actu est. <newparagraph number="3"/> Quidni in actu sit, cum ipse dicat Epicurus aliquando se recessurum a uoluptate, dolorem etiam adpetiturum, si aut uoluptati imminebit paenitentia aut dolor minor pro grauiore sumetur? <newparagraph number="4"/> Quo pertinet haec dicere? ut appareat contemplationem placere omnibus; alii petunt illam, nobis haec statio, non portus est. 
+		</latin>
+	</section>
+	
+	<section from="VIII.1" to="VIII.2">
+		<german>
+			Nimm noch hinzu, dass in Muße zu leben jemandem gemäß Chrysipps Vorschrift erlaubt ist: Nicht meine ich, dass er sie erträgt, sondern wählt. Unsere Philosophen sagen, der Weise werde sich nicht für einen beliebigen Staat engagieren; was aber macht es für einen Unterschied, wie der Weise zur Muße gelangt: weil der Staat jenem fehlt oder er selbst dem Staat, falls der Staat allen fehlen wird. Immer aber wird er denjenigen fehlen, die mit einem kritischen Auge suchen. <newparagraph number="2"/> Ich frage, für welchen Staat sich der Weise engagieren wird. Für den der Athener, in dem Sokrates verurteilt wird und Aristoteles flieht, damit er nicht verurteilt wird? In dem Neid die Tugenden unterdrückt? Du wirst mir sagen, dass sich der Weise nicht für diesen Staat engagieren wird. Also wird sich der Weise für den Staat der Karthager engagieren, in dem es unablässigen Aufruhr und eine gerade für die Besten bedrohliche Freiheit gibt, höchste Geringschätzung von Recht und Billigkeit, unmenschliche Grausamkeit gegenüber den Feinden, die sich auch gegenüber den eigenen Leuten als feindlich erweist? Auch vor diesem wird er fliehen.
+		</german>
+		<latin>
+			Adice nunc [huc] quod e lege Chrysippi uiuere otioso licet: non dico ut otium patiatur, sed ut eligat. Negant nostri sapientem ad quamlibet rem publicam accessurum; quid autem interest quomodo sapiens ad otium ueniat, utrum quia res publica illi deest an quia ipse rei publicae, si omnibus defutura res publica est? Semper autem deerit fastidiose quaerentibus. <newparagraph number="2"/> Interrogo ad quam rem publicam sapiens sit accessurus. Ad Atheniensium, in qua Socrates damnatur, Aristoteles ne damnetur fugit? in qua opprimit inuidia uirtutes? Negabis mihi accessurum ad hanc rem publicam sapientem. Ad Carthaginiensium ergo rem publicam sapiens accedet, in qua adsidua seditio et optimo cuique infesta libertas est, summa aequi ac boni uilitas, aduersus hostes inhumana crudelitas, etiam aduersus suos hostilis? Et hanc fugiet. 
+		</latin>
+	</section>
+	
+	<section from="VIII.3" to="VIII.4">
+		<german>
+			Wenn ich die Staaten einzeln durchgehen will, werde ich keinen finden, der den Weisen oder den der Weise ertragen könnte. Wenn also jener Staat nicht gefunden wird, den wir uns vorstellen, beginnt die Muße für alle notwendig zu sein, weil es nirgends das gibt, was allein der Muße hätte vorgezogen werden können. <newparagraph number="4"/> Wenn jemand sagt, am besten sei es zu segeln, dann aber behauptet, man dürfe nicht auf dem Meer segeln, auf dem sich gewöhnlich Schiffbrüche ereignen und häufig plötzlich Stürme auftreten, die den Steuermann in die entgegengesetzte Richtung reißen, dann, so meine ich, verbietet mir dieser in See zu stechen, obwohl er die Seefahrt lobt.
+		</german>
+		<latin>
+			Si percensere singulas uoluero, nullam inueniam quae sapientem aut quam sapiens pati possit. Quodsi non inuenitur illa res publica quam nobis fingimus, incipit omnibus esse otium necessarium, quia quod unum praeferri poterat otio nusquam est. <newparagraph number="4"/> Si quis dicit optimum esse nauigare, deinde negat nauigandum in eo mari in quo naufragia fieri soleant et frequenter subitae tempestates sint quae rectorem in contrarium rapiant, puto hic me uetat nauem soluere, quamquam laudet nauigationem.
+		</latin>
+	</section>
+	
+</text>
+</translation>

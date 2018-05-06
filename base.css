@@ -1,0 +1,531 @@
+
+/* -----------------------------------------------------------*/
+/*                         Structure                          */
+/* -----------------------------------------------------------*/
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background:white url(images/bg.png);
+	text-align: center;		/* IE braucht das, um den Inhalt zu zentrieren (das margin=auto aus #container funzt nicht) */
+}
+
+
+/* damit verschieben wir alles um 40 Punkte nach unten;
+   außerdem werden Gesamthöhe und -breite festgelegt
+*/
+#container {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 836px;
+	margin: 0px auto; /* auto sorgt für Zentrierung */
+	padding: 0px;
+	text-align: left; /* hebt "text-align:center" aus dem body wieder auf */
+}
+
+#pageHeader {
+	height: 125px;
+	width: 836px;  
+	background:url(images/head.png);
+	padding: 0px;
+	margin: 0px;
+ }
+
+/* den Titel (mari furuya) haben wir schon im bg-image zu pageHeader. Hier sorgen
+   wir nur noch dafür, dass der Link funktioniert. Die Positionierung der
+   anklickbaren Region erfolgt in Bezug auf das übergeordnete pageHeader-Element.
+*/
+#pageHeader #title {
+  	position: absolute;
+ 	top: 19px;
+ 	left: 53px;
+	width: 164px;
+	height: 29px;
+	text-indent:-9999px;
+	cursor:pointer;
+	font-size:1px;
+}
+
+
+#pageHeader #navigation {
+	position: absolute;
+	left: 50px;
+	top: 65px;
+	margin: 0;
+	padding:0;
+}
+
+#pageHeader ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+
+#pageHeader li {
+	padding:0;
+	margin:0;
+	display: inline-block;
+	height: 31px;
+}
+
+#pageHeader li a {
+	display: inline-block;
+	height: 31px;
+}
+
+
+#pageHeader li:hover a {
+	background: url(images/navigation_on.png) no-repeat center bottom;
+}
+
+#pageHeader .on a {
+	background: url(images/navigation_on.png) no-repeat center bottom;
+}
+
+#pageHeader li:after {
+	content: " | ";
+}
+
+#pageHeader li:last-child:after {
+	content: "";
+}
+
+#contents {
+	width: 762px; /* = 836px - 2*37px padding */;
+	padding: 1px 37px;
+	margin: 0;
+	background:url(images/textbg.png);
+}
+
+#footer {
+	width: 836px;
+	height: 117px;
+	margin: 0;
+	padding: 8px 0 0;
+	background: url(images/bottom.png) no-repeat;
+	text-align:center;
+}
+
+#footer #print {
+	margin-top: 40px;
+}
+
+
+/* -----------------------------------------------------------*/
+/*                         Appearence                         */
+/* -----------------------------------------------------------*/
+
+body {
+	font-family: "Book Antiqua", "Palatino", "Palatino Linotype", "Garamond", serif;
+	font-size: 11pt;
+}
+
+a {
+	color: rgb(109, 105, 95);
+	text-decoration: none;
+	}
+
+a:hover {
+	color: rgb(109, 105, 95);;
+	text-decoration: underline;
+	}
+
+#contents h2 {
+	font-size: 17pt;
+	color: rgb(109, 105, 95);
+/*	text-transform: uppercase; */
+	font-variant:small-caps;
+	border-bottom: 1px solid rgb(109, 105, 95);
+/*	width: 90%; */
+	clear: none;
+}
+
+#contents h3 {
+	font-size: 12pt;
+	font-variant:small-caps;
+	margin-bottom: 0px;
+	margin-top: 20px;
+	clear: both;
+}
+
+
+#contents p {
+	font-size: 11pt;
+	line-height: 160%;
+}
+
+
+#contents div.imagebox {
+	font-size: 10pt;
+	text-align: center;
+	margin: 10px 15px 5px 0;
+	padding: 2px;
+	background-color: rgb(249, 249, 249);
+	border: 1px solid rgb(204, 204, 204);
+}
+
+#contents div.imagebox img {
+	margin-bottom: 5px;
+	border: 1px solid rgb(204, 204, 204);
+}
+
+
+blockquote {
+	line-height: 160%;
+	font-style: italic;
+	
+	padding: 1em;
+	
+	background:#FFFFFF url(images/quote.png) no-repeat scroll 0.2em 0.2em;
+	margin:0 auto;
+	width:90%;
+}
+
+
+
+/* -----------------------------------------------------------*/
+/*                         Info-Box                           */
+/* -----------------------------------------------------------*/
+
+#contents .infobox {
+	float: right;
+	width: 250px;
+	padding: 0px;
+/*	margin-left: 15px; */
+	margin-top: 20px;
+	margin-bottom: 15px;
+	border-left: 15px solid white; /* ersetzt margin-left und unterbricht die Unterstreichung von h2s */
+}
+
+#contents .infobox .top {
+	background: url(images/info_top.png);
+	height: 5px;
+	width: 250px;
+	margin: 0px;
+	padding: 0px;
+	font-size: 2px;	/* sonst sieht's beim IE 6 komisch aus */
+}
+
+#contents .infobox .bottom {
+	background: url(images/info_bottom.png);
+	height: 5px;
+	width: 250px;
+	margin: 0px;
+	padding: 0px;
+	font-size: 2px;
+}
+
+#contents .infobox .main {
+	background: url(images/info_main.png);
+	width: 230px;
+	margin: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#contents .infobox p {
+	font-size: 10pt;
+	margin: 0px;
+}
+
+
+#contents .infobox ul {
+	font-size: 10pt;
+	margin-top: 2px;
+	padding-left: 20px;
+}
+
+
+/* -----------------------------------------------------------*/
+/*                       Contact Form                         */
+/* -----------------------------------------------------------*/
+
+#contents table.contact {
+	margin-top: 5px;
+	margin-left: 20px;
+	width: 70%;
+}
+
+#contents table.contact td {
+			vertical-align: top;
+			font-size: 11pt;
+			font-family: "Book Antiqua", "Palatino", "Palatino Linotype", "Garamond";
+			line-height: 160%;
+			padding-left: 4px;
+		}
+
+#contents table.contact td.nobreak {
+	white-space:nowrap;
+}
+
+#contactform input {
+	font-size: 11pt;
+	font-family: "Book Antiqua", "Palatino", "Palatino Linotype", "Garamond";
+	}
+	
+#contactform .long {
+	width: 170px;
+}
+
+#contactform textarea {
+	font-size: 11pt;
+	font-family: "Book Antiqua", "Palatino", "Palatino Linotype", "Garamond";
+	width: 99%;
+	}
+
+#contactform #submit {
+	float: right;
+}
+
+
+/* -----------------------------------------------------------*/
+/*                     �bersetzungsliste                      */
+/* -----------------------------------------------------------*/
+#contents table.translist {
+	margin-top: 5px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+#contents table.translist th {
+	vertical-align: top;
+	font-size: 11pt;
+	font-family: "Book Antiqua", "Palatino", "Palatino Linotype", "Garamond", serif;
+	line-height: 160%;
+	white-space: nowrap;
+	padding-left: 4px;
+	padding-right: 4px;
+	background: rgb(172, 166, 157);
+	font-weight: normal;
+}
+
+#contents table.translist td {
+	vertical-align: top;
+	font-size: 11pt;
+	font-family: "Book Antiqua", "Palatino", "Palatino Linotype", "Garamond", serif;
+	line-height: 160%;
+	padding-left: 4px;
+	padding-right: 4px;
+	background: rgb(251, 249, 237);
+}
+
+
+/* -----------------------------------------------------------*/
+/*                     Eigentliche �bersetzung                */
+/* -----------------------------------------------------------*/
+
+/* used in intro e.g.; overwritten by more specific uls */
+#contents ul {
+	font-size: 11pt;
+	line-height: 160%;
+}
+
+#contents ul.gliederung {
+	list-style: upper-roman;
+}
+
+#contents ul.gliederung ul {
+	list-style: disc;
+}
+
+
+#contents ul.gliederung li {
+	font-size: 11pt;
+	font-family: "Book Antiqua", "Palatino", "Palatino Linotype", "Garamond", serif;
+	line-height: 160%;
+}
+
+
+
+#contents p.translator {
+	font-size: 10pt;
+	font-style: italic;
+	margin-left: 20px;
+	margin-top: -15px;
+	padding-top: 0px;
+}
+
+#contents p.source {
+	font-size: 10pt;
+	font-style: italic;
+	margin-top: -15px;
+	margin-left: 20px;
+}
+
+#contents div.section {
+	clear: both;
+	padding-left: 8px;
+}
+
+
+#contents div.section p.latin {
+	width: 49%;
+	float: left;
+}
+
+#contents div.section p.latin_only {
+	width: 99%;
+	float: left;
+}
+
+
+#contents div.section p.german {
+	width: 49%;
+	float: right;
+}
+
+#contents div.transnavi {
+	margin: 0px auto;
+	text-align: center;
+	border-top: 1px solid rgb(109, 105, 95);
+	border-bottom: 1px solid rgb(109, 105, 95);
+	width: 50%;
+}
+
+#contents div.transnavi p {
+	margin: 2px;
+	padding: 2px;
+}
+/* das folgende klappt mit firefox 2 und IE 6 leider nicht
+#contents span.versnummer {
+	display: inline-block;
+	width: 24px;
+	margin: 0 0 0 -30px;
+	padding: 0px;
+	font-size: 8pt;
+	font-style: italic;
+	text-align: right;
+} */
+
+#contents span.versnummer {
+	display: block;
+	position: absolute;
+	left: 17px;
+	width: 24px;
+	padding: 0px;
+	font-size: 8pt;
+	font-style: italic;
+	text-align: right;
+}
+
+#contents span.abschittnummer {
+	font-size: 8pt;
+	font-style: italic;
+}
+
+
+/* -----------------------------------------------------------*/
+/*                  Abschnittsweise Kommentare                */
+/* -----------------------------------------------------------*/
+
+#contents .comments {
+	display: none;
+	
+	background-image: url(images/bubble_gross.png);
+
+	padding: 17px 9px 8px 8px;
+
+	width:473px; /* 490-8-9 */
+	height:243px; /* 268-8-17 */
+	margin: 0 auto;
+	/* so r�cken zwar die kommentare n�her an den zugeh�rigen abschnitt, aber der IE 6 macht das nicht mit... */
+/*	position: relative;
+	top: -10px;
+*/	
+	clear: both;
+}
+
+#contents .closeComments {
+	float: right;
+	margin: 7px;
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+#contents .closeComments a {
+	color: black;
+}
+
+#contents  .commentList {
+	margin: 0px;
+	height: 243px;
+	width: 473px;
+	overflow-y: auto;
+}
+
+#contents div.commentEntry {
+	border-bottom: 1px dashed rgb(109, 105, 95);
+	margin: 5px 15px 5px 5px;
+	padding: 5px;
+}
+
+#contents div.commentEntry p.commentHead {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+#contents div.commentEntry p.commentText {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	font-size: 10pt;
+}
+
+#contents table.newComment {
+	margin: 5px;
+	width: 90%;
+}
+
+#contents table.newComment td {
+	vertical-align: top;
+	font-size: 10pt;
+	font-family: "Book Antiqua", "Palatino", "Palatino Linotype", "Garamond";
+	line-height: 175%;
+	padding-left: 4px;
+}
+
+#contents div.commentEntry input {
+	font-size: 10pt;
+	font-family: "Book Antiqua", "Palatino", "Palatino Linotype", "Garamond";
+}
+	
+#contents  div.commentEntry textarea {
+	font-size: 10pt;
+	font-family: "Book Antiqua", "Palatino", "Palatino Linotype", "Garamond";
+	width: 99%;
+}
+
+#contents div.commentEntry  .submit {
+	float: right;
+}
+
+.commentbubble {
+	width:23px; /* 46-9-14 */
+	height:34px; /* 44-10 */
+	
+	/* nimmt dieses Element aus dem normalen Textfluss*/
+	position: absolute;
+	left: -3px;
+	/* ausserdem verschieben wir mit Margin das ganze vertical*/
+	margin-top: 1em; /*bei verwendung von em verschiebt sich die bubble mit, wenn die schriftgroesse veraendert wird*/	
+	
+	/* padding und text-align sorgen dafuer, dass der Text innerhalb des sprechblase zentriert ist  */
+	padding-left: 9px;
+	padding-right: 14px;
+	padding-top: 10px;
+	text-align: center;
+	
+	background-image: url(images/bubble.png);
+	
+	z-index: 99; /* eventuell kollidieren lange versnummern mit der bubble - hierdurch werden die nummern ueberdeckt */
+	cursor: pointer;
+	
+	/* schrift */
+	font-size: 12pt;
+	font-family: "Georgia";
+}

@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<translation>
+<description>
+	<author>Vergil</author>
+	<title>Aeneis XII</title>
+	<snippet>Verse 216-467</snippet>
+	<translator>Rainer Lohmann</translator>
+	<textkind>poetry</textkind>
+	<firstnumber>216</firstnumber>
+	<navigation>
+		<previous url="intro.html">Aeneis XII Einführung</previous>
+		<previous url="einheit_1.xml">Verse 1 bis 215</previous>
+		<next url="einheit_3.xml">Verse 468 bis 696</next>
+	</navigation>
+
+</description>
+<text>
+
+	<section from="216" to="237">
+		<german>
+			Aber dieser Kampf schien den Rutulern schon lange ungleich zu sein und ihr Geist war verworren durch vielerlei Aufregung, dann noch mehr, als sie näherhin sahen, dass diese (Aeneas und Turnus) ungleiche Kräfte hatten. Diesen Eindruck unterstützte Turnus, als er mit stillem Schritt vorgetreten war und mit gesenkten Augen demütig den Altar verehrte, seine von Tränen nassen Wangen und die Blässe auf seinem jugendlichen Körper. Sobald seine Schwester Juturna gesehen hatte, dass dieses Gerede zunahm und die schwankende Sinnesart der Menge veränderte, ahmte sie die Gestalt Camers nach (seine Abstammung von seinen Vorfahren war adelig und bekannt war der Ruf der Tapferkeit seines Vaters, und er selbst zeigte sich sehr mutig im Kampf) – und stürzte sich mitten in die Schlachtreihen, um die Situation wissend; sie verbreitete verschiedenartige Gerüchte und sprach Folgendes: "Schämt ihr euch nicht, ihr Rutuler, ein einziges Leben für all diese Männer zu opfern? Sind wir an Zahl oder an Kräften nicht gleich? Siehe, all diese sind Trojaner und Arkader, und vom Schicksal bestimmt die Mannschaften, Etrurien ist Turnus feindlich gesinnt. Wir haben kaum einen Feind, wenn wir abwechselnd kämpfen. Jener wird zwar durch seinen Ruhm zu den Göttern emporsteigen, an deren Altären er sich hingibt, und er wird wieder in den Mündern der Menschen leben: Uns aber wird man, nachdem wir unser Vaterland verloren haben, zwingen, stolzen Herren zu gehorchen, die wir uns nun träge auf dem Land niedergelassen haben."
+		</german>
+		<latin>
+			At uero Rutulis impar ea pugna uideri<br/>
+iamdudum et uario misceri pectora motu,<br/>
+tum magis ut propius cernunt non uiribus aequos.<br/>
+adiuuat incessu tacito progressus et aram<br/>
+suppliciter uenerans demisso lumine Turnus<br/>
+pubentesque genae et iuuenali in corpore pallor.<br/>
+quem simul ac Iuturna soror crebrescere uidit<br/>
+sermonem et uulgi uariare labantia corda,<br/>
+in medias acies formam adsimulata Camerti,<br/>
+cui genus a proauis ingens clarumque paternae<br/>
+nomen erat uirtutis, et ipse acerrimus armis,<br/>
+in medias dat sese acies haud nescia rerum<br/>
+rumoresque serit uarios ac talia fatur:<br/>
+'non pudet, o Rutuli, pro cunctis talibus unam<br/>
+obiectare animam? numerone an uiribus aequi<br/>
+non sumus? en, omnes et Troes et Arcades hi sunt,<br/>
+fatalisque manus, infensa Etruria Turno:<br/>
+uix hostem, alterni si congrediamur, habemus.<br/>
+ille quidem ad superos, quorum se deuouet aris,<br/>
+succedet fama uiuusque per ora feretur;<br/>
+nos patria amissa dominis parere superbis<br/>
+cogemur, qui nunc lenti consedimus aruis.'
+		</latin>
+	</section>
+	<section from="238" to="256">
+		<german>
+			Durch solche Worte wurde die Meinung der jungen Männer nun immer mehr angestachelt, und Gemurmel griff allmählich in den Menschenscharen um sich: Selbst die Laurentiner und Latiner ließen sich umstimmen. Diejenigen, die für sich schon Erholung vom Kampf und für die Verhältnisse Besserung erhofften, wollten nun den Krieg, wünschten, der Waffenstillstand sei nicht vereinbart worden, und beklagten Turnus' ungerechtes Schicksal. Diesen Herausforderungen fügte Juturna noch eine andere größere hinzu, und sie gab vom hohen Himmel ein Zeichen, verglichen mit dem kein wirksameres die Italiker verwirrte und durch sein Omen täuschte. Denn der bräunliche Vogel Jupiters, in der rötlichen reinen Luft fliegend, jagte die Vögel am Ufer und die laut tönende Schar des Vogelzuges, als er plötzlich auf das Wasser herabglitt und den führenden Schwan mit seinen kralligen Füßen rücksichtslos fortriss. Die Italiker merkten gespannt auf, und alle Vögel stellten unter Geschrei die Flucht ein (es war wunderbar anzusehen), den Himmel verdunkelten sie mit ihren Flügeln und bedrängten dichtgeschart den Feind in der Luft, bis der Vogel, durch ihre Stärke und das Gewicht selbst besiegt, ermattete, die Beute aus seinen Krallen in den Fluss warf und tief in die Wolken entfloh.
+		</german>
+		<latin>
+			Talibus incensa est iuuenum sententia dictis<br/>
+iam magis atque magis, serpitque per agmina murmur:<br/>
+ipsi Laurentes mutati ipsique Latini.<br/>
+qui sibi iam requiem pugnae rebusque salutem<br/>
+sperabant, nunc arma uolunt foedusque precantur<br/>
+infectum et Turni sortem miserantur iniquam.<br/>
+his aliud maius Iuturna adiungit et alto<br/>
+dat signum caelo, quo non praesentius ullum <br/>
+turbauit mentes Italas monstroque fefellit.<br/>
+namque uolans rubra fuluus Iouis ales in aethra<br/>
+litoreas agitabat auis turbamque sonantem<br/>
+agminis aligeri, subito cum lapsus ad undas<br/>
+cycnum excellentem pedibus rapit improbus uncis.<br/>
+arrexere animos Itali, cunctaeque uolucres<br/>
+conuertunt clamore fugam (mirabile uisu),<br/>
+aetheraque obscurant pennis hostemque per auras<br/>
+facta nube premunt, donec ui uictus et ipso<br/>
+pondere defecit praedamque ex unguibus ales<br/>
+proiecit fluuio, penitusque in nubila fugit.
+		</latin>
+	</section>
+	<section from="257" to="286">
+		<german>
+			Dann aber begrüßten die Rutuler den Seher mit lautem Rufen und machten ihre Hände zum Kampf bereit, und als erster sprach der Seher Tolumnius: "Das hier war das Vorzeichen, um das ich oft in meinen Gebeten nachgesucht habe. Ich vernehme die Götter und verstehe sie; unter meiner Führung ergreift das Schwert, ihr Unglücklichen, die ein tückischer Ankömmling durch Krieg in Schrecken versetzt wie kranke Vögel, und eure Küsten verwüstet er gewaltsam. Jener wird die Flucht ergreifen und weithin über das Meer davonsegeln. Stellt einträchtig die Scharen dicht auf und verteidigt im Kampf den König, der euch entrissen worden ist." So sprach er und schleuderte vorlaufend eine Lanze gegen die zugewandten Feinde; die schwirrende Lanze gab ein Geräusch von sich und durchschnitt unbeirrbar die Luft. Zugleich geschah dieses, zugleich kam ein gewaltiges Geschrei auf, alle Zuschauer wurden in Bestürzung versetzt und ihre Herzen entflammten im Getümmel. Die fliegende Lanze durchbohrte, als zufällig auf der anderen Seite neun sehr stattliche Brüder standen, die eine treue etruskische Ehefrau dem Arkader Gylippus so zahlreich geboren hatte, einem von ihnen in der Mitte die Rippen, wo das zusammengenähte Wehrgehenk sich am Magen reibt und eine Schnalle die beiden sich zusammenfügenden Enden des Gürtels greift, einem durch seine Gestalt und seine strahlenden Waffen herausragenden jungen Mann, und sie warf ihn nieder auf den gelben Sand. Aber die Brüder, eine mutige und durch Trauer erregte Phalanx, zogen teils mit den Händen ihre Schwerter, teils ergriffen sie ihren Wurfspeer und stürzten blind los. Gegen sie stürmten Scharen von Laurentinern an, von hier strömten dicht gedrängt wiederum die Trojaner, die Agylliner und die Arkader mit ihren verzierten Schilden. So hatte alle ein einziges Verlangen ergriffen, mit dem Eisen um die Entscheidung zu kämpfen. Sie zerstörten die Altäre, ein stürmischer Hagel von Geschossen zog am ganzen Himmel auf und eiserner Regen brach los, die Mischkrüge und Opferpfannen trug man fort. Latinus selbst floh und brachte die Götter, durch den Bruch des Abkommens verletzt, mit zurück. 
+		</german>
+		<latin>
+			Tum uero augurium Rutuli clamore salutant<br/>
+expediuntque manus, primusque Tolumnius augur<br/>
+'hoc erat, hoc uotis' inquit 'quod saepe petiui.<br/>
+accipio agnoscoque deos; me, me duce ferrum<br/>
+corripite, o miseri, quos improbus aduena bello<br/>
+territat inualidas ut auis, et litora uestra<br/>
+ui populat. petet ille fugam penitusque profundo<br/>
+uela dabit. uos unanimi densete cateruas<br/>
+et regem uobis pugna defendite raptum.'<br/>
+dixit, et aduersos telum contorsit in hostis<br/>
+procurrens; sonitum dat stridula cornus et auras<br/>
+certa secat. simul hoc, simul ingens clamor et omnes<br/>
+turbati cunei calefactaque corda tumultu.<br/>
+hasta uolans, ut forte nouem pulcherrima fratrum<br/>
+corpora constiterant contra, quos fida crearat<br/>
+una tot Arcadio coniunx Tyrrhena Gylippo,<br/>
+horum unum ad medium, teritur qua sutilis aluo<br/>
+balteus et laterum iuncturas fibula mordet,<br/>
+egregium forma iuuenem et fulgentibus armis,<br/>
+transadigit costas fuluaque effundit harena.<br/>
+at fratres, animosa phalanx accensaque luctu,<br/>
+pars gladios stringunt manibus, pars missile ferrum<br/>
+corripiunt caecique ruunt. quos agmina contra<br/>
+procurrunt Laurentum, hinc densi rursus inundant<br/>
+Troes Agyllinique et pictis Arcades armis:<br/>
+sic omnis amor unus habet decernere ferro.<br/>
+diripuere aras, it toto turbida caelo<br/>
+tempestas telorum ac ferreus ingruit imber,<br/>
+craterasque focosque ferunt. fugit ipse Latinus<br/>
+pulsatos referens infecto foedere diuos.
+		</latin>
+	</section>
+	<section from="287" to="310">
+		<german>
+			Die anderen spannten ihre Wagen an oder schwangen sich auf ihre Pferde und waren mit gezogenen Schwertern zur Stelle. Den Etrusker Aulestes, der König war und auch den Ornat eines Königs trug, jagte Messapus, begierig das Abkommen zu brechen, auf ihn zureitend fort, jener wich hastig zurück, und der Unglückliche stürzte über die Altäre, die sich ihm im Rücken entgegenstellten, auf Kopf und Schultern. Aber hitzig eilte Messapus mit seiner Lanze herbei, und ihn, der inbrünstig bat, traf er hoch auf seinem Pferd mit seinem balkenstarken Speer von oben herab mit Wucht und sprach folgendermaßen: "Da hat er es, dieses Opfer, ein besseres, ist den erhabenen Göttern dargebracht worden." Die Italiker liefen zusammen und entkleideten seine noch warmen Glieder. Entgegentretend riss Corynaeus einen halbverbrannten Holzscheit vom Altar an sich und schlug zuvorkommend Ebysus mit dem schwelenden Holz ins Gesicht, als dieser sich näherte und ihm einen Schlag versetzen wollte: Jenem stand sein gewaltiger Bart in Flammen und angesengt gab er den Geruch von Feuer von sich. Er selbst griff, dem Schlag aufwärts folgend, mit seiner linken Hand nach dem Haar des bestürzten Feindes und drückte ihn, sich auf das eingedrückte Knie stemmend, zu Boden; so stieß er ihm mit dem harten Schwert in die Seite. Podalirius verfolgte den Hirten Alsus, der in der ersten Schlachtreihe durch die Geschosse hindurchstürmte, und bedrohte ihn von oben mit dem blanken Schwert; jener zerschmetterte mit nach unten fallender Axt seines Gegners Stirn in der Mitte und dessen Kinn, und er benetzte die Waffen mit dem weithin verspritzten Blut. Harte Ruhe und unablässiger Schlaf bedrängten seine Augen, sie schlossen sich für eine ewige Nacht.
+		</german>
+		<latin>
+			infrenant alii currus aut corpora saltu<br/>
+subiciunt in equos et strictis ensibus adsunt.<br/>
+Messapus regem regisque insigne gerentem<br/>
+Tyrrhenum Aulesten, auidus confundere foedus,<br/>
+aduerso proterret equo; ruit ille recedens<br/>
+et miser oppositis a tergo inuoluitur aris<br/>
+in caput inque umeros. at feruidus aduolat hasta<br/>
+Messapus teloque orantem multa trabali<br/>
+desuper altus equo grauiter ferit atque ita fatur:<br/>
+'hoc habet, haec melior magnis data uictima diuis.'<br/>
+concurrunt Itali spoliantque calentia membra.<br/>
+obuius ambustum torrem Corynaeus ab ara<br/>
+corripit et uenienti Ebyso plagamque ferenti<br/>
+occupat os flammis: olli ingens barba reluxit<br/>
+nidoremque ambusta dedit. super ipse secutus<br/>
+caesariem laeua turbati corripit hostis<br/>
+impressoque genu nitens terrae applicat ipsum;<br/>
+sic rigido latus ense ferit. Podalirius Alsum<br/>
+pastorem primaque acie per tela ruentem<br/>
+ense sequens nudo superimminet; ille securi<br/>
+aduersi frontem mediam mentumque reducta<br/>
+dissicit et sparso late rigat arma cruore.<br/>
+olli dura quies oculos et ferreus urget<br/>
+somnus, in aeternam conduntur lumina noctem. 
+		</latin>
+	</section>
+	<section from="311" to="345">
+		<german>
+			Aber der rechtschaffene Aeneas streckte seine unbewaffnete rechte Hand aus, entblößt war sein Kopf und er rief die Seinen mit lauter Stimme herbei: "Wohin eilt ihr? Oder was bedeutet diese plötzliche Zwietracht, die sich erhebt? Zügelt euren Zorn! Das Abkommen ist schon geschlossen und alle Bedingungen sind ausgemacht, ich allein habe das Recht, mich zum Kampf zu stellen, überlasst alles mir und legt eure Furcht ab; ich werde den Vertrag eigenhändig bekräftigen, diese Opfer schulden mir nun Turnus." Während dieser Äußerungen und inmitten solcher Worte, siehe da, flog ein durch seine Flügel zischender Pfeil auf Aeneas zu; ungewiss ist es, von welcher Hand er abgeschossen, von welchem Sturm er herangetrieben wurde, wer – ob ein Zufall oder ein Gott – den Rutulern so großen Ruhm gebracht hat; die Anerkennung für die außerordentliche Tat blieb im Verborgenen, und niemand brüstete sich mit der Verwundung des Aeneas. Sobald Turnus gesehen hatte, wie Aeneas aus der Reihe heraustrat und seine eigenen Anführer bestürzt waren, wurde er hitzig von plötzlicher Hoffnung verzehrt; er forderte Pferde und Waffen zugleich, stolz sprang er blitzschnell in seinen Wagen und lenkte die Zügel mit seinen Händen. Hierhin und dorthin eilend übergab er viele tapfere Männer dem Tod, viele Halbtote streckte er zu Boden oder trat Scharen von Menschen im Lauf nieder oder schleuderte die entrissenen Speere gegen die Fliehenden. Wie an den Wassern des kühlen Hebrus, wenn aufgeschreckt der blutige Mars mit seinem Schild lärmt und Kriege beginnend die rasenden Pferde schießen lässt, jene in der offenen Ebene vor dem Notus und dem Zephyr dahineilen, die entferntesten Gebiete Thrakiens unter ihrem Hufschlag seufzen und rings um ihn herum sich die Gesichter der unheilvollen Angst, der Wut und der Hinterlist, das Gefolge des Gottes, bewegen: So trieb der stürmische Turnus mitten in den Kämpfen die vor Schweiß dampfenden Pferde und sprang Mitleid erregend auf den getöteten Feinden herum: Es verspritzte der schnelle Huf blutiges Wasser und im vermischten Sand watete man im Blut. Und schon übergab er Sthenelus dem Tod und Thamyrus und Pholus, den einen wie den anderen im Kampf, jenen von fern; von fern tötete er beide Söhne des Imbrasus, Glaucus und Lades, die Imbrasus selbst in Lykien aufgezogen und mit gleichen Waffen ausgerüstet hatte, entweder um zu kämpfen oder mit dem Pferd die Winde zu überholen.
+		</german>
+		<latin>
+			At pius Aeneas dextram tendebat inermem<br/>
+nudato capite atque suos clamore uocabat:<br/>
+'quo ruitis? quaeue ista repens discordia surgit?<br/>
+o cohibete iras! ictum iam foedus et omnes<br/>
+compositae leges. mihi ius concurrere soli;<br/>
+me sinite atque auferte metus. ego foedera faxo<br/>
+firma manu; Turnum debent haec iam mihi sacra.'<br/>
+has inter uoces, media inter talia uerba<br/>
+ecce uiro stridens alis adlapsa sagitta est,<br/>
+incertum qua pulsa manu, quo turbine adacta,<br/>
+quis tantam Rutulis laudem, casusne deusne,<br/>
+attulerit; pressa est insignis gloria facti,<br/>
+nec sese Aeneae iactauit uulnere quisquam.<br/>
+Turnus ut Aenean cedentem ex agmine uidit<br/>
+turbatosque duces, subita spe feruidus ardet;<br/>
+poscit equos atque arma simul, saltuque superbus<br/>
+emicat in currum et manibus molitur habenas.<br/>
+multa uirum uolitans dat fortia corpora leto.<br/>
+seminecis uoluit multos: aut agmina curru<br/>
+proterit aut raptas fugientibus ingerit hastas.<br/>
+qualis apud gelidi cum flumina concitus Hebri<br/>
+sanguineus Mauors clipeo increpat atque furentis<br/>
+bella mouens immittit equos, illi aequore aperto<br/>
+ante Notos Zephyrumque uolant, gemit ultima pulsu<br/>
+Thraca pedum circumque atrae Formidinis ora<br/>
+Iraeque Insidiaeque, dei comitatus, aguntur:<br/>
+talis equos alacer media inter proelia Turnus<br/>
+fumantis sudore quatit, miserabile caesis<br/>
+hostibus insultans; spargit rapida ungula rores<br/>
+sanguineos mixtaque cruor calcatur harena.<br/>
+iamque neci Sthenelumque dedit Thamyrumque Pholumque,<br/>
+hunc congressus et hunc, illum eminus; eminus ambo<br/>
+Imbrasidas, Glaucum atque Laden, quos Imbrasus ipse<br/>
+nutrierat Lycia paribusque ornauerat armis<br/>
+uel conferre manum uel equo praeuertere uentos.
+		</latin>
+	</section>
+	<section from="346" to="382">
+		<german>
+			In einem anderen Teil stürzte sich Eumedes mitten in die Kämpfe, der im Krieg vortreffliche Nachkomme des alten Dolon; er hatte denselben Namen wie sein Großvater und denselben Mut und dieselbe Tapferkeit wie sein Vater, der es einst gewagt hatte, die Gespanne des Peliden für sich als Belohnung zu fordern, dass er als Spion das Lager der Danaer aufsuchte; jenen belohnte der Tydide mit einem ganz anderen Preis für derartige Wagnisse, und er begehrte nicht die Pferde Achills. Sobald Turnus diesen von fern auf dem offenen Feld erblickt hatte, verfolgte er ihn zuerst mit dem leichten Wurfspieß durch den weiten und leeren Raum, brachte das Zweigespann zum Stehen, sprang vom Wagen herab und überfiel den Halbtoten und Gestrauchelten, und nachdem er den Fuß auf seinen Nacken gesetzt hatte, entriss er seiner Rechten das Schwert, stieß dieses, glänzend, tief in seinen Hals und fügte obendrein folgende Worte hinzu: "Siehe die Felder und miss im Liegen Hesperia aus, das du, Trojaner, mit Krieg heimgesucht hast: Diese Belohnungen tragen diejenigen davon, die versucht haben, mich mit dem Schwert anzugreifen, so gründen sie Städte." Diesem schickte er, nachdem er seine Lanze geworfen hatte, Asbytes als Begleiter nach, Chlores, Sybaris, Dares, Thersilochus und Thymoetes, der vom Nacken seines störrischen Pferdes herabgefallen war. Und gleichwie wenn der Lufthauch des thrakischen Nordwindes auf dem hohen Ägäischen Meer rauscht und den Fluten bis an die Küste folgt; wo auch immer die Winde sich auf das Meer gelegt haben, ergreifen die Wolken am Himmel die Flucht: so wichen die Menschenscharen vor Turnus zurück, überall wo er sich Bahn brach, und die Schlachtreihen machten kehrt und stürzten dahin; sein Ungestüm trug ihn selbst voran, und weil sein Streitwagen dem Wind ausgesetzt war, warf dieser seinen Helmbusch hin und her und ließ ihn fliegen. Phegeus konnte es nicht ertragen, wie Turnus vorandrängte und vor Stolz schnaubte, er warf sich vor dessen Wagen und die schäumenden Gesichter der schnellen Pferde wendete er durch die Zügel mit seiner rechten Hand ab. Während er geschleift wurde und am Joch herabhing, traf ihn, ohne dass er durch den Schild gedeckt war, Turnus' breiter Speer und durchbrach, hineingebohrt, seinen doppeldrähtigen Panzer und streifte oberflächlich mit einer Wunde seinen Körper. Dennoch wandte sich jener mit vorgehaltenem Schild gegen den Feind, ging auf ihn los und suchte, indem er sein Schwert zog, Hilfe, als ihn das Rad mit seiner vorwärtsstürmenden Achse kopfüber zu Fall brachte und auf den Boden warf; Turnus setzte nach und zwischen dem unteren Ende seines Helms und dem obersten Rand seines Panzers trennte er mit seinem Schwert den Kopf ab und ließ den Rumpf im Sand zurück.
+		</german>
+		<latin>
+			Parte alia media Eumedes in proelia fertur,<br/>
+antiqui proles bello praeclara Dolonis,<br/>
+nomine auum referens, animo manibusque parentem,<br/>
+qui quondam, castra ut Danaum speculator adiret,<br/>
+ausus Pelidae pretium sibi poscere currus;<br/>
+illum Tydides alio pro talibus ausis<br/>
+adfecit pretio nec equis aspirat Achilli.<br/>
+hunc procul ut campo Turnus prospexit aperto,<br/>
+ante leui iaculo longum per inane secutus<br/>
+sistit equos biiugis et curru desilit atque<br/>
+semianimi lapsoque superuenit, et pede collo<br/>
+impresso dextrae mucronem extorquet et alto<br/>
+fulgentem tingit iugulo atque haec insuper addit:<br/>
+'en agros et, quam bello, Troiane, petisti,<br/>
+Hesperiam metire iacens: haec praemia, qui me<br/>
+ferro ausi temptare, ferunt, sic moenia condunt.'<br/>
+huic comitem Asbyten coniecta cuspide mittit<br/>
+Chloreaque Sybarimque Daretaque Thersilochumque<br/>
+et sternacis equi lapsum ceruice Thymoeten.<br/>
+ac uelut Edoni Boreae cum spiritus alto<br/>
+insonat Aegaeo sequiturque ad litora fluctus,<br/>
+qua uenti incubuere, fugam dant nubila caelo:<br/>
+sic Turno, quacumque uiam secat, agmina cedunt<br/>
+conuersaeque ruunt acies; fert impetus ipsum<br/>
+et cristam aduerso curru quatit aura uolantem.<br/>
+non tulit instantem Phegeus animisque frementem<br/>
+obiecit sese ad currum et spumantia frenis<br/>
+ora citatorum dextra detorsit equorum.<br/>
+dum trahitur pendetque iugis, hunc lata retectum<br/>
+lancea consequitur rumpitque infixa bilicem<br/>
+loricam et summum degustat uulnere corpus.<br/>
+ille tamen clipeo obiecto conuersus in hostem<br/>
+ibat et auxilium ducto mucrone petebat,<br/>
+cum rota praecipitem et procursu concitus axis<br/>
+impulit effunditque solo, Turnusque secutus<br/>
+imam inter galeam summi thoracis et oras<br/>
+abstulit ense caput truncumque reliquit harenae.
+		</latin>
+	</section>
+	<section from="383" to="410">
+		<german>
+			Und während der siegreiche Turnus so auf den Feldern mordete, brachten inzwischen Mnestheus, der treue Achates und Ascanius, sein Begleiter, den bluttriefenden Aeneas ins Lager, der sich bei jedem zweiten Schritt auf seine lange Lanze stützte. Ungehalten war er und strengte sich an, durch das zerbrochene Rohr den Pfeil herauszuziehen, und zur Linderung forderte er das Mittel, das am nächsten lag: Sie sollten die Wunde mit einem breiten Schwert aufreißen, den verborgenen Gang des Pfeils im Innern öffnen und ihn in den Krieg zurückschicken. Und schon war der Jaside Iapyx zur Stelle, der von Phoebus vor anderen hoch geschätzt war, dem einst der heitere Apollon persönlich, von leidenschaftlicher Liebe ergriffen, seine Künste, seine Gaben, schenkte: die Weissagekunst, das Saitenspiel und die schnellen Pfeile. Um das Leben seines aufgegebenen Vaters zu verlängern, wollte er lieber die Wirkungen von Kräutern sowie die Heilkunst kennen und die Künste, über die man schweigt, ruhmlos ausführen. Es stand da, wild schnaubend und sich auf seine gewaltige Lanze stützend, Aeneas, begleitet von einem großen Auflauf junger Männer und des betrübten Iulus, für Tränen empfindungslos. Jener Greis, nach Art des Apollo aufgeschürzt mit zurückgeschlagenem Mantel, rannte viel mit heilender Hand und Phoebus' wirksamen Kräutern vergeblich hin und her, vergeblich rüttelte er an dem Pfeil mit seiner Rechten und fasste mit einer greifenden Zange nach der Eisenspitze. Kein Erfolg leitete seinen Weg, in keiner Weise kam ihm sein Unterstützer Apollo zu Hilfe, heftiger Schrecken verbreitete sich immer mehr auf den Feldern und näher kam die Gefahr. Schon sahen sie, dass der Himmel von Staub bedeckt war: Reiter näherten sich, und Pfeile fielen dicht mitten in das Lager. Es stieg zum Himmel empor das Klagegeschrei der Krieg führenden und im harten Kampf fallenden jungen Männer.
+		</german>
+		<latin>
+			Atque ea dum campis uictor dat funera Turnus,<br/>
+interea Aenean Mnestheus et fidus Achates<br/>
+Ascaniusque comes castris statuere cruentum<br/>
+alternos longa nitentem cuspide gressus.<br/>
+saeuit et infracta luctatur harundine telum<br/>
+eripere auxilioque uiam, quae proxima, poscit:<br/>
+ense secent lato uulnus telique latebram<br/>
+rescindant penitus, seseque in bella remittant.<br/>
+iamque aderat Phoebo ante alios dilectus Iapyx<br/>
+Iasides, acri quondam cui captus amore<br/>
+ipse suas artis, sua munera, laetus Apollo<br/>
+augurium citharamque dabat celerisque sagittas.<br/>
+ille, ut depositi proferret fata parentis,<br/>
+scire potestates herbarum usumque medendi<br/>
+maluit et mutas agitare inglorius artis.<br/>
+stabat acerba fremens ingentem nixus in hastam<br/>
+Aeneas magno iuuenum et maerentis Iuli<br/>
+concursu, lacrimis immobilis. ille retorto<br/>
+Paeonium in morem senior succinctus amictu<br/>
+multa manu medica Phoebique potentibus herbis<br/>
+nequiquam trepidat, nequiquam spicula dextra<br/>
+sollicitat prensatque tenaci forcipe ferrum.<br/>
+nulla uiam Fortuna regit, nihil auctor Apollo <br/>
+subuenit, et saeuus campis magis ac magis horror<br/>
+crebrescit propiusque malum est. iam puluere caelum<br/>
+stare uident: subeunt equites et spicula castris<br/>
+densa cadunt mediis. it tristis ad aethera clamor<br/>
+bellantum iuuenum et duro sub Marte cadentum.
+		</latin>
+	</section>
+	<section from="411" to="440">
+		<german>
+			In diesem Augenblick pflückte Mutter Venus, erschüttert durch den unverdienten Schmerz ihres Sohnes, Diptam vom kretischen Ida, eine Pflanze, die saftige Blätter und eine purpurne Blüte trägt; jenes Kraut ist den wilden Ziegen nicht unbekannt, wenn in ihrem Rücken schnelle Pfeile stecken geblieben sind. Diese Pflanze brachte Venus herab, ihre Gestalt in eine dunkle Wolke gehüllt, mit dieser vermischte sie das Wasser, das in einem glänzenden Becken ausgegossen war, und versah es auf verborgene Weise mit Zauberkräften; und sie verteilte die heilbringenden Säfte der Göttersalbe und das wohlriechende Allheilkraut. Der hochbetagte Iapyx pflegte die Wunde mit diesem Wasser, ohne es zu kennen, und plötzlich entwich in der Tat der ganze Schmerz aus dem Körper, das ganze Blut stockte tief in der Wunde. Und schon folgte der Pfeil seiner Hand, ohne dass sie ihn zwang, und fiel heraus, und die erneuerten Kräfte kehrten in den früheren Zustand zurück. "Bringt dem Mann schnell die Waffen herbei! Was steht ihr da?" schrie Iapyx laut und entflammte als erster den Mut gegen den Feind. "Nicht durch menschliche Kräfte, nicht mit Hilfe der Kunst geht dieses vonstatten, und nicht errettet dich, Aeneas, meine rechte Hand: Ein höheres göttliches Wesen handelt und schickt dich an größere Aufgaben zurück." Jener hatte kampfbegierig seine Waden an beiden Beinen mit Goldschienen eingefasst, er hasste Verzögerungen und schwang seine Lanze. Nachdem der Schild an der Seite und der Panzer im Rücken passend angelegt waren, umarmte er Ascanius, als er sich in Waffen gehüllt hatte, und sprach durch den Helm hindurch flüchtig seine Lippen küssend: "Lerne, Knabe, Tüchtigkeit und wahre Anstrengung von mir, das Glück von anderen. Nun wird dich meine Rechte im Krieg verteidigen und zu großem Lohn führen. Erinnere dich ja, wenn du bald zum Mann gereift bist, und lass, wenn du dir die Vorbilder deiner Verwandten ins Gedächtnis zurückrufst, deinen Vater Aeneas und deinen Onkel Hector für dich ein Ansporn sein."
+		</german>
+		<latin>
+			Hic Venus indigno nati concussa dolore<br/>
+dictamnum genetrix Cretaea carpit ab Ida,<br/>
+puberibus caulem foliis et flore comantem<br/>
+purpureo; non illa feris incognita capris<br/>
+gramina, cum tergo uolucres haesere sagittae.<br/>
+hoc Venus obscuro faciem circumdata nimbo<br/>
+detulit, hoc fusum labris splendentibus amnem<br/>
+inficit occulte medicans, spargitque salubris<br/>
+ambrosiae sucos et odoriferam panaceam.<br/>
+fouit ea uulnus lympha longaeuus Iapyx<br/>
+ignorans, subitoque omnis de corpore fugit<br/>
+quippe dolor, omnis stetit imo uulnere sanguis.<br/>
+iamque secuta manum nullo cogente sagitta<br/>
+excidit, atque nouae rediere in pristina uires.<br/>
+'arma citi properate uiro! quid statis?' Iapyx<br/>
+conclamat primusque animos accendit in hostem.<br/>
+'non haec humanis opibus, non arte magistra<br/>
+proueniunt, neque te, Aenea, mea dextera seruat:<br/>
+maior agit deus atque opera ad maiora remittit.'<br/>
+ille auidus pugnae suras incluserat auro<br/>
+hinc atque hinc oditque moras hastamque coruscat.<br/>
+postquam habilis lateri clipeus loricaque tergo est,<br/>
+Ascanium fusis circum complectitur armis<br/>
+summaque per galeam delibans oscula fatur:<br/>
+'disce, puer, uirtutem ex me uerumque laborem,<br/>
+fortunam ex aliis. nunc te mea dextera bello<br/>
+defensum dabit et magna inter praemia ducet.<br/>
+tu facito, mox cum matura adoleuerit aetas,<br/>
+sis memor et te animo repetentem exempla tuorum<br/>
+et pater Aeneas et auunculus excitet Hector.'
+		</latin>
+	</section>
+	<section from="441" to="467">
+		<german>
+			Sobald er diese Worte gesprochen hatte, entfernte er sich von mächtiger Gestalt aus den Toren und schwang mit der Hand seine gewaltige Lanze; zugleich stürmten in einem dicht gedrängten Heerhaufen Antheus und Mnestheus einher, und die ganze Menge ergoss sich aus dem zurückgelassenen Lager. Dann hüllte sich das ganze Feld in blind machenden Staub, und vom Schlag der Schritte aufgeschreckt erzitterte die Erde. Vom gegenüberliegenden Hügel aus sah Turnus sie kommen, die Ausonier sahen sie, und ein kalter Schrecken fuhr ihnen tief ins Mark; vor allen hörte Juturna als erste die Latiner, sie nahm das Getöse wahr und floh eingeschüchtert. Jener eilte dahin und trieb auf offenem Feld den schwarzen Heerhaufen an. Wie wenn eine Sturmwolke, sobald schlechtes Wetter losgebrochen ist, mitten über das Meer bis zum Land vordringt (den elenden Bauern, wehe, erstarren ihre weit vorauswissenden Herzen: jene wird die Bäume niederstürzen und die Saaten verheeren, alles wird sie weithin vernichten), zuvor eilen die Winde dahin und bringen das Grollen ans Meeresufer: so trieb der rhöteische Anführer seine Truppe gegen die gegenüberstehenden Feinde, dicht gedrängt schlossen sie sich, jeder einzelne, in Keilformation fest zusammen. Thymbraeus tötete mit dem Schwert den kräftigen Osiris, Mnestheus den Arcetius, Achates metzelte Epulo nieder und Gyas Ufens; es fiel selbst der Augur Tolumnius, der als erster eine Lanze auf die gegenüberstehenden Feinde geschleudert hatte. Geschrei erhob sich zum Himmel, und die Rutuler wiederum machten kehrt und wandten sich Staub wirbelnd zur Flucht über die Felder. Er selbst wollte weder diejenigen, die sich abgekehrt hatten, töten, noch setzte er denen nach, die sich ihm fair zu Fuß stellten oder Waffen trugen: Allein nach Turnus suchte er spähend in der dichten Wolke, allein ihn forderte er zum Kampf heraus.
+		</german>
+		<latin>
+			Haec ubi dicta dedit, portis sese extulit ingens<br/>
+telum immane manu quatiens; simul agmine denso<br/>
+Antheusque Mnestheusque ruunt, omnisque relictis<br/>
+turba fluit castris. tum caeco puluere campus<br/>
+miscetur pulsuque pedum tremit excita tellus.<br/>
+uidit ab aduerso uenientis aggere Turnus,<br/>
+uidere Ausonii, gelidusque per ima cucurrit<br/>
+ossa tremor; prima ante omnis Iuturna Latinos<br/>
+audiit agnouitque sonum et tremefacta refugit.<br/>
+ille uolat campoque atrum rapit agmen aperto.<br/>
+qualis ubi ad terras abrupto sidere nimbus<br/>
+it mare per medium (miseris, heu, praescia longe<br/>
+horrescunt corda agricolis: dabit ille ruinas<br/>
+arboribus stragemque satis, ruet omnia late),<br/>
+ante uolant sonitumque ferunt ad litora uenti:<br/>
+talis in aduersos ductor Rhoeteius hostis<br/>
+agmen agit, densi cuneis se quisque coactis<br/>
+adglomerant. ferit ense grauem Thymbraeus Osirim,<br/>
+Arcetium Mnestheus, Epulonem obtruncat Achates<br/>
+Vfentemque Gyas; cadit ipse Tolumnius augur,<br/>
+primus in aduersos telum qui torserat hostis.<br/>
+tollitur in caelum clamor, uersique uicissim<br/>
+puluerulenta fuga Rutuli dant terga per agros.<br/>
+ipse neque auersos dignatur sternere morti<br/>
+nec pede congressos aequo nec tela ferentis<br/>
+insequitur: solum densa in caligine Turnum<br/>
+uestigat lustrans, solum in certamina poscit.
+		</latin>
+	</section>
+
+
+</text>
+</translation>
