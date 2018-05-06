@@ -9,19 +9,6 @@
 	
 
 <div id="container">
-	<div id="adsenseright">
-		<script type="text/javascript"><!--
-		google_ad_client = "pub-4810439247917465";
-		/* Latein-Übersetzungen, rechts */
-		google_ad_slot = "7528703289";
-		google_ad_width = 120;
-		google_ad_height = 600;
-		//-->
-		</script>
-		<script type="text/javascript"
-		src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-		</script>
-	</div>
 	<div id="pageHeader">
 		<div id="navigation">
 			<ul>
@@ -35,20 +22,7 @@
 		<a href="index.html"><h1 id="title">Romanum</h1></a>
 	</div>
 	<div id="contents">
-		<div id="adsensetop">
-			<script type="text/javascript"><!--
-			google_ad_client = "pub-4810439247917465";
-			/* Textlinks Übersetzungen, oben */
-			google_ad_slot = "0508240713";
-			google_ad_width = 728;
-			google_ad_height = 15;
-			//-->
-			</script>
-			<script type="text/javascript"
-			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-			</script>
-		</div>
-	
+
 		
 <?php
 	if (isset($_POST["author"])) {
@@ -190,19 +164,6 @@
 	</div>
 	
 	<div id="footer">
-		<div id="adsensefooter">
-		<script type="text/javascript"><!--
-			google_ad_client = "pub-4810439247917465";
-			/* Latein-Übersetzungen, im Footer */
-			google_ad_slot = "0722210191";
-			google_ad_width = 728;
-			google_ad_height = 90;
-			//-->
-		</script>
-		<script type="text/javascript"
-			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-		</script>
-		<div>
 	</div>
 </div>
 
