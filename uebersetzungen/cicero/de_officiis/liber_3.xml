@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
-
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type='text/xsl' href='../../translation.xsl'?>
 
 <translation>
 <description>
@@ -11,7 +11,8 @@
 	<firstnumber>1</firstnumber>
 	<navigation>
 		<previous url="intro.html">De Officiis Einführung</previous>
-		
+		<previous url="liber_1.xml">Liber primus</previous>
+
 	</navigation>
 </description>
 

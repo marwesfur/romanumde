@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"> 
  
-  <xsl:output method="xml"  
+  <xsl:output method="html"
     version="1.0"  
     indent="yes"  
     encoding="utf-8"  
-    media-type="text/xml"  
+    media-type="text/xml"
     doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"
     doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
     omit-xml-declaration="yes"/>  <!-- ohne das würde der EI6 in den Quirks-Mode wechseln. -->
- 
- 
+
 <!-- /////////////////////////  Variablen ///////////////////////// -->
 	<!-- Art des Textes (poetry, prose) -->
  	<xsl:variable name="texttype" select="/translation/description/textkind" />
@@ -172,10 +171,10 @@
 		<xsl:attribute name="onMouseOut">hideCommentPreview('<xsl:value-of select="$currnum"/>')</xsl:attribute> -->
 		<xsl:attribute name="id"><xsl:value-of select="$currnum"/>section</xsl:attribute>
 		
-		<div class="commentbubble">
-			<xsl:attribute name="onClick">showComments('<xsl:value-of select="$currnum"/>')</xsl:attribute>
-			<xsl:value-of select="commentcount/@value"/>
-		</div>
+		<!--<div class="commentbubble">-->
+			<!--<xsl:attribute name="onClick">showComments('<xsl:value-of select="$currnum"/>')</xsl:attribute>-->
+			<!--<xsl:value-of select="commentcount/@value"/>-->
+		<!--</div>-->
 		
         <xsl:apply-templates select="german"/> <!-- fügt deutschen Text ein -->
         <xsl:apply-templates select="latin"/> <!-- fügt lateinischen Text ein -->
