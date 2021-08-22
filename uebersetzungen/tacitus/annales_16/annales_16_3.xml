@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type='text/xsl' href='../../translation.xsl'?>
+
+<translation>
+    <description>
+        <author>Tacitus</author>
+        <title>Annales 16</title>
+        <snippet>Der Tod des Thrasea Paetus</snippet>
+        <translator>Rainer Lohmann</translator>
+        <textkind>prosa</textkind>
+        <firstnumber>30</firstnumber>
+        <navigation>
+            <previous url="intro.html">Annales Einführung</previous>
+            <previous url="annales_16_1.xml">Erster Abschnitt (Kapitel 21-23)</previous>
+            <previous url="annales_16_2.xml">Zweiter Abschnitt (Kapitel 24-29)</previous>
+        </navigation>
+    </description>
+
+    <structure>
+        <list style="list-style: decimal; visibility: hidden">
+            <item number="30">Dritter Abschnitt (Kapitel 30-35)</item>
+        </list>
+    </structure>
+
+
+    <text>
+        <section from="30" to="30">
+            <german>
+                (1) Und inzwischen betrat Ostorius Sabinus, der Ankläger des Soranus, [die Kurie] und begann über dessen Freundschaft mit Rubellius Plautus [zu sprechen] und über die Tatsache, dass Soranus sein Prokonsulat über Asien für seinen persönlichen Ruhm eher zum eigenen Vorteil als dem allgemeinen Nutzen entsprechend geführt habe, indem er städtische Aufstände gefördert habe. (2) Das waren alte Beschuldigungen: Aber ein neuer Vorwurf, durch den er die Tochter in die gefährliche Lage des Vaters hineinzog, besagte, dass sie Magiern Geld geschenkt habe. Das war wirklich geschehen aufgrund der Loyalität der Servilia (dies nämlich war der Name des Mädchens), die aus Liebe zum Vater, zugleich infolge der Unerfahrenheit ihres Alters die Magier dennoch nach nichts anderem befragt hatte als nach dem Wohlergehen ihrer Familie, ob Nero zu besänftigen sei und die Untersuchung des Senates nichts Schlimmes zutage fördern würde. (3) Also wurde sie in den Senat gerufen, und es standen einander gegenüber vor dem Amtssessel der Konsuln ein betagter Vater und auf der anderen Seite seine Tochter im zwanzigsten Lebensjahr; nach der neulichen Verbannung ihres Gatten Annius Pollio war sie verwitwet und einsam, und nicht einmal ihren Vater schaute sie an, dessen Gefährdungen sie vergrößert zu haben schien.
+            </german>
+            <latin>
+                Atque interim Ostorius Sabinus, Sorani accusator, ingreditur orditurque de amicitia Rubelli Plauti, quodque proconsulatum Asiae Soranus pro claritate sibi potius accommodatum quam ex utilitate communi egisset, alendo seditiones civitatium. vetera haec: sed recens et quo discrimini patris filiatn conectebat, quod pecuniam magis dilargita esset. acciderat sane pietate Serviliae (id enim nomen puellae fuit), quae caritate erga parentem, simul imprudentia aetatis, non tamen aliud consultaverat quam de incolumitate domus, et an placabilis Nero, an cognitio senatus nihil atrox adferret. igitur accita est in senatum, steteruntque diversi ante tribunal consulum grandis aevo parens, contra filia intra vicesimum aetatis annum, nuper marito Annio Pollione in exilium pulso viduata desolataque, ac ne patrem quidem intuens cuius onerasse pericula videbatur.
+            </latin>
+        </section>
+        <section from="31" to="31">
+            <german>
+                (1) Als dann der Ankläger fragte, ob sie ihren Brautschmuck, ob sie die vom Hals abgenommene Kette verkauft habe, um dadurch das Geld für die Durchführung der magischen Riten aufzubringen, sagte sie, zuerst auf dem Boden liegend, lange weinend und schweigend, später den Opferaltar umschließend: "Keine ruchlosen Götter habe ich angerufen, keine Verwünschungen ausgesprochen und nicht mit unheilvollen Bitten etwas anderes erbeten, als dass du, Caesar, und ihr, Senatoren, diesen besten Vater unversehrt bewahren möget. (2) So habe ich meine Geschmeide und meine Kleider, die Zeichen meiner Würde, gegeben, wie wenn man mein Blut und mein Leben verlangt hätte. Mögen diese Leute [sc. die Magier], die mir vorher unbekannt waren, sich darum kümmern, welchen Ruf sie haben, welche Geschäfte sie betreiben: Ich habe den Kaiser unter den Gottheiten erwähnt. Jedoch weiß mein unglücklichster Vater nichts, und wenn es ein Verbrechen ist, so habe ich allein mich vergangen."
+            </german>
+            <latin>
+                Tum interrogante accusatore an cultus dotalis, an detractum cervici monile venum dedisset, quo pecuniam faciendis magicis sacris contraheret, primum strata humi longoque fletu et silentio, post altaria et aram complexa 'nullos' inquit impios deos, nullas devotiones, nec aliud infelicibus precibus invocavi quam ut hunc optimum patrem tu, Caesar, vos, patres, servaretis incolumem. sic gemmas et vestis et dignitatis insignia dedi, quo modo si sanguinems et vitam poposcissent. viderint isti, antehac mihi ignoti, quo nomine sint, quas artes exerceant: nulla mihi principis mentio nisi inter numina fuit. nescit tamen miserrimus pater et, si crimen est, sola deliqui.'
+            </latin>
+        </section>
+        <section from="32" to="32">
+            <german>
+                (1) Soranus fiel ihr ins Wort, während sie noch redete, und rief laut, jene sei nicht mit ihm in die Provinz [Asien] aufgebrochen, Plautus habe sie wegen ihres [jugendlichen] Alters nicht kennen können, sie sei nicht in den Prozess gegen ihren Gatten verwickelt: Sie, die nur aus allzu starker Liebe zu ihrem Vater schuldig sei, sollten sie [aus dem Verfahren gegen ihn] herausnehmen, und er selbst solle welches Schicksal auch immer auf sich nehmen. Zugleich hätte er sich in die Umarmung mit seiner ihm entgegenlaufenden Tochter gestürzt, wenn nicht  Liktoren, die sich dazwischen warfen, beiden in den Weg getreten wären. (2) Bald wurde den Zeugen eine Gelegenheit gegeben; und in dem Maße, wie die Grausamkeit der Anklage Mitleid hervorgerufen hatte, erregte der Zeuge P. Egnatius Zorn. (3) Dieser war ein Klient des Soranus, und dann, nachdem er sich hatte bestechen lassen, um den Freund zu vernichten, trug er das Ansehen der stoischen Philosophenschule zur Schau, war er doch in Haltung und Miene darin versiert, den Schein eines Ehrenmannes zum Ausdruck zu bringen; tatsächlich aber hatte er einen verschlagenen und heimtückischen Charakter, verbarg seine Habgier und Zügellosigkeit; nachdem diese Eigenschaften durch das Bestechungsgeld aufgedeckt worden waren, gab er ein Beispiel dafür, wie man sich hüten müsse nicht nur vor Leuten, die sich in Intrigen verstricken oder sich mit Schandtaten besudeln, sondern auch vor solchen, die unter dem Deckmantel einer tugendhaften Lebensführung Heuchler und Verräter der Freundschaft sind.
+            </german>
+            <latin>
+                Loquentis adhuc verba excipit Soranus proclamatque non illam in provinciam secum profectam, non Plauto per aetatem nosci potuisse, non criminibus mariti conexam: nimiae tantum pietatis ream separarent, atque ipse quamcumque sortem subiret. simul in amplexus occurrentis filiae ruebat, nisi interiecti lictores utrisque obstitissent. mox datus testibus locus; et quantum misericordiae saevitia accusationis permoverat, tantum irae P. Egnatius testis concivit. cliens hic Sorani et tunc emptus ad opprimendum amicum auctoritatem Stoicae sectae praeferebat, habitu et ore ad exprimendam imaginem honesti exercitus, ceterum animo perfidiosus, subdolus, avaritiam ac libidinem occultans; quae postquam pecunia reclusa sunt, dedit exemplum praecavendi, quo modo fraudibus involutos aut flagitiis commaculatos, sic specie bonarum artium falsos et amicitiae fallacis.
+            </latin>
+        </section>
+        <section from="33" to="33">
+            <german>
+                (1) Dennoch brachte derselbe Tag auch das ehrenhafte Beispiel des Cassius Asclepiodotus hervor, der durch die Größe seines Reichtums unter den Bithyniern einflussreich war und Soranus mit dem Gehorsam, mit dem er ihn im Glück gerühmt hatte, [auch] im Unglück nicht verließ: Seines ganzen Vermögens wurde er beraubt und verbannt, ein Beweis für die Gleichgültigkeit der Götter gegenüber guten und schlechten Taten. (2) Thrasea, Soranus und Servilia wurde die freie Wahl der Todesart gewährt; Helvidius und Paconius wurden aus Italien verbannt, Montanus seinem Vater zuliebe begnadigt, mit der Maßgabe, dass er sich nicht politisch betätige. Den Anklägern Eprius und Cossutianus wurden je 5 Millionen Sesterze, dem Ostorius 1,2 Millionen Sesterze und die Insignien eines Quästors zugestanden.
+            </german>
+            <latin>
+                Idem tamen dies et honestum exemplum tulit Cassii Asclepiodoti, qui magnitudine opum praecipuus inter Bithynos, quo obsequio florentem Soranum celebraverat, labantem non deseruit, exutusque omnibus fortunis et in exilium actus, aequitate deum erga bona malaque documenta. Thraseae Soranoque et Serviliae datur mortis arbitrium; Helvidius et Paconius Italia depelluntur; Montanus patri concessus est, praedicto ne in re publica haberetur. accusatoribus Eprio et Cossutiano quinquagies sestertium singulis, Ostorio duodecies et quaestoria insignia tribuuntur.
+            </latin>
+        </section>
+        <section from="34" to="34">
+            <german>
+                (1) Dann, als es schon Abend wurde, schickte man einen Quästor des Konsuls zu Thrasea, der sich in seinen Gärten aufhielt. Eine zahlreich besuchte Versammlung angesehener Männer und Frauen hatte er bei sich zusammengeführt, wobei er Demetrius volle Aufmerksamkeit schenkte, einem Lehrer der kynischen Schule, mit dem er sich – wie aufgrund ihres angespannten Gesichtsausdrucks und der gehörten Worte, wenn sie sich mit lauterer Stimme äußerten, zu vermuten war – über die Natur der Seele und die Trennung von Geist und Körper unterhielt, bis Domitius Caecilianus, einer seiner vertrautesten Freunde, eintraf und ihm den Beschluss des Senates darlegte. (2) Also forderte Thrasea die Weinenden und heftig Klagenden, die anwesend waren, auf, sich schnell zu entfernen und nicht ihre eigene gefährdete Lage durch Teilnahme am Los eines Verurteilten zu verschlimmern, und Arria, die versuchte, dem Tod ihres Mannes und dem Beispiel ihrer Mutter Arria zu folgen, ermahnte er, am Leben zu bleiben und der gemeinsamen Tochter die einzige Hilfe nicht zu nehmen.
+            </german>
+            <latin>
+                Tum ad Thraseam in hortis agentem quaestor consulis missus vesperascente iam die. inlustrium virorum feminarumque coetus frequentis egerat, maxime intentus Demetrio Cynicae institutionis doctori, cum quo, ut coniectare erat intentione vultus et auditis, si qua clarius proloquebantur, de natura animae et dissociatione spiritus corporisque inquirebat, donec advenit Domitius Caecilianus ex intimis amicis et ei quid senatus censuisset exposuit. igitur flentis queritantisque qui aderant facessere propere Thrasea neu pericula sua miscere cum sorte damnati hortatur, Arriamque temptantem mariti suprema et exemplum Arriae matris sequi monet retinere vitam filiaeque communi subsidium unicum non adimere.
+            </latin>
+        </section>
+        <section from="35" to="35">
+            <german>
+                (1) Dann ging er in die Säulenhalle und wurde dort von dem Quästor gefunden, eher in freudiger Stimmung, weil er wusste, dass sein Schwiegersohn Helvidius nur aus Italien verbannt wurde. Als er sodann den Senatsbeschluss erhalten hatte, führte er Helvidius und Demetrius in sein Schlafzimmer; die Adern beider Arme hielt er [dem Arzt] hin, und nachdem er Blut vergossen hatte, besprengte er damit den Boden, rief den Quästor näher herbei und sagte: "Wir bringen dem Befreier Jupiter ein Trankopfer dar. Schau her, junger Mann; ein schlechtes Vorzeichen mögen die Götter verhindern, doch bist du für die Zeiten geboren, in denen es nützlich ist, den Geist zu stärken durch Beispiele von Standhaftigkeit." (2) Danach, als das langsame Hinscheiden starke Schmerzen mit sich brachte, wandte er sich Demetrius zu ***
+            </german>
+            <latin>
+                Tum progressus in porticum illic a quaestore reperitur, laetitiae propior, quia Helvidium generum suum Italia tantum arceri cognoverat. accepto dehinc senatus consulto Helvidium et Demetrium in cubiculum inducit; porrectisque utriusque brachii venis, postquam cruorem effudit, humum super spargens, propius vocato quaestore 'libamus' inquit 'Iovi liberatori specta, invenis; et omen quidem dii prohibeant, ceterum in ea tempora natus es quibus firmare animum expediat constantibus exemplis.' post lentitudine exitus gravis cruciatus adferente, obversis in Demetrium ***
+            </latin>
+        </section>
+
+    </text>
+</translation>

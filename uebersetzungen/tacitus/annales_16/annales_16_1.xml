@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type='text/xsl' href='../../translation.xsl'?>
+
+<translation>
+    <description>
+        <author>Tacitus</author>
+        <title>Annales 16</title>
+        <snippet>Der Tod des Thrasea Paetus</snippet>
+        <translator>Rainer Lohmann</translator>
+        <textkind>prosa</textkind>
+        <firstnumber>21</firstnumber>
+        <navigation>
+            <previous url="intro.html">Annales Einführung</previous>
+            <next url="annales_16_2.xml">Zweiter Abschnitt (Kapitel 24-29)</next>
+            <next url="annales_16_3.xml">Dritter Abschnitt (Kapitel 30-35)</next>
+        </navigation>
+    </description>
+
+    <structure>
+        <list style="list-style: decimal; visibility: hidden">
+            <item number="21">Erster Abschnitt (Kapitel 21-23)</item>
+        </list>
+    </structure>
+
+
+    <text>
+        <section from="21" to="21">
+            <german>
+                (1) Nachdem so viele ausgezeichnete Männer ermordet worden waren, war Nero zuletzt begierig danach, die
+                Tugend selbst zu vernichten, dadurch dass er Thrasea Paetus und Barea Soranus töten ließ, war er doch
+                seit langem beiden gegenüber feindselig eingestellt und traten bei Thrasea noch Gründe hinzu, dass er
+                den Senat verließ, als über Agrippina berichtet wurde, wie ich erwähnt habe, und bei den Iuvenalia zu
+                wenig Aufmerksamkeit gezeigt hatte; und diese Beleidigung drang um so tiefer in ihn ein, weil derselbe
+                Thrasea in Patavium, wo er geboren war, anlässlich der sogenannten Fischerspiele, die vom Trojaner
+                Antenor eingeführt worden waren, als tragischer Schauspieler gesungen hatte. (2) Auch an dem Tag, an dem
+                der Prätor Antistes wegen der gegen Nero verfassten Schmähgedichte zum Tod verurteilt wurde, beantragte
+                er eine mildere Bestrafung und setzte sie durch; und als göttliche Ehren für Poppaea beschlossen wurden,
+                hatte er, absichtlich abwesend, nicht an der Begräbnisfeier teilgenommen. (3) Dass dieses vergessen
+                wurde, ließ Capito Cossutianus nicht zu, der abgesehen von seinem zu Verbrechen schnell bereiten
+                Charakter Thrasea abgeneigt war: Dieser unterstützte, weil er durch dessen [sc. Capitos] Einfluss vor
+                Gericht unterlegen war, die Gesandten der Kilikier, als sie Capito wegen Erpressung anklagten.
+            </german>
+            <latin>
+                Trucidatis tot insignibus viris ad postremum Nero virtutem ipsam excindere concupivit interfecto Thrasea
+                Paeto et Barea Sorano, olim utrisque infensus et accedentibus causis in Thraseam, quod senatu egressus
+                est cum de Agrippina referretur, ut memoravi, quodque Iuvenalium ludicro parum spectabilem operam
+                praebuerat; eaque offensio altius penetrabat, quia idem Thrasea Patavi, unde ortus erat, ludis
+                +cetastis+ a Troiano Antenore institutis habitu tragico cecinerat. die quoque quo praetor Antistius ob
+                probra in Neronem composita ad mortem damnabatur, mitiora censuit obtinuitque; et cum deum honores
+                Poppaeae decernuntur sponte absens, funeri non interfuerat. quae oblitterari non sinebat Capito
+                Cossutianus, praeter animum ad flagitia praecipitem iniquus Thraseae quod auctoritate eius concidisset,
+                iuvantis Cilicum legatos dum Capitonem repetundarum interrogant.
+            </latin>
+        </section>
+
+        <section from="22" to="22">
+            <german>
+                (1) Ja sogar jene Vorwürfe richtete er gegen Thrasea: Er meide zu Beginn des Jahres den feierlichen
+                Treueid; der Darbringung von Gebeten wohne er nicht bei, obwohl er das Priesteramt der Quindecimviri
+                bekleide; niemals habe er für das Wohl des Kaisers oder für dessen himmlische Stimme geopfert; einst
+                eifrig und unermüdlich [damit beschäftigt], auch bei den gewöhnlichen Beratungen der Senatoren als
+                Befürworter oder Gegner aufzutreten, habe er seit drei Jahren die Kurie nicht betreten, und noch vor
+                Kurzem, als man wetteifernd zusammenströmte, um Silanus und Vetus zu bestrafen, habe er sich lieber für
+                die privaten Angelegenheiten seiner Klienten Zeit gelassen. (2) Dieses Verhalten bedeute bereits
+                Absonderung und Parteilichkeit und, wenn viele dasselbe wagten, Krieg. "Wie einst über C. Caesar", sagte
+                er, "und M. Cato, so spricht jetzt über dich, Nero, und über Thrasea eine auf Streitigkeiten versessene
+                Bürgerschaft. Auch hat er Anhänger oder vielmehr Spießgesellen, die zwar noch nicht seine
+                Unnachgiebigkeit bei Anträgen [im Senat], aber sein Gehabe und seinen Gesichtsausdruck nachäffen –
+                unerbittliche und grimmige Menschen –, um dir dadurch einen ausschweifenden Lebenswandel vorwerfen zu
+                können. (3) Er allein kümmert sich nicht um dein Wohlbefinden, deinen Künsten erweist er keine Achtung.
+                Die Erfolge des Kaisers weist er zurück; wird er etwa nicht einmal durch Trauer und Schmerzen
+                befriedigt? Poppaea nicht für göttlich zu halten, zeugt von der gleichen Gesinnung wie auf die
+                Verfügungen des göttlichen Augustus und des göttlichen Iulius nicht zu schwören. Er schätzt die
+                kultischen Bräuche gering, er will die Gesetze abschaffen. Die Tagesberichte des römischen Volkes werden
+                in den Provinzen und in den Heeren sorgfältiger gelesen, damit man erkennt, was Thrasea nicht getan hat.
+                (4) Lasst uns entweder zu jenen Einrichtungen [der Republik], wenn sie besser sind, überwechseln, oder
+                es soll denjenigen, die einen Umsturz wünschen, ihr Anführer und Anstifter genommen werden. Diese Sekte
+                [der Stoiker] hat Leute wie Tubero und Favonius hervorgebracht, Namen, die auch im alten Staat unbeliebt
+                waren. Um die Herrschaft [sc. der Kaiser] zu stürzen, tragen sie die Freiheit zur Schau: Wenn sie jene
+                gestürzt haben, werden sie die Freiheit selbst angreifen. (5) Vergeblich hast du Cassius verbannt, falls
+                du es zulassen wirst, dass die Nacheiferer der Brutier zunehmen und angesehen sind. Schreibe schließlich
+                nichts selbst über Thrasea [an den Senat]: Überlasse uns den Senat als Richter." (6) Die zornige
+                Entschlossenheit des Cossutianus fachte Nero an und gab Marcellus Eprius, einen Mann von bissiger
+                Beredsamkeit, [zur Unterstützung der Anklage] hinzu.
+            </german>
+            <latin>
+                Quin et illa obiectabat, principio anni vitare Thraseam sollemne ius iurandum; nuncupationibus votorum
+                non adesse, quamvis quindecimvirali sacerdotio praeditum; numquam pro salute principis aut caelesti voce
+                immolavisse; adsiduum olim et indefessum, qui vulgaribus quoque patrum consultis semet fautorem aut
+                adversarium ostenderet, triennio non introisse curiam; nuperrimeque, cum ad coercendos Silanum et
+                Veterem certatim concurreretur, privatis potius clientium negotiis vacavisse. secessionem iam id et
+                partis et, si idem multi audeant, bellum esse. 'ut quondam C. Caesarem' inquit 'et M. Catonem, ita nunc
+                te, Nero, et Thraseam avida discordiarum civitas loquitur. et habet sectatores vel potius satellites,
+                qui nondum contumaciam sententiarum, sed habitum vultumque eius sectantur, rigidi et tristes, quo tibi
+                lasciviam exprobrent. huic uni incolumitas tua sine cura, artes sine honore. prospera principis respuit:
+                etiamne luctibus et doloribus non satiatur? eiusdem animi est Poppaeam divam non credere, cuius in acta
+                divi Augusti et divi Iuli non iurare. spernit religiones, abrogat leges. diurna populi Romani per
+                provincias, per exercitus curatius leguntur, ut noscatur quid Thrasea non fecerit. aut transeamus ad
+                illa instituta, si potiora sunt, aut nova cupientibus auferatur dux et auctor. ista secta Tuberones et
+                Favonios, veteri quoque rei publicae ingrata nomina, genuit. ut imperium evertant libertatem praeferunt:
+                si perverterint, libertatem ipsam adgredientur. frustra Cassium amovisti, si gliscere et vigere Brutorum
+                aemulos passurus es. denique nihil ipse de Thrasea scripseris: disceptatorem senatum nobis relinque.'
+                extollit ira promptum Cossutiani animum Nero adicitque Marcellum Eprium acri eloquentia.
+            </latin>
+        </section>
+        <section from="23" to="23">
+            <german>
+                (1) Aber Ostorius Sabinus, ein römischer Ritter, hatte schon Barea Soranus infolge seines Prokonsulates
+                in Asien angeklagt, während dessen seine Gerechtigkeit und Tatkraft die Ungnade des Kaisers vermehrten,
+                und weil er für die Öffnung des Hafens der Epheser Mühe aufgewandt und die Gewaltanwendung der
+                Bürgerschaft von Pergamon, die verhinderte, dass Acratus, ein Freigelassener des Kaisers, Statuen und
+                Gemälde fortschaffte, ungestraft gelassen hatte. Aber es wurden ihm seine Freundschaft mit Plautus und
+                sein eifriges Bestreben, die Provinz durch einen Umsturz für sich zu gewinnen, zum Vorwurf gemacht. (2)
+                Als Zeitpunkt für die Verurteilung wurde die Anreise des Tiridates zum Empfang der Königsherrschaft über
+                Armenien ausgemacht, damit durch die Aufmerksamkeit für die Außenpolitik das Verbrechen im Innern in den
+                Hintergrund trete oder damit er [sc. Nero] seine kaiserliche Größe durch die Ermordung hervorragender
+                Männer gleichsam mittels einer Despotentat zeigen könne.
+            </german>
+            <latin>
+                At Baream Soranum iam sibi Ostorius Sabinus eques Romanus poposcerat reum ex proconsulatu Asiae, in quo
+                offensiones principis auxit iustitia atque industria, et quia portui Ephesiorum aperiendo curam
+                insumpserat vimque civitatis Pergamenae prohibentis Acratum, Caesaris libertum, statuas et picturas
+                evehere inultam omiserat. sed crimini dabatur amicitia Plauti et ambitio conciliandae provinciae ad spes
+                novas. tempus damnationi delectum, quo Tiridates accipiendo Armeniae regno adventabat, ut ad externa
+                rumoribus intestinum scelus obscuraretur, an ut magnitudinem imperatoriam caede insignium virorum quasi
+                regio facinore ostentaret.
+            </latin>
+        </section>
+    </text>
+</translation>

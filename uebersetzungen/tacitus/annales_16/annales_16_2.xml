@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type='text/xsl' href='../../translation.xsl'?>
+
+<translation>
+    <description>
+        <author>Tacitus</author>
+        <title>Annales 16</title>
+        <snippet>Der Tod des Thrasea Paetus</snippet>
+        <translator>Rainer Lohmann</translator>
+        <textkind>prosa</textkind>
+        <firstnumber>24</firstnumber>
+        <navigation>
+            <previous url="intro.html">Annales Einführung</previous>
+            <previous url="annales_16_1.xml">Erster Abschnitt (Kapitel 21-23)</previous>
+            <next url="annales_16_3.xml">Dritter Abschnitt (Kapitel 30-35)</next>
+        </navigation>
+    </description>
+
+    <structure>
+        <list style="list-style: decimal; visibility: hidden">
+            <item number="24">Zweiter Abschnitt (Kapitel 24-29)</item>
+        </list>
+    </structure>
+
+
+    <text>
+        <section from="24" to="24">
+            <german>
+                (1) Nachdem also die ganze Bürgerschaft hinausgeströmt war, um den Kaiser in Empfang zu nehmen und den
+                König anzuschauen, ließ Thrasea, obwohl man ihn von dem Zusammentreffen ferngehalten hatte, den Mut
+                nicht sinken, sondern er verfasste ein Schreiben an Nero, in dem er sich nach den Vorwürfen erkundigte
+                und versicherte, er werde sie entkräften, wenn er Kenntnis von den Beschuldigungen und die Möglichkeit
+                habe, sie zu widerlegen. (2) Dieses Schreiben nahm Nero eilends entgegen in der Hoffnung, Thrasea habe
+                aufgeschreckt Worte geschrieben, durch die er die Berühmtheit des Kaisers hervorheben und seinen eigenen
+                Ruf schänden wolle. Als dieses nicht eintrat und er obendrein den offenen Blick, das Selbstbewusstsein
+                und den Freimut des Unschuldigen sehr fürchtete, ließ er die Senatoren rufen.
+            </german>
+            <latin>
+                Igitur omni civitate ad excipiendum principem spectandumque regem effusa, Thrasea occursu prohibitus non
+                demisit animum, sed codicillos ad Neronem composuit, requirens obiecta et expurgaturum adseverans, si
+                notitiam criminum et copiam diluendi habuisset. eos codicillos Nero properanter accepit, spe exterritum
+                Thraseam scripsisse, per quae claritudinem principis extolleret suamque famam dehonestaret. quod ubi non
+                evenit vultumque et spiritus et libertatem insontis ultro extimuit, vocari patres iubet.
+            </latin>
+        </section>
+        <section from="25" to="25">
+            <german>
+                (1) Dann beriet Thrasea unter seinen nächsten Freunden, ob er eine Verteidigung versuchen oder für unter
+                seiner Würde halten solle. Verschiedene Ratschläge wurden vorgebracht. Diejenigen, die vorschlugen, dass
+                die Kurie von Thrasea betreten werden solle, äußerten, sie seien ohne Sorgen wegen seiner
+                Charakterfestigkeit; nichts werde er sagen, nur das, wodurch er seinen Ruhm mehre. (2) Träge und
+                ängstliche Menschen gäben sich in privater Abgeschiedenheit selbst den Tod; das Volk solle den Mann
+                genau betrachten, der dem Tod entgegengehe, der Senat solle Worte wie von einem göttlichen Wesen
+                vernehmen, menschliche Rede übertreffend: Gerade durch ein solches Wunder könne sogar Nero umgestimmt
+                werden; wenn er aber bei seiner Grausamkeit bleibe, werde sicherlich bei der Nachwelt die Erinnerung an
+                ein ehrenhaftes Ende von der Feigheit derer unterschieden, die in Stille zugrunde gehen.
+            </german>
+            <latin>
+                Tum Thrasea inter proximos consultavit, temptaretne defensionem an sperneret. diversa consilia
+                adferebantur. quibus intrari curiam placebat, securos esse de constantia eius disserunt; nihil dicturum
+                nisi quo gloriam augeret. segnis et pavidos supremis suis secretum circumdare: aspiceret populus virum
+                morti obvium, audiret senatus voces quasi ex aliquo numine supra humanas: posse ipso miraculo etiam
+                Neronem permoveri: sin crudelitati insisteret, distingui certe apud posteros memoriam honesti exitus ab
+                ignavia per silentium pereuntium.
+            </latin>
+        </section>
+        <section from="26" to="26">
+            <german>
+                (1) Dagegen äußerten diejenigen, die meinten, er müsse zu Hause abwarten, dasselbe über Thrasea
+                persönlich, aber ihm drohten Spott und schimpfliche Behandlung: Er solle seine Ohren den Schmähungen und
+                Beleidigungen entziehen. (2) Nicht nur Cossutianus oder Eprius seien zu einem Verbrechen bereit; es
+                seien reichlich [Senatoren] vorhanden, die ihm möglicherweise in ihrer Grausamkeit Handgreiflichkeiten
+                und Schläge zufügen würden; auch ehrenhafte [Senatoren] schlössen sich aus Furcht an. Lieber solle er
+                dem Senat, den er besonders ausgezeichnet habe, die Schmach einer so großen Schandtat ersparen und es
+                dahingestellt sein lassen, was die Senatoren bei einem persönlichen Auftreten Thraseas als eines
+                Angeklagten beschließen würden. (3) Dass Nero Scheu vor Schandtaten ergreife, erwäge man in vergeblicher
+                Hoffnung; vielmehr müsse man befürchten, dass er gegen seine Frau, gegen seine Tochter und gegen seine
+                übrigen Angehörigen wüte. Daher solle er unberührt und unbefleckt gemäß dem glorreichen Verhalten
+                derjenigen, nach deren Richtlinien und Lehren er sein Leben geführt habe, den Tod suchen. (4) Bei der
+                Beratung war Rusticus Arulenus zugegen, ein hitziger junger Mann, und er erklärte sich aus Verlangen
+                nach Lob bereit, gegen den Senats-beschluss Einspruch zu erheben: Denn er war ein Volkstribun. (5)
+                Dessen Ungestüm zügelte Thrasea: Nicht solle er das, was sinnlos, für einen Angeklagten nutzlos und für
+                einen, der Einspruch erhebt, verderblich sei, beginnen. Er [sc. Thrasea] habe sein Leben gelebt, und die
+                so viele Jahre hindurch beständig innegehaltene Lebensführung dürfe nicht aufgegeben werden: Jener [sc.
+                Arulenus] stehe am Beginn seiner politischen Karriere und seine Zukunft sei unbelastet. Zuvor solle er
+                gründlich für sich überlegen, welchen Weg für seine weitere politische Laufbahn er in einer solch
+                schweren Zeit beschreiten werde. Im Übrigen behielt er es selbst seiner Entscheidung vor, ob es
+                angebracht sei, in den Senat zu kommen.
+            </german>
+            <latin>
+                Contra qui opperiendum domi censebant, de ipso Thrasea eadem, sed ludibria et contumelias imminere:
+                subtraheret auris conviciis et probris. non solum Cossutianum aut Eprium ad scelus promptos: superesse
+                qui forsitan manus ictusque per immanitatem ausuri sint; etiam bonos metu sequi. detraheret potius
+                senatui quem perornavisset infamiam tanti flagitii et relinqueret incertum quid viso Thrasea reo
+                decreturi patres fuerint. ut Neronem flagitiorum pudor caperet inrita spe agitari; multoque magis
+                timendum ne in coniugem, in filiam, in cetera pignora eius saeviret. proinde intemeratus, impollutus,
+                quorum vestigiis et studiis vitam duxerit, eorum gloria peteret finem. aderat consilio Rusticus
+                Arulenus, flagrans iuvenis, et cupidine laudis offerebat se intercessurum senatus consulto: nam plebei
+                tribunus erat. cohibuit spiritus eius Thrasea ne vana et reo non profutura, intercessori exitiosa
+                inciperet. sibi actam aetatem, et tot per annos continuum vitae ordinem non deserendum: illi initium
+                magistratuum et integra quae supersint. multum ante secum expenderet quod tali in tempore capessendae
+                rei publicae iter ingrederetur. ceterum ipse an venire in senatum deceret meditationi suae reliquit.
+            </latin>
+        </section>
+        <section from="27" to="27">
+            <german>
+                (1) Aber am folgenden Tag besetzten zwei bewaffnete Leibwachen des Kaisers den Tempel der Venus
+                Genetrix. Den Zugang zum Senat hatte eine Schar zivil gekleideter Soldaten mit deutlich erkennbaren
+                Schwertern in Besitz genommen, und über die Foren und Basiliken verteilten sich keilförmige Formationen
+                von Soldaten. Unter deren drohenden Mienen betraten die Senatoren die Kurie, die Rede des Kaisers fand
+                durch dessen Quästor Gehör: (2) Ohne dass jemand namentlich angesprochen wurde, beschuldigte er die
+                Senatoren, dass sie ihre öffentlichen Amtspflichten vernachlässigten und sich nach ihrem Beispiel
+                römische Ritter der Nachlässigkeit zuwendeten. Was Wunder also, wenn man aus den entfernten Provinzen
+                nicht [nach Rom] komme, da die meisten [Senatoren], nachdem sie Konsulat und Priesterämter erlangt
+                hätten, sich lieber um die anmutige Gestaltung ihrer Gärten kümmerten? Diese [Worte] griffen die
+                Ankläger wie eine Waffe auf.
+            </german>
+            <latin>
+                At postera luce duae praetoriae cohortes armatae templum Genetricis Veneris insedere; aditum senatus
+                globus togatorum obsederat non occultis gladiis, dispersique per fora ac basilicas cunei militares.
+                inter quorum aspectus et minas ingressi curiam senatores, et oratio principis per quaestorem eius audita
+                est: nemine nominatim compellato patres arguebat quod publica munia desererent eorumque exemplo equites
+                Romani ad segnitiam verterentur: etenim quid mirum e longinquis provinciis haud veniri, cum plerique
+                adepti consulatum et sacerdotia hortorum potius amoenitati inservirent. quod velut telum corripuere
+                accusatores.
+            </latin>
+        </section>
+        <section from="28" to="28">
+            <german>
+                (1) Den Anfang machte Cossutianus; mit noch größerer Stärke rief Marcellus laut aus, die Existenz des
+                Staates stehe auf dem Spiel; durch den Eigensinn der Untertanen werde die Milde des Kaisers geschmälert.
+                Allzu nachsichtig seien die Senatoren bis heute, da sie zuließen, dass Thrasea, der abtrünnig werde,
+                dass sein Schwiegersohn Helvidius Priscus in derselben aufrührerischen Gesinnung, dass zugleich Paconius
+                Agrippinus, der Erbe des väterlichen Hasses auf die Kaiser, und Curtius Montanus, der abscheuliche
+                Lieder schreibe, ungestraft ihren Spott trieben. (2) Er vermisse im Senat einen Konsular, bei den
+                Gebeten einen Priester, bei der Eidesleistung einen Bürger, ganz abgesehen davon, dass Thrasea
+                öffentlich den Einrichtungen und religiösen Handlungen zum Trotz die Rolle eines Verräters und Feindes
+                gespielt habe. Er solle doch endlich einmal den Senator spielen und kommen, sei er es doch gewohnt, die
+                Tadler des Kaisers zu schützen; er solle seine Meinung sagen, was er verbessert oder verändert wissen
+                wolle: Leichter sei es für [die Senatoren], ihn zu ertragen, wenn er über konkrete Einzelheiten
+                schimpfe, als jetzt das Schweigen desjenigen auszuhalten, der alles verurteile. (3) Missfalle jenem der
+                Friede auf dem Erdkreis oder die Siege der Heere ohne Verluste? Nicht sollten sie einen Menschen, der
+                über das Wohlergehen des Staates traurig sei, der Foren, Theater und Tempel als eine Wüste betrachte,
+                der mit seiner freiwilligen Selbstverbannung drohe, in den Genuss seines verkehrten Ehrgeizes kommen
+                lassen. In seinen Augen gebe es keine Senatsbeschlüsse, keine Beamten, keine Stadt Rom. Er solle sein
+                Leben von dieser Gemeinschaft losreißen, deren Wertschätzung er schon längst und dessen Anblick er jetzt
+                aufgegeben habe.
+            </german>
+            <latin>
+                Et initium faciente Cossutiano, maiore vi Marcellus summam rem publicam agi clamitabat; contumacia
+                inferiorum lenitatem imperitantis deminui. nimium mitis ad eam diem patres, qui Thraseam desciscentem,
+                qui generum eius Helvidium Priscum in isdem furoribus, simul Paconium Agrippinum, paterni in principes
+                odii heredem, et Curtium Montanum detestanda carmina factitantem eludere impune sinerent. requirere se
+                in senatu consularem, in votis sacerdotem, in iure iurando civem, nisi contra instituta et caerimonias
+                maiorum proditorem palam et hostem Thrasea induisset. denique agere senatorem et principis obtrectatores
+                protegere solitus veniret, censeret quid corrigi aut mutari vellet: facilius perlaturos singula
+                increpantem quam nunc silentium perferrent omnia damnantis. pacem illi per orbem terrae, an victorias
+                sine damno exercituum displicere? ne hominem bonis publicis maestum, et qui fora theatra templa pro
+                solintdine haberet, qui minitaretur exilium suum, ambitionis pravae compotem facerent. non illi consulta
+                haec, non magistratus aut Romanam urbem videri. abrumperet vitam ab ea civitate cuius caritatem olim,
+                nunc et aspectum exuisset.
+            </latin>
+        </section>
+        <section from="29" to="29">
+            <german>
+                (1) Als Marcellus bei diesen und ähnlichen Worten, fanatisch und drohend wie er war, in Ton, Miene und
+                Blick Flammen sprühte, zeigte sich nicht nur jene bekannte Traurigkeit des Senates, an die man sich
+                infolge der Häufigkeit der Gefahren schon gewöhnt hatte, sondern auch eine neue und tief sitzende Angst
+                befiel die Senatoren, als sie die Hände und Waffen der Soldaten sahen. (2) Zugleich schwebte ihnen das
+                verehrungswürdige Bild Thraseas selbst vor; und es gab welche, die auch Helvidius bedauerten, da er für
+                seine unverschuldete Verwandtschaft bestraft werde. Was sei Agrippinus vorgeworfen worden außer dem
+                traurigen Schicksal seines Vaters, weil auch jener gleichermaßen unschuldig durch die Grausamkeit des
+                Tiberius umgekommen sei. Ja sogar Montanus, ein anständiger junger Mann, der keine anrüchigen Gedichte
+                geschrieben habe, werde, weil er seine Begabung gezeigt habe, aus dem Land gejagt.
+            </german>
+            <latin>
+                Cum per haec atque talia Marcellus, ut erat torvus ac minax, voce vultu oculis ardesceret, non illa nota
+                et celebritate periculorum sueta iam senatus maestitia, sed novus et altior pavor manus et tela militum
+                cernentibus. simul ipsius Thraseae venerabilis species obversabatur; et erant qui Helvidium quoque
+                miserarentur, innoxiae adfinitatis poenas daturum. quid Agrippino obiectum nisi tristem patris fortunam,
+                quando et ille perinde innocens Tiberii saevitia concidisset. enimvero Montanum probae iuventae neque
+                famosi carminis, quia protulerit ingenium, extorrem agi.
+            </latin>
+        </section>
+    </text>
+</translation>
